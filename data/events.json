@@ -1,0 +1,723 @@
+{
+  "generatedAt": "2026-06-04T18:30:00+08:00",
+  "notice": "資料只收錄公開來源可驗證事件；不代表即時位置，也不收私人會面推測。",
+  "person": {
+    "name": "黃仁勳",
+    "title": "NVIDIA 創辦人暨執行長"
+  },
+  "events": [
+    {
+      "id": "2026-gtc-taipei-computex",
+      "date": "2026-06-01",
+      "time": "11:00",
+      "city": "台北",
+      "country": "台灣",
+      "venue": "Taipei Music Center",
+      "type": "公開主題演講",
+      "status": "confirmed",
+      "confidence": 88,
+      "privacy": "public-only",
+      "headline": "GTC Taipei / COMPUTEX 2026 主題演講",
+      "summary": "COMPUTEX 主辦方公告黃仁勳於 COMPUTEX 2026 期間發表主題演講；媒體亦在台北音樂中心現場報導。",
+      "businessImpact": "台北場強化 NVIDIA 與台灣 AI 供應鏈、伺服器製造與資料中心生態的連結，適合觀察台灣代工、散熱、電源與 AI 伺服器鏈的後續公開合作訊號。",
+      "industries": ["AI 基礎建設", "資料中心", "台灣供應鏈"],
+      "watchlist": ["NVIDIA", "COMPUTEX / TAITRA", "台灣 AI 伺服器供應鏈"],
+      "mentionedCompanies": ["NVIDIA", "Apple", "Intel", "Qualcomm", "AMD"],
+      "companies": [
+        {
+          "name": "NVIDIA",
+          "executives": ["黃仁勳"],
+          "relationship": "官方公開主題演講"
+        },
+        {
+          "name": "COMPUTEX / TAITRA",
+          "executives": ["未指名高層"],
+          "relationship": "公開活動主辦單位"
+        }
+      ],
+      "sources": [
+        {
+          "label": "COMPUTEX 2026 keynote 公告",
+          "url": "https://www.computextaipei.com.tw/en/news/5F511A9E6A5A8E05/info.html?cr=8&lt=data",
+          "publisher": "COMPUTEX",
+          "sourceType": "官方"
+        },
+        {
+          "label": "現場觀看資訊與時間",
+          "url": "https://www.tomshardware.com/tech-industry/nvidia-keynote-computex-2026-gtc-taipei-where-to-watch",
+          "publisher": "Tom's Hardware",
+          "sourceType": "媒體"
+        }
+      ]
+    },
+    {
+      "id": "2026-dell-technologies-world",
+      "date": "2026-05-19",
+      "time": "09:00",
+      "city": "拉斯維加斯",
+      "country": "美國",
+      "venue": "Dell Technologies World",
+      "type": "公開同台",
+      "status": "confirmed",
+      "confidence": 78,
+      "privacy": "public-only",
+      "headline": "Dell Technologies World 公開同台",
+      "summary": "媒體報導黃仁勳於 Michael Dell 開場主題演講中以嘉賓身分出席，討論 Dell AI Factory with NVIDIA 與 agentic AI。",
+      "businessImpact": "Dell 與 NVIDIA 同台通常指向企業 AI 基礎建設、AI Factory、伺服器與企業導入路線，適合追蹤企業端 AI 需求是否從雲端擴散到私有資料中心。",
+      "industries": ["企業 AI", "AI 伺服器", "私有雲"],
+      "watchlist": ["Dell Technologies", "NVIDIA", "企業 AI Factory"],
+      "mentionedCompanies": ["Dell Technologies", "NVIDIA"],
+      "companies": [
+        {
+          "name": "Dell Technologies",
+          "executives": ["Michael Dell"],
+          "relationship": "公開主題演講嘉賓同台"
+        },
+        {
+          "name": "NVIDIA",
+          "executives": ["黃仁勳"],
+          "relationship": "公開合作夥伴互動"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Dell Technologies World 2026 公開同台報導",
+          "url": "https://www.itpro.com/technology/artificial-intelligence/now-we-have-for-the-very-first-time-useful-ai-jensen-huang-and-michael-dell-talk-up-the-power-of-agentic-ai-at-dell-technologies-world-2026",
+          "publisher": "ITPro",
+          "sourceType": "媒體"
+        }
+      ]
+    },
+    {
+      "id": "2026-gtc-san-jose",
+      "date": "2026-03-16",
+      "time": "11:00",
+      "city": "聖荷西",
+      "country": "美國",
+      "venue": "SAP Center",
+      "type": "公開主題演講",
+      "status": "confirmed",
+      "confidence": 91,
+      "privacy": "public-only",
+      "headline": "GTC 2026 主題演講",
+      "summary": "NVIDIA 投資人關係頁與 GTC 官方頁列出 GTC 2026 於聖荷西舉行，黃仁勳於 3 月 16 日在 SAP Center 發表 keynote。",
+      "businessImpact": "GTC 是 NVIDIA 年度技術與平台節奏的核心訊號，通常用來觀察 GPU、網路、軟體平台、開發者生態與大型客戶案例的下一階段方向。",
+      "industries": ["GPU", "AI 平台", "開發者生態"],
+      "watchlist": ["NVIDIA", "GTC 生態系", "AI 加速器供應鏈"],
+      "companies": [
+        {
+          "name": "NVIDIA",
+          "executives": ["黃仁勳"],
+          "relationship": "官方公開主題演講"
+        }
+      ],
+      "sources": [
+        {
+          "label": "GTC 2026 keynote 時間",
+          "url": "https://investor.nvidia.com/events-and-presentations/events-and-presentations/event-details/2026/GTC-2026-Keynote-2026-HhZOL0SIV4/default.aspx",
+          "publisher": "NVIDIA Investor Relations",
+          "sourceType": "官方"
+        },
+        {
+          "label": "GTC 2026 會議與地點",
+          "url": "https://www.nvidia.com/gtc/?nvid=nv-int-bnr-882000",
+          "publisher": "NVIDIA GTC",
+          "sourceType": "官方"
+        }
+      ]
+    },
+    {
+      "id": "2026-ces-las-vegas",
+      "date": "2026-01-05",
+      "time": "18:30",
+      "city": "拉斯維加斯",
+      "country": "美國",
+      "venue": "Fontainebleau Las Vegas / CES",
+      "type": "公開主題演講",
+      "status": "confirmed",
+      "confidence": 84,
+      "privacy": "public-only",
+      "headline": "CES 2026 特別演講",
+      "summary": "NVIDIA 官方部落格記錄黃仁勳於 CES 2026 開場發表演講，並提及他在 Siemens keynote 中與 Siemens 執行長 Roland Busch 同場。",
+      "businessImpact": "CES 場景偏向終端、工業數位化與實體 AI。與 Siemens 同場可作為工業 AI、數位分身、機器人與製造業 AI 導入的觀察點。",
+      "industries": ["工業 AI", "數位分身", "實體 AI"],
+      "watchlist": ["NVIDIA", "Siemens", "工業自動化生態"],
+      "mentionedCompanies": ["NVIDIA", "Siemens"],
+      "companies": [
+        {
+          "name": "NVIDIA",
+          "executives": ["黃仁勳"],
+          "relationship": "官方公開演講"
+        },
+        {
+          "name": "Siemens",
+          "executives": ["Roland Busch"],
+          "relationship": "CES 公開活動同場"
+        }
+      ],
+      "sources": [
+        {
+          "label": "CES 2026 官方回顧",
+          "url": "https://blogs.nvidia.com/blog/2026-ces-special-presentation/",
+          "publisher": "NVIDIA Blog",
+          "sourceType": "官方"
+        },
+        {
+          "label": "CES 2026 on-demand",
+          "url": "https://www.nvidia.com/en-us/on-demand/session/ces26-keynote/",
+          "publisher": "NVIDIA On-Demand",
+          "sourceType": "官方"
+        }
+      ]
+    },
+    {
+      "id": "2025-computex-taipei",
+      "date": "2025-05-19",
+      "time": "11:00",
+      "city": "台北",
+      "country": "台灣",
+      "venue": "Taipei Music Center",
+      "type": "公開主題演講",
+      "status": "confirmed",
+      "confidence": 88,
+      "privacy": "public-only",
+      "headline": "COMPUTEX 2025 主題演講",
+      "summary": "NVIDIA 官方與多家媒體記錄黃仁勳於台北音樂中心發表 COMPUTEX 2025 keynote，主軸為 AI factories 與台灣相關計畫。",
+      "businessImpact": "COMPUTEX 2025 把 AI Factory 與台灣供應鏈連在一起，對觀察 AI 伺服器、機櫃、散熱、電源與在地研發投資特別有價值。",
+      "industries": ["AI Factory", "AI 伺服器", "台灣供應鏈"],
+      "watchlist": ["NVIDIA", "台灣 ODM/OEM", "COMPUTEX / TAITRA"],
+      "mentionedCompanies": ["NVIDIA", "COMPUTEX / TAITRA", "台灣 AI 供應鏈"],
+      "companies": [
+        {
+          "name": "NVIDIA",
+          "executives": ["黃仁勳"],
+          "relationship": "官方公開主題演講"
+        },
+        {
+          "name": "COMPUTEX / TAITRA",
+          "executives": ["未指名高層"],
+          "relationship": "公開活動主辦單位"
+        }
+      ],
+      "sources": [
+        {
+          "label": "NVIDIA COMPUTEX 2025 keynote 回顧",
+          "url": "https://blogs.nvidia.com/blog/computex-2025-jensen-huang/",
+          "publisher": "NVIDIA Blog",
+          "sourceType": "官方"
+        },
+        {
+          "label": "台北現場報導",
+          "url": "https://www.taiwannews.com.tw/en/news/6114090",
+          "publisher": "Taiwan News",
+          "sourceType": "媒體"
+        }
+      ]
+    },
+    {
+      "id": "2025-gtc-san-jose",
+      "date": "2025-03-18",
+      "time": "10:00",
+      "city": "聖荷西",
+      "country": "美國",
+      "venue": "SAP Center",
+      "type": "公開主題演講",
+      "status": "confirmed",
+      "confidence": 90,
+      "privacy": "public-only",
+      "headline": "GTC 2025 主題演講",
+      "summary": "NVIDIA Newsroom 公告 GTC 2025 於聖荷西舉行，黃仁勳在 SAP Center 發表 keynote。",
+      "businessImpact": "GTC 2025 是觀察 Blackwell 後續平台、AI 軟體堆疊、資料中心網路與合作夥伴案例的重要節點。",
+      "industries": ["AI 加速器", "資料中心網路", "AI 軟體"],
+      "watchlist": ["NVIDIA", "資料中心合作夥伴", "AI 開發者生態"],
+      "companies": [
+        {
+          "name": "NVIDIA",
+          "executives": ["黃仁勳"],
+          "relationship": "官方公開主題演講"
+        }
+      ],
+      "sources": [
+        {
+          "label": "GTC 2025 公告",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-ceo-jensen-huang-and-industry-visionaries-to-unveil-whats-next-in-ai-at-gtc-2025/",
+          "publisher": "NVIDIA Newsroom",
+          "sourceType": "官方"
+        },
+        {
+          "label": "GTC 2025 keynote on-demand",
+          "url": "https://www.nvidia.com/en-us/on-demand/session/gtc25-s72484",
+          "publisher": "NVIDIA On-Demand",
+          "sourceType": "官方"
+        }
+      ]
+    },
+    {
+      "id": "2025-ces-las-vegas",
+      "date": "2025-01-06",
+      "time": "18:30",
+      "city": "拉斯維加斯",
+      "country": "美國",
+      "venue": "CES 2025",
+      "type": "公開主題演講",
+      "status": "confirmed",
+      "confidence": 83,
+      "privacy": "public-only",
+      "headline": "CES 2025 keynote",
+      "summary": "CES 官方與 NVIDIA 部落格均記錄黃仁勳作為 CES 2025 Keynote Series 講者發表演講。",
+      "businessImpact": "CES 2025 可用來觀察 NVIDIA 如何把 AI 從資料中心延伸到 PC、車用、機器人與消費端場景。",
+      "industries": ["AI PC", "車用 AI", "機器人"],
+      "watchlist": ["NVIDIA", "CES / CTA", "終端 AI 生態"],
+      "companies": [
+        {
+          "name": "NVIDIA",
+          "executives": ["黃仁勳"],
+          "relationship": "CES 公開主題演講"
+        },
+        {
+          "name": "CES / CTA",
+          "executives": ["未指名高層"],
+          "relationship": "公開活動主辦單位"
+        }
+      ],
+      "sources": [
+        {
+          "label": "CES 2025 keynote 回顧",
+          "url": "https://www.ces.tech/articles/2025/january/ces-2025-jensen-huang-presents-nvidias-latest-innovations/",
+          "publisher": "CES",
+          "sourceType": "官方"
+        },
+        {
+          "label": "NVIDIA CES 2025 keynote 公告",
+          "url": "https://blogs.nvidia.com/blog/jensen-huang-to-keynote-ces-2025/",
+          "publisher": "NVIDIA Blog",
+          "sourceType": "官方"
+        }
+      ]
+    },
+    {
+      "id": "2024-hpe-discover",
+      "date": "2024-06-18",
+      "time": "09:00",
+      "city": "拉斯維加斯",
+      "country": "美國",
+      "venue": "Sphere / HPE Discover",
+      "type": "公開同台",
+      "status": "confirmed",
+      "confidence": 86,
+      "privacy": "public-only",
+      "headline": "HPE Discover 2024 公開同台",
+      "summary": "HPE 與媒體資料顯示黃仁勳與 HPE CEO Antonio Neri 於 Sphere 同台，宣布 NVIDIA AI Computing by HPE。",
+      "businessImpact": "HPE 同台代表企業私有 AI、混合雲與資料中心解決方案的銷售路線，適合觀察傳統企業 IT 預算如何流向 AI 基礎建設。",
+      "industries": ["企業 AI", "混合雲", "私有資料中心"],
+      "watchlist": ["HPE", "NVIDIA", "企業 IT 通路"],
+      "mentionedCompanies": ["HPE", "NVIDIA"],
+      "companies": [
+        {
+          "name": "HPE",
+          "executives": ["Antonio Neri"],
+          "relationship": "公開主題演講同台"
+        },
+        {
+          "name": "NVIDIA",
+          "executives": ["黃仁勳"],
+          "relationship": "共同宣布合作方案"
+        }
+      ],
+      "sources": [
+        {
+          "label": "HPE keynote 預告",
+          "url": "https://community.hpe.com/t5/servers-systems-the-right/don-t-miss-hpe-compute-at-discover-2024-learn-what-s-next-in-ai/ba-p/7216691",
+          "publisher": "HPE Community",
+          "sourceType": "官方"
+        },
+        {
+          "label": "HPE Discover 現場報導",
+          "url": "https://www.channelfutures.com/artificial-intelligence/nvidia-cast-co-starring-role-hpe-discover-2024",
+          "publisher": "Channel Futures",
+          "sourceType": "媒體"
+        }
+      ]
+    },
+    {
+      "id": "2024-computex-taipei",
+      "date": "2024-06-02",
+      "time": "19:00",
+      "city": "台北",
+      "country": "台灣",
+      "venue": "National Taiwan University Sports Center",
+      "type": "公開主題演講",
+      "status": "confirmed",
+      "confidence": 86,
+      "privacy": "public-only",
+      "headline": "COMPUTEX 2024 前夕 keynote",
+      "summary": "NVIDIA 官方公告黃仁勳在台北、COMPUTEX 2024 前發表 keynote，說明 AI 生態系下一步。",
+      "businessImpact": "COMPUTEX 2024 是 Blackwell 後台灣生態展示節點，適合追蹤主機板、PC、伺服器與周邊合作夥伴如何承接新平台。",
+      "industries": ["AI PC", "AI 伺服器", "台灣硬體生態"],
+      "watchlist": ["NVIDIA", "ASUS", "台灣硬體供應鏈"],
+      "mentionedCompanies": ["台積電", "鴻海", "廣達", "緯創", "緯穎", "聯發科", "華碩", "微星", "技嘉", "和碩", "英業達", "仁寶", "台達電", "日月光投控", "聯電", "欣興", "Foxconn", "Pegatron", "Wistron"],
+      "companies": [
+        {
+          "name": "NVIDIA",
+          "executives": ["黃仁勳"],
+          "relationship": "官方公開主題演講"
+        },
+        {
+          "name": "ASUS",
+          "executives": ["未指名高層"],
+          "relationship": "公開展場拜訪紀錄"
+        }
+      ],
+      "sources": [
+        {
+          "label": "COMPUTEX 2024 keynote 公告",
+          "url": "https://blogs.nvidia.com/blog/huang-computex-keynote-taipei-2024/",
+          "publisher": "NVIDIA Blog",
+          "sourceType": "官方"
+        },
+        {
+          "label": "ASUS COMPUTEX 2024 booth visiting 照片說明",
+          "url": "https://press.asus.com/media/photos/152/",
+          "publisher": "ASUS Press Room",
+          "sourceType": "官方"
+        }
+      ]
+    },
+    {
+      "id": "2024-gtc-san-jose",
+      "date": "2024-03-18",
+      "time": "13:00",
+      "city": "聖荷西",
+      "country": "美國",
+      "venue": "SAP Center",
+      "type": "公開主題演講",
+      "status": "confirmed",
+      "confidence": 92,
+      "privacy": "public-only",
+      "headline": "GTC 2024 主題演講",
+      "summary": "NVIDIA 官方記錄 GTC 2024 回到實體大型活動，黃仁勳在聖荷西 SAP Center 發表 Blackwell 等主題。",
+      "businessImpact": "GTC 2024 是 Blackwell 平台公開亮相的關鍵節點，牽動 GPU、HBM、先進封裝、伺服器與資料中心網路的需求預期。",
+      "industries": ["Blackwell 平台", "先進封裝", "HBM"],
+      "watchlist": ["NVIDIA", "AI 加速器供應鏈", "資料中心網路"],
+      "companies": [
+        {
+          "name": "NVIDIA",
+          "executives": ["黃仁勳"],
+          "relationship": "官方公開主題演講"
+        }
+      ],
+      "sources": [
+        {
+          "label": "GTC 2024 keynote 公告",
+          "url": "https://blogs.nvidia.com/blog/gtc-2024-jensen-huang/",
+          "publisher": "NVIDIA Blog",
+          "sourceType": "官方"
+        },
+        {
+          "label": "GTC 2024 keynote 回顧",
+          "url": "https://blogs.nvidia.com/blog/2024-gtc-keynote/",
+          "publisher": "NVIDIA Blog",
+          "sourceType": "官方"
+        }
+      ]
+    },
+    {
+      "id": "2023-computex-taipei",
+      "date": "2023-05-29",
+      "time": "11:00",
+      "city": "台北",
+      "country": "台灣",
+      "venue": "COMPUTEX Taipei",
+      "type": "公開主題演講",
+      "status": "confirmed",
+      "confidence": 84,
+      "privacy": "public-only",
+      "headline": "COMPUTEX 2023 keynote",
+      "summary": "NVIDIA On-Demand 與媒體記錄黃仁勳於 COMPUTEX 2023 發表 keynote，聚焦生成式 AI 與資料中心。",
+      "businessImpact": "COMPUTEX 2023 是生成式 AI 熱潮初期的重要公開節點，適合回看台灣供應鏈如何被拉入資料中心與 AI 伺服器敘事。",
+      "industries": ["生成式 AI", "資料中心", "台灣供應鏈"],
+      "watchlist": ["NVIDIA", "COMPUTEX / TAITRA", "AI 伺服器供應鏈"],
+      "mentionedCompanies": ["NVIDIA", "COMPUTEX / TAITRA"],
+      "companies": [
+        {
+          "name": "NVIDIA",
+          "executives": ["黃仁勳"],
+          "relationship": "官方公開主題演講"
+        },
+        {
+          "name": "COMPUTEX / TAITRA",
+          "executives": ["未指名高層"],
+          "relationship": "公開活動主辦單位"
+        }
+      ],
+      "sources": [
+        {
+          "label": "COMPUTEX 2023 keynote on-demand",
+          "url": "https://www.nvidia.com/en-us/on-demand/session/computex2023-keynote/",
+          "publisher": "NVIDIA On-Demand",
+          "sourceType": "官方"
+        },
+        {
+          "label": "台北現場 live blog",
+          "url": "https://www.techradar.com/news/live/nvidia-computex-keynote",
+          "publisher": "TechRadar",
+          "sourceType": "媒體"
+        }
+      ]
+    },
+    {
+      "id": "2023-gtc-spring",
+      "date": "2023-03-21",
+      "time": "08:00",
+      "city": "線上",
+      "country": "全球",
+      "venue": "GTC Digital",
+      "type": "線上公開演講",
+      "status": "confirmed",
+      "confidence": 86,
+      "privacy": "public-only",
+      "headline": "GTC 2023 opening keynote",
+      "summary": "NVIDIA Newsroom 公告黃仁勳在 GTC 2023 線上開場 keynote 發表生成式 AI、metaverse、LLM、機器人與 cloud computing 等進展。",
+      "businessImpact": "GTC 2023 把生成式 AI、雲端合作與大型模型需求推到主線，適合觀察雲端服務商、AI 模型與加速運算需求的連動。",
+      "industries": ["生成式 AI", "雲端運算", "大型語言模型"],
+      "watchlist": ["NVIDIA", "Google / Microsoft / Oracle", "雲端 AI 生態"],
+      "mentionedCompanies": ["Google", "Microsoft", "Oracle", "NVIDIA"],
+      "companies": [
+        {
+          "name": "NVIDIA",
+          "executives": ["黃仁勳"],
+          "relationship": "官方線上公開演講"
+        },
+        {
+          "name": "Google / Microsoft / Oracle",
+          "executives": ["未指名高層"],
+          "relationship": "keynote 中公開宣布或提及合作"
+        }
+      ],
+      "sources": [
+        {
+          "label": "GTC 2023 公告",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-gtc-2023-to-feature-latest-advances-in-ai-computing-systems-generative-ai-industrial-metaverse-robotics-keynote-by-jensen-huang-talks-by-openai-deepmind-founders",
+          "publisher": "NVIDIA Newsroom",
+          "sourceType": "官方"
+        },
+        {
+          "label": "GTC 2023 keynote 回顧",
+          "url": "https://blogs.nvidia.com/blog/gtc-keynote-spring-2023/",
+          "publisher": "NVIDIA Blog",
+          "sourceType": "官方"
+        }
+      ]
+    },
+    {
+      "id": "2022-gtc-fall",
+      "date": "2022-09-20",
+      "time": "08:00",
+      "city": "線上",
+      "country": "全球",
+      "venue": "GTC Digital",
+      "type": "線上公開演講",
+      "status": "confirmed",
+      "confidence": 82,
+      "privacy": "public-only",
+      "headline": "GTC 2022 秋季 keynote",
+      "summary": "NVIDIA 官方回顧黃仁勳於 GTC 2022 keynote 發表雲端 AI workflows、GeForce RTX 40 系列與 Ada Lovelace 架構相關內容。",
+      "businessImpact": "2022 秋季 GTC 連接雲端 AI workflow 與 Ada Lovelace 消費/專業 GPU 世代，適合回看 AI 與圖形運算平台的雙軌轉型。",
+      "industries": ["GPU 架構", "雲端 AI", "圖形運算"],
+      "watchlist": ["NVIDIA", "GeForce / RTX 生態", "雲端 AI 工具"],
+      "companies": [
+        {
+          "name": "NVIDIA",
+          "executives": ["黃仁勳"],
+          "relationship": "官方線上公開演講"
+        }
+      ],
+      "sources": [
+        {
+          "label": "GTC 2022 秋季 keynote 回顧",
+          "url": "https://blogs.nvidia.com/blog/keynote-gtc-nvidia-ceo/",
+          "publisher": "NVIDIA Blog",
+          "sourceType": "官方"
+        }
+      ]
+    },
+    {
+      "id": "2022-gtc-spring",
+      "date": "2022-03-22",
+      "time": "08:00",
+      "city": "線上",
+      "country": "全球",
+      "venue": "GTC Digital",
+      "type": "線上公開演講",
+      "status": "confirmed",
+      "confidence": 86,
+      "privacy": "public-only",
+      "headline": "GTC 2022 keynote",
+      "summary": "NVIDIA Newsroom 公告 GTC 2022 於 3 月 21-24 日線上舉行，黃仁勳於 3 月 22 日發表 keynote；官方回顧涵蓋 Hopper、H100 與 AI factories。",
+      "businessImpact": "GTC 2022 是 Hopper/H100 世代的關鍵公開節點，後續生成式 AI 資料中心需求可追溯到這條加速運算產品線。",
+      "industries": ["Hopper / H100", "AI Factory", "資料中心"],
+      "watchlist": ["NVIDIA", "H100 生態", "資料中心客戶"],
+      "companies": [
+        {
+          "name": "NVIDIA",
+          "executives": ["黃仁勳"],
+          "relationship": "官方線上公開演講"
+        }
+      ],
+      "sources": [
+        {
+          "label": "GTC 2022 公告",
+          "url": "https://www.nvidia.com/en-sg/news/nvidia-gtc-2022-to-feature-keynote-from-ceo-jensen-huang-new-products-900-sessions-from-industry-and-ai-leaders/",
+          "publisher": "NVIDIA Newsroom",
+          "sourceType": "官方"
+        },
+        {
+          "label": "GTC 2022 keynote 回顧",
+          "url": "https://blogs.nvidia.com/blog/ai-factories-hopper-h100-nvidia-ceo-jensen-huang/",
+          "publisher": "NVIDIA Blog",
+          "sourceType": "官方"
+        }
+      ]
+    }
+  ],
+  "informalStops": [
+    {
+      "id": "2023-taipei-night-market",
+      "date": "2023-05-26",
+      "city": "台北",
+      "country": "台灣",
+      "place": "台北夜市 / Raohe Night Market 相關公開報導",
+      "activity": "夜市散步與小吃",
+      "food": ["臭豆腐", "夜市小吃"],
+      "companions": [],
+      "privacy": "historical-public-report",
+      "note": "公開媒體與社群報導，作為已發生的文化足跡記錄，不代表即時位置。",
+      "sources": [
+        {
+          "label": "Taipei street culture ahead of Computex",
+          "url": "https://www.tomshardware.com/news/nvidia-ceo-jensen-huang-street-taipei-computex",
+          "publisher": "Tom's Hardware",
+          "sourceType": "媒體"
+        }
+      ]
+    },
+    {
+      "id": "2024-ningxia-night-market-jan",
+      "date": "2024-01-20",
+      "city": "台北",
+      "country": "台灣",
+      "place": "寧夏夜市",
+      "activity": "夜市小吃",
+      "food": ["蚵仔煎", "冰品", "栗子", "燒仙草"],
+      "companions": ["隨行人員"],
+      "privacy": "historical-public-report",
+      "note": "媒體報導的已發生夜市足跡，只作文化/公開行程背景。",
+      "sources": [
+        {
+          "label": "寧夏夜市公開報導",
+          "url": "https://www.nownews.com/news/6350135",
+          "publisher": "NOWnews",
+          "sourceType": "媒體"
+        }
+      ]
+    },
+    {
+      "id": "2024-ntu-student-restaurant",
+      "date": "2024-05-31",
+      "city": "台北",
+      "country": "台灣",
+      "place": "國立台灣大學學生餐廳",
+      "activity": "校園餐廳拜訪",
+      "food": ["學生餐廳餐點"],
+      "companions": [],
+      "privacy": "historical-public-report",
+      "note": "公開媒體報導的校園餐廳拜訪。",
+      "sources": [
+        {
+          "label": "NTU student restaurant visit",
+          "url": "https://www.taiwannews.com.tw/en/news/5881242",
+          "publisher": "Taiwan News",
+          "sourceType": "媒體"
+        }
+      ]
+    },
+    {
+      "id": "2024-ningxia-night-market-leaders",
+      "date": "2024-06-04",
+      "city": "台北",
+      "country": "台灣",
+      "place": "寧夏夜市",
+      "activity": "晚餐後夜市散步與小吃",
+      "food": ["蚵仔煎", "台灣夜市小吃"],
+      "companions": ["張忠謀", "林百里", "半導體/科技業公開報導同場人士"],
+      "privacy": "historical-public-report",
+      "note": "公開報導指出黃仁勳與台灣科技業人士到寧夏夜市；只記錄已公開、已發生事件。",
+      "sources": [
+        {
+          "label": "Semiconductor legends at Taiwanese night market",
+          "url": "https://www.tomshardware.com/tech-industry/semiconductor-legends-take-a-stroll-in-a-taiwanese-night-market-nvidia-tsmc-mediatek-and-quanta-heads-seen-eating-dinner",
+          "publisher": "Tom's Hardware",
+          "sourceType": "媒體"
+        },
+        {
+          "label": "Ningxia Night Market with Morris Chang",
+          "url": "https://www.asiae.co.kr/en/article/2024060508332838362",
+          "publisher": "Asia Business Daily",
+          "sourceType": "媒體"
+        }
+      ]
+    },
+    {
+      "id": "2024-tonghua-night-market-fruit-vendor",
+      "date": "2024-06-02",
+      "city": "台北",
+      "country": "台灣",
+      "place": "通化夜市水果攤",
+      "activity": "演講中提到的私藏夜市記憶",
+      "food": ["水果"],
+      "companions": [],
+      "privacy": "public-speech-mention",
+      "note": "這是公開演講中提及的夜市/水果攤記憶，未作即時足跡追蹤。",
+      "sources": [
+        {
+          "label": "公開演講提及通化夜市水果攤",
+          "url": "https://www.knews.com.tw/news/155507E55B8371DD3C0FB5971FD91530",
+          "publisher": "知新聞",
+          "sourceType": "媒體"
+        },
+        {
+          "label": "通化夜市私藏愛店報導",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/4692947",
+          "publisher": "自由財經",
+          "sourceType": "媒體"
+        }
+      ]
+    }
+  ],
+  "sourceBacklog": [
+    {
+      "name": "NVIDIA Newsroom / Blog",
+      "url": "https://nvidianews.nvidia.com/",
+      "type": "官方",
+      "use": "GTC、CES、COMPUTEX 及合作公告的一級來源"
+    },
+    {
+      "name": "NVIDIA On-Demand",
+      "url": "https://www.nvidia.com/en-us/on-demand/",
+      "type": "官方",
+      "use": "keynote replay、日期與活動名稱交叉確認"
+    },
+    {
+      "name": "活動主辦方",
+      "url": "https://www.computextaipei.com.tw/",
+      "type": "官方",
+      "use": "COMPUTEX、CES、HPE、Dell 等公開活動資訊"
+    },
+    {
+      "name": "可信媒體",
+      "url": "",
+      "type": "媒體",
+      "use": "只補充現場地點、同台人物與活動脈絡；不推測私人行程"
+    }
+  ]
+}

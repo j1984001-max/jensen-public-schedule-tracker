@@ -1,0 +1,30 @@
+{
+  "keywords": ["Jensen Huang", "黃仁勳", "NVIDIA CEO"],
+  "sources": [
+    {
+      "name": "NVIDIA Newsroom",
+      "url": "https://nvidianews.nvidia.com/",
+      "type": "官方"
+    },
+    {
+      "name": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/",
+      "type": "官方"
+    },
+    {
+      "name": "NVIDIA On-Demand",
+      "url": "https://www.nvidia.com/en-us/on-demand/",
+      "type": "官方"
+    },
+    {
+      "name": "COMPUTEX",
+      "url": "https://www.computextaipei.com.tw/en/news/index.html",
+      "type": "主辦方"
+    },
+    {
+      "name": "CES",
+      "url": "https://www.ces.tech/articles/",
+      "type": "主辦方"
+    }
+  ]
+}

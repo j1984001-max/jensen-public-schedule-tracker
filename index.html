@@ -1,0 +1,296 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>黃仁勳公開行程追蹤</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">公開情報儀表板</p>
+      <h1>黃仁勳公開行程追蹤</h1>
+    </div>
+    <div class="topbar-actions">
+      <div class="standalone-badge" title="此頁面使用自己的資料與啟動檔，不掛在原本其他網頁底下">
+        獨立網站
+      </div>
+      <div class="guardrail" title="只顯示公開來源，不追私人即時位置">
+        <span class="guardrail-dot"></span>
+        僅公開來源模式
+      </div>
+    </div>
+  </header>
+
+  <main class="shell">
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">已揭露公開行程</p>
+        <h2 id="current-location">讀取公開事件中...</h2>
+        <p id="current-summary">正在整理來源、公司與高層名單。</p>
+        <div class="hero-actions">
+          <button id="refresh-button" type="button">重新整理資料</button>
+          <button id="export-csv-button" type="button">匯出 CSV</button>
+          <button id="export-json-button" type="button">匯出 JSON</button>
+          <button id="copy-summary-button" type="button">複製摘要</button>
+          <a href="#source-policy">來源規則</a>
+        </div>
+      </div>
+      <img src="./assets/world-radar.svg" alt="公開行程訊號地圖">
+    </section>
+
+    <section class="metrics" aria-label="總覽指標">
+      <article>
+        <span id="metric-events">0</span>
+        <p>公開事件</p>
+      </article>
+      <article>
+        <span id="metric-cities">0</span>
+        <p>路線城市</p>
+      </article>
+      <article>
+        <span id="metric-companies">0</span>
+        <p>提及公司</p>
+      </article>
+      <article>
+        <span id="metric-confirmed">0</span>
+        <p>需人工確認</p>
+      </article>
+    </section>
+
+    <section class="route-overview" aria-label="路線總覽">
+      <div>
+        <p class="eyebrow">路線總覽</p>
+        <h2 id="route-range">整理日期中...</h2>
+      </div>
+      <div class="route-chain" id="route-chain"></div>
+      <div class="data-stamp">
+        <span>資料更新</span>
+        <strong id="route-updated">--</strong>
+      </div>
+    </section>
+
+    <section class="stats-panel" aria-label="統計摘要">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">統計摘要</p>
+          <h2>2022 起公開行程統計</h2>
+        </div>
+        <span id="stats-range">--</span>
+      </div>
+      <div class="stats-grid">
+        <article>
+          <span id="stat-years">0</span>
+          <p>涵蓋年份</p>
+        </article>
+        <article>
+          <span id="stat-countries">0</span>
+          <p>國家 / 地區</p>
+        </article>
+        <article>
+          <span id="stat-named-execs">0</span>
+          <p>具名外部高層</p>
+        </article>
+        <article>
+          <span id="stat-avg-confidence">0%</span>
+          <p>平均可信度</p>
+        </article>
+      </div>
+      <div class="analytics-grid">
+        <div class="analytics-card">
+          <h3>年度事件量</h3>
+          <div id="year-bars" class="bar-list"></div>
+        </div>
+        <div class="analytics-card">
+          <h3>熱門城市</h3>
+          <div id="city-ranking" class="rank-list"></div>
+        </div>
+        <div class="analytics-card">
+          <h3>公司互動</h3>
+          <div id="company-ranking" class="rank-list"></div>
+        </div>
+        <div class="analytics-card">
+          <h3>月份熱度</h3>
+          <div id="month-heatmap" class="heatmap-list"></div>
+        </div>
+        <div class="analytics-card">
+          <h3>產業主題</h3>
+          <div id="industry-ranking" class="rank-list"></div>
+        </div>
+        <div class="analytics-card">
+          <h3>演講提及公司</h3>
+          <div id="mentioned-ranking" class="rank-list"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="source-audit-panel" aria-label="來源可信度稽核">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">來源稽核</p>
+          <h2>可信度與查核狀態</h2>
+        </div>
+        <span id="source-audit-summary">--</span>
+      </div>
+      <div class="source-audit-grid">
+        <article>
+          <span id="source-official-count">0</span>
+          <p>官方 / 主辦方來源</p>
+        </article>
+        <article>
+          <span id="source-media-count">0</span>
+          <p>媒體來源</p>
+        </article>
+        <article>
+          <span id="source-video-count">0</span>
+          <p>影片 / on-demand</p>
+        </article>
+        <article>
+          <span id="source-high-count">0</span>
+          <p>高可信事件</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="workspace">
+      <aside class="filters" aria-label="篩選條件">
+        <label>
+          搜尋
+          <input id="search-input" type="search" placeholder="城市、公司、來源、關鍵字">
+        </label>
+        <label>
+          狀態
+          <select id="status-filter">
+            <option value="all">全部</option>
+            <option value="needs-review">待確認</option>
+            <option value="confirmed">已確認</option>
+          </select>
+        </label>
+        <label>
+          年份
+          <select id="year-filter">
+            <option value="all">全部年份</option>
+          </select>
+        </label>
+        <label>
+          事件類型
+          <select id="type-filter">
+            <option value="all">全部類型</option>
+          </select>
+        </label>
+        <label>
+          細分類
+          <select id="category-filter">
+            <option value="all">全部細分類</option>
+          </select>
+        </label>
+        <div class="privacy-note">
+          <strong>界線</strong>
+          <p>這個網站只應收錄官方、活動頁、公開新聞或公司自行揭露的資訊。不要使用航班、住處、私人行程、偷拍、即時定位或未公開會面推測。觀察名單只代表事件脈絡，不是投資建議。</p>
+        </div>
+        <div class="filter-insight" id="filter-insight">目前顯示全部公開事件。</div>
+      </aside>
+
+      <section class="timeline" aria-label="公開事件時間線">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">日期路線圖</p>
+            <h2>公開行程與會面紀錄</h2>
+          </div>
+          <span id="result-count">0 筆</span>
+        </div>
+        <div id="route-map" class="route-map" aria-label="按日期排列的城市路線"></div>
+        <div id="event-list" class="event-list"></div>
+      </section>
+    </section>
+
+    <section class="relationship-panel" aria-label="公司與高層關係圖">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">關係雷達</p>
+          <h2>公司 / 高層關係圖</h2>
+        </div>
+        <span id="relationship-count">0 個節點</span>
+      </div>
+      <div id="relationship-graph" class="relationship-graph"></div>
+      <aside id="company-drawer" class="company-drawer" hidden>
+        <div class="drawer-top">
+          <div>
+            <p class="eyebrow">公司詳情</p>
+            <h3 id="drawer-title">公司名稱</h3>
+          </div>
+          <button id="drawer-close-button" type="button" aria-label="關閉公司詳情">關閉</button>
+        </div>
+        <div id="drawer-body" class="drawer-body"></div>
+      </aside>
+    </section>
+
+    <section class="informal-panel" aria-label="非正式公開足跡">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">公開文化足跡</p>
+          <h2>正式場合之外的觀光 / 吃飯</h2>
+        </div>
+        <span id="informal-count">0 筆公開足跡</span>
+      </div>
+      <p class="section-note">只收已公開報導、已發生的夜市、餐廳或觀光足跡；不收即時位置、私人住處或未公開行程。</p>
+      <div id="informal-list" class="informal-list"></div>
+    </section>
+
+    <section class="company-board">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">高層互動圖譜</p>
+          <h2>公司高層互動摘要</h2>
+        </div>
+      </div>
+      <div id="company-list" class="company-list"></div>
+    </section>
+
+    <section id="source-policy" class="source-policy">
+      <div>
+        <p class="eyebrow">蒐集規則</p>
+        <h2>資料來源佇列</h2>
+        <p>建議接入順序是官方來源優先，再用媒體補強。每筆事件至少要有一個來源，會面對象只有在來源明確提及時才顯示。</p>
+      </div>
+      <div id="source-list" class="source-list"></div>
+    </section>
+  </main>
+
+  <template id="event-card-template">
+    <article class="event-card">
+      <div class="event-date">
+        <span class="date"></span>
+        <span class="time"></span>
+      </div>
+      <div class="event-body">
+        <div class="event-topline">
+          <span class="type"></span>
+          <span class="category"></span>
+          <span class="status"></span>
+          <span class="confidence"></span>
+          <span class="source-grade"></span>
+        </div>
+        <h3 class="headline"></h3>
+        <p class="summary"></p>
+        <div class="meta-row">
+          <span class="location"></span>
+          <span class="venue"></span>
+        </div>
+        <div class="companies"></div>
+        <div class="mentioned-companies"></div>
+        <div class="impact-block">
+          <h4>商業意義</h4>
+          <p class="business-impact"></p>
+          <div class="industries"></div>
+          <div class="watchlist"></div>
+        </div>
+        <div class="sources"></div>
+      </div>
+    </article>
+  </template>
+
+  <script src="./app.js"></script>
+</body>
+</html>
