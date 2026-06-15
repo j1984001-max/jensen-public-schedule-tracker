@@ -1,30 +1,72 @@
 {
-  "keywords": ["Jensen Huang", "黃仁勳", "NVIDIA CEO"],
+  "lookbackDays": 30,
+  "maxSignals": 24,
+  "keywords": [
+    "Jensen Huang",
+    "Jen-Hsun Huang",
+    "黃仁勳",
+    "NVIDIA CEO",
+    "Nvidia CEO"
+  ],
+  "eventKeywords": [
+    "keynote",
+    "fireside",
+    "conference",
+    "summit",
+    "GTC",
+    "COMPUTEX",
+    "CES",
+    "演講",
+    "主題演講",
+    "論壇",
+    "峰會",
+    "同台",
+    "拜會",
+    "會面",
+    "出席"
+  ],
   "sources": [
+    {
+      "name": "Google News: 黃仁勳",
+      "url": "https://news.google.com/rss/search?q=%E9%BB%83%E4%BB%81%E5%8B%B3%20when%3A30d&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+      "type": "新聞彙整",
+      "format": "rss"
+    },
+    {
+      "name": "Google News: Jensen Huang",
+      "url": "https://news.google.com/rss/search?q=%22Jensen%20Huang%22%20NVIDIA%20when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
+      "type": "新聞彙整",
+      "format": "rss"
+    },
     {
       "name": "NVIDIA Newsroom",
       "url": "https://nvidianews.nvidia.com/",
-      "type": "官方"
+      "type": "官方",
+      "format": "html"
     },
     {
       "name": "NVIDIA Blog",
       "url": "https://blogs.nvidia.com/",
-      "type": "官方"
+      "type": "官方",
+      "format": "html"
     },
     {
       "name": "NVIDIA On-Demand",
       "url": "https://www.nvidia.com/en-us/on-demand/",
-      "type": "官方"
+      "type": "官方",
+      "format": "html"
     },
     {
       "name": "COMPUTEX",
       "url": "https://www.computextaipei.com.tw/en/news/index.html",
-      "type": "主辦方"
+      "type": "主辦方",
+      "format": "html"
     },
     {
       "name": "CES",
       "url": "https://www.ces.tech/articles/",
-      "type": "主辦方"
+      "type": "主辦方",
+      "format": "html"
     }
   ]
 }

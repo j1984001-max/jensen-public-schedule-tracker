@@ -1,5 +1,9 @@
 const state = {
   events: [],
+  latestSignals: [],
+  signalErrors: [],
+  signalGeneratedAt: "",
+  signalLookbackDays: 30,
   sourceBacklog: [],
   informalStops: [],
   generatedAt: "",
@@ -38,6 +42,9 @@ const els = {
   sourceMediaCount: document.querySelector("#source-media-count"),
   sourceVideoCount: document.querySelector("#source-video-count"),
   sourceHighCount: document.querySelector("#source-high-count"),
+  latestSignalSummary: document.querySelector("#latest-signal-summary"),
+  latestSignalCount: document.querySelector("#latest-signal-count"),
+  latestSignalList: document.querySelector("#latest-signal-list"),
   relationshipGraph: document.querySelector("#relationship-graph"),
   relationshipCount: document.querySelector("#relationship-count"),
   informalList: document.querySelector("#informal-list"),
@@ -70,7 +77,12 @@ async function loadData() {
     throw new Error(`Data load failed: ${response.status}`);
   }
   const data = await response.json();
+  const signalData = await loadLatestSignals();
   state.events = [...data.events].sort((a, b) => `${b.date} ${b.time}`.localeCompare(`${a.date} ${a.time}`));
+  state.latestSignals = signalData.signals || [];
+  state.signalErrors = signalData.errors || [];
+  state.signalGeneratedAt = signalData.generatedAt || "";
+  state.signalLookbackDays = signalData.lookbackDays || 30;
   state.sourceBacklog = data.sourceBacklog || [];
   state.informalStops = [...(data.informalStops || [])].sort((a, b) => b.date.localeCompare(a.date));
   state.generatedAt = data.generatedAt || "";
@@ -78,6 +90,16 @@ async function loadData() {
   renderTypeOptions();
   renderCategoryOptions();
   render();
+}
+
+async function loadLatestSignals() {
+  try {
+    const response = await fetch("./data/latest_signals.json", { cache: "no-store" });
+    if (!response.ok) return {};
+    return response.json();
+  } catch {
+    return {};
+  }
 }
 
 function renderYearOptions() {
@@ -155,6 +177,7 @@ function render() {
   renderRouteOverview(filtered);
   renderStats(filtered);
   renderSourceAudit(filtered);
+  renderLatestSignals();
   renderRouteMap(filtered);
   renderEvents(filtered);
   renderRelationshipGraph(filtered);
@@ -264,6 +287,54 @@ function renderSourceAudit(events) {
   els.sourceAuditSummary.textContent = events.length
     ? `${events.length} 筆事件，最後查核 ${formatGeneratedAt(state.generatedAt)}`
     : "無資料";
+}
+
+function renderLatestSignals() {
+  if (!els.latestSignalList) return;
+
+  els.latestSignalList.innerHTML = "";
+  const signals = state.latestSignals.slice(0, 8);
+  const errorText = state.signalErrors.length ? `，${state.signalErrors.length} 個來源暫時抓取失敗` : "";
+  els.latestSignalCount.textContent = `${state.latestSignals.length} 筆候選`;
+  els.latestSignalSummary.textContent = state.signalGeneratedAt
+    ? `最後自動抓取 ${formatGeneratedAt(state.signalGeneratedAt)}，回看 ${state.signalLookbackDays} 天${errorText}`
+    : "尚未產生自動抓取資料";
+
+  if (!signals.length) {
+    els.latestSignalList.innerHTML = '<div class="empty">目前沒有新的公開候選訊號。排程完成後會自動顯示在這裡。</div>';
+    return;
+  }
+
+  for (const signal of signals) {
+    const card = document.createElement("article");
+    card.className = "latest-signal-card";
+    const dates = signal.detectedDates?.length ? signal.detectedDates.join("、") : "未偵測到明確日期";
+    const privacyFlags = signal.privacyReviewFlags || [];
+    card.innerHTML = `
+      <div class="event-topline">
+        <span class="status">${escapeHtml(statusLabel(signal.status))}</span>
+        <span class="category">${escapeHtml(signal.category || "公開訊號")}</span>
+        <span class="confidence">可信度 ${escapeHtml(signal.confidence ?? "--")}%</span>
+        ${privacyFlags.length ? '<span class="source-grade">隱私界線需審核</span>' : ""}
+      </div>
+      <h3><a href="${escapeAttribute(signal.url)}" target="_blank" rel="noreferrer">${escapeHtml(signal.title)}</a></h3>
+      <p>${escapeHtml(signal.summary || "來源未提供摘要。")}</p>
+      <div class="signal-meta">
+        <span>${escapeHtml(signal.sourceName)} / ${escapeHtml(signal.sourceType)}</span>
+        <span>發布 ${escapeHtml(formatSignalDate(signal.publishedAt))}</span>
+        <span>偵測日期 ${escapeHtml(dates)}</span>
+      </div>
+      <div class="industries"></div>
+      <div class="watchlist"></div>
+    `;
+    const reviewTags = [...(signal.matchedEventKeywords || [])];
+    if (privacyFlags.length) {
+      reviewTags.push(...privacyFlags.map((flag) => `審核: ${flag}`));
+    }
+    renderTags(card.querySelector(".industries"), "命中", signal.matchedKeywords || []);
+    renderTags(card.querySelector(".watchlist"), "事件 / 審核", reviewTags);
+    els.latestSignalList.append(card);
+  }
 }
 
 function renderBars(container, counts, suffix) {
@@ -717,6 +788,18 @@ function formatEventDate(value) {
   });
 }
 
+function formatSignalDate(value) {
+  if (!value) return "未公開";
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return value;
+  return date.toLocaleDateString("zh-TW", {
+    month: "2-digit",
+    day: "2-digit",
+    hour: "2-digit",
+    minute: "2-digit"
+  });
+}
+
 function escapeHtml(value) {
   return String(value)
     .replaceAll("&", "&amp;")
@@ -735,7 +818,8 @@ function exportFilteredJson() {
     generatedAt: new Date().toISOString(),
     filters: state.filters,
     events: getFilteredEvents(),
-    informalStops: state.informalStops
+    informalStops: state.informalStops,
+    latestSignals: state.latestSignals
   };
   downloadFile("jensen-public-events.json", JSON.stringify(payload, null, 2), "application/json");
 }
@@ -777,6 +861,7 @@ function copyCurrentSummary() {
     `年份：${years}`,
     `公司互動：${topCompanies}`,
     `資料更新：${formatGeneratedAt(state.generatedAt)}`,
+    `最新公開訊號：${state.latestSignals.length} 筆，最後抓取 ${formatGeneratedAt(state.signalGeneratedAt)}`,
     "提醒：僅公開來源事件，不代表即時位置；觀察名單不是投資建議。"
   ].join("\n");
 

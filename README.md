@@ -12,6 +12,7 @@
 - 公司 / 高層關係圖與公司詳情抽屜
 - 演講提及公司排行，與實際同台/會面分開
 - 正式場合之外的觀光 / 吃飯公開足跡
+- 自動抓取最新公開訊號，顯示候選新聞 / 官方來源
 - 每筆公開事件的商業意義、產業標籤與觀察名單
 - 來源可信度稽核、CSV / JSON 匯出、摘要複製
 
@@ -59,9 +60,23 @@ http://127.0.0.1:8787
 - 8 個公司或活動主辦方
 - 3 位具名外部高層：Michael Dell、Roland Busch、Antonio Neri
 
-## 更新來源候選資料
+## 自動更新
 
-`update_sources.py` 會讀取 `data/source_config.json`，抓公開來源頁面並輸出待審核候選資料。它不會自動改 `data/events.json`。
+GitHub Actions 會每天 06:00（台北時間）執行 `.github/workflows/update-public-sources.yml`：
+
+1. 讀取 `data/source_config.json`
+2. 抓取官方、主辦方與 Google News RSS 公開來源
+3. 產生 `data/latest_signals.json`
+4. 若內容有變化，自動 commit 回 `main`
+5. GitHub Pages 重新發布外網網站
+
+網站上的「最新公開訊號」區塊會讀取 `data/latest_signals.json`。這些訊號是自動候選，不等於已確認行程；需要人工確認後才可以整理進 `data/events.json` 的正式時間線。
+
+可在 GitHub Actions 頁面手動按 `Run workflow` 立即更新。
+
+## 手動更新來源候選資料
+
+`update_sources.py` 會讀取 `data/source_config.json`，抓公開來源頁面並輸出最新公開訊號與待審核候選資料。它不會自動改 `data/events.json`。
 
 ```bash
 cd "/Users/wujohnson/Documents/New project/jensen-public-schedule-tracker"
@@ -71,6 +86,7 @@ python3 update_sources.py
 輸出：
 
 ```text
+data/latest_signals.json
 data/candidate_events.json
 ```
 
