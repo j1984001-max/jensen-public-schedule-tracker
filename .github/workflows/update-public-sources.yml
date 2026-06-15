@@ -22,17 +22,17 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Fetch public source signals
-        run: python update_sources.py --signals-output data/latest_signals.json --candidate-output data/candidate_events.json
+      - name: Fetch public source signals and update timeline
+        run: python update_sources.py --events data/events.json --signals-output data/latest_signals.json --candidate-output data/candidate_events.json
 
-      - name: Commit updated signals
+      - name: Commit updated public data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/latest_signals.json
+          git add data/events.json data/latest_signals.json
           if git diff --cached --quiet; then
-            echo "No public signal changes to commit."
+            echo "No public data changes to commit."
           else
-            git commit -m "Update public source signals"
+            git commit -m "Update public schedule data"
             git push
           fi

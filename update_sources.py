@@ -17,6 +17,7 @@ from typing import Any
 
 ROOT = Path(__file__).resolve().parent
 CONFIG_PATH = ROOT / "data" / "source_config.json"
+EVENTS_PATH = ROOT / "data" / "events.json"
 CANDIDATE_OUTPUT_PATH = ROOT / "data" / "candidate_events.json"
 SIGNALS_OUTPUT_PATH = ROOT / "data" / "latest_signals.json"
 
@@ -53,19 +54,13 @@ MONTHS = {
     "december": "12",
 }
 
-PRIVACY_REVIEW_TERMS = [
+BLOCKED_PRIVACY_TERMS = [
     "flight",
     "hotel",
     "airport",
     "residence",
     "private jet",
     "private residence",
-    "restaurant",
-    "night market",
-    "dinner",
-    "beer",
-    "visited",
-    "visits",
     "航班",
     "班機",
     "機場",
@@ -75,6 +70,15 @@ PRIVACY_REVIEW_TERMS = [
     "私人",
     "即時",
     "現在",
+]
+
+PUBLIC_CONTEXT_REVIEW_TERMS = [
+    "restaurant",
+    "night market",
+    "dinner",
+    "beer",
+    "visited",
+    "visits",
     "逛",
     "吃",
     "喝",
@@ -189,11 +193,20 @@ def signal_id(source_name: str, url: str, title: str) -> str:
     return digest[:12]
 
 
-def classify_signal(source: dict[str, Any], text: str, event_terms: list[str]) -> tuple[str, int]:
+def same_registered_host(url: str, source_url: str) -> bool:
+    host = urllib.parse.urlparse(url).netloc.lower().removeprefix("www.")
+    source_host = urllib.parse.urlparse(source_url).netloc.lower().removeprefix("www.")
+    return bool(host and source_host and (host == source_host or host.endswith(f".{source_host}")))
+
+
+def classify_signal(source: dict[str, Any], text: str, event_terms: list[str], url: str) -> tuple[str, int]:
     source_type = source.get("type", "")
     event_matches = matched_terms(text, event_terms)
-    if source_type in {"官方", "主辦方"} and event_matches:
+    is_same_host = same_registered_host(url, source.get("url", ""))
+    if source_type in {"官方", "主辦方"} and event_matches and is_same_host:
         return "公開行程候選", 82
+    if source_type in {"官方", "主辦方"} and event_matches:
+        return "官方頁引用公開訊號", 68
     if source_type in {"官方", "主辦方"}:
         return "官方公開提及", 72
     if event_matches:
@@ -218,9 +231,10 @@ def make_signal(
     if not keyword_matches:
         return None
 
-    category, confidence = classify_signal(source, searchable, event_keywords)
-    privacy_flags = matched_terms(searchable, PRIVACY_REVIEW_TERMS)
-    if privacy_flags:
+    category, confidence = classify_signal(source, searchable, event_keywords, url)
+    blocked_privacy_flags = matched_terms(searchable, BLOCKED_PRIVACY_TERMS)
+    context_review_flags = matched_terms(searchable, PUBLIC_CONTEXT_REVIEW_TERMS)
+    if blocked_privacy_flags or context_review_flags:
         confidence = min(confidence, 55)
 
     snippets = find_keyword_snippets(strip_html(searchable), keyword_matches + event_matches)
@@ -239,7 +253,9 @@ def make_signal(
         "detectedDates": detected_dates,
         "matchedKeywords": keyword_matches,
         "matchedEventKeywords": event_matches,
-        "privacyReviewFlags": privacy_flags,
+        "privacyReviewFlags": blocked_privacy_flags + context_review_flags,
+        "blockedPrivacyFlags": blocked_privacy_flags,
+        "publicContextFlags": context_review_flags,
         "summary": snippets[0] if snippets else strip_html(searchable)[:260],
         "capturedAt": generated_at,
     }
@@ -378,6 +394,8 @@ def build_candidates(signals: list[dict[str, Any]], errors: list[dict[str, Any]]
                 "confidence": signal["confidence"],
                 "matchedKeywords": signal["matchedKeywords"],
                 "matchedEventKeywords": signal["matchedEventKeywords"],
+                "privacyReviewFlags": signal.get("privacyReviewFlags", []),
+                "blockedPrivacyFlags": signal.get("blockedPrivacyFlags", []),
                 "detectedDates": signal["detectedDates"],
                 "snippets": [signal["summary"]],
             }
@@ -387,14 +405,161 @@ def build_candidates(signals: list[dict[str, Any]], errors: list[dict[str, Any]]
     return candidates
 
 
+def source_type_for_event(signal: dict[str, Any]) -> str:
+    if signal.get("sourceType") == "新聞彙整":
+        return "媒體"
+    return str(signal.get("sourceType") or "公開來源")
+
+
+def event_date_from_signal(signal: dict[str, Any]) -> str:
+    detected_dates = signal.get("detectedDates") or []
+    if detected_dates:
+        return detected_dates[0]
+    for key in ("publishedAt", "capturedAt"):
+        value = signal.get(key)
+        if value:
+            try:
+                return datetime.fromisoformat(str(value).replace("Z", "+00:00")).date().isoformat()
+            except ValueError:
+                continue
+    return utc_now().date().isoformat()
+
+
+def should_publish_signal(signal: dict[str, Any], config: dict[str, Any]) -> bool:
+    settings = config.get("autoPublish", {})
+    if signal.get("blockedPrivacyFlags"):
+        return False
+    if not signal.get("matchedEventKeywords"):
+        return False
+    low_threshold = int(settings.get("lowConfidenceEventThreshold", 45))
+    high_threshold = int(settings.get("highConfidenceThreshold", 80))
+    if int(signal.get("confidence", 0)) >= high_threshold:
+        return True
+    return bool(settings.get("includeLowConfidenceEvents", True)) and int(signal.get("confidence", 0)) >= low_threshold
+
+
+def signal_status(signal: dict[str, Any], config: dict[str, Any]) -> str:
+    high_threshold = int(config.get("autoPublish", {}).get("highConfidenceThreshold", 80))
+    if int(signal.get("confidence", 0)) >= high_threshold and not signal.get("blockedPrivacyFlags"):
+        return "confirmed"
+    if signal.get("matchedEventKeywords"):
+        return "low-confidence"
+    return "source-only"
+
+
+def signal_type(signal: dict[str, Any], status: str) -> str:
+    if signal.get("publicContextFlags"):
+        return "自動抓取非正式公開足跡"
+    if status == "confirmed":
+        return "自動確認公開行程"
+    return "自動抓取低可信訊號"
+
+
+def signal_to_event(signal: dict[str, Any], config: dict[str, Any]) -> dict[str, Any]:
+    status = signal_status(signal, config)
+    source_name = str(signal.get("sourceName") or "公開來源")
+    event_keywords = signal.get("matchedEventKeywords") or []
+    matched_keywords = signal.get("matchedKeywords") or []
+    source_type = source_type_for_event(signal)
+    confidence = int(signal.get("confidence", 0))
+    summary_prefix = "高可信公開來源自動確認" if status == "confirmed" else "低可信度自動標注"
+
+    companies = [
+        {
+            "name": "NVIDIA",
+            "executives": ["黃仁勳"],
+            "relationship": "公開來源提及"
+        }
+    ]
+    if source_name not in {"Google News: 黃仁勳", "Google News: Jensen Huang"}:
+        companies.append(
+            {
+                "name": source_name,
+                "executives": ["未指名高層"],
+                "relationship": "公開來源 / 主辦方"
+            }
+        )
+
+    return {
+        "id": f"auto-{signal['id']}",
+        "date": event_date_from_signal(signal),
+        "time": "",
+        "city": "公開來源未明",
+        "country": "公開來源",
+        "venue": source_name,
+        "type": signal_type(signal, status),
+        "status": status,
+        "confidence": confidence,
+        "privacy": "public-auto",
+        "headline": signal.get("title") or "自動抓取公開訊號",
+        "summary": f"{summary_prefix}：{signal.get('summary') or '來源未提供摘要。'}",
+        "businessImpact": "這筆資料由公開來源自動抓取。高可信來源可直接作為正式時間線訊號；低可信資料已標注，應以後續官方公告或多來源交叉確認為準。",
+        "industries": ["自動抓取", "公開訊號"],
+        "watchlist": list(dict.fromkeys([source_name, *event_keywords, *matched_keywords]))[:8],
+        "mentionedCompanies": ["NVIDIA"],
+        "companies": companies,
+        "sources": [
+            {
+                "label": signal.get("title") or "自動抓取公開來源",
+                "url": signal.get("url"),
+                "publisher": source_name,
+                "sourceType": source_type,
+            }
+        ],
+        "autoGenerated": True,
+        "autoSignalId": signal["id"],
+        "autoCategory": signal.get("category"),
+        "autoCapturedAt": signal.get("capturedAt"),
+    }
+
+
+def auto_publish_events(events_path: Path, signals: list[dict[str, Any]], config: dict[str, Any], generated_at: str) -> int:
+    if not events_path.exists():
+        return 0
+
+    payload = json.loads(events_path.read_text(encoding="utf-8"))
+    original_events = [event for event in payload.get("events", []) if not str(event.get("id", "")).startswith("auto-")]
+    known_source_urls = {
+        source.get("url")
+        for event in original_events
+        for source in event.get("sources", [])
+        if source.get("url")
+    }
+    max_auto_events = int(config.get("autoPublish", {}).get("maxAutoEvents", 12))
+    auto_events: list[dict[str, Any]] = []
+
+    for signal in signals:
+        if len(auto_events) >= max_auto_events:
+            break
+        if not should_publish_signal(signal, config):
+            signal["status"] = signal_status(signal, config)
+            continue
+        if signal.get("url") in known_source_urls:
+            signal["status"] = "already-covered"
+            continue
+        signal["status"] = signal_status(signal, config)
+        auto_events.append(signal_to_event(signal, config))
+
+    payload["generatedAt"] = generated_at
+    payload["notice"] = "資料收錄公開來源可驗證事件；高可信自動發布，低可信自動標注；不代表即時位置，也不收私人會面推測。"
+    payload["events"] = sorted(
+        [*original_events, *auto_events],
+        key=lambda event: (event.get("date", ""), event.get("time", "")),
+        reverse=True,
+    )
+    write_json(events_path, payload)
+    return len(auto_events)
+
+
 def write_json(path: Path, payload: dict[str, Any]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="抓取公開來源並輸出最新公開訊號；正式事件仍需人工確認。")
+    parser = argparse.ArgumentParser(description="抓取公開來源，高可信自動發布，低可信自動標注。")
     parser.add_argument("--config", default=str(CONFIG_PATH))
+    parser.add_argument("--events", default=str(EVENTS_PATH))
     parser.add_argument("--candidate-output", default=str(CANDIDATE_OUTPUT_PATH))
     parser.add_argument("--signals-output", default=str(SIGNALS_OUTPUT_PATH))
     args = parser.parse_args()
@@ -402,23 +567,25 @@ def main() -> None:
     config = json.loads(Path(args.config).read_text(encoding="utf-8"))
     generated_at = utc_now().isoformat()
     signals, errors = build_signals(config)
+    published_count = auto_publish_events(Path(args.events), signals, config, generated_at)
 
     signal_payload = {
         "generatedAt": generated_at,
         "lookbackDays": int(config.get("lookbackDays", 30)),
-        "notice": "自動抓取公開來源產生的候選訊號；不代表即時位置，也不等於已確認行程。",
+        "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
+        "publishedToTimeline": published_count,
         "signals": signals,
         "errors": errors,
     }
     candidate_payload = {
         "generatedAt": generated_at,
-        "notice": "候選資料只供人工審核；確認前不要合併到 data/events.json。",
+        "notice": "候選資料同步保存；高可信已自動發布，低可信已標注。",
         "candidates": build_candidates(signals, errors),
     }
 
     write_json(Path(args.signals_output), signal_payload)
     write_json(Path(args.candidate_output), candidate_payload)
-    print(f"Wrote {len(signals)} signals to {args.signals_output}; {len(errors)} fetch errors")
+    print(f"Wrote {len(signals)} signals; published {published_count} auto events; {len(errors)} fetch errors")
 
 
 if __name__ == "__main__":

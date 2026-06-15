@@ -201,7 +201,7 @@ function renderHero(events = state.events) {
 function renderMetrics() {
   const companyNames = new Set(state.events.flatMap((event) => event.companies.map((company) => company.name)));
   const cityNames = new Set(state.events.map((event) => `${event.city}，${event.country}`));
-  const reviewCount = state.events.filter((event) => event.status !== "confirmed").length;
+  const reviewCount = state.events.filter((event) => event.status === "low-confidence" || event.status === "needs-review").length;
   els.metricEvents.textContent = state.events.length.toString();
   els.metricCities.textContent = cityNames.size.toString();
   els.metricCompanies.textContent = companyNames.size.toString();
@@ -295,13 +295,13 @@ function renderLatestSignals() {
   els.latestSignalList.innerHTML = "";
   const signals = state.latestSignals.slice(0, 8);
   const errorText = state.signalErrors.length ? `，${state.signalErrors.length} 個來源暫時抓取失敗` : "";
-  els.latestSignalCount.textContent = `${state.latestSignals.length} 筆候選`;
+  els.latestSignalCount.textContent = `${state.latestSignals.length} 筆訊號`;
   els.latestSignalSummary.textContent = state.signalGeneratedAt
     ? `最後自動抓取 ${formatGeneratedAt(state.signalGeneratedAt)}，回看 ${state.signalLookbackDays} 天${errorText}`
     : "尚未產生自動抓取資料";
 
   if (!signals.length) {
-    els.latestSignalList.innerHTML = '<div class="empty">目前沒有新的公開候選訊號。排程完成後會自動顯示在這裡。</div>';
+    els.latestSignalList.innerHTML = '<div class="empty">目前沒有新的公開訊號。排程完成後會自動顯示在這裡。</div>';
     return;
   }
 
@@ -315,7 +315,7 @@ function renderLatestSignals() {
         <span class="status">${escapeHtml(statusLabel(signal.status))}</span>
         <span class="category">${escapeHtml(signal.category || "公開訊號")}</span>
         <span class="confidence">可信度 ${escapeHtml(signal.confidence ?? "--")}%</span>
-        ${privacyFlags.length ? '<span class="source-grade">隱私界線需審核</span>' : ""}
+        ${privacyFlags.length ? '<span class="source-grade">隱私界線已標注</span>' : ""}
       </div>
       <h3><a href="${escapeAttribute(signal.url)}" target="_blank" rel="noreferrer">${escapeHtml(signal.title)}</a></h3>
       <p>${escapeHtml(signal.summary || "來源未提供摘要。")}</p>
@@ -329,10 +329,10 @@ function renderLatestSignals() {
     `;
     const reviewTags = [...(signal.matchedEventKeywords || [])];
     if (privacyFlags.length) {
-      reviewTags.push(...privacyFlags.map((flag) => `審核: ${flag}`));
+      reviewTags.push(...privacyFlags.map((flag) => `標注: ${flag}`));
     }
     renderTags(card.querySelector(".industries"), "命中", signal.matchedKeywords || []);
-    renderTags(card.querySelector(".watchlist"), "事件 / 審核", reviewTags);
+    renderTags(card.querySelector(".watchlist"), "事件 / 標注", reviewTags);
     els.latestSignalList.append(card);
   }
 }
@@ -411,7 +411,7 @@ function eventCategory(event) {
 function sourceProfile(event) {
   const sources = event.sources || [];
   const official = sources.filter((source) => source.sourceType === "官方").length;
-  const media = sources.filter((source) => source.sourceType === "媒體").length;
+  const media = sources.filter((source) => source.sourceType === "媒體" || source.sourceType === "新聞彙整").length;
   const video = sources.filter((source) => /on-demand|youtube|youtu\.be|video|replay|livestream/i.test(`${source.url} ${source.label}`)).length;
   const score = Math.min(100, official * 40 + media * 18 + video * 10);
   let grade = "待查";
@@ -760,6 +760,9 @@ function renderSources() {
 function statusLabel(status) {
   const labels = {
     "needs-review": "待確認",
+    "low-confidence": "低可信度",
+    "source-only": "僅來源提及",
+    "already-covered": "已收錄",
     confirmed: "已確認"
   };
   return labels[status] || status;

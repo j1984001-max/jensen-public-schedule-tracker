@@ -1,6 +1,12 @@
 {
   "lookbackDays": 30,
   "maxSignals": 24,
+  "autoPublish": {
+    "highConfidenceThreshold": 80,
+    "lowConfidenceEventThreshold": 45,
+    "maxAutoEvents": 12,
+    "includeLowConfidenceEvents": true
+  },
   "keywords": [
     "Jensen Huang",
     "Jen-Hsun Huang",

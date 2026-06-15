@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>黃仁勳公開行程追蹤</title>
-  <link rel="stylesheet" href="./styles.css?v=20260615-auto-update">
+  <link rel="stylesheet" href="./styles.css?v=20260615-auto-publish">
 </head>
 <body>
   <header class="topbar">
@@ -55,7 +55,7 @@
       </article>
       <article>
         <span id="metric-confirmed">0</span>
-        <p>需人工確認</p>
+        <p>低可信度</p>
       </article>
     </section>
 
@@ -159,7 +159,7 @@
           <p class="eyebrow">自動更新</p>
           <h2>最新公開訊號</h2>
         </div>
-        <span id="latest-signal-count">0 筆候選</span>
+        <span id="latest-signal-count">0 筆訊號</span>
       </div>
       <p id="latest-signal-summary" class="section-note">排程資料載入中。</p>
       <div id="latest-signal-list" class="latest-signal-list"></div>
@@ -176,6 +176,7 @@
           <select id="status-filter">
             <option value="all">全部</option>
             <option value="needs-review">待確認</option>
+            <option value="low-confidence">低可信度</option>
             <option value="confirmed">已確認</option>
           </select>
         </label>
@@ -303,6 +304,6 @@
     </article>
   </template>
 
-  <script src="./app.js?v=20260615-auto-update"></script>
+  <script src="./app.js?v=20260615-auto-publish"></script>
 </body>
 </html>
