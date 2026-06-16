@@ -1,45 +1,89 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
-  <title id="title">公開行程情報地圖</title>
-  <desc id="desc">抽象世界地圖，標示各區域的公開事件訊號。</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="title desc">
+  <title id="title">黃仁勳公開行程世界地圖</title>
+  <desc id="desc">簡化世界地圖，標示美國西岸、台北與首爾等公開行程訊號。</desc>
   <defs>
-    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0" stop-color="#0b1220"/>
-      <stop offset="0.5" stop-color="#111827"/>
-      <stop offset="1" stop-color="#1f2937"/>
+    <linearGradient id="ocean" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.52" stop-color="#0f1f33"/>
+      <stop offset="1" stop-color="#172b3f"/>
     </linearGradient>
-    <radialGradient id="pulse" cx="50%" cy="50%" r="50%">
-      <stop offset="0" stop-color="#f59e0b" stop-opacity=".85"/>
-      <stop offset=".35" stop-color="#22c55e" stop-opacity=".45"/>
+    <linearGradient id="land" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#9ca3af"/>
+      <stop offset="1" stop-color="#64748b"/>
+    </linearGradient>
+    <radialGradient id="asiaGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#f59e0b" stop-opacity=".9"/>
+      <stop offset=".38" stop-color="#22c55e" stop-opacity=".34"/>
       <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
     </radialGradient>
-    <filter id="blur">
-      <feGaussianBlur stdDeviation="8"/>
+    <radialGradient id="usGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity=".78"/>
+      <stop offset=".42" stop-color="#2563eb" stop-opacity=".24"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="13"/>
     </filter>
   </defs>
-  <rect width="1200" height="520" rx="28" fill="url(#bg)"/>
-  <g opacity=".12" stroke="#e5e7eb" stroke-width="1">
-    <path d="M0 80h1200M0 160h1200M0 240h1200M0 320h1200M0 400h1200"/>
-    <path d="M120 0v520M240 0v520M360 0v520M480 0v520M600 0v520M720 0v520M840 0v520M960 0v520M1080 0v520"/>
+
+  <rect width="1200" height="520" rx="28" fill="url(#ocean)"/>
+
+  <g opacity=".17" stroke="#e5e7eb" stroke-width="1">
+    <path d="M0 86h1200M0 173h1200M0 260h1200M0 347h1200M0 434h1200"/>
+    <path d="M100 0v520M200 0v520M300 0v520M400 0v520M500 0v520M600 0v520M700 0v520M800 0v520M900 0v520M1000 0v520M1100 0v520"/>
   </g>
-  <g fill="#94a3b8" opacity=".58">
-    <path d="M165 154l48-30 82 11 38 34-22 42-57 9-69-18-40 18-35-19 13-35z"/>
-    <path d="M313 244l50-24 63 20 31 45-28 54-57 30-55-33-32-58z"/>
-    <path d="M542 146l72-22 83 18 59 40 7 58-49 24-99-12-89 11-54-28 18-58z"/>
-    <path d="M734 283l45-36 58 14 39 48-10 67-53 42-61-31-36-59z"/>
-    <path d="M832 156l68-45 121 12 74 44-18 52-91 20-103-11-66 18-43-28 10-42z"/>
-    <path d="M936 300l83-19 55 33-9 55-54 38-68-25-29-43z"/>
+  <g font-family="Inter, Arial, sans-serif" font-size="10" fill="#cbd5e1" opacity=".38">
+    <text x="18" y="90">60N</text>
+    <text x="18" y="177">30N</text>
+    <text x="18" y="264">EQ</text>
+    <text x="18" y="351">30S</text>
+    <text x="18" y="438">60S</text>
   </g>
-  <g opacity=".85">
-    <circle cx="892" cy="176" r="108" fill="url(#pulse)" filter="url(#blur)"/>
-    <circle cx="892" cy="176" r="13" fill="#f59e0b"/>
-    <circle cx="892" cy="176" r="36" fill="none" stroke="#f59e0b" stroke-width="2"/>
-    <circle cx="626" cy="176" r="9" fill="#22c55e"/>
-    <circle cx="626" cy="176" r="28" fill="none" stroke="#22c55e" stroke-width="2"/>
-    <circle cx="330" cy="282" r="8" fill="#38bdf8"/>
-    <circle cx="330" cy="282" r="23" fill="none" stroke="#38bdf8" stroke-width="2"/>
+
+  <g fill="url(#land)" stroke="#dbeafe" stroke-opacity=".18" stroke-width="1.3">
+    <path d="M82 142C105 110 151 94 200 97C223 78 273 78 307 101C349 102 389 122 415 154C448 194 433 225 389 234C354 241 342 269 320 284C289 305 259 279 240 256C220 231 184 236 160 220C132 202 93 195 82 142Z"/>
+    <path d="M320 272C346 273 371 285 390 301C407 315 426 314 443 325C429 339 397 336 378 323C357 310 339 297 317 298Z"/>
+    <path d="M389 314C421 340 439 380 430 421C423 456 396 486 375 510C342 489 326 448 314 410C304 380 316 349 341 326C358 310 374 304 389 314Z"/>
+    <path d="M368 65C416 42 479 55 497 88C487 113 430 118 391 107C362 99 344 81 368 65Z"/>
+    <path d="M542 148C572 127 621 124 650 145C666 158 653 182 622 183C603 184 590 201 565 198C541 195 518 173 542 148Z"/>
+    <path d="M590 211C631 198 676 213 703 250C734 292 731 350 710 392C687 439 653 465 617 454C584 444 558 400 547 358C536 316 548 238 590 211Z"/>
+    <path d="M656 139C707 103 776 96 839 113C888 126 909 154 944 172C982 171 1018 190 1044 217C1073 248 1052 275 1010 274C977 274 959 294 928 307C899 319 869 300 846 277C822 252 791 264 762 247C735 231 704 230 682 209C660 188 638 161 656 139Z"/>
+    <path d="M759 252C783 270 791 306 775 334C750 316 738 281 759 252Z"/>
+    <path d="M832 282C856 288 876 304 886 326C862 330 835 314 820 296Z"/>
+    <path d="M982 177C996 183 1004 197 997 209C987 201 978 190 982 177Z"/>
+    <path d="M1018 203C1038 212 1055 232 1052 251C1029 239 1013 224 1018 203Z"/>
+    <path d="M882 379C925 350 997 356 1035 391C1057 414 1038 446 996 458C940 474 889 449 866 417C853 399 862 388 882 379Z"/>
+    <path d="M119 485C225 468 329 476 440 488C544 502 655 485 770 491C887 498 1005 476 1120 489L1167 520H57Z" opacity=".55"/>
   </g>
-  <g font-family="Inter, Arial, sans-serif" fill="#f8fafc">
-    <text x="58" y="72" font-size="26" font-weight="700">僅使用公開訊號</text>
-    <text x="58" y="105" font-size="15" fill="#cbd5e1">官方活動、新聞室、公開議程與具名媒體報導。</text>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M214 166C404 78 724 88 1018 176" stroke="#38bdf8" stroke-width="2.2" stroke-opacity=".62"/>
+    <path d="M1018 176C1024 192 1018 205 1004 216" stroke="#f59e0b" stroke-width="2.2" stroke-opacity=".72"/>
+  </g>
+
+  <g opacity=".96">
+    <circle cx="1018" cy="176" r="104" fill="url(#asiaGlow)" filter="url(#softGlow)"/>
+    <circle cx="214" cy="166" r="76" fill="url(#usGlow)" filter="url(#softGlow)"/>
+
+    <circle cx="214" cy="166" r="8" fill="#38bdf8"/>
+    <circle cx="214" cy="166" r="26" fill="none" stroke="#38bdf8" stroke-width="3"/>
+
+    <circle cx="1004" cy="216" r="8" fill="#22c55e"/>
+    <circle cx="1004" cy="216" r="24" fill="none" stroke="#22c55e" stroke-width="3"/>
+
+    <circle cx="1018" cy="176" r="10" fill="#f59e0b"/>
+    <circle cx="1018" cy="176" r="34" fill="none" stroke="#f59e0b" stroke-width="3"/>
+  </g>
+
+  <g font-family="Inter, Arial, sans-serif" font-weight="800">
+    <g fill="#f8fafc">
+      <text x="70" y="64" font-size="24">公開行程世界路線圖</text>
+      <text x="70" y="94" font-size="14" fill="#cbd5e1">只收官方活動、新聞室、公開議程與具名媒體報導。</text>
+    </g>
+    <g font-size="12" fill="#e0f2fe">
+      <text x="228" y="159">US West</text>
+      <text x="1034" y="170">Seoul</text>
+      <text x="1018" y="236">Taipei</text>
+    </g>
   </g>
 </svg>

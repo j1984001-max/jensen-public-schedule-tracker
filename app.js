@@ -170,6 +170,15 @@ function getFilteredEvents() {
   });
 }
 
+function hasSpecificRoutePlace(event) {
+  return Boolean(
+    event?.city &&
+    event?.country &&
+    event.city !== "公開來源未明" &&
+    event.country !== "公開來源"
+  );
+}
+
 function render() {
   const filtered = getFilteredEvents();
   renderHero(filtered);
@@ -187,7 +196,7 @@ function render() {
 }
 
 function renderHero(events = state.events) {
-  const latestPublicEvent = events[0];
+  const latestPublicEvent = events.find(hasSpecificRoutePlace) || events[0];
   if (!latestPublicEvent) {
     els.currentLocation.textContent = "目前沒有公開事件";
     els.currentSummary.textContent = "新增官方或媒體來源後，這裡會顯示最近一筆可公開確認的行程。";
@@ -200,7 +209,7 @@ function renderHero(events = state.events) {
 
 function renderMetrics() {
   const companyNames = new Set(state.events.flatMap((event) => event.companies.map((company) => company.name)));
-  const cityNames = new Set(state.events.map((event) => `${event.city}，${event.country}`));
+  const cityNames = new Set(state.events.filter(hasSpecificRoutePlace).map((event) => `${event.city}，${event.country}`));
   const reviewCount = state.events.filter((event) => event.status === "low-confidence" || event.status === "needs-review").length;
   els.metricEvents.textContent = state.events.length.toString();
   els.metricCities.textContent = cityNames.size.toString();
@@ -227,12 +236,17 @@ function renderRouteOverview(events) {
 
   const cities = [];
   const seen = new Set();
-  for (const event of [...events].reverse()) {
+  for (const event of [...events].reverse().filter(hasSpecificRoutePlace)) {
     const city = `${event.city}，${event.country}`;
     if (!seen.has(city)) {
       cities.push(city);
       seen.add(city);
     }
+  }
+
+  if (!cities.length) {
+    els.routeChain.innerHTML = '<span class="muted-chip">此篩選沒有明確城市</span>';
+    return;
   }
 
   for (const [index, city] of cities.entries()) {
@@ -245,7 +259,7 @@ function renderRouteOverview(events) {
 
 function renderStats(events) {
   const years = new Set(events.map((event) => event.date.slice(0, 4)));
-  const countries = new Set(events.map((event) => event.country));
+  const countries = new Set(events.filter(hasSpecificRoutePlace).map((event) => event.country));
   const namedExecs = new Set(
     events.flatMap((event) =>
       event.companies.flatMap((company) =>
@@ -266,7 +280,7 @@ function renderStats(events) {
     : "無資料";
 
   renderBars(els.yearBars, countBy(events, (event) => event.date.slice(0, 4)), "年");
-  renderRanking(els.cityRanking, countBy(events, (event) => `${event.city}，${event.country}`));
+  renderRanking(els.cityRanking, countBy(events.filter(hasSpecificRoutePlace), (event) => `${event.city}，${event.country}`));
   renderRanking(els.companyRanking, countBy(events.flatMap((event) => event.companies), (company) => company.name));
   renderMonthHeatmap(events);
   renderRanking(els.industryRanking, countBy(events.flatMap((event) => event.industries || []), (industry) => industry));

@@ -29,7 +29,19 @@
     "同台",
     "拜會",
     "會面",
-    "出席"
+    "出席",
+    "visit",
+    "trip",
+    "arrived",
+    "arrival",
+    "meeting",
+    "meetings",
+    "attend",
+    "訪問",
+    "造訪",
+    "抵達",
+    "訪韓",
+    "行程"
   ],
   "sources": [
     {
@@ -41,6 +53,18 @@
     {
       "name": "Google News: Jensen Huang",
       "url": "https://news.google.com/rss/search?q=%22Jensen%20Huang%22%20NVIDIA%20when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
+      "type": "新聞彙整",
+      "format": "rss"
+    },
+    {
+      "name": "Google News: Jensen Huang Korea",
+      "url": "https://news.google.com/rss/search?q=%22Jensen%20Huang%22%20%28Korea%20OR%20Seoul%20OR%20Samsung%20OR%20Hyundai%20OR%20LG%20OR%20%22SK%20Hynix%22%29%20when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
+      "type": "新聞彙整",
+      "format": "rss"
+    },
+    {
+      "name": "Google News: 黃仁勳 韓國",
+      "url": "https://news.google.com/rss/search?q=%E9%BB%83%E4%BB%81%E5%8B%B3%20%28%E9%9F%93%E5%9C%8B%20OR%20%E5%8D%97%E9%9F%93%20OR%20%E9%A6%96%E7%88%BE%20OR%20%E4%B8%89%E6%98%9F%20OR%20%E7%8F%BE%E4%BB%A3%20OR%20LG%20OR%20%E6%B5%B7%E5%8A%9B%E5%A3%AB%29%20when%3A30d&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
       "type": "新聞彙整",
       "format": "rss"
     },
