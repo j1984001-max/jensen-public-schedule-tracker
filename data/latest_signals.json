@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T23:01:58.157385+00:00",
+  "generatedAt": "2026-06-18T23:29:03.020019+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
   "publishedToTimeline": 12,
@@ -25,7 +25,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳造訪台韓卻獨缺日本 日媒坦言：國內出現危機感 - 自由財經 黃仁勳造訪台韓卻獨缺日本 日媒坦言：國內出現危機感 自由財經",
-      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
+      "capturedAt": "2026-06-18T23:29:03.020029+00:00"
     },
     {
       "id": "68caa57afa71",
@@ -48,7 +48,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "評析：三星仍在牌桌上？ 黃仁勳訪韓牽動HBM供應角力 - DIGITIMES 評析：三星仍在牌桌上？ 黃仁勳訪韓牽動HBM供應角力 DIGITIMES",
-      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
+      "capturedAt": "2026-06-18T23:29:03.020029+00:00"
     },
     {
       "id": "e2408fcd8a3d",
@@ -71,34 +71,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "GTC背板黃仁勳連三年欽點，這１０所大學為什麼能年年上榜？ - Cheers快樂工作人 GTC背板黃仁勳連三年欽點，這１０所大學為什麼能年年上榜？ Cheers快樂工作人",
-      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
-    },
-    {
-      "id": "3b161b99eba8",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 55,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳訪韓如超級巨星！企業大佬幫倒酒、陪笑吃烤肉粉酸：財閥家小兒子 - 三立新聞網SETN.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE51NnFsQVp0c2tyRHFXTTJJMUhQUmc3SUkxalgzSGFsVng5MUd3c2h6VExabDZIUWNmRjVwbmtIdmt3NUhWUnBPNFJRR0xYbkRxaHVfbkc5VTDSAV9BVV95cUxQckdNbDZ0WGJvcTBtS1NaNk5pVWJyMTdpSFI5SVN4Q3dDZHZuRFhXN21LZWpOZmxnSG90TUpZbU5YazIzUkhBRG8yQW13cFpzTTlyc1MxQk9fYUNVeVlnYw?oc=5",
-      "publishedAt": "2026-06-08T08:06:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "訪韓"
-      ],
-      "privacyReviewFlags": [
-        "吃"
-      ],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [
-        "吃"
-      ],
-      "summary": "黃仁勳訪韓如超級巨星！企業大佬幫倒酒、陪笑吃烤肉粉酸：財閥家小兒子 - 三立新聞網SETN.com 黃仁勳訪韓如超級巨星！企業大佬幫倒酒、陪笑吃烤肉粉酸：財閥家小兒子 三立新聞網SETN.com",
-      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
+      "capturedAt": "2026-06-18T23:29:03.020029+00:00"
     },
     {
       "id": "3b7335d81427",
@@ -121,7 +94,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳訪韓國宣布3大合作案布局AI資料中心| 產經 - 中央社 CNA 黃仁勳訪韓國宣布3大合作案布局AI資料中心| 產經 中央社 CNA",
-      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
+      "capturedAt": "2026-06-18T23:29:03.020029+00:00"
     },
     {
       "id": "59c804afe7a0",
@@ -145,7 +118,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳結束訪韓行程！親揭此行最大收穫 - Yahoo新聞 黃仁勳結束訪韓行程！親揭此行最大收穫 Yahoo新聞",
-      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
+      "capturedAt": "2026-06-18T23:29:03.020029+00:00"
     },
     {
       "id": "4ec158fbd603",
@@ -168,7 +141,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳首登韓綜！命理師驚揭黃仁勳擁「帝王面相」 - Yahoo股市 黃仁勳首登韓綜！命理師驚揭黃仁勳擁「帝王面相」 Yahoo股市",
-      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
+      "capturedAt": "2026-06-18T23:29:03.020029+00:00"
     },
     {
       "id": "732be52c5170",
@@ -193,7 +166,30 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Where Nvidia CEO Jensen Huang ate during 3-day Seoul visit - The Korea Times Where Nvidia CEO Jensen Huang ate during 3-day Seoul visit The Korea Times",
-      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
+      "capturedAt": "2026-06-18T23:29:03.020029+00:00"
+    },
+    {
+      "id": "d44107756cd2",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳訪韓掀旋風韓媒解析「3原因」擄獲年輕人的心| 全球財經| 全球 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PbUw5S01NNkg5MGJmeWxSWVJYYmpTNzBQUHYyMkF0MTJCeWFlTkM5RmgwcmpSaVRXWElYV3VCVnNwM2I1RS1HQ0FCWi0tTlhY?oc=5",
+      "publishedAt": "2026-06-07T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "訪韓"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳訪韓掀旋風韓媒解析「3原因」擄獲年輕人的心| 全球財經| 全球 - UDN 黃仁勳訪韓掀旋風韓媒解析「3原因」擄獲年輕人的心| 全球財經| 全球 UDN",
+      "capturedAt": "2026-06-18T23:29:03.020029+00:00"
     },
     {
       "id": "a5853628b94d",
@@ -224,7 +220,7 @@
         "吃"
       ],
       "summary": "黃仁勳訪韓私人行程曝光！帶家人大啖蔘雞湯直呼好吃 - 自由財經 黃仁勳訪韓私人行程曝光！帶家人大啖蔘雞湯直呼好吃 自由財經",
-      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
+      "capturedAt": "2026-06-18T23:29:03.020029+00:00"
     },
     {
       "id": "3d0d29d7230c",
@@ -247,7 +243,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "影／黃仁勳訪韓宣布送「4份AI大禮」！強調深化合作：韓國夥伴很重要...自爆是韓劇迷：總讓我想哭 - 今周刊 影／黃仁勳訪韓宣布送「4份AI大禮」！強調深化合作：韓國夥伴很重要...自爆是韓劇迷：總讓我想哭 今周刊",
-      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
+      "capturedAt": "2026-06-18T23:29:03.020029+00:00"
     },
     {
       "id": "821ddd159d73",
@@ -271,7 +267,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳造訪韓人架網站盯足跡「韓版兆元宴」藏玄機| 全球財經| 全球 - UDN 黃仁勳造訪韓人架網站盯足跡「韓版兆元宴」藏玄機| 全球財經| 全球 UDN",
-      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
+      "capturedAt": "2026-06-18T23:29:03.020029+00:00"
     },
     {
       "id": "c6c1dcf04cae",
@@ -298,7 +294,7 @@
         "吃"
       ],
       "summary": "黃仁勳訪韓首晚嗨翻！揪SK、LG、Naver大咖吃烤肉 送韓國4大AI禮物 - 工商時報 黃仁勳訪韓首晚嗨翻！揪SK、LG、Naver大咖吃烤肉 送韓國4大AI禮物 工商時報",
-      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
+      "capturedAt": "2026-06-18T23:29:03.020029+00:00"
     },
     {
       "id": "bf5ed5a4ec37",
@@ -323,7 +319,32 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Tracking website, food watch: South Korea is obsessing over Nvidia CEO Jensen Huang's visit - CNBC Tracking website, food watch: South Korea is obsessing over Nvidia CEO Jensen Huang's visit CNBC",
-      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
+      "capturedAt": "2026-06-18T23:29:03.020029+00:00"
+    },
+    {
+      "id": "1eac308a94e6",
+      "status": "needs-review",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Nvidia CEO Jensen Huang calls on Korean gaming superstar Faker during Seoul visit - AP News",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVGNRd3JZWHUtell2dXdQdGlDZk9zYjNwa0dnMDBCTEtIeUM4bUY2MU5kVkduWWhxNlV0Q0owMm1WbDdFanRrSFcyT01TbUN3dzR6Vi1BR1pQY0FjUlliSWZ4TkEtODhnR0JScjhpMlFTekpDUFA2TTNwX2prQmZ5eDA4X0J6OW9xUkx3dldvS3N6dlpfMlJRYVU1Rl9yWElkTmNOZmtlWEZWaVJPRkxPY2lYYk9YLWlGMl9fWTIwNjFoNkdNcE9uNkx4TlV4dGpld3dyUlJR?oc=5",
+      "publishedAt": "2026-06-05T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang",
+        "NVIDIA CEO",
+        "Nvidia CEO"
+      ],
+      "matchedEventKeywords": [
+        "visit"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Nvidia CEO Jensen Huang calls on Korean gaming superstar Faker during Seoul visit - AP News Nvidia CEO Jensen Huang calls on Korean gaming superstar Faker during Seoul visit AP News",
+      "capturedAt": "2026-06-18T23:29:03.020029+00:00"
     },
     {
       "id": "6b8ae1af6b7d",
@@ -349,7 +370,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Five thoughts from Nvidia CEO Jensen Huang’s GTC Taipei 2026 keynote - SiliconANGLE Five thoughts from Nvidia CEO Jensen Huang’s GTC Taipei 2026 keynote SiliconANGLE",
-      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
+      "capturedAt": "2026-06-18T23:29:03.020029+00:00"
     },
     {
       "id": "268452949d75",
@@ -372,7 +393,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Will Nvidia Stock Rise During June 1 to June 4 From CEO Jensen Huang's Participation in COMPUTEX 2026? - The Motley Fool Will Nvidia Stock Rise During June 1 to June 4 From CEO Jensen Huang's Participation in COMPUTEX 2026? The Motley Fool",
-      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
+      "capturedAt": "2026-06-18T23:29:03.020029+00:00"
     },
     {
       "id": "f15d24432624",
@@ -395,7 +416,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang says it doesn't matter what kids study in the AI era - Business Insider Jensen Huang says it doesn't matter what kids study in the AI era Business Insider",
-      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
+      "capturedAt": "2026-06-18T23:29:03.020029+00:00"
     },
     {
       "id": "2658ade3f23e",
@@ -418,7 +439,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "China banned Nvidia’s gaming chip during Jensen Huang’s visit - Financial Times China banned Nvidia’s gaming chip during Jensen Huang’s visit Financial Times",
-      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
+      "capturedAt": "2026-06-18T23:29:03.020029+00:00"
     },
     {
       "id": "6ecd6f51d154",
@@ -441,7 +462,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang Just Announced Fantastic News to Microsoft Stock Investors - The Motley Fool Nvidia CEO Jensen Huang Just Announced Fantastic News to Microsoft Stock Investors The Motley Fool",
-      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
+      "capturedAt": "2026-06-18T23:29:03.020029+00:00"
     },
     {
       "id": "f293427702eb",
@@ -462,7 +483,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "AP Exclusive: Nvidia’s Jensen Huang says society needs ‘new social norms’ in the age of AI - AP News AP Exclusive: Nvidia’s Jensen Huang says society needs ‘new social norms’ in the age of AI AP News",
-      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
+      "capturedAt": "2026-06-18T23:29:03.020029+00:00"
     },
     {
       "id": "9d95e6c0a7af",
@@ -483,7 +504,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia’s Jensen Huang says society needs ‘new social norms’ in the age of AI - South China Morning Post Nvidia’s Jensen Huang says society needs ‘new social norms’ in the age of AI South China Morning",
-      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
+      "capturedAt": "2026-06-18T23:29:03.020029+00:00"
     },
     {
       "id": "9df5531bab9a",
@@ -504,28 +525,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia’s Jensen Huang says society needs ‘new social norms’ in the age of AI - South China Morning Post Nvidia’s Jensen Huang says society needs ‘new social norms’ in the age of AI South China Morning",
-      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
-    },
-    {
-      "id": "3df6a1e0560e",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "下一家兆美元企業是它？黃仁勳看好的AI新寵引熱議 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNYTIwV2dWU0F1WDd1emV3TVh0WEp2MVNGTjFLNFZNTjhORzVHMGw1Nkg2eU1CSjNuOWJfa09wUUNEMDVSYlR1cGJqaDZWbjJvM3BpT0ZZTF95ZWtzM2EtVGZEQVJhYTQ1VFNheU5MaE9qUkRFZTF0RV9pd1FEbHIxU0wzdk55ZHQyZ2xXOTdJT0xhLXBfcFFmdEFQWElsU01SM2NpY0l1WlNieHhGVlpYaUJLVkNMdjFpdC1XbExYUENuWUZFaHE1QzNRb0xJYjlnNXdDdHd6RUtJUVpnSWpVX1hhMDdhMWZnbF9jNmhVQnh3ZnlZZGZnZzZTR2JuQ0E1SjBzSVNuOUpWb0NNYW03bXJfejNlYjc5Xy1HSGNhU0YtdVNtU1J6bHdadUVtNk84al93NVlFdkI1eU05QmdzMHdvNUY4cDVCUnlfcVFpTlM?oc=5",
-      "publishedAt": "2026-06-16T16:00:10+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "下一家兆美元企業是它？黃仁勳看好的AI新寵引熱議 - Yahoo股市 下一家兆美元企業是它？黃仁勳看好的AI新寵引熱議 Yahoo股市",
-      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
+      "capturedAt": "2026-06-18T23:29:03.020029+00:00"
     },
     {
       "id": "3d71af427bca",
@@ -546,7 +546,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳的10個職場心法！當AI愈來愈聰明，人更需要這些純粹的能力！ - gq.com.tw 黃仁勳的10個職場心法！當AI愈來愈聰明，人更需要這些純粹的能力！ gq.com.tw",
-      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
+      "capturedAt": "2026-06-18T23:29:03.020029+00:00"
     },
     {
       "id": "ffabe5e57066",
@@ -569,7 +569,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang Says This Will Be the Next $1 Trillion Company - The Motley Fool Nvidia CEO Jensen Huang Says This Will Be the Next $1 Trillion Company The Motley Fool",
-      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
+      "capturedAt": "2026-06-18T23:29:03.020029+00:00"
     }
   ],
   "errors": [
