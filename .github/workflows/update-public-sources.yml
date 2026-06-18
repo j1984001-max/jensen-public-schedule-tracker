@@ -2,7 +2,11 @@ name: Update public source signals
 
 on:
   schedule:
-    - cron: "0 22 * * *"
+    # GitHub scheduled runs can be delayed, so keep several safe refresh windows.
+    - cron: "0 19 * * *" # 03:00 Asia/Taipei
+    - cron: "0 22 * * *" # 06:00 Asia/Taipei
+    - cron: "0 2 * * *" # 10:00 Asia/Taipei
+    - cron: "0 8 * * *" # 16:00 Asia/Taipei
   workflow_dispatch:
 
 permissions:

@@ -1,9 +1,32 @@
 {
-  "generatedAt": "2026-06-17T23:17:13.999728+00:00",
+  "generatedAt": "2026-06-18T23:01:58.157385+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
   "publishedToTimeline": 12,
   "signals": [
+    {
+      "id": "768690d8be4f",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳造訪台韓卻獨缺日本 日媒坦言：國內出現危機感 - 自由財經",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rUEdHMGJKVUFiRkxRbG82THVYeXNjYk5tbnd0amdXeFV3N3Y5WWp5M3Vza1JQRUNLd2JZOWNRZFdfeG1vVXJlNmJ6MGhuMGpfdElXMk9wN0VjbWo1eldz0gFkQVVfeXFMTmZ6Y0pZUG44MDAwMF9mV3BYZTJ4d29ob0dpQjFYRnJEU09UUFdlZHZDQmttTEhKRE5sbFlQbnhxRWhJSWJyUDdMMmppSW4zd3Q1NFBBdnF4dUJ2VjZvLTQ2YjFWMg?oc=5",
+      "publishedAt": "2026-06-15T12:55:48+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "造訪"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳造訪台韓卻獨缺日本 日媒坦言：國內出現危機感 - 自由財經 黃仁勳造訪台韓卻獨缺日本 日媒坦言：國內出現危機感 自由財經",
+      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
+    },
     {
       "id": "68caa57afa71",
       "status": "low-confidence",
@@ -25,7 +48,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "評析：三星仍在牌桌上？ 黃仁勳訪韓牽動HBM供應角力 - DIGITIMES 評析：三星仍在牌桌上？ 黃仁勳訪韓牽動HBM供應角力 DIGITIMES",
-      "capturedAt": "2026-06-17T23:17:13.999738+00:00"
+      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
     },
     {
       "id": "e2408fcd8a3d",
@@ -48,7 +71,104 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "GTC背板黃仁勳連三年欽點，這１０所大學為什麼能年年上榜？ - Cheers快樂工作人 GTC背板黃仁勳連三年欽點，這１０所大學為什麼能年年上榜？ Cheers快樂工作人",
-      "capturedAt": "2026-06-17T23:17:13.999738+00:00"
+      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
+    },
+    {
+      "id": "3b161b99eba8",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 55,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳訪韓如超級巨星！企業大佬幫倒酒、陪笑吃烤肉粉酸：財閥家小兒子 - 三立新聞網SETN.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE51NnFsQVp0c2tyRHFXTTJJMUhQUmc3SUkxalgzSGFsVng5MUd3c2h6VExabDZIUWNmRjVwbmtIdmt3NUhWUnBPNFJRR0xYbkRxaHVfbkc5VTDSAV9BVV95cUxQckdNbDZ0WGJvcTBtS1NaNk5pVWJyMTdpSFI5SVN4Q3dDZHZuRFhXN21LZWpOZmxnSG90TUpZbU5YazIzUkhBRG8yQW13cFpzTTlyc1MxQk9fYUNVeVlnYw?oc=5",
+      "publishedAt": "2026-06-08T08:06:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "訪韓"
+      ],
+      "privacyReviewFlags": [
+        "吃"
+      ],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [
+        "吃"
+      ],
+      "summary": "黃仁勳訪韓如超級巨星！企業大佬幫倒酒、陪笑吃烤肉粉酸：財閥家小兒子 - 三立新聞網SETN.com 黃仁勳訪韓如超級巨星！企業大佬幫倒酒、陪笑吃烤肉粉酸：財閥家小兒子 三立新聞網SETN.com",
+      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
+    },
+    {
+      "id": "3b7335d81427",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳訪韓國宣布3大合作案布局AI資料中心| 產經 - 中央社 CNA",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02TjJLVW4ySUF6X3lUS0l5NEQtZFkwbzBRRFNPNWR1b0xYUnYyenBvTDU4czBqdWx2X25LdFptVHdqZEp1SWEzUXNCazZOSmc0M1JjbzBOLTdEelQ4dFE?oc=5",
+      "publishedAt": "2026-06-08T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "訪韓"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳訪韓國宣布3大合作案布局AI資料中心| 產經 - 中央社 CNA 黃仁勳訪韓國宣布3大合作案布局AI資料中心| 產經 中央社 CNA",
+      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
+    },
+    {
+      "id": "59c804afe7a0",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳結束訪韓行程！親揭此行最大收穫 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNMV9fZlBkZV8wWDdLQlpRTVVCVDRjdmdRcXB4UWEyendteFhEXzFpbXFsdlR2ajNTOXNDR2dtNjVxWllJVVJoMVQ5QzRGbFBGbTNNYnpXZGRsZUlvcmtmZ2pGb29TVDlDRmZBNnF0c0tUTDRkRGFlaEhuTnVSN2pWODZud1BjcWlYS0ZRUUw4eWdUQmtxNmhFbUJkQXNOdm8wX0hhTmQ3NkNackNaa0ZhNWhsSm04ZGFIYWlDV2lBV2FLSURqdUNia3ZuZHBwcGVZR1FHTW5sdlpwbmpBQ2M0b2NOR252VkdNbUdzZHl3dU84bk5nR0phTDRjVi1TSWFxN0M4QlVUSVM0Z1RpeG1pY3BCOTBXRVVid0RRN0ZkX0o?oc=5",
+      "publishedAt": "2026-06-08T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "訪韓",
+        "行程"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳結束訪韓行程！親揭此行最大收穫 - Yahoo新聞 黃仁勳結束訪韓行程！親揭此行最大收穫 Yahoo新聞",
+      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
+    },
+    {
+      "id": "4ec158fbd603",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳首登韓綜！命理師驚揭黃仁勳擁「帝王面相」 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQczltSGxFSkRkbnVCSlRtSUdxT2xqSFh5eks1REtPZXd6eEdsLUtxbmF3VkMxaVlrcnMxdXJUbmFyUnpCdlZTVkRhZUIxNlFKaERHeU9yblYxdDFRR091TEJmUnYtcVpQZVppVVUwakRENUhyeHFqWWxxNS1qSkhtcGxPVzBCMmtLNzRNRkRyWUhrU0l5VjAwcHVlT3lZSmZ4S2FJZXozYTVMUk9UdDVrZE1PZ2w1OW1JX2hVUTgtcWVzdUh3NU9JWXBEcHJDbXJJMi0yU291VjFEVTRPWWdYNUhHUUg1d01IUzhjSXNOekNZakg1Q2JWdnFPTUIwMjJTdUR3MlotYTNjQzNUVFdOUzJzcHd0RlY5NEhvbFM5WWl0OFZHaTNrdjU2ZFo1cXB1QVF5ekJsQkwtWHRPUnJEczJ6dHB5ODd5Vm1GeElB?oc=5",
+      "publishedAt": "2026-06-08T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "GTC"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳首登韓綜！命理師驚揭黃仁勳擁「帝王面相」 - Yahoo股市 黃仁勳首登韓綜！命理師驚揭黃仁勳擁「帝王面相」 Yahoo股市",
+      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
     },
     {
       "id": "732be52c5170",
@@ -73,53 +193,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Where Nvidia CEO Jensen Huang ate during 3-day Seoul visit - The Korea Times Where Nvidia CEO Jensen Huang ate during 3-day Seoul visit The Korea Times",
-      "capturedAt": "2026-06-17T23:17:13.999738+00:00"
-    },
-    {
-      "id": "668bceac9507",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳訪韓國宣布3大合作案布局AI資料中心| 產經 - 中央社 CNA",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02TjJLVW4ySUF6X3lUS0l5NEQtZFkwbzBRRFNPNWR1b0xYUnYyenBvTDU4czBqdWx2X25LdFptVHdqZEp1SWEzUXNCazZOSmc0M1JjbzBOLTdEelQ4dFE?oc=5",
-      "publishedAt": "2026-06-08T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "訪韓"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳訪韓國宣布3大合作案布局AI資料中心| 產經 - 中央社 CNA 黃仁勳訪韓國宣布3大合作案布局AI資料中心| 產經 中央社 CNA",
-      "capturedAt": "2026-06-17T23:17:13.999738+00:00"
-    },
-    {
-      "id": "7b33761b8452",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳訪韓被台粉狂叫爸！正牌女兒「反應」曝光 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPUFNKNC0zMmQ5NXJQY0k5NE4yTUZRZlNUMWIwV3JPUC00U0plTFQzb1JoX29lU2pKVTBLaHgxN0hiWGJMVmFsRWx6V3FVZTNpOGM3aXRuckRHU0c3RUJEZkgybmxtY1NuaTMxZUk2WmJvM3lRZlpZbjhxRFEtemE1dS05RWtmSUtrYUNreGRqckpwQmc4VDNuUkc5Y2prRHg3VUdQczRyWVpuV3BpNlc2Ry1Kd3VwbHQwYXZZdFphODNiUlNISVg0NERGS2dOSnlqVDNGc2tLenJTdlRDbGgyVk1obkJrUndRZ3A1WVN6d01qUVJuR1dJWktYR2ZsbVV6MzNQWGx5ZWdYNkVsemhYa1BZWXNRQ3NNOURYSUd1ZW1jalU0VEh1SHBzLW1KQndPdXVkV0RaYzY5bzVOZFJhbWJtVQ?oc=5",
-      "publishedAt": "2026-06-07T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "訪韓"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳訪韓被台粉狂叫爸！正牌女兒「反應」曝光 - Yahoo股市 黃仁勳訪韓被台粉狂叫爸！正牌女兒「反應」曝光 Yahoo股市",
-      "capturedAt": "2026-06-17T23:17:13.999738+00:00"
+      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
     },
     {
       "id": "a5853628b94d",
@@ -150,7 +224,7 @@
         "吃"
       ],
       "summary": "黃仁勳訪韓私人行程曝光！帶家人大啖蔘雞湯直呼好吃 - 自由財經 黃仁勳訪韓私人行程曝光！帶家人大啖蔘雞湯直呼好吃 自由財經",
-      "capturedAt": "2026-06-17T23:17:13.999738+00:00"
+      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
     },
     {
       "id": "3d0d29d7230c",
@@ -173,7 +247,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "影／黃仁勳訪韓宣布送「4份AI大禮」！強調深化合作：韓國夥伴很重要...自爆是韓劇迷：總讓我想哭 - 今周刊 影／黃仁勳訪韓宣布送「4份AI大禮」！強調深化合作：韓國夥伴很重要...自爆是韓劇迷：總讓我想哭 今周刊",
-      "capturedAt": "2026-06-17T23:17:13.999738+00:00"
+      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
     },
     {
       "id": "821ddd159d73",
@@ -197,7 +271,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳造訪韓人架網站盯足跡「韓版兆元宴」藏玄機| 全球財經| 全球 - UDN 黃仁勳造訪韓人架網站盯足跡「韓版兆元宴」藏玄機| 全球財經| 全球 UDN",
-      "capturedAt": "2026-06-17T23:17:13.999738+00:00"
+      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
     },
     {
       "id": "c6c1dcf04cae",
@@ -224,7 +298,7 @@
         "吃"
       ],
       "summary": "黃仁勳訪韓首晚嗨翻！揪SK、LG、Naver大咖吃烤肉 送韓國4大AI禮物 - 工商時報 黃仁勳訪韓首晚嗨翻！揪SK、LG、Naver大咖吃烤肉 送韓國4大AI禮物 工商時報",
-      "capturedAt": "2026-06-17T23:17:13.999738+00:00"
+      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
     },
     {
       "id": "bf5ed5a4ec37",
@@ -249,78 +323,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Tracking website, food watch: South Korea is obsessing over Nvidia CEO Jensen Huang's visit - CNBC Tracking website, food watch: South Korea is obsessing over Nvidia CEO Jensen Huang's visit CNBC",
-      "capturedAt": "2026-06-17T23:17:13.999738+00:00"
-    },
-    {
-      "id": "1eac308a94e6",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Nvidia CEO Jensen Huang calls on Korean gaming superstar Faker during Seoul visit - AP News",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVGNRd3JZWHUtell2dXdQdGlDZk9zYjNwa0dnMDBCTEtIeUM4bUY2MU5kVkduWWhxNlV0Q0owMm1WbDdFanRrSFcyT01TbUN3dzR6Vi1BR1pQY0FjUlliSWZ4TkEtODhnR0JScjhpMlFTekpDUFA2TTNwX2prQmZ5eDA4X0J6OW9xUkx3dldvS3N6dlpfMlJRYVU1Rl9yWElkTmNOZmtlWEZWaVJPRkxPY2lYYk9YLWlGMl9fWTIwNjFoNkdNcE9uNkx4TlV4dGpld3dyUlJR?oc=5",
-      "publishedAt": "2026-06-05T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang",
-        "NVIDIA CEO",
-        "Nvidia CEO"
-      ],
-      "matchedEventKeywords": [
-        "visit"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Nvidia CEO Jensen Huang calls on Korean gaming superstar Faker during Seoul visit - AP News Nvidia CEO Jensen Huang calls on Korean gaming superstar Faker during Seoul visit AP News",
-      "capturedAt": "2026-06-17T23:17:13.999738+00:00"
-    },
-    {
-      "id": "b72b5998839d",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "輝達不再只是晶片廠！黃仁勳GTC揭5重點，攜手微軟重塑PC－中央社 - 商周",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QNU9ud0Z1Z3ZaU21DclhYUlE0UFJZUHhEYU5tNmYyVjY0bWxLMDREajlwMjJpT0NRQTIwbDZzTHAzX182Mm9KeXZMbzBvZHI2VkVEMnpiUTBaaklReTFtYUh6ZTBWQQ?oc=5",
-      "publishedAt": "2026-06-02T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "GTC"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "輝達不再只是晶片廠！黃仁勳GTC揭5重點，攜手微軟重塑PC－中央社 - 商周 輝達不再只是晶片廠！黃仁勳GTC揭5重點，攜手微軟重塑PC－中央社 商周",
-      "capturedAt": "2026-06-17T23:17:13.999738+00:00"
-    },
-    {
-      "id": "282f351eca66",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳演講，有哪些 Agentic AI 架構認知你需要更新？ - CIO Taiwan",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE95RUdKVnNkY3E0Y0lxSHRXdHAyeS1WVG9HSmNHMXRVYVpkcnQ4eGNPNjB0cTVNaC15eVNBdkFlcWlSY2lB?oc=5",
-      "publishedAt": "2026-06-01T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "演講"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳演講，有哪些 Agentic AI 架構認知你需要更新？ - CIO Taiwan 黃仁勳演講，有哪些 Agentic AI 架構認知你需要更新？ CIO Taiwan",
-      "capturedAt": "2026-06-17T23:17:13.999738+00:00"
+      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
     },
     {
       "id": "6b8ae1af6b7d",
@@ -346,34 +349,30 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Five thoughts from Nvidia CEO Jensen Huang’s GTC Taipei 2026 keynote - SiliconANGLE Five thoughts from Nvidia CEO Jensen Huang’s GTC Taipei 2026 keynote SiliconANGLE",
-      "capturedAt": "2026-06-17T23:17:13.999738+00:00"
+      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
     },
     {
-      "id": "0163ca968537",
+      "id": "268452949d75",
       "status": "needs-review",
       "category": "媒體公開行程候選",
-      "confidence": 55,
-      "sourceName": "Google News: 黃仁勳 韓國",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang",
       "sourceType": "新聞彙整",
-      "title": "韓版兆元宴在台北！黃仁勳宴請三星、SK海力士高層吃熱炒 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQcGlvVTYxRzlsMmt3aXZHeGwzQlJKaHU3OG1zV0Y0MkU0bVAxV3pjOWpfN0UyMjcxWFMzbHV6a1M5NEU3a1J1eVpycmR3T0xzRzNneTFPT3l2VmZHT2h5MFRUcnJvb2tyQm5ia3NEM05PUDM0WVBvSzRyU2lKY1BiWl81QjFiVFRBU3FYWUJ1NXd1MXNTd3hXVEhGZGI2Ry1pMEVPWkdBa1U5ZVAzampRbXgxLTNSdWJNX3g0LUJVLXpWNUVVN1NSN21Lc1RmRWNQTGxHc08tZXVoSDFqSjkzbTVZUHdINk96em1kc3hodUx2SU5uTWhCd21VMzgtcFh1LVYxWXB1UDVWM1VtZWZBaUZQaUhZR1ItbXlTNzk0VjRyOHFZTmt0THdHeG1GWEJJR1hqcWVwcFhDc1VnbFNYTXlRNlZFZzY3UkV2QlBfLTRtYzJoc0RnQlVNTFBZcVh2dlcyd1VlOTh1RFFnR19CSWRPb1I?oc=5",
-      "publishedAt": "2026-06-01T07:00:00+00:00",
+      "title": "Will Nvidia Stock Rise During June 1 to June 4 From CEO Jensen Huang's Participation in COMPUTEX 2026? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZUptOTRtb0ZPWTg2Q0paeklkN3hLVHpkc19rNld1OFBDZktqS1ltTFF1RU8xNUZHclRTNTdqME1Bc3ZnOTByNzlPUUg5ZTNiSm9EbnJxT3B4YjFuN0szMVp0bzJCcEZMbExLb1A1YzRKN3g1N3otRkNTdVZwTXR1Z0NxY3hsSWJhTFZv?oc=5",
+      "publishedAt": "2026-05-31T07:00:00+00:00",
       "detectedDates": [],
       "matchedKeywords": [
-        "黃仁勳"
+        "Jensen Huang"
       ],
       "matchedEventKeywords": [
-        "GTC"
+        "COMPUTEX"
       ],
-      "privacyReviewFlags": [
-        "吃"
-      ],
+      "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
-      "publicContextFlags": [
-        "吃"
-      ],
-      "summary": "韓版兆元宴在台北！黃仁勳宴請三星、SK海力士高層吃熱炒 - Yahoo股市 韓版兆元宴在台北！黃仁勳宴請三星、SK海力士高層吃熱炒 Yahoo股市",
-      "capturedAt": "2026-06-17T23:17:13.999738+00:00"
+      "publicContextFlags": [],
+      "summary": "Will Nvidia Stock Rise During June 1 to June 4 From CEO Jensen Huang's Participation in COMPUTEX 2026? - The Motley Fool Will Nvidia Stock Rise During June 1 to June 4 From CEO Jensen Huang's Participation in COMPUTEX 2026? The Motley Fool",
+      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
     },
     {
       "id": "f15d24432624",
@@ -396,7 +395,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang says it doesn't matter what kids study in the AI era - Business Insider Jensen Huang says it doesn't matter what kids study in the AI era Business Insider",
-      "capturedAt": "2026-06-17T23:17:13.999738+00:00"
+      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
     },
     {
       "id": "2658ade3f23e",
@@ -419,7 +418,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "China banned Nvidia’s gaming chip during Jensen Huang’s visit - Financial Times China banned Nvidia’s gaming chip during Jensen Huang’s visit Financial Times",
-      "capturedAt": "2026-06-17T23:17:13.999738+00:00"
+      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
     },
     {
       "id": "6ecd6f51d154",
@@ -442,7 +441,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang Just Announced Fantastic News to Microsoft Stock Investors - The Motley Fool Nvidia CEO Jensen Huang Just Announced Fantastic News to Microsoft Stock Investors The Motley Fool",
-      "capturedAt": "2026-06-17T23:17:13.999738+00:00"
+      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
     },
     {
       "id": "f293427702eb",
@@ -463,7 +462,28 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "AP Exclusive: Nvidia’s Jensen Huang says society needs ‘new social norms’ in the age of AI - AP News AP Exclusive: Nvidia’s Jensen Huang says society needs ‘new social norms’ in the age of AI AP News",
-      "capturedAt": "2026-06-17T23:17:13.999738+00:00"
+      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
+    },
+    {
+      "id": "9d95e6c0a7af",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Nvidia’s Jensen Huang says society needs ‘new social norms’ in the age of AI - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZjU3TlRUdHRKX1dwbFQ4ektzLXpEU0pYY1lGbWN1NjFjQUQzc3JUT05WSFRvSHNSQjlvblpjd0JNOXl2N3hqYk5kRTZXLUI4cW11a3BuUld0UVdtbTYweVQ1aXF1YjNHWFhBN05FTWh5UmMwdnRicG82Y2lON0c5d3NNSk5BcF9qcTY4MnlCM09QS25NUVRpaEpsX1BRRmdCQ1UycnFFelU2QU96b2dwazJnanl3VXpabk5uLUNESG5HYXA2VE5sUXdSNmPSAcwBQVVfeXFMTmdhWk03Q1ZQWWlPWk16a20xNnpPYU50Mm5yTE9seFVESnF5cmJUTW1GbUl3UUpna3ozYVpFMUhONWQ1UUxvb2x0aFE5RDR1YlBNVWxORW9GN0R3MkhQV1dEbXBteHBoT0tfVHlrSXRXY1JsRG03NHFoWjBtdEdZbm9wWFVHX1p2cS04cW5NSU1JYUtKVU85LTNLZG1LVTNPREJnZWUzNldNYXlhRnkwV1ZFc0htT09uMThRUXVVSWRGTVlVWktVczZtWTlX?oc=5",
+      "publishedAt": "2026-06-16T20:47:30+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Nvidia’s Jensen Huang says society needs ‘new social norms’ in the age of AI - South China Morning Post Nvidia’s Jensen Huang says society needs ‘new social norms’ in the age of AI South China Morning",
+      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
     },
     {
       "id": "9df5531bab9a",
@@ -484,7 +504,49 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia’s Jensen Huang says society needs ‘new social norms’ in the age of AI - South China Morning Post Nvidia’s Jensen Huang says society needs ‘new social norms’ in the age of AI South China Morning",
-      "capturedAt": "2026-06-17T23:17:13.999738+00:00"
+      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
+    },
+    {
+      "id": "3df6a1e0560e",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "下一家兆美元企業是它？黃仁勳看好的AI新寵引熱議 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNYTIwV2dWU0F1WDd1emV3TVh0WEp2MVNGTjFLNFZNTjhORzVHMGw1Nkg2eU1CSjNuOWJfa09wUUNEMDVSYlR1cGJqaDZWbjJvM3BpT0ZZTF95ZWtzM2EtVGZEQVJhYTQ1VFNheU5MaE9qUkRFZTF0RV9pd1FEbHIxU0wzdk55ZHQyZ2xXOTdJT0xhLXBfcFFmdEFQWElsU01SM2NpY0l1WlNieHhGVlpYaUJLVkNMdjFpdC1XbExYUENuWUZFaHE1QzNRb0xJYjlnNXdDdHd6RUtJUVpnSWpVX1hhMDdhMWZnbF9jNmhVQnh3ZnlZZGZnZzZTR2JuQ0E1SjBzSVNuOUpWb0NNYW03bXJfejNlYjc5Xy1HSGNhU0YtdVNtU1J6bHdadUVtNk84al93NVlFdkI1eU05QmdzMHdvNUY4cDVCUnlfcVFpTlM?oc=5",
+      "publishedAt": "2026-06-16T16:00:10+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "下一家兆美元企業是它？黃仁勳看好的AI新寵引熱議 - Yahoo股市 下一家兆美元企業是它？黃仁勳看好的AI新寵引熱議 Yahoo股市",
+      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
+    },
+    {
+      "id": "3d71af427bca",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳的10個職場心法！當AI愈來愈聰明，人更需要這些純粹的能力！ - gq.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQTh4SjdtRGFZd2RrUWNOV01rU2JrQVZBUmVGWHRnaTBzYUVhMGhEakNjc3BGd0d5UEhXaDFQcVlNLW11UnZ4cnU3Tlg5NnlxQms3R2Q3bDI5U0FkX1JsOG9aaWdKbmFSMnZoQnZwT0NtZUtWZWxIdDZHalBWbDJ0OTB3?oc=5",
+      "publishedAt": "2026-06-15T08:58:23+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳的10個職場心法！當AI愈來愈聰明，人更需要這些純粹的能力！ - gq.com.tw 黃仁勳的10個職場心法！當AI愈來愈聰明，人更需要這些純粹的能力！ gq.com.tw",
+      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
     },
     {
       "id": "ffabe5e57066",
@@ -507,72 +569,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang Says This Will Be the Next $1 Trillion Company - The Motley Fool Nvidia CEO Jensen Huang Says This Will Be the Next $1 Trillion Company The Motley Fool",
-      "capturedAt": "2026-06-17T23:17:13.999738+00:00"
-    },
-    {
-      "id": "4cca6e7dd621",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "Nvidia CEO Jensen Huang Says This Will Be the Next $1 Trillion Company - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdExEaXR6TmVFbVAzYU5Nb0FaR2hRUnVkNXJXanhyS01HM0F5NmoxZWdLX2dRQnQyTEFkSUFmc0NRS3BtRFRBZTFha2xLVjJzTEZaVlRDZlczVmJFOTZla3Z2QW5YOHVCeFpkUWtiQXRNQmEtUTVEQmI1U1ZwLXdpLTd6S0hTSjNOQUxBTFpHS21zTTU0WUozag?oc=5",
-      "publishedAt": "2026-06-13T11:05:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang",
-        "NVIDIA CEO",
-        "Nvidia CEO"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Nvidia CEO Jensen Huang Says This Will Be the Next $1 Trillion Company - Yahoo Finance Nvidia CEO Jensen Huang Says This Will Be the Next $1 Trillion Company Yahoo Finance",
-      "capturedAt": "2026-06-17T23:17:13.999738+00:00"
-    },
-    {
-      "id": "a3ad6d430877",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Jensen Huang's pork belly diplomacy seals Nvidia AI alliance with Korea - upi.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN3Z2Zm96SGVRdlQ3a3FEeHBmcDdGcm9EaTAwUndPMjRpM2FLX3FYcXYwZ2NscHFzbVZVTUlhLXVMdmczMTZxSHFUVmxqMTRpM0daREVsOVZHRGVidE9tNjZoakVPRUNHcy0xNUs3bWNpeWd5OTNEMXROX25lYjlHajJFeG5ldmtCaUxJeUZBWDBJaEZJZTdQQ0lJbkFRUXQyeUtyVkt4a01UYmdVdVllOWlxYjRleF9yTEFxUkEyRG_SAaIBQVVfeXFMTzl0bFdLNHNQU3YxY1JveGhUSDVRTllCNC1XejI5ZkhZQTdpRXZ0WFJ2cGNUVkgteF9HN1A5TzRoOE80Q29GVGFRMUI0N1hsRTlQbWU3M1Jpd0lIMlVmZTJwbGpUdlM0bW9YS1dkY3JFVjRLQ3NqSldoU0lHOFVWNGdYTXRHVUZ5T3dlMVVWVEtMejlVMUZwTTZCZGFaeDZpSzZ3?oc=5",
-      "publishedAt": "2026-06-12T19:11:28+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Jensen Huang's pork belly diplomacy seals Nvidia AI alliance with Korea - upi.com Jensen Huang's pork belly diplomacy seals Nvidia AI alliance with Korea upi.com",
-      "capturedAt": "2026-06-17T23:17:13.999738+00:00"
-    },
-    {
-      "id": "d0b0ce81c3aa",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "輝達面試不看履歷？黃仁勳曝徵才最愛「一種特質」 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQd2JPRjNFQmZVUVNyNnpNclZjWllTYzFSaVRRVzE2NTF6MVpqUWlpNTVYRzVhV0FfYzZYbWhEVnBaeUg3Umk0ZldoZGptbDVLa0tlNjVZeHRVWW1EVU9aNUQwNk93d2Y3RW9OTzNkakc2NkYyaDRrd2hzUUlGdFJYU2xncW9JT3pfRDdjTThxb1E4QlVFa0s3SHp6UE90QUNHYzZyRno3cjQzNGp0UElEaHVYNkExZ2ZQTFlzQm04NWdkUEV1QW5MRmtQM1Q4N1IxTFhNUjE3VHF6clJFeEhydnFzQ1BzU3RlN1BCekpwVnE2RmZWV2tiRHRfa3FHZnBjanlxbHYzRmMxWWFZX0IxYno3S1kybi1ia3J0UmlVUDJJbE02Zlo2LVA3cjNIWDZnWmZ6UWwxTjZYVlFBbWZOVG1wM2J6RzJZWXhlTlJRS2ZDWnpvTktzUFdfUWxVamhFbTIwa01hMWJnaDZ4X3RF?oc=5",
-      "publishedAt": "2026-06-12T06:29:51+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "輝達面試不看履歷？黃仁勳曝徵才最愛「一種特質」 - Yahoo股市 輝達面試不看履歷？黃仁勳曝徵才最愛「一種特質」 Yahoo股市",
-      "capturedAt": "2026-06-17T23:17:13.999738+00:00"
+      "capturedAt": "2026-06-18T23:01:58.157566+00:00"
     }
   ],
   "errors": [
