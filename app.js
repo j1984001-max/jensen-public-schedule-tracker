@@ -19,6 +19,10 @@ const state = {
 const els = {
   currentLocation: document.querySelector("#current-location"),
   currentSummary: document.querySelector("#current-summary"),
+  whereaboutsLocation: document.querySelector("#whereabouts-location"),
+  whereaboutsSummary: document.querySelector("#whereabouts-summary"),
+  whereaboutsMeta: document.querySelector("#whereabouts-meta"),
+  whereaboutsSources: document.querySelector("#whereabouts-sources"),
   metricEvents: document.querySelector("#metric-events"),
   metricCities: document.querySelector("#metric-cities"),
   metricCompanies: document.querySelector("#metric-companies"),
@@ -182,6 +186,7 @@ function hasSpecificRoutePlace(event) {
 function render() {
   const filtered = getFilteredEvents();
   renderHero(filtered);
+  renderWhereabouts();
   renderMetrics();
   renderRouteOverview(filtered);
   renderStats(filtered);
@@ -205,6 +210,55 @@ function renderHero(events = state.events) {
 
   els.currentLocation.textContent = `${latestPublicEvent.city}，${latestPublicEvent.country}`;
   els.currentSummary.textContent = `${latestPublicEvent.headline}。顯示的是公開來源中的最近事件，不代表即時位置。`;
+}
+
+function renderWhereabouts() {
+  if (!els.whereaboutsLocation) return;
+
+  const latestKnownPlace = state.events.find(hasSpecificRoutePlace);
+  els.whereaboutsMeta.innerHTML = "";
+  els.whereaboutsSources.innerHTML = "";
+
+  if (!latestKnownPlace) {
+    els.whereaboutsLocation.textContent = "沒有明確公開位置";
+    els.whereaboutsSummary.textContent = "目前資料裡沒有可公開驗證的城市或國家；不會用私人或即時位置推測。";
+    els.whereaboutsMeta.innerHTML = '<span>僅公開來源</span>';
+    return;
+  }
+
+  const daysOld = daysSinceEvent(latestKnownPlace.date);
+  const ageText = daysOld === 0 ? "今天" : `${daysOld} 天前`;
+  const staleText = daysOld <= 2
+    ? "這是近期公開足跡。"
+    : `這筆公開足跡已經是 ${ageText}，不能代表當下即時位置。`;
+  const sourceGrade = sourceProfile(latestKnownPlace).grade;
+
+  els.whereaboutsLocation.textContent = `${latestKnownPlace.city}，${latestKnownPlace.country}`;
+  els.whereaboutsSummary.textContent = `最後有明確城市的公開來源是 ${formatEventDate(latestKnownPlace.date)} 的「${latestKnownPlace.headline}」。${staleText}`;
+
+  const metaItems = [
+    `事件日期 ${formatEventDate(latestKnownPlace.date)}`,
+    `距今 ${ageText}`,
+    `可信度 ${latestKnownPlace.confidence}%`,
+    statusLabel(latestKnownPlace.status),
+    sourceGrade,
+    latestKnownPlace.venue
+  ].filter(Boolean);
+
+  for (const item of metaItems) {
+    const chip = document.createElement("span");
+    chip.textContent = item;
+    els.whereaboutsMeta.append(chip);
+  }
+
+  for (const source of latestKnownPlace.sources.slice(0, 3)) {
+    const link = document.createElement("a");
+    link.href = source.url;
+    link.target = "_blank";
+    link.rel = "noreferrer";
+    link.textContent = source.publisher ? `${source.publisher}：${source.label}` : source.label;
+    els.whereaboutsSources.append(link);
+  }
 }
 
 function renderMetrics() {
@@ -803,6 +857,19 @@ function formatEventDate(value) {
     day: "2-digit",
     weekday: "short"
   });
+}
+
+function daysSinceEvent(value) {
+  const eventDate = new Date(`${value}T00:00:00+08:00`);
+  if (Number.isNaN(eventDate.getTime())) return 0;
+  const todayTaipei = new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Asia/Taipei",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit"
+  }).format(new Date());
+  const todayDate = new Date(`${todayTaipei}T00:00:00+08:00`);
+  return Math.max(0, Math.floor((todayDate - eventDate) / 86400000));
 }
 
 function formatSignalDate(value) {

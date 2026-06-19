@@ -200,6 +200,71 @@ select {
   margin-top: 18px;
 }
 
+.whereabouts-panel {
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(280px, 0.9fr);
+  gap: 18px;
+  align-items: center;
+  margin-top: 18px;
+  padding: clamp(18px, 3vw, 28px);
+  border: 1px solid #bfdbfe;
+  border-radius: 8px;
+  background: #eff6ff;
+  box-shadow: var(--shadow);
+}
+
+.whereabouts-panel h2,
+.whereabouts-panel p {
+  margin: 0;
+}
+
+.whereabouts-panel h2 {
+  margin-top: 6px;
+  font-size: clamp(28px, 4vw, 44px);
+  line-height: 1.08;
+}
+
+.whereabouts-panel p:not(.eyebrow) {
+  margin-top: 12px;
+  color: #334155;
+  line-height: 1.65;
+  font-weight: 700;
+}
+
+.whereabouts-detail {
+  display: grid;
+  gap: 12px;
+}
+
+.whereabouts-meta,
+.whereabouts-sources {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.whereabouts-meta span,
+.whereabouts-sources a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 32px;
+  padding: 0 10px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 900;
+}
+
+.whereabouts-meta span {
+  background: #ffffff;
+  color: #1e3a8a;
+}
+
+.whereabouts-sources a {
+  border: 1px solid #93c5fd;
+  color: #1d4ed8;
+  text-decoration: none;
+}
+
 .metrics article {
   min-height: 108px;
   padding: 18px;
@@ -1205,6 +1270,7 @@ select {
   }
 
   .hero,
+  .whereabouts-panel,
   .route-overview,
   .relationship-graph,
   .workspace {
