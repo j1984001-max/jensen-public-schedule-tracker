@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-06-19T12:07:40.794665+00:00",
+  "generatedAt": "2026-06-19T20:26:47.440992+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
-  "publishedToTimeline": 12,
+  "publishedToTimeline": 8,
   "signals": [
     {
-      "id": "768690d8be4f",
+      "id": "89d9267e5082",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
-      "title": "黃仁勳造訪台韓卻獨缺日本 日媒坦言：國內出現危機感 - 自由財經",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rUEdHMGJKVUFiRkxRbG82THVYeXNjYk5tbnd0amdXeFV3N3Y5WWp5M3Vza1JQRUNLd2JZOWNRZFdfeG1vVXJlNmJ6MGhuMGpfdElXMk9wN0VjbWo1eldz0gFkQVVfeXFMTmZ6Y0pZUG44MDAwMF9mV3BYZTJ4d29ob0dpQjFYRnJEU09UUFdlZHZDQmttTEhKRE5sbFlQbnhxRWhJSWJyUDdMMmppSW4zd3Q1NFBBdnF4dUJ2VjZvLTQ2YjFWMg?oc=5",
-      "publishedAt": "2026-06-15T12:55:48+00:00",
+      "title": "黃仁勳《劉QUIZ》播出看點！大跳《Golden》自曝最愛華莎 相約劉在錫10年後同台 懶人包一次看 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxQZEI5MDlNWTdZaGFCVWdxNXJZYzljSGVSa3FBLXphMlBoN0xqUWxPdzhjSml1cjlqZktabmtRMXdNTzNNY0FLQU5aT1pvaGdwZ2l0LVdGb3BVOG5BMDQ3dTNQWTh3ZmtObnZ3bVlXQTVyckhpT1hlTUNaZ3gwNVV5NXlJc0ZXWkRaYWNUcGVIY0tJZVhHNk42Unp2bDl1VUZXbkhuMldaa1ZvbTNxUzNjaW8xYTJYUG1tT0czckdNcUFzZnM1MGdwVnFJZXhCVWFoTGV4bVVSRzFmRFA4VlZRUWFGRlltZ2ZVbjViQlk0cHZncXRxUjNISVZKVGNWSHdqWTJiMWcxc2F3YnpqanlNc2czYnNrZXRnZV9ULXZjODNWU2FTODNrVGg0VFVRa2JzcHNPeG4zc1FMdURaYlZjZEEwX1FRX2VDV2haV1RETlBZN1M1eHgweVktZElqdG0wOXd4VTdjZk1rMzYtN3NXT0YzNDdGMTJlTl9rV1A4NXF3Mkk5SXRzMkJnbVhwRWlJdUw1eG9IaERqZGMzRTNyS1NvVUF0bkQ3cGlLcEtRX2MtRGlFZmZhaFBZdmJPSFcxa0h6a0Q0YklnQV9vNVBlRFVsZHgxRzRkWG4tcUR3eEhLZzNQU0V1NU5nRi0wVURIMHlpQjFLZFJaVDQ4SDIwOHM3Z05UZW9CV1ZjWVR1RnU2bDNObUE?oc=5",
+      "publishedAt": "2026-06-10T07:00:00+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
       ],
       "matchedEventKeywords": [
-        "造訪"
+        "同台"
       ],
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "黃仁勳造訪台韓卻獨缺日本 日媒坦言：國內出現危機感 - 自由財經 黃仁勳造訪台韓卻獨缺日本 日媒坦言：國內出現危機感 自由財經",
-      "capturedAt": "2026-06-19T12:07:40.794680+00:00"
+      "summary": "黃仁勳《劉QUIZ》播出看點！大跳《Golden》自曝最愛華莎 相約劉在錫10年後同台 懶人包一次看 - Yahoo新聞 黃仁勳《劉QUIZ》播出看點！大跳《Golden》自曝最愛華莎 相約劉在錫10年後同台 懶人包一次看 Yahoo新聞",
+      "capturedAt": "2026-06-19T20:26:47.441011+00:00"
     },
     {
       "id": "e2408fcd8a3d",
@@ -48,34 +48,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "GTC背板黃仁勳連三年欽點，這１０所大學為什麼能年年上榜？ - Cheers快樂工作人 GTC背板黃仁勳連三年欽點，這１０所大學為什麼能年年上榜？ Cheers快樂工作人",
-      "capturedAt": "2026-06-19T12:07:40.794680+00:00"
-    },
-    {
-      "id": "3b161b99eba8",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 55,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳訪韓如超級巨星！企業大佬幫倒酒、陪笑吃烤肉粉酸：財閥家小兒子 - 三立新聞網SETN.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE51NnFsQVp0c2tyRHFXTTJJMUhQUmc3SUkxalgzSGFsVng5MUd3c2h6VExabDZIUWNmRjVwbmtIdmt3NUhWUnBPNFJRR0xYbkRxaHVfbkc5VTDSAV9BVV95cUxQckdNbDZ0WGJvcTBtS1NaNk5pVWJyMTdpSFI5SVN4Q3dDZHZuRFhXN21LZWpOZmxnSG90TUpZbU5YazIzUkhBRG8yQW13cFpzTTlyc1MxQk9fYUNVeVlnYw?oc=5",
-      "publishedAt": "2026-06-08T08:06:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "訪韓"
-      ],
-      "privacyReviewFlags": [
-        "吃"
-      ],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [
-        "吃"
-      ],
-      "summary": "黃仁勳訪韓如超級巨星！企業大佬幫倒酒、陪笑吃烤肉粉酸：財閥家小兒子 - 三立新聞網SETN.com 黃仁勳訪韓如超級巨星！企業大佬幫倒酒、陪笑吃烤肉粉酸：財閥家小兒子 三立新聞網SETN.com",
-      "capturedAt": "2026-06-19T12:07:40.794680+00:00"
+      "capturedAt": "2026-06-19T20:26:47.441011+00:00"
     },
     {
       "id": "3b7335d81427",
@@ -98,7 +71,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳訪韓國宣布3大合作案布局AI資料中心| 產經 - 中央社 CNA 黃仁勳訪韓國宣布3大合作案布局AI資料中心| 產經 中央社 CNA",
-      "capturedAt": "2026-06-19T12:07:40.794680+00:00"
+      "capturedAt": "2026-06-19T20:26:47.441011+00:00"
     },
     {
       "id": "59c804afe7a0",
@@ -122,7 +95,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳結束訪韓行程！親揭此行最大收穫 - Yahoo新聞 黃仁勳結束訪韓行程！親揭此行最大收穫 Yahoo新聞",
-      "capturedAt": "2026-06-19T12:07:40.794680+00:00"
+      "capturedAt": "2026-06-19T20:26:47.441011+00:00"
     },
     {
       "id": "732be52c5170",
@@ -147,112 +120,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Where Nvidia CEO Jensen Huang ate during 3-day Seoul visit - The Korea Times Where Nvidia CEO Jensen Huang ate during 3-day Seoul visit The Korea Times",
-      "capturedAt": "2026-06-19T12:07:40.794680+00:00"
-    },
-    {
-      "id": "a5853628b94d",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 55,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳訪韓私人行程曝光！帶家人大啖蔘雞湯直呼好吃 - 自由財經",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FUVliRG5jVXhpTDUwVlkwMEMwTFljUURZaExFTlNlMnlBY0NmNWQtcEpUeVllaW5vbWdMTmpSaWZtMFBNVFZ3RHlKcGhtbmIzam41R2ZBSGJrT3E4dWE40gFkQVVfeXFMUGQtUmlPRlFBbks1Q2p1SVRwWHhiOWIxR1Y0cUtLZ1ZZT2FIRVNiWnJ0VE1MMkc5MmM5dWwzdFp5ODg3QzNtaFlhNW84bVVENjI1QlU4OU5WTW1rM0ZES2V2T2F0Mg?oc=5",
-      "publishedAt": "2026-06-07T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "訪韓",
-        "行程"
-      ],
-      "privacyReviewFlags": [
-        "私人",
-        "吃"
-      ],
-      "blockedPrivacyFlags": [
-        "私人"
-      ],
-      "publicContextFlags": [
-        "吃"
-      ],
-      "summary": "黃仁勳訪韓私人行程曝光！帶家人大啖蔘雞湯直呼好吃 - 自由財經 黃仁勳訪韓私人行程曝光！帶家人大啖蔘雞湯直呼好吃 自由財經",
-      "capturedAt": "2026-06-19T12:07:40.794680+00:00"
-    },
-    {
-      "id": "821ddd159d73",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳造訪韓人架網站盯足跡「韓版兆元宴」藏玄機| 全球財經| 全球 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XckRVVnh5bGVPNGo3MnZ5LS1BSkN1OTY1X2M0QnBZdmFRMXFkbGFabGp3bnJpSXNhMWY4cjFtMThObHFjTG1VTms3NmJiNEdG?oc=5",
-      "publishedAt": "2026-06-06T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "造訪",
-        "訪韓"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳造訪韓人架網站盯足跡「韓版兆元宴」藏玄機| 全球財經| 全球 - UDN 黃仁勳造訪韓人架網站盯足跡「韓版兆元宴」藏玄機| 全球財經| 全球 UDN",
-      "capturedAt": "2026-06-19T12:07:40.794680+00:00"
-    },
-    {
-      "id": "3d0d29d7230c",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "影／黃仁勳訪韓宣布送「4份AI大禮」！強調深化合作：韓國夥伴很重要...自爆是韓劇迷：總讓我想哭 - 今周刊",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdUJrdkY2a1JnU0MzbmRhMFhWZlhuNGwyVWdrZjJvNERKaVNkM3Y0cFJMYklrbDhkX3p3am1nbTE1TDh0R1FqaDcxOWhEamptNU5QV25Xbm45YWxPZ2g5dEJqWFBwQjAxZVAzMDhxVzBxUTJMMU15ZjBVM3p5Yy1Fcg?oc=5",
-      "publishedAt": "2026-06-06T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "訪韓"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "影／黃仁勳訪韓宣布送「4份AI大禮」！強調深化合作：韓國夥伴很重要...自爆是韓劇迷：總讓我想哭 - 今周刊 影／黃仁勳訪韓宣布送「4份AI大禮」！強調深化合作：韓國夥伴很重要...自爆是韓劇迷：總讓我想哭 今周刊",
-      "capturedAt": "2026-06-19T12:07:40.794680+00:00"
-    },
-    {
-      "id": "c6c1dcf04cae",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 55,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳訪韓首晚嗨翻！揪SK、LG、Naver大咖吃烤肉 送韓國4大AI禮物 - 工商時報",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SOEQyb3oxU3B4bk9QeDBoeXBreTBhSmNsR3lCamxhTjZlVjlPeXBNVmhMdFZ6TGZ4d3h2VUFJTTJuZ2sydWNYVTZUbHg5WmhJTTRmekRuOGtrUE5pNjZz?oc=5",
-      "publishedAt": "2026-06-06T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "訪韓"
-      ],
-      "privacyReviewFlags": [
-        "吃"
-      ],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [
-        "吃"
-      ],
-      "summary": "黃仁勳訪韓首晚嗨翻！揪SK、LG、Naver大咖吃烤肉 送韓國4大AI禮物 - 工商時報 黃仁勳訪韓首晚嗨翻！揪SK、LG、Naver大咖吃烤肉 送韓國4大AI禮物 工商時報",
-      "capturedAt": "2026-06-19T12:07:40.794680+00:00"
+      "capturedAt": "2026-06-19T20:26:47.441011+00:00"
     },
     {
       "id": "bf5ed5a4ec37",
@@ -277,32 +145,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Tracking website, food watch: South Korea is obsessing over Nvidia CEO Jensen Huang's visit - CNBC Tracking website, food watch: South Korea is obsessing over Nvidia CEO Jensen Huang's visit CNBC",
-      "capturedAt": "2026-06-19T12:07:40.794680+00:00"
-    },
-    {
-      "id": "1eac308a94e6",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Nvidia CEO Jensen Huang calls on Korean gaming superstar Faker during Seoul visit - AP News",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVGNRd3JZWHUtell2dXdQdGlDZk9zYjNwa0dnMDBCTEtIeUM4bUY2MU5kVkduWWhxNlV0Q0owMm1WbDdFanRrSFcyT01TbUN3dzR6Vi1BR1pQY0FjUlliSWZ4TkEtODhnR0JScjhpMlFTekpDUFA2TTNwX2prQmZ5eDA4X0J6OW9xUkx3dldvS3N6dlpfMlJRYVU1Rl9yWElkTmNOZmtlWEZWaVJPRkxPY2lYYk9YLWlGMl9fWTIwNjFoNkdNcE9uNkx4TlV4dGpld3dyUlJR?oc=5",
-      "publishedAt": "2026-06-05T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang",
-        "NVIDIA CEO",
-        "Nvidia CEO"
-      ],
-      "matchedEventKeywords": [
-        "visit"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Nvidia CEO Jensen Huang calls on Korean gaming superstar Faker during Seoul visit - AP News Nvidia CEO Jensen Huang calls on Korean gaming superstar Faker during Seoul visit AP News",
-      "capturedAt": "2026-06-19T12:07:40.794680+00:00"
+      "capturedAt": "2026-06-19T20:26:47.441011+00:00"
     },
     {
       "id": "6b8ae1af6b7d",
@@ -328,34 +171,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Five thoughts from Nvidia CEO Jensen Huang’s GTC Taipei 2026 keynote - SiliconANGLE Five thoughts from Nvidia CEO Jensen Huang’s GTC Taipei 2026 keynote SiliconANGLE",
-      "capturedAt": "2026-06-19T12:07:40.794680+00:00"
-    },
-    {
-      "id": "268452949d75",
-      "status": "needs-review",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "Will Nvidia Stock Rise During June 1 to June 4 From CEO Jensen Huang's Participation in COMPUTEX 2026? - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZUptOTRtb0ZPWTg2Q0paeklkN3hLVHpkc19rNld1OFBDZktqS1ltTFF1RU8xNUZHclRTNTdqME1Bc3ZnOTByNzlPUUg5ZTNiSm9EbnJxT3B4YjFuN0szMVp0bzJCcEZMbExLb1A1YzRKN3g1N3otRkNTdVZwTXR1Z0NxY3hsSWJhTFZv?oc=5",
-      "publishedAt": "2026-05-31T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [
-        "COMPUTEX"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Will Nvidia Stock Rise During June 1 to June 4 From CEO Jensen Huang's Participation in COMPUTEX 2026? - The Motley Fool Will Nvidia Stock Rise During June 1 to June 4 From CEO Jensen Huang's Participation in COMPUTEX 2026? The Motley Fool",
-      "capturedAt": "2026-06-19T12:07:40.794680+00:00"
+      "capturedAt": "2026-06-19T20:26:47.441011+00:00"
     },
     {
       "id": "f15d24432624",
-      "status": "needs-review",
+      "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: Jensen Huang",
@@ -374,11 +194,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang says it doesn't matter what kids study in the AI era - Business Insider Jensen Huang says it doesn't matter what kids study in the AI era Business Insider",
-      "capturedAt": "2026-06-19T12:07:40.794680+00:00"
+      "capturedAt": "2026-06-19T20:26:47.441011+00:00"
     },
     {
       "id": "0f90f4688273",
-      "status": "needs-review",
+      "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: Jensen Huang",
@@ -395,11 +215,33 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang’s Nvidia Is About to Break a Global Earnings Record. That’s No Accident. - Barron's Jensen Huang’s Nvidia Is About to Break a Global Earnings Record. That’s No Accident. Barron's",
-      "capturedAt": "2026-06-19T12:07:40.794680+00:00"
+      "capturedAt": "2026-06-19T20:26:47.441011+00:00"
+    },
+    {
+      "id": "966581c9f472",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Nvidia CEO: Society needs to change with advent of AI - The Hill",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZVZ1aDdwaldwYml3cG5nbkFWZzllNFZ5QVV5OWlPUEp2VGQ3am92VDZPTVVQaURiMDV4R3hkbGlKNFlHWS02ZGVfZ2RCT1g4cGw2Z2dteGJkSEYtMmJ1elRCVW9kVW45dzlhTXNIa3N2bXIyMGFMMzlNVEp3UkQ1amlTWdIBiAFBVV95cUxNbTkzNXRJMWVPYnc3Nmx0a2FMdUI2U25tN0RDbnQ1bE5hN2RaVk1vWk9qbENVOUd0aWwxTEczVk56SmZlMmxuVkZNbFd0WWJsdkFfcnFLRld6V0pDSUFzVjBVaTA3UW1LT0RhdnlaYjEyUVBrYmxRUndSWFJKV3ppXy1ERWxEbG5m?oc=5",
+      "publishedAt": "2026-06-17T20:32:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "NVIDIA CEO",
+        "Nvidia CEO"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Nvidia CEO: Society needs to change with advent of AI - The Hill Nvidia CEO: Society needs to change with advent of AI The Hill",
+      "capturedAt": "2026-06-19T20:26:47.441011+00:00"
     },
     {
       "id": "6ecd6f51d154",
-      "status": "needs-review",
+      "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: Jensen Huang",
@@ -418,11 +260,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang Just Announced Fantastic News to Microsoft Stock Investors - The Motley Fool Nvidia CEO Jensen Huang Just Announced Fantastic News to Microsoft Stock Investors The Motley Fool",
-      "capturedAt": "2026-06-19T12:07:40.794680+00:00"
+      "capturedAt": "2026-06-19T20:26:47.441011+00:00"
     },
     {
       "id": "f293427702eb",
-      "status": "needs-review",
+      "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: Jensen Huang",
@@ -439,11 +281,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "AP Exclusive: Nvidia’s Jensen Huang says society needs ‘new social norms’ in the age of AI - AP News AP Exclusive: Nvidia’s Jensen Huang says society needs ‘new social norms’ in the age of AI AP News",
-      "capturedAt": "2026-06-19T12:07:40.794680+00:00"
+      "capturedAt": "2026-06-19T20:26:47.441011+00:00"
     },
     {
       "id": "9d95e6c0a7af",
-      "status": "needs-review",
+      "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: Jensen Huang",
@@ -460,11 +302,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia’s Jensen Huang says society needs ‘new social norms’ in the age of AI - South China Morning Post Nvidia’s Jensen Huang says society needs ‘new social norms’ in the age of AI South China Morning",
-      "capturedAt": "2026-06-19T12:07:40.794680+00:00"
+      "capturedAt": "2026-06-19T20:26:47.441011+00:00"
     },
     {
       "id": "3d71af427bca",
-      "status": "needs-review",
+      "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
@@ -481,11 +323,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳的10個職場心法！當AI愈來愈聰明，人更需要這些純粹的能力！ - gq.com.tw 黃仁勳的10個職場心法！當AI愈來愈聰明，人更需要這些純粹的能力！ gq.com.tw",
-      "capturedAt": "2026-06-19T12:07:40.794680+00:00"
+      "capturedAt": "2026-06-19T20:26:47.441011+00:00"
     },
     {
       "id": "ffabe5e57066",
-      "status": "needs-review",
+      "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: Jensen Huang",
@@ -504,11 +346,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang Says This Will Be the Next $1 Trillion Company - The Motley Fool Nvidia CEO Jensen Huang Says This Will Be the Next $1 Trillion Company The Motley Fool",
-      "capturedAt": "2026-06-19T12:07:40.794680+00:00"
+      "capturedAt": "2026-06-19T20:26:47.441011+00:00"
     },
     {
       "id": "4cca6e7dd621",
-      "status": "needs-review",
+      "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: Jensen Huang",
@@ -527,11 +369,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang Says This Will Be the Next $1 Trillion Company - Yahoo Finance Nvidia CEO Jensen Huang Says This Will Be the Next $1 Trillion Company Yahoo Finance",
-      "capturedAt": "2026-06-19T12:07:40.794680+00:00"
+      "capturedAt": "2026-06-19T20:26:47.441011+00:00"
     },
     {
       "id": "80dda0a1932d",
-      "status": "needs-review",
+      "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
@@ -548,18 +390,81 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "如何消滅辦公室政治、找到真正的人才？黃仁勳上《劉QUIZ》分享：從輝達經驗，揭曉管理與選才的兩大祕訣 - Cheers快樂工作人 如何消滅辦公室政治、找到真正的人才？黃仁勳上《劉QUIZ》分享：從輝達經驗，揭曉管理與選才的兩大祕訣 Cheers快樂工作人",
-      "capturedAt": "2026-06-19T12:07:40.794680+00:00"
+      "capturedAt": "2026-06-19T20:26:47.441011+00:00"
+    },
+    {
+      "id": "397151396e34",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳罕見談愛情！17歲上大學「學霸式搭訕」靠這句話追到妻子Lori - Vogue Taiwan",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1nWU8tbjRzTngwRW5mLXhtN2k4Z0ZmeFJxZURkSG82QXp1WmVxTWVIQjBiQ2xsTVhXb2VrUm53cXdmWnZQampTMTFiOFc1YkU4ek9UcUlBaG1BY0xBT0FreXE1dkFraGh3V29NR2twRm1nZmZETGMyNzBB?oc=5",
+      "publishedAt": "2026-06-11T08:38:11+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳罕見談愛情！17歲上大學「學霸式搭訕」靠這句話追到妻子Lori - Vogue Taiwan 黃仁勳罕見談愛情！17歲上大學「學霸式搭訕」靠這句話追到妻子Lori Vogue Taiwan",
+      "capturedAt": "2026-06-19T20:26:47.441011+00:00"
+    },
+    {
+      "id": "85739b9df3f7",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "不看滿分履歷！黃仁勳親曝輝達徵才標準 最愛擁「1特質」員工 - 自由財經",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pOGpnUFZUUXhKS3hveFBjOTRFVk1LZHlXV2dCb2hUSlJ1bVVpOEdFOFFIMURCRUlpcWZjQVJDUFpIUTdkYTdDOUNmb2RjWlRCOG1BYVFvTlFDUlZaYkxN?oc=5",
+      "publishedAt": "2026-06-11T07:51:53+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "不看滿分履歷！黃仁勳親曝輝達徵才標準 最愛擁「1特質」員工 - 自由財經 不看滿分履歷！黃仁勳親曝輝達徵才標準 最愛擁「1特質」員工 自由財經",
+      "capturedAt": "2026-06-19T20:26:47.441011+00:00"
+    },
+    {
+      "id": "8bba1afa3cfa",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳：孩子不用全拿A，能承受尷尬失敗更重要 - 天下雜誌",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9IRkNtZVVlOEk3cjRRaFUxQkRHRzZXZEo0dXVrWGRGaTJFRGVsV0dVRlEtSGIxTk5Zd3JyNnBmcWNCWnhFZEhiOXlPSWFIQQ?oc=5",
+      "publishedAt": "2026-06-11T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳：孩子不用全拿A，能承受尷尬失敗更重要 - 天下雜誌 黃仁勳：孩子不用全拿A，能承受尷尬失敗更重要 天下雜誌",
+      "capturedAt": "2026-06-19T20:26:47.441011+00:00"
     },
     {
       "id": "d0b0ce81c3aa",
-      "status": "needs-review",
+      "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
       "title": "輝達面試不看履歷？黃仁勳曝徵才最愛「一種特質」 - Yahoo股市",
       "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQd2JPRjNFQmZVUVNyNnpNclZjWllTYzFSaVRRVzE2NTF6MVpqUWlpNTVYRzVhV0FfYzZYbWhEVnBaeUg3Umk0ZldoZGptbDVLa0tlNjVZeHRVWW1EVU9aNUQwNk93d2Y3RW9OTzNkakc2NkYyaDRrd2hzUUlGdFJYU2xncW9JT3pfRDdjTThxb1E4QlVFa0s3SHp6UE90QUNHYzZyRno3cjQzNGp0UElEaHVYNkExZ2ZQTFlzQm04NWdkUEV1QW5MRmtQM1Q4N1IxTFhNUjE3VHF6clJFeEhydnFzQ1BzU3RlN1BCekpwVnE2RmZWV2tiRHRfa3FHZnBjanlxbHYzRmMxWWFZX0IxYno3S1kybi1ia3J0UmlVUDJJbE02Zlo2LVA3cjNIWDZnWmZ6UWwxTjZYVlFBbWZOVG1wM2J6RzJZWXhlTlJRS2ZDWnpvTktzUFdfUWxVamhFbTIwa01hMWJnaDZ4X3RF?oc=5",
-      "publishedAt": "2026-06-12T06:29:51+00:00",
+      "publishedAt": "2026-06-11T07:00:00+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -569,7 +474,70 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "輝達面試不看履歷？黃仁勳曝徵才最愛「一種特質」 - Yahoo股市 輝達面試不看履歷？黃仁勳曝徵才最愛「一種特質」 Yahoo股市",
-      "capturedAt": "2026-06-19T12:07:40.794680+00:00"
+      "capturedAt": "2026-06-19T20:26:47.441011+00:00"
+    },
+    {
+      "id": "6316e1023afb",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳多愛台灣？輝達PO回顧片「罕見1細節」說了 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPQTBSWUMzbXNTU0dldjBjT2VPX0RYbDFOelYwTWxLYzBBYnFPb1V3VU9ha05xTmlBZzBNQmFyclZ3MncxanotWmphTkZwcUxnb3J3M040bmFlRjg5TEFBTVNUbXVGVTBvR3l3XzVENklpZkQzMGkzSENiaTVMUjJpRHBUcll2eVZBcFpzRW04dnRWTHRZcjdLb1R4Q2FLVkJGQmptQlBZME5hTGs0SW9QWjgtUW1tN3dHWEZRN0xoZU96bzFJc2hNaGt1SG9Qams0TWZicDJUX3pxXzAxNUZ1WklKdDE2amtOUG5YUmhHSlFVMHp5N0FKWkhKTjNvbXhGVDRtSFpZdTJRcVdIMm95TUw1cVVmUXptV2xYZjZpdXFrQW41cWFBenhQNElOaG9Qd3hkOEdLYUI1eDg?oc=5",
+      "publishedAt": "2026-06-11T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳多愛台灣？輝達PO回顧片「罕見1細節」說了 - Yahoo股市 黃仁勳多愛台灣？輝達PO回顧片「罕見1細節」說了 Yahoo股市",
+      "capturedAt": "2026-06-19T20:26:47.441011+00:00"
+    },
+    {
+      "id": "ad74f630aa2b",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "聰明人不稀奇！黃仁勳親揭輝達徵才關鍵 點名「1人品特質」最愛 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNX3hEQXF3bkFaOG9TYk16eUdzMWNfYTBtd2N1V1pWeTAyV3hpWWp3eTVTWG52Vm80Q0lDUEZDekJ6YzN5UWJIamYwaEI0N2FlWGp6QUdVWGs0S0MxUzFaTV9QVzlMWHpwVGR5Z1hhU2JBZ1I2TmpDcm1PWWxfM3dBX3p4VWtPY0hKXzA5UmthZ0VRUG40b1pjanhuTjY3OUZrN05qTVlLZ0pEZThkVnJVMUwtaW9jSTJoUFlINlMtQk1nS3J5SFRyVm5nT0dKd0Q4aGdWMjI3ZG1SWXRBYkU1WkFEdGhMT09pazZuSVMyNTJYV0RDUEsxdVcyd2llazVZTDZOU0NRTkM0cEtyYVVSTkNXS2hraHVodmY4emRWUTg3OE5KeHdlXzF2YjE3YlBvYWJNM0I3UXFNTm52RFdCTllvdzgxeGhXZGhselFzMTFtQ212eG5XcjhFWHp3OXZ0c3dMOTNzbWhHUmEtc2E4cEhWZS1TYzh6bmhJdXdxQmx1bENHSWc?oc=5",
+      "publishedAt": "2026-06-11T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "聰明人不稀奇！黃仁勳親揭輝達徵才關鍵 點名「1人品特質」最愛 - Yahoo新聞 聰明人不稀奇！黃仁勳親揭輝達徵才關鍵 點名「1人品特質」最愛 Yahoo新聞",
+      "capturedAt": "2026-06-19T20:26:47.441011+00:00"
+    },
+    {
+      "id": "74a49fe33b2d",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳首登韓綜《劉QUIZ》：當聰明成為標配，「慷慨與善良」才是無價 - 天下雜誌",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kaEc1UnRMM1ZSQUhMem1ndFVHUS1SdWplZUNuQld3aG95Zll3N29yN2ZvV25iMlRENjdHY2xQeW1qZjkzTkN1Y3pwM1N2dw?oc=5",
+      "publishedAt": "2026-06-11T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳首登韓綜《劉QUIZ》：當聰明成為標配，「慷慨與善良」才是無價 - 天下雜誌 黃仁勳首登韓綜《劉QUIZ》：當聰明成為標配，「慷慨與善良」才是無價 天下雜誌",
+      "capturedAt": "2026-06-19T20:26:47.441011+00:00"
     }
   ],
   "errors": [
