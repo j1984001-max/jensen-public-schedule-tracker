@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>黃仁勳公開行程追蹤</title>
-  <link rel="stylesheet" href="./styles.css?v=20260619-whereabouts">
+  <link rel="stylesheet" href="./styles.css?v=20260619-upcoming">
 </head>
 <body>
   <header class="topbar">
@@ -35,10 +35,11 @@
           <button id="export-json-button" type="button">匯出 JSON</button>
           <button id="copy-summary-button" type="button">複製摘要</button>
           <a href="#whereabouts-panel">目前在哪裡</a>
+          <a href="#upcoming-panel">未來一週</a>
           <a href="#source-policy">來源規則</a>
         </div>
       </div>
-      <img src="./assets/world-radar.svg?v=20260619-whereabouts" alt="公開行程訊號世界地圖">
+      <img src="./assets/world-radar.svg?v=20260619-upcoming" alt="公開行程訊號世界地圖">
     </section>
 
     <section id="whereabouts-panel" class="whereabouts-panel" aria-label="目前公開位置">
@@ -51,6 +52,18 @@
         <div id="whereabouts-meta" class="whereabouts-meta"></div>
         <div id="whereabouts-sources" class="whereabouts-sources"></div>
       </div>
+    </section>
+
+    <section id="upcoming-panel" class="upcoming-panel" aria-label="未來一週可能行程">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">預期行程</p>
+          <h2>未來 7 天可能行程</h2>
+        </div>
+        <span id="upcoming-count">0 筆候選</span>
+      </div>
+      <p id="upcoming-window" class="section-note">整理公開來源中。</p>
+      <div id="upcoming-list" class="upcoming-list"></div>
     </section>
 
     <section class="metrics" aria-label="總覽指標">
@@ -317,6 +330,6 @@
     </article>
   </template>
 
-  <script src="./app.js?v=20260619-whereabouts"></script>
+  <script src="./app.js?v=20260619-upcoming"></script>
 </body>
 </html>

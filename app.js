@@ -23,6 +23,9 @@ const els = {
   whereaboutsSummary: document.querySelector("#whereabouts-summary"),
   whereaboutsMeta: document.querySelector("#whereabouts-meta"),
   whereaboutsSources: document.querySelector("#whereabouts-sources"),
+  upcomingCount: document.querySelector("#upcoming-count"),
+  upcomingWindow: document.querySelector("#upcoming-window"),
+  upcomingList: document.querySelector("#upcoming-list"),
   metricEvents: document.querySelector("#metric-events"),
   metricCities: document.querySelector("#metric-cities"),
   metricCompanies: document.querySelector("#metric-companies"),
@@ -187,6 +190,7 @@ function render() {
   const filtered = getFilteredEvents();
   renderHero(filtered);
   renderWhereabouts();
+  renderUpcoming();
   renderMetrics();
   renderRouteOverview(filtered);
   renderStats(filtered);
@@ -258,6 +262,123 @@ function renderWhereabouts() {
     link.rel = "noreferrer";
     link.textContent = source.publisher ? `${source.publisher}：${source.label}` : source.label;
     els.whereaboutsSources.append(link);
+  }
+}
+
+function buildUpcomingCandidates() {
+  const today = taipeiDateString();
+  const windowEnd = addDays(today, 7);
+  const candidates = [];
+  const seen = new Set();
+
+  for (const event of state.events) {
+    if (!isDateInRange(event.date, today, windowEnd)) continue;
+    const sourceUrl = event.sources?.[0]?.url || event.id;
+    const key = `event|${event.date}|${sourceUrl}`;
+    if (seen.has(key)) continue;
+    seen.add(key);
+    candidates.push({
+      id: key,
+      date: event.date,
+      label: "正式時間線",
+      title: event.headline,
+      summary: event.summary,
+      location: hasSpecificRoutePlace(event) ? `${event.city}，${event.country}` : "公開來源未明",
+      venue: event.venue,
+      confidence: event.confidence,
+      status: event.status,
+      sourceGrade: sourceProfile(event).grade,
+      sources: event.sources || []
+    });
+  }
+
+  for (const signal of state.latestSignals) {
+    if (signal.blockedPrivacyFlags?.length) continue;
+    if (!signal.matchedEventKeywords?.length) continue;
+    const dates = (signal.detectedDates || []).filter((date) => isDateInRange(date, today, windowEnd));
+    for (const date of dates) {
+      const key = `signal|${date}|${signal.url || signal.id}`;
+      if (seen.has(key)) continue;
+      seen.add(key);
+      candidates.push({
+        id: key,
+        date,
+        label: "公開訊號候選",
+        title: signal.title,
+        summary: signal.summary || "來源未提供摘要。",
+        location: "公開來源未明",
+        venue: signal.sourceName,
+        confidence: signal.confidence,
+        status: signal.status,
+        sourceGrade: signal.sourceType,
+        sources: [
+          {
+            label: signal.title,
+            url: signal.url,
+            publisher: signal.sourceName,
+            sourceType: signal.sourceType
+          }
+        ]
+      });
+    }
+  }
+
+  return candidates.sort((a, b) => (
+    a.date.localeCompare(b.date) ||
+    Number(b.confidence || 0) - Number(a.confidence || 0)
+  ));
+}
+
+function renderUpcoming() {
+  if (!els.upcomingList) return;
+
+  const today = taipeiDateString();
+  const windowEnd = addDays(today, 7);
+  const candidates = buildUpcomingCandidates();
+  els.upcomingList.innerHTML = "";
+  els.upcomingCount.textContent = `${candidates.length} 筆候選`;
+  els.upcomingWindow.textContent = `${formatEventDate(today)} 到 ${formatEventDate(windowEnd)}；只顯示公開來源偵測到日期的候選，不含私人或即時位置。`;
+
+  if (!candidates.length) {
+    els.upcomingList.innerHTML = `
+      <div class="empty">
+        未來 7 天目前沒有可公開驗證的行程候選。自動更新抓到官方活動、公開議程或具名媒體日期後，會自動出現在這裡。
+      </div>
+    `;
+    return;
+  }
+
+  for (const candidate of candidates.slice(0, 8)) {
+    const article = document.createElement("article");
+    article.className = "upcoming-card";
+    article.innerHTML = `
+      <div class="event-topline">
+        <span class="type">${escapeHtml(candidate.label)}</span>
+        <span class="status">${escapeHtml(statusLabel(candidate.status))}</span>
+        <span class="confidence">可信度 ${escapeHtml(candidate.confidence ?? "--")}%</span>
+        <span class="source-grade">${escapeHtml(candidate.sourceGrade || "公開來源")}</span>
+      </div>
+      <h3>${escapeHtml(candidate.title)}</h3>
+      <p>${escapeHtml(candidate.summary)}</p>
+      <div class="signal-meta">
+        <span>${escapeHtml(formatEventDate(candidate.date))}</span>
+        <span>${escapeHtml(candidate.location)}</span>
+        <span>${escapeHtml(candidate.venue || "公開來源")}</span>
+      </div>
+      <div class="sources"></div>
+    `;
+    const sourceBox = article.querySelector(".sources");
+    for (const source of candidate.sources.slice(0, 3)) {
+      if (!source.url) continue;
+      const link = document.createElement("a");
+      link.className = "source-link";
+      link.href = source.url;
+      link.target = "_blank";
+      link.rel = "noreferrer";
+      link.textContent = source.publisher ? `${source.publisher}：${source.label}` : source.label;
+      sourceBox.append(link);
+    }
+    els.upcomingList.append(article);
   }
 }
 
@@ -859,6 +980,30 @@ function formatEventDate(value) {
   });
 }
 
+function taipeiDateString() {
+  return new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Asia/Taipei",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit"
+  }).format(new Date());
+}
+
+function addDays(value, days) {
+  const date = new Date(`${value}T12:00:00+08:00`);
+  date.setUTCDate(date.getUTCDate() + days);
+  return new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Asia/Taipei",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit"
+  }).format(date);
+}
+
+function isDateInRange(value, start, end) {
+  return Boolean(value && value >= start && value <= end);
+}
+
 function daysSinceEvent(value) {
   const eventDate = new Date(`${value}T00:00:00+08:00`);
   if (Number.isNaN(eventDate.getTime())) return 0;
@@ -939,6 +1084,7 @@ function copyCurrentSummary() {
     .slice(0, 5)
     .map(([name, count]) => `${name} ${count} 次`)
     .join("、") || "無";
+  const upcomingCount = buildUpcomingCandidates().length;
   const text = [
     "黃仁勳公開行程摘要",
     `事件數：${events.length}`,
@@ -946,6 +1092,7 @@ function copyCurrentSummary() {
     `公司互動：${topCompanies}`,
     `資料更新：${formatGeneratedAt(state.generatedAt)}`,
     `最新公開訊號：${state.latestSignals.length} 筆，最後抓取 ${formatGeneratedAt(state.signalGeneratedAt)}`,
+    `未來 7 天可能行程：${upcomingCount} 筆候選`,
     "提醒：僅公開來源事件，不代表即時位置；觀察名單不是投資建議。"
   ].join("\n");
 

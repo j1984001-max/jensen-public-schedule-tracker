@@ -367,7 +367,8 @@ select {
 }
 
 .source-audit-panel,
-.latest-signals-panel {
+.latest-signals-panel,
+.upcoming-panel {
   margin-top: 18px;
   padding: clamp(18px, 3vw, 28px);
   border: 1px solid var(--line);
@@ -377,7 +378,8 @@ select {
 }
 
 #source-audit-summary,
-#latest-signal-count {
+#latest-signal-count,
+#upcoming-count {
   padding: 7px 10px;
   border-radius: 999px;
   background: #eff6ff;
@@ -617,12 +619,26 @@ select {
   gap: 14px;
 }
 
+.upcoming-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+
 .latest-signal-card {
   min-height: 240px;
   padding: 16px;
   border: 1px solid var(--line);
   border-radius: 8px;
   background: #fff;
+}
+
+.upcoming-card {
+  min-height: 220px;
+  padding: 16px;
+  border: 1px solid #bfdbfe;
+  border-radius: 8px;
+  background: #ffffff;
 }
 
 .latest-signal-card h3 {
@@ -641,6 +657,18 @@ select {
 }
 
 .latest-signal-card p {
+  margin: 0;
+  color: #475569;
+  line-height: 1.62;
+}
+
+.upcoming-card h3 {
+  margin: 12px 0 8px;
+  font-size: 20px;
+  line-height: 1.35;
+}
+
+.upcoming-card p {
   margin: 0;
   color: #475569;
   line-height: 1.62;
@@ -1290,6 +1318,7 @@ select {
   .source-audit-grid,
   .analytics-grid,
   .latest-signal-list,
+  .upcoming-list,
   .company-list,
   .source-list {
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -1314,6 +1343,7 @@ select {
   .source-audit-grid,
   .analytics-grid,
   .latest-signal-list,
+  .upcoming-list,
   .drawer-stats,
   .company-list,
   .source-list {
