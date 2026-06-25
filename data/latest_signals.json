@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T10:44:01.901121+00:00",
+  "generatedAt": "2026-06-25T20:58:48.587053+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
   "publishedToTimeline": 12,
@@ -25,7 +25,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳造訪台韓卻獨缺日本 日媒坦言：國內出現危機感 - 自由財經 黃仁勳造訪台韓卻獨缺日本 日媒坦言：國內出現危機感 自由財經",
-      "capturedAt": "2026-06-25T10:44:01.901136+00:00"
+      "capturedAt": "2026-06-25T20:58:48.587068+00:00"
     },
     {
       "id": "68caa57afa71",
@@ -48,7 +48,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "評析：三星仍在牌桌上？ 黃仁勳訪韓牽動HBM供應角力 - DIGITIMES 評析：三星仍在牌桌上？ 黃仁勳訪韓牽動HBM供應角力 DIGITIMES",
-      "capturedAt": "2026-06-25T10:44:01.901136+00:00"
+      "capturedAt": "2026-06-25T20:58:48.587068+00:00"
     },
     {
       "id": "f38a56d4e600",
@@ -71,7 +71,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳婉拒出席國會聽證 華倫開轟：赴川普晚宴、見習近平都有空？ - UDN 黃仁勳婉拒出席國會聽證 華倫開轟：赴川普晚宴、見習近平都有空？ UDN",
-      "capturedAt": "2026-06-25T10:44:01.901136+00:00"
+      "capturedAt": "2026-06-25T20:58:48.587068+00:00"
     },
     {
       "id": "cbbfbcb08e04",
@@ -94,7 +94,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "GTC背板黃仁勳連三年欽點，這１０所大學為什麼能年年上榜？ - Cheers快樂工作人 GTC背板黃仁勳連三年欽點，這１０所大學為什麼能年年上榜？ Cheers快樂工作人",
-      "capturedAt": "2026-06-25T10:44:01.901136+00:00"
+      "capturedAt": "2026-06-25T20:58:48.587068+00:00"
     },
     {
       "id": "f2e0b01610aa",
@@ -117,7 +117,32 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳訪韓粉絲被羞辱？SK海力士會長崔泰源丟餅乾被罵爆「像在餵動物」 | 黃振剛 | 新聞 - Storm.mg 黃仁勳訪韓粉絲被羞辱？SK海力士會長崔泰源丟餅乾被罵爆「像在餵動物」 | 黃振剛 | 新聞 Storm.mg",
-      "capturedAt": "2026-06-25T10:44:01.901136+00:00"
+      "capturedAt": "2026-06-25T20:58:48.587068+00:00"
+    },
+    {
+      "id": "732be52c5170",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Where Nvidia CEO Jensen Huang ate during 3-day Seoul visit - The Korea Times",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUFaMTFRSm5BSW5VdXNsYm54TVFLSmZyM0daY2NtdjVCVFZlX19lWU85d05RaGh3cFlES3pnMWc2eXhjSWNvWm9WdDlJVU84RjhPa01DOF9xMVVDMzBlODlaTFUybWxGRERIc2NQb3VsU0t6VXU5MXV1WGJYeGJSakhJVzNXNFgwRXQ4LUF6X2ZIY3RyMi1LckVlem0yLWF4NEw1c3k1N0ZjZG9EXzIzSksxcTNxUDN0RmfSAb8BQVVfeXFMT3lOWTdZc0w4Mm54MjltVlgtTjMyZEpqN19qM3k5WlhwRTB0d01HOUhkY0M3ai1VT0pzcEk1ZzlnaHhMMHlzcm9JUEl1MUFsQTZyVGRiY2FSTjJHUkxxYWx3WUdfa0dPWWxIaFdPTWN0VDNZSDk3c0liX0tfMkFVd1plaVNLTlNRYkZZT2pHQzBnNjA4Y2N1em1YaGZXd3RvMFZya2pBcVBqZFVoUVVFT3F4YlFNWW91UlRPalBPVFk?oc=5",
+      "publishedAt": "2026-06-08T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang",
+        "NVIDIA CEO",
+        "Nvidia CEO"
+      ],
+      "matchedEventKeywords": [
+        "visit"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Where Nvidia CEO Jensen Huang ate during 3-day Seoul visit - The Korea Times Where Nvidia CEO Jensen Huang ate during 3-day Seoul visit The Korea Times",
+      "capturedAt": "2026-06-25T20:58:48.587068+00:00"
     },
     {
       "id": "49535b0d68e6",
@@ -141,7 +166,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Lunit to join Nvidia AI ecosystem meeting during Jensen Huang’s Korea visit - koreabiomed.com Lunit to join Nvidia AI ecosystem meeting during Jensen Huang’s Korea visit koreabiomed.com",
-      "capturedAt": "2026-06-25T10:44:01.901136+00:00"
+      "capturedAt": "2026-06-25T20:58:48.587068+00:00"
     },
     {
       "id": "668bceac9507",
@@ -164,7 +189,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳訪韓國宣布3大合作案布局AI資料中心| 產經 - 中央社 CNA 黃仁勳訪韓國宣布3大合作案布局AI資料中心| 產經 中央社 CNA",
-      "capturedAt": "2026-06-25T10:44:01.901136+00:00"
+      "capturedAt": "2026-06-25T20:58:48.587068+00:00"
     },
     {
       "id": "06e54457dac1",
@@ -187,17 +212,17 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "三星晶片主管與黃仁勳會面討論次世代晶圓代工合作| 全球財經| 全球 - UDN 三星晶片主管與黃仁勳會面討論次世代晶圓代工合作| 全球財經| 全球 UDN",
-      "capturedAt": "2026-06-25T10:44:01.901136+00:00"
+      "capturedAt": "2026-06-25T20:58:48.587068+00:00"
     },
     {
-      "id": "df4ab807debd",
+      "id": "1e5b12326e9d",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "黃仁勳訪韓掀AI旋風 輝達攜手三星SK LG深化合作 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOaGRDbnJac1FxbDd3RExMVmpMSUZ5WmRVSG1JWHk5TmJBLWZvcU5NQTRYY1h3Y2tNN25xZy00ZG1taDFlNGhJUGhZSzFNREFfQ2VySVB3QVR1cTdKbEhJbWRIcFZNR0ctbTZ1MjRDMVhJV294Q0NfUDFzS1BXN0N1ekZMQXBkQmt0T1dpTUNFYlptVC1YYnZKeHJ4UGlSeng2MUR4bmt1ZFU1aHF2TjlJREo4YVUydzYzbUoxMHpRWVFhamYzclVIcS1Hdm50OWF0bWg4cmRGRGR5RFBRQncwX3Q3Z0pDTDU4aDFxc3dtenVQYUYtT2h5Z3lROUhxdDd6NkVKVFN3TG44R0ZRNFRMbXA1djhjaEFLeUZtd0hRUWUyVTFlZGdxREdtdHlsUjZrMXN5VTNITHRtZVFuRGc?oc=5",
+      "title": "黃仁勳訪韓：記憶體晶片短缺未見結束跡象 - news.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aOG4tRmJGbUYwbnYya2VVT3ZyN1ZFQjdxM1J0R3VvdW1ZRnY5VjVJbVctTzAzVGFWQjNSRnl3QUVhQ1FubnZ4aVFTQVJ6bVU?oc=5",
       "publishedAt": "2026-06-08T07:00:00+00:00",
       "detectedDates": [],
       "matchedKeywords": [
@@ -209,31 +234,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "黃仁勳訪韓掀AI旋風 輝達攜手三星SK LG深化合作 - Yahoo股市 黃仁勳訪韓掀AI旋風 輝達攜手三星SK LG深化合作 Yahoo股市",
-      "capturedAt": "2026-06-25T10:44:01.901136+00:00"
-    },
-    {
-      "id": "281d44867389",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳造訪Faker送親簽5090神卡！AI教父世紀同框電競傳奇 兩人其實還有「這個」共通點 - ELLE",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLTI1OGpoeGxTZG9iSEZ4QlpSZXJOdWwwR0dNMVVtelV1clJaS3pPbkxPZTFGdFB5WmpoNWVrUlRzdm5rSGg3cklpbFF5aVY4NmpIdTNUZ1NoNlh4SkpCQlNjTVRDRER3ei1RZWFmUHIzSTRUc1QtSWNqQkowc2x1alZMTmo0My1QQnZVLUNjNW9RSDNwVXc?oc=5",
-      "publishedAt": "2026-06-07T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "造訪"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳造訪Faker送親簽5090神卡！AI教父世紀同框電競傳奇 兩人其實還有「這個」共通點 - ELLE 黃仁勳造訪Faker送親簽5090神卡！AI教父世紀同框電競傳奇 兩人其實還有「這個」共通點 ELLE",
-      "capturedAt": "2026-06-25T10:44:01.901136+00:00"
+      "summary": "黃仁勳訪韓：記憶體晶片短缺未見結束跡象 - news.cnyes.com 黃仁勳訪韓：記憶體晶片短缺未見結束跡象 news.cnyes.com",
+      "capturedAt": "2026-06-25T20:58:48.587068+00:00"
     },
     {
       "id": "bf5ed5a4ec37",
@@ -258,7 +260,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Tracking website, food watch: South Korea is obsessing over Nvidia CEO Jensen Huang's visit - CNBC Tracking website, food watch: South Korea is obsessing over Nvidia CEO Jensen Huang's visit CNBC",
-      "capturedAt": "2026-06-25T10:44:01.901136+00:00"
+      "capturedAt": "2026-06-25T20:58:48.587068+00:00"
     },
     {
       "id": "1eac308a94e6",
@@ -283,7 +285,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang calls on Korean gaming superstar Faker during Seoul visit - AP News Nvidia CEO Jensen Huang calls on Korean gaming superstar Faker during Seoul visit AP News",
-      "capturedAt": "2026-06-25T10:44:01.901136+00:00"
+      "capturedAt": "2026-06-25T20:58:48.587068+00:00"
     },
     {
       "id": "6b1430a67157",
@@ -306,7 +308,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳訪韓聚焦兩大主軸：HBM4三大廠全數認證過關，點名機器人成韓國下個AI戰場，台灣相關供應鏈有哪些？｜股市話題 - sinotrade.com.tw 黃仁勳訪韓聚焦兩大主軸：HBM4三大廠全數認證過關，點名機器人成韓國下個AI戰場，台灣相關供應鏈有哪些？｜股市話題 sinotrade.com.tw",
-      "capturedAt": "2026-06-25T10:44:01.901136+00:00"
+      "capturedAt": "2026-06-25T20:58:48.587068+00:00"
     },
     {
       "id": "751c0df19c60",
@@ -333,7 +335,7 @@
         "夜市"
       ],
       "summary": "黃仁勳離台喊 COMPUTEX 成功：台灣在 AI 核心位置更關鍵 笑稱「夜市也需要休息」 - 經濟日報 黃仁勳離台喊 COMPUTEX 成功：台灣在 AI 核心位置更關鍵 笑稱「夜市也需要休息」 經濟日報",
-      "capturedAt": "2026-06-25T10:44:01.901136+00:00"
+      "capturedAt": "2026-06-25T20:58:48.587068+00:00"
     },
     {
       "id": "ed18293f8fd7",
@@ -356,7 +358,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳結束14天台灣行程飛韓國 預告明年下半年AI需求暴增：台灣供應鏈要準備好了 - Yahoo股市 黃仁勳結束14天台灣行程飛韓國 預告明年下半年AI需求暴增：台灣供應鏈要準備好了 Yahoo股市",
-      "capturedAt": "2026-06-25T10:44:01.901136+00:00"
+      "capturedAt": "2026-06-25T20:58:48.587068+00:00"
     },
     {
       "id": "d241bd76b996",
@@ -379,7 +381,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang pitches AI returns to family offices at Taipei event - qz.com Jensen Huang pitches AI returns to family offices at Taipei event qz.com",
-      "capturedAt": "2026-06-25T10:44:01.901136+00:00"
+      "capturedAt": "2026-06-25T20:58:48.587068+00:00"
     },
     {
       "id": "4b908b328634",
@@ -408,7 +410,7 @@
         "台啤"
       ],
       "summary": "ETtoday新聞雲. . 【這不是AI】黃仁勳COMPUTEX「坐地喝台啤」畫面瘋傳 - facebook.com ETtoday新聞雲. . 【這不是AI】黃仁勳COMPUTEX「坐地喝台啤」畫面瘋傳 facebook.com",
-      "capturedAt": "2026-06-25T10:44:01.901136+00:00"
+      "capturedAt": "2026-06-25T20:58:48.587068+00:00"
     },
     {
       "id": "6b8ae1af6b7d",
@@ -434,30 +436,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Five thoughts from Nvidia CEO Jensen Huang’s GTC Taipei 2026 keynote - SiliconANGLE Five thoughts from Nvidia CEO Jensen Huang’s GTC Taipei 2026 keynote SiliconANGLE",
-      "capturedAt": "2026-06-25T10:44:01.901136+00:00"
-    },
-    {
-      "id": "7af0688ba7b7",
-      "status": "needs-review",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "'Compute is profit': 3 big takeaways from Jensen Huang's keynote in Taiwan - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY0VlNXN1N2NoSXF5NnVnQ2dEaG52R1ZKSmhRbXFkWmp0S2tmYmEzRk5BRndBdlhzYnJKdVNoMlYzVG1LRC1xSEMtWFZHTDIxYWZ3YkpIVm96SkRZdmN0SnVIVUlXcEhsTlZ1Nld0U1h2aGpWRnVERUZmMmJ0LWVlOU93dHlBZF9Da1Y4Q2xucU9XaUpXaE5CdVpaZVlOeHNlZ0dmV0ZB?oc=5",
-      "publishedAt": "2026-06-01T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [
-        "keynote"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "'Compute is profit': 3 big takeaways from Jensen Huang's keynote in Taiwan - Business Insider 'Compute is profit': 3 big takeaways from Jensen Huang's keynote in Taiwan Business Insider",
-      "capturedAt": "2026-06-25T10:44:01.901136+00:00"
+      "capturedAt": "2026-06-25T20:58:48.587068+00:00"
     },
     {
       "id": "268452949d75",
@@ -480,7 +459,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Will Nvidia Stock Rise During June 1 to June 4 From CEO Jensen Huang's Participation in COMPUTEX 2026? - The Motley Fool Will Nvidia Stock Rise During June 1 to June 4 From CEO Jensen Huang's Participation in COMPUTEX 2026? The Motley Fool",
-      "capturedAt": "2026-06-25T10:44:01.901136+00:00"
+      "capturedAt": "2026-06-25T20:58:48.587068+00:00"
     },
     {
       "id": "318ecde8b516",
@@ -501,7 +480,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "從洗碗工到AI教父 黃仁勳5句人生金句爆紅：真正的成功，是由衷盼望別人成功 - 基督教今日報 從洗碗工到AI教父 黃仁勳5句人生金句爆紅：真正的成功，是由衷盼望別人成功 基督教今日報",
-      "capturedAt": "2026-06-25T10:44:01.901136+00:00"
+      "capturedAt": "2026-06-25T20:58:48.587068+00:00"
     },
     {
       "id": "5d5e9746b5dc",
@@ -522,7 +501,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "In Interview with AP, Nvidia's Jensen Huang Urges Americans to Use AI More - Broadband Breakfast In Interview with AP, Nvidia's Jensen Huang Urges Americans to Use AI More Broadband Breakfast",
-      "capturedAt": "2026-06-25T10:44:01.901136+00:00"
+      "capturedAt": "2026-06-25T20:58:48.587068+00:00"
     },
     {
       "id": "b087ab0eac03",
@@ -543,7 +522,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "After years in CEO Jensen Huang's orbit, these Nvidia veterans are building a startup community of their own - Business Insider After years in CEO Jensen Huang's orbit, these Nvidia veterans are building a start",
-      "capturedAt": "2026-06-25T10:44:01.901136+00:00"
+      "capturedAt": "2026-06-25T20:58:48.587068+00:00"
     },
     {
       "id": "0ae66fe26da2",
@@ -564,7 +543,28 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang says electricians and plumbers will be needed by the hundreds of thousands - Fortune Jensen Huang says electricians and plumbers will be needed by the hundreds of thousands Fortun",
-      "capturedAt": "2026-06-25T10:44:01.901136+00:00"
+      "capturedAt": "2026-06-25T20:58:48.587068+00:00"
+    },
+    {
+      "id": "0f90f4688273",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Jensen Huang’s Nvidia Is About to Break a Global Earnings Record. That’s No Accident. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZmhER2dGNDZqMHE0eDA1QWxOR21idXNMQjhvZnF5endJcEVIajhOVm1PNlk5dlA3UUFRdXFGYVdMS0hiV3ptUERRZ2c1MTA2Q3U4WGJtMTJGb0lHdGd2N1lkeWNxcWpfX21HZjBTQ3VTc0JZaGZiVU9lRHJRM3FEZA?oc=5",
+      "publishedAt": "2026-06-19T05:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Jensen Huang’s Nvidia Is About to Break a Global Earnings Record. That’s No Accident. - Barron's Jensen Huang’s Nvidia Is About to Break a Global Earnings Record. That’s No Accident. Barron's",
+      "capturedAt": "2026-06-25T20:58:48.587068+00:00"
     }
   ],
   "errors": [
