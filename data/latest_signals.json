@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T10:11:00.722279+00:00",
+  "generatedAt": "2026-06-27T20:09:24.001325+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
   "publishedToTimeline": 12,
@@ -25,7 +25,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳造訪台韓卻獨缺日本 日媒坦言：國內出現危機感 - 自由財經 黃仁勳造訪台韓卻獨缺日本 日媒坦言：國內出現危機感 自由財經",
-      "capturedAt": "2026-06-27T10:11:00.722288+00:00"
+      "capturedAt": "2026-06-27T20:09:24.001339+00:00"
     },
     {
       "id": "68caa57afa71",
@@ -48,7 +48,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "評析：三星仍在牌桌上？ 黃仁勳訪韓牽動HBM供應角力 - DIGITIMES 評析：三星仍在牌桌上？ 黃仁勳訪韓牽動HBM供應角力 DIGITIMES",
-      "capturedAt": "2026-06-27T10:11:00.722288+00:00"
+      "capturedAt": "2026-06-27T20:09:24.001339+00:00"
     },
     {
       "id": "e2408fcd8a3d",
@@ -71,30 +71,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "GTC背板黃仁勳連三年欽點，這１０所大學為什麼能年年上榜？ - Cheers快樂工作人 GTC背板黃仁勳連三年欽點，這１０所大學為什麼能年年上榜？ Cheers快樂工作人",
-      "capturedAt": "2026-06-27T10:11:00.722288+00:00"
-    },
-    {
-      "id": "51499d45326d",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "Elizabeth Warren Lays a Trap for Jensen Huang. He May Have No Choice But to Accept. - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSjYwNFR5SVJNZFdDVHFmZmVRal9EQlZrQ3cwenNiUjhLdnFjQ2E3dzgtc0pxS2NJT240QUZYa0tscWk3bVhWbmJiYXlRdFk4QkhvXzFoaXRMUHZwa05Ia0VmdXpVT1FnUjdHbjFKSGItU2FuOUktdE9rTXREUjJsd0Q3OTEwNTdpN3RVWXZ0SWhZbVhseUpsaDMxNTlYY1UxV2h4QjJqUjE0NDllM2FxZUR5bENwOFg4aERqa1FVdkJvRnA2Z3c?oc=5",
-      "publishedAt": "2026-06-09T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [
-        "GTC"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Elizabeth Warren Lays a Trap for Jensen Huang. He May Have No Choice But to Accept. - 24/7 Wall St. Elizabeth Warren Lays a Trap for Jensen Huang. He May Have No Choice But to Accept. 24/7 Wall St.",
-      "capturedAt": "2026-06-27T10:11:00.722288+00:00"
+      "capturedAt": "2026-06-27T20:09:24.001339+00:00"
     },
     {
       "id": "f2e0b01610aa",
@@ -117,7 +94,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳訪韓粉絲被羞辱？SK海力士會長崔泰源丟餅乾被罵爆「像在餵動物」 | 黃振剛 | 新聞 - Storm.mg 黃仁勳訪韓粉絲被羞辱？SK海力士會長崔泰源丟餅乾被罵爆「像在餵動物」 | 黃振剛 | 新聞 Storm.mg",
-      "capturedAt": "2026-06-27T10:11:00.722288+00:00"
+      "capturedAt": "2026-06-27T20:09:24.001339+00:00"
     },
     {
       "id": "d9316037ecc3",
@@ -140,30 +117,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "「燒肉炸雞朋友該休息了」！黃仁勳結束為期五天首爾行 訪韓期間宣布多項重要成果 - news.cnyes.com 「燒肉炸雞朋友該休息了」！黃仁勳結束為期五天首爾行 訪韓期間宣布多項重要成果 news.cnyes.com",
-      "capturedAt": "2026-06-27T10:11:00.722288+00:00"
-    },
-    {
-      "id": "81a66c214529",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳「韓國美食地圖」走紅！造訪店家一次看 這家被他點2次 - NOWnews今日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IYzVXMjZ4MHJRNlJSbFRkQW9OazFZRTFLRElnSVAyRzR1S090Z2FDMjBFWW4xTTNxME56M0hpTzlaUGFrUXFEWnlfblPSAVJBVV95cUxNLUVCb3JCeEFtU2ljdV93VFJtMUlFOWFQdlVEWVVoNUlTODlxYkZncjdpR3MzOXlhSjd5RUswZEtCVlF4Q1VMdmdHcHI5YjBTQVhn?oc=5",
-      "publishedAt": "2026-06-09T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "造訪"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳「韓國美食地圖」走紅！造訪店家一次看 這家被他點2次 - NOWnews今日新聞 黃仁勳「韓國美食地圖」走紅！造訪店家一次看 這家被他點2次 NOWnews今日新聞",
-      "capturedAt": "2026-06-27T10:11:00.722288+00:00"
+      "capturedAt": "2026-06-27T20:09:24.001339+00:00"
     },
     {
       "id": "39457b2039b7",
@@ -192,7 +146,7 @@
         "餐廳"
       ],
       "summary": "黃仁勳變身超級帶貨王！首爾行程所有小吃、餐廳與點心因他爆紅，替南韓締造驚人商機| 李靖棠| 新聞 - Storm.mg 黃仁勳變身超級帶貨王！首爾行程所有小吃、餐廳與點心因他爆紅，替南韓締造驚人商機| 李靖棠| 新聞 Storm.mg",
-      "capturedAt": "2026-06-27T10:11:00.722288+00:00"
+      "capturedAt": "2026-06-27T20:09:24.001339+00:00"
     },
     {
       "id": "49535b0d68e6",
@@ -216,32 +170,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Lunit to join Nvidia AI ecosystem meeting during Jensen Huang’s Korea visit - koreabiomed.com Lunit to join Nvidia AI ecosystem meeting during Jensen Huang’s Korea visit koreabiomed.com",
-      "capturedAt": "2026-06-27T10:11:00.722288+00:00"
-    },
-    {
-      "id": "732be52c5170",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Where Nvidia CEO Jensen Huang ate during 3-day Seoul visit - The Korea Times",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUFaMTFRSm5BSW5VdXNsYm54TVFLSmZyM0daY2NtdjVCVFZlX19lWU85d05RaGh3cFlES3pnMWc2eXhjSWNvWm9WdDlJVU84RjhPa01DOF9xMVVDMzBlODlaTFUybWxGRERIc2NQb3VsU0t6VXU5MXV1WGJYeGJSakhJVzNXNFgwRXQ4LUF6X2ZIY3RyMi1LckVlem0yLWF4NEw1c3k1N0ZjZG9EXzIzSksxcTNxUDN0RmfSAb8BQVVfeXFMT3lOWTdZc0w4Mm54MjltVlgtTjMyZEpqN19qM3k5WlhwRTB0d01HOUhkY0M3ai1VT0pzcEk1ZzlnaHhMMHlzcm9JUEl1MUFsQTZyVGRiY2FSTjJHUkxxYWx3WUdfa0dPWWxIaFdPTWN0VDNZSDk3c0liX0tfMkFVd1plaVNLTlNRYkZZT2pHQzBnNjA4Y2N1em1YaGZXd3RvMFZya2pBcVBqZFVoUVVFT3F4YlFNWW91UlRPalBPVFk?oc=5",
-      "publishedAt": "2026-06-08T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang",
-        "NVIDIA CEO",
-        "Nvidia CEO"
-      ],
-      "matchedEventKeywords": [
-        "visit"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Where Nvidia CEO Jensen Huang ate during 3-day Seoul visit - The Korea Times Where Nvidia CEO Jensen Huang ate during 3-day Seoul visit The Korea Times",
-      "capturedAt": "2026-06-27T10:11:00.722288+00:00"
+      "capturedAt": "2026-06-27T20:09:24.001339+00:00"
     },
     {
       "id": "668bceac9507",
@@ -264,7 +193,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳訪韓國宣布3大合作案布局AI資料中心| 產經 - 中央社 CNA 黃仁勳訪韓國宣布3大合作案布局AI資料中心| 產經 中央社 CNA",
-      "capturedAt": "2026-06-27T10:11:00.722288+00:00"
+      "capturedAt": "2026-06-27T20:09:24.001339+00:00"
     },
     {
       "id": "06e54457dac1",
@@ -287,11 +216,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "三星晶片主管與黃仁勳會面討論次世代晶圓代工合作| 全球財經| 全球 - UDN 三星晶片主管與黃仁勳會面討論次世代晶圓代工合作| 全球財經| 全球 UDN",
-      "capturedAt": "2026-06-27T10:11:00.722288+00:00"
+      "capturedAt": "2026-06-27T20:09:24.001339+00:00"
     },
     {
       "id": "cd694ac63741",
-      "status": "needs-review",
+      "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳 韓國",
@@ -310,11 +239,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳南韓掀旋風！拒出席美聽證挨批：有空陪川習 沒空來國會？ - Yahoo新聞 黃仁勳南韓掀旋風！拒出席美聽證挨批：有空陪川習 沒空來國會？ Yahoo新聞",
-      "capturedAt": "2026-06-27T10:11:00.722288+00:00"
+      "capturedAt": "2026-06-27T20:09:24.001339+00:00"
     },
     {
       "id": "cdf961d67b07",
-      "status": "needs-review",
+      "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳",
@@ -333,11 +262,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳造訪Faker送親簽5090神卡！AI教父世紀同框電競傳奇 兩人其實還有「這個」共通點 - ELLE 黃仁勳造訪Faker送親簽5090神卡！AI教父世紀同框電競傳奇 兩人其實還有「這個」共通點 ELLE",
-      "capturedAt": "2026-06-27T10:11:00.722288+00:00"
+      "capturedAt": "2026-06-27T20:09:24.001339+00:00"
     },
     {
       "id": "a8aec098c94f",
-      "status": "needs-review",
+      "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳",
@@ -356,7 +285,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳訪韓送四大禮 揭露輝達新盤算 - 經濟日報 黃仁勳訪韓送四大禮 揭露輝達新盤算 經濟日報",
-      "capturedAt": "2026-06-27T10:11:00.722288+00:00"
+      "capturedAt": "2026-06-27T20:09:24.001339+00:00"
     },
     {
       "id": "bf5ed5a4ec37",
@@ -381,7 +310,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Tracking website, food watch: South Korea is obsessing over Nvidia CEO Jensen Huang's visit - CNBC Tracking website, food watch: South Korea is obsessing over Nvidia CEO Jensen Huang's visit CNBC",
-      "capturedAt": "2026-06-27T10:11:00.722288+00:00"
+      "capturedAt": "2026-06-27T20:09:24.001339+00:00"
     },
     {
       "id": "1eac308a94e6",
@@ -406,7 +335,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang calls on Korean gaming superstar Faker during Seoul visit - AP News Nvidia CEO Jensen Huang calls on Korean gaming superstar Faker during Seoul visit AP News",
-      "capturedAt": "2026-06-27T10:11:00.722288+00:00"
+      "capturedAt": "2026-06-27T20:09:24.001339+00:00"
     },
     {
       "id": "d241bd76b996",
@@ -429,7 +358,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang pitches AI returns to family offices at Taipei event - qz.com Jensen Huang pitches AI returns to family offices at Taipei event qz.com",
-      "capturedAt": "2026-06-27T10:11:00.722288+00:00"
+      "capturedAt": "2026-06-27T20:09:24.001339+00:00"
     },
     {
       "id": "4b908b328634",
@@ -458,7 +387,7 @@
         "台啤"
       ],
       "summary": "ETtoday新聞雲. . 【這不是AI】黃仁勳COMPUTEX「坐地喝台啤」畫面瘋傳 - facebook.com ETtoday新聞雲. . 【這不是AI】黃仁勳COMPUTEX「坐地喝台啤」畫面瘋傳 facebook.com",
-      "capturedAt": "2026-06-27T10:11:00.722288+00:00"
+      "capturedAt": "2026-06-27T20:09:24.001339+00:00"
     },
     {
       "id": "6b8ae1af6b7d",
@@ -484,7 +413,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Five thoughts from Nvidia CEO Jensen Huang’s GTC Taipei 2026 keynote - SiliconANGLE Five thoughts from Nvidia CEO Jensen Huang’s GTC Taipei 2026 keynote SiliconANGLE",
-      "capturedAt": "2026-06-27T10:11:00.722288+00:00"
+      "capturedAt": "2026-06-27T20:09:24.001339+00:00"
     },
     {
       "id": "ea3ca696d82e",
@@ -508,7 +437,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jim Cramer says Jensen Huang’s Computex keynote revealed more winners in the AI boom - CNBC Jim Cramer says Jensen Huang’s Computex keynote revealed more winners in the AI boom CNBC",
-      "capturedAt": "2026-06-27T10:11:00.722288+00:00"
+      "capturedAt": "2026-06-27T20:09:24.001339+00:00"
     },
     {
       "id": "39ad330d146a",
@@ -529,28 +458,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳：實體 AI 下波成長浪潮 | 產業熱點 | 產業 - 經濟日報 黃仁勳：實體 AI 下波成長浪潮 | 產業熱點 | 產業 經濟日報",
-      "capturedAt": "2026-06-27T10:11:00.722288+00:00"
-    },
-    {
-      "id": "318ecde8b516",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "從洗碗工到AI教父 黃仁勳5句人生金句爆紅：真正的成功，是由衷盼望別人成功 - 基督教今日報",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mSE5mMzIxQkkwYzgtQm5UbmtncUJhVkdXRnpZS0RDUUFfbkpSeDhvSXFJdnRmZEp2cDk0R2daU1pPUXdFakNFMEVGS0NDZw?oc=5",
-      "publishedAt": "2026-06-25T08:39:21+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "從洗碗工到AI教父 黃仁勳5句人生金句爆紅：真正的成功，是由衷盼望別人成功 - 基督教今日報 從洗碗工到AI教父 黃仁勳5句人生金句爆紅：真正的成功，是由衷盼望別人成功 基督教今日報",
-      "capturedAt": "2026-06-27T10:11:00.722288+00:00"
+      "capturedAt": "2026-06-27T20:09:24.001339+00:00"
     },
     {
       "id": "be885f322e89",
@@ -571,7 +479,91 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "AI巨額投資有無回報？ 黃仁勳股東會喊話：答案已揭曉 - Yahoo股市 AI巨額投資有無回報？ 黃仁勳股東會喊話：答案已揭曉 Yahoo股市",
-      "capturedAt": "2026-06-27T10:11:00.722288+00:00"
+      "capturedAt": "2026-06-27T20:09:24.001339+00:00"
+    },
+    {
+      "id": "5d5e9746b5dc",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "In Interview with AP, Nvidia's Jensen Huang Urges Americans to Use AI More - Broadband Breakfast",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2JXSHlEWmVoMVBjSTRnWGVaaU14Mk9ibElNRW5uekRKY0pCVFpqQkFCNzRtQUt4ODZhbVRkLXM0QmhBYktZVDZtWWhNaW1DSXViRTBEbmtVNjJxVk14QkRUT0g2ZmxLWGZocVhRT0hTeDliai1VN19kdzI3RExDSmtSTHNsdEpneVVNTFFLVzlvdUxqalI5aExXdDdPNGpZYVJUX0NEdw?oc=5",
+      "publishedAt": "2026-06-22T05:46:19+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "In Interview with AP, Nvidia's Jensen Huang Urges Americans to Use AI More - Broadband Breakfast In Interview with AP, Nvidia's Jensen Huang Urges Americans to Use AI More Broadband Breakfast",
+      "capturedAt": "2026-06-27T20:09:24.001339+00:00"
+    },
+    {
+      "id": "0f90f4688273",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Jensen Huang’s Nvidia Is About to Break a Global Earnings Record. That’s No Accident. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZmhER2dGNDZqMHE0eDA1QWxOR21idXNMQjhvZnF5endJcEVIajhOVm1PNlk5dlA3UUFRdXFGYVdMS0hiV3ptUERRZ2c1MTA2Q3U4WGJtMTJGb0lHdGd2N1lkeWNxcWpfX21HZjBTQ3VTc0JZaGZiVU9lRHJRM3FEZA?oc=5",
+      "publishedAt": "2026-06-19T05:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Jensen Huang’s Nvidia Is About to Break a Global Earnings Record. That’s No Accident. - Barron's Jensen Huang’s Nvidia Is About to Break a Global Earnings Record. That’s No Accident. Barron's",
+      "capturedAt": "2026-06-27T20:09:24.001339+00:00"
+    },
+    {
+      "id": "8a1a706dac1d",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳加持！揭微星員工分紅及年終獎金 入職前景看好 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vdlBVN2NaMlB4djlqLUVETVJTUDBHX2dNdnJ0UzRyN21IZGFxOVB3dXhaam1TYkMzQUxYeERXUHJILUU2ZjNYaWFtcmloRjFz0gFWQVVfeXFMT1EzVXctOUNZcURPTVowSDQ1TlR3NVlheVk3QnpqVjZOaU5HV2pRRzBwQWVaVzU0b3RwQ1lXRnVWMVlEdk16Y1V6SUZSb0xiTUt4VWwtQmc?oc=5",
+      "publishedAt": "2026-06-18T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳加持！揭微星員工分紅及年終獎金 入職前景看好 - UDN 黃仁勳加持！揭微星員工分紅及年終獎金 入職前景看好 UDN",
+      "capturedAt": "2026-06-27T20:09:24.001339+00:00"
+    },
+    {
+      "id": "318ecde8b516",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "從洗碗工到AI教父 黃仁勳5句人生金句爆紅：真正的成功，是由衷盼望別人成功 - 基督教今日報",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mSE5mMzIxQkkwYzgtQm5UbmtncUJhVkdXRnpZS0RDUUFfbkpSeDhvSXFJdnRmZEp2cDk0R2daU1pPUXdFakNFMEVGS0NDZw?oc=5",
+      "publishedAt": "2026-06-18T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "從洗碗工到AI教父 黃仁勳5句人生金句爆紅：真正的成功，是由衷盼望別人成功 - 基督教今日報 從洗碗工到AI教父 黃仁勳5句人生金句爆紅：真正的成功，是由衷盼望別人成功 基督教今日報",
+      "capturedAt": "2026-06-27T20:09:24.001339+00:00"
     }
   ],
   "errors": [
