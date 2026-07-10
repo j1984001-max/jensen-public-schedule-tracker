@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T05:50:42.757965+00:00",
+  "generatedAt": "2026-07-10T10:56:28.159826+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
   "publishedToTimeline": 8,
@@ -25,16 +25,41 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "三星李在鎔傳7月底赴美密會黃仁勳爭取深化合作助陣超級晶片計畫| 全球財經| 全球 - 聯合新聞網 三星李在鎔傳7月底赴美密會黃仁勳爭取深化合作助陣超級晶片計畫| 全球財經| 全球 聯合新聞網",
-      "capturedAt": "2026-07-10T05:50:42.757979+00:00"
+      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
     },
     {
-      "id": "acfdc7b7ea3b",
+      "id": "e940a4672649",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: Jensen Huang Korea",
       "sourceType": "新聞彙整",
-      "title": "Why Jensen Huang Skipped Japan During His Asian Trip - 36 Kr",
+      "title": "Samsung chairman seeks meeting with Nvidia CEO Jensen Huang as AI chip alliance deepens - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81REJfSEhGNVV0ZEdQeUN4aDFiZVlqZm9xdER1UmRoR3gwX2drVnlUUDYwZDlvSnFaV3I3aUxrOW1vQk5fZ0RlaW5MQlMwMWRPVV9Uc2V1R09ZOFZpLV9taEFJd2xveTJRQlFnRy14QnFPa1lVOWh5WQ?oc=5",
+      "publishedAt": "2026-07-10T00:20:34+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang",
+        "NVIDIA CEO",
+        "Nvidia CEO"
+      ],
+      "matchedEventKeywords": [
+        "meeting"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Samsung chairman seeks meeting with Nvidia CEO Jensen Huang as AI chip alliance deepens - Crypto Briefing Samsung chairman seeks meeting with Nvidia CEO Jensen Huang as AI chip alliance deepens Crypto Briefing",
+      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
+    },
+    {
+      "id": "e7e2ed518b73",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Why Jensen Huang Skipped Japan During His Asian Trip - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pLWctTFgtbkpMdVlWckcxVjN0QlUyR0JoWmJLSTFJUXdkdzI5d05NQy1UUG5SREhDWGFfbTRncEJZaEI3NTNxMjVWZUhnUE01UllV?oc=5",
       "publishedAt": "2026-06-16T07:00:00+00:00",
       "detectedDates": [],
@@ -47,8 +72,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "Why Jensen Huang Skipped Japan During His Asian Trip - 36 Kr Why Jensen Huang Skipped Japan During His Asian Trip 36 Kr",
-      "capturedAt": "2026-07-10T05:50:42.757979+00:00"
+      "summary": "Why Jensen Huang Skipped Japan During His Asian Trip - 36Kr Why Jensen Huang Skipped Japan During His Asian Trip 36Kr",
+      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
     },
     {
       "id": "195c22114814",
@@ -71,7 +96,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳造訪台韓卻獨缺日本 日媒坦言：國內出現危機感 - 自由財經 黃仁勳造訪台韓卻獨缺日本 日媒坦言：國內出現危機感 自由財經",
-      "capturedAt": "2026-07-10T05:50:42.757979+00:00"
+      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
     },
     {
       "id": "dba7097ae367",
@@ -94,7 +119,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "What You Need to Know About Jensen Huang’s South Korea Trip and the AI Bubble? - TradingKey What You Need to Know About Jensen Huang’s South Korea Trip and the AI Bubble? TradingKey",
-      "capturedAt": "2026-07-10T05:50:42.757979+00:00"
+      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
     },
     {
       "id": "16380dde87cb",
@@ -119,22 +144,21 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "OpenAI's Altman to visit Naver after Nvidia CEO's trip - upi.com OpenAI's Altman to visit Naver after Nvidia CEO's trip upi.com",
-      "capturedAt": "2026-07-10T05:50:42.757979+00:00"
+      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
     },
     {
-      "id": "8a2d9e8f98b7",
+      "id": "9ba45be06134",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: Jensen Huang Korea",
       "sourceType": "新聞彙整",
-      "title": "Commentary: Nvidia CEO visit spotlights Samsung in HBM supply race - digitimes",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWHBkZnpHTU9MRWpFajY0RFM4Z1ptVjJBb2ZCTlNnUjd2NFVWeUs2QmFmazRhRHVSOHZuc2VJQ09TMlB3bWIwanVGT1VCWjVSUk4wdXZ0a2dlX1pHci1MenFiRlBsaUZSLVAwTmN1RFBvdVN6ZmE5cjhKcGJsMWY2STBGLTJtYVNMMUE?oc=5",
-      "publishedAt": "2026-06-10T07:00:00+00:00",
+      "title": "Jensen Huang's Korea Visit Wardrobe Draws Attention, From Dior to Leather Jacket - Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVl92V29QbEZKb1BJeklRZnJRb3JaanZsaWw2TFA1bG13ZzZJS1llemY0UUJMQ29TVTVoal9Vc1BFbTU5VUltM2RQbWNrUHhiblQ0cGNINE9UWkxaY3Y5cUQybUtUYmU1UlBZWGw2amRkMkxtbnBtd1RqXzd6VlJqeVVncnp3WERvTnBmbnQ2dW9DTWRGcUlwLXRB?oc=5",
+      "publishedAt": "2026-06-11T07:00:00+00:00",
       "detectedDates": [],
       "matchedKeywords": [
-        "NVIDIA CEO",
-        "Nvidia CEO"
+        "Jensen Huang"
       ],
       "matchedEventKeywords": [
         "visit"
@@ -142,19 +166,19 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "Commentary: Nvidia CEO visit spotlights Samsung in HBM supply race - digitimes Commentary: Nvidia CEO visit spotlights Samsung in HBM supply race digitimes",
-      "capturedAt": "2026-07-10T05:50:42.757979+00:00"
+      "summary": "Jensen Huang's Korea Visit Wardrobe Draws Attention, From Dior to Leather Jacket - Seoul Economic Daily Jensen Huang's Korea Visit Wardrobe Draws Attention, From Dior to Leather Jacket Seoul E",
+      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
     },
     {
-      "id": "68caa57afa71",
+      "id": "edc0d511f3d6",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "評析：三星仍在牌桌上？ 黃仁勳訪韓牽動HBM供應角力 - DIGITIMES",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb0VIM0RIaE14a0VPS1hZVjB2NG9fbzB1MU42RXRkU3BDRGdvaWFqRUZJankwUXJMVlpaSDRkQWl4S3MtV2JmemZMaU5aRFJheGplR2tPT2VjT1V5TWFyMnJ0U0hfRldqdXVnQVdHUUs4cW1nMUt0UTZPTEF2dDJTV0NwRnRTdHJ0eGw0Ymxn?oc=5",
-      "publishedAt": "2026-06-10T07:00:00+00:00",
+      "title": "為創造雙贏實體AI生態系 黃仁勳訪韓力挺新創 - DIGITIMES",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ1RMTXR1WGJVRVJ5bkZoTjNMRUszejdEOW5sTXJKV3VfVmxKUnJzTE9hNXNiWHU5WmIwWjFiSm4zcHg4OGc5am9WZ2ZDRGIwZFR6Y2x4aUF4eGRxMXVlN0s4MlhXNkVSV1pZdnM0dElaMXVhU2ZPWW94WVdUTFd5ZUFaNFB1TUktb2lhX0h3?oc=5",
+      "publishedAt": "2026-06-11T07:00:00+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -165,31 +189,29 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "評析：三星仍在牌桌上？ 黃仁勳訪韓牽動HBM供應角力 - DIGITIMES 評析：三星仍在牌桌上？ 黃仁勳訪韓牽動HBM供應角力 DIGITIMES",
-      "capturedAt": "2026-07-10T05:50:42.757979+00:00"
+      "summary": "為創造雙贏實體AI生態系 黃仁勳訪韓力挺新創 - DIGITIMES 為創造雙贏實體AI生態系 黃仁勳訪韓力挺新創 DIGITIMES",
+      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
     },
     {
-      "id": "51c8bca3a60c",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
+      "id": "40b8151ae821",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "黃仁勳《劉QUIZ》播出看點！大跳《Golden》自曝最愛華莎 相約劉在錫10年後同台 懶人包一次看 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxQZEI5MDlNWTdZaGFCVWdxNXJZYzljSGVSa3FBLXphMlBoN0xqUWxPdzhjSml1cjlqZktabmtRMXdNTzNNY0FLQU5aT1pvaGdwZ2l0LVdGb3BVOG5BMDQ3dTNQWTh3ZmtObnZ3bVlXQTVyckhpT1hlTUNaZ3gwNVV5NXlJc0ZXWkRaYWNUcGVIY0tJZVhHNk42Unp2bDl1VUZXbkhuMldaa1ZvbTNxUzNjaW8xYTJYUG1tT0czckdNcUFzZnM1MGdwVnFJZXhCVWFoTGV4bVVSRzFmRFA4VlZRUWFGRlltZ2ZVbjViQlk0cHZncXRxUjNISVZKVGNWSHdqWTJiMWcxc2F3YnpqanlNc2czYnNrZXRnZV9ULXZjODNWU2FTODNrVGg0VFVRa2JzcHNPeG4zc1FMdURaYlZjZEEwX1FRX2VDV2haV1RETlBZN1M1eHgweVktZElqdG0wOXd4VTdjZk1rMzYtN3NXT0YzNDdGMTJlTl9rV1A4NXF3Mkk5SXRzMkJnbVhwRWlJdUw1eG9IaERqZGMzRTNyS1NvVUF0bkQ3cGlLcEtRX2MtRGlFZmZhaFBZdmJPSFcxa0h6a0Q0YklnQV9vNVBlRFVsZHgxRzRkWG4tcUR3eEhLZzNQU0V1NU5nRi0wVURIMHlpQjFLZFJaVDQ4SDIwOHM3Z05UZW9CV1ZjWVR1RnU2bDNObUE?oc=5",
-      "publishedAt": "2026-06-10T07:00:00+00:00",
+      "title": "據報三星董事長李在鎔擬本月晤黃仁勳 討論擴大半導體及AI合作 - Yahoo 財經",
+      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQRlh3Q1k5cFlXWW03YWgwbl9sSmtLS2pEa3ZNQ2ltTVpCNEdRM2tRdlJiTWstUC1nOVUteFF6MEdlNTFwQVEwcXNTTjlJR1p6eVlYbzkxaXo5TVJjbW1VNXlBX0VfazdVWFdjMEV5UlYwbkJPaFF4R1dILUZmOTVGYmlQNHdGMVZfdVdvSzhNSlRocnpiMHJXZm5KcFRnME11a0FQNkNkS1BBQjhMeVdSTmVzT1ZVODRqNnFxRXFzOU15Q3dDeEg2XzZfU1pHUFItNlQ0dUd1M1p5UmNBNnZwSjFXYzZ5UDBrSXhBblotSF9GVFZkNVluTWYxSDZialUxODlwZmk2bVJ2SWlvbzBfR3JPUVJhd01ZQjUyYkozVExLcW5ySmVjcS1WY192c2w4NFRuMVZtS201Z2duUmwwSDVSUkVzR21jT09Tc1lxamNzbVpFcWhQUGhTRGtNVzIwRDBmS3c2bjdsY1hNOVVKcFBaeUViQS1OV1lhS3g3WTQyeVA3QlBYcGQydkhYUHNyTk1sUzBvaFlFTXNYMnJOYndzU3NOQQ?oc=5",
+      "publishedAt": "2026-07-10T04:13:25+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
       ],
-      "matchedEventKeywords": [
-        "同台"
-      ],
+      "matchedEventKeywords": [],
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "黃仁勳《劉QUIZ》播出看點！大跳《Golden》自曝最愛華莎 相約劉在錫10年後同台 懶人包一次看 - Yahoo新聞 黃仁勳《劉QUIZ》播出看點！大跳《Golden》自曝最愛華莎 相約劉在錫10年後同台 懶人包一次看 Yahoo新聞",
-      "capturedAt": "2026-07-10T05:50:42.757979+00:00"
+      "summary": "據報三星董事長李在鎔擬本月晤黃仁勳 討論擴大半導體及AI合作 - Yahoo 財經 據報三星董事長李在鎔擬本月晤黃仁勳 討論擴大半導體及AI合作 Yahoo 財經",
+      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
     },
     {
       "id": "f8810ea110ef",
@@ -210,7 +232,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Samsung's Lee Jae-Yong to Meet Nvidia's Jensen Huang for Semicon - GuruFocus Samsung's Lee Jae-Yong to Meet Nvidia's Jensen Huang for Semicon GuruFocus",
-      "capturedAt": "2026-07-10T05:50:42.757979+00:00"
+      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
     },
     {
       "id": "f30fa8cca2cd",
@@ -231,7 +253,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "緯創營收開獎...網議「沒電腦展+黃仁勳股價不會動」 專家：短線難見大行情 - Yahoo股市 緯創營收開獎...網議「沒電腦展+黃仁勳股價不會動」 專家：短線難見大行情 Yahoo股市",
-      "capturedAt": "2026-07-10T05:50:42.757979+00:00"
+      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
     },
     {
       "id": "13d4dfc6aa51",
@@ -252,7 +274,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳又選中了誰？輝達砸百億投資「17家AI新創公司」：下一家1 兆美元企業就在這 - 風傳媒 黃仁勳又選中了誰？輝達砸百億投資「17家AI新創公司」：下一家1 兆美元企業就在這 風傳媒",
-      "capturedAt": "2026-07-10T05:50:42.757979+00:00"
+      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
     },
     {
       "id": "9601a42bcd9e",
@@ -273,7 +295,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "'We'll be out of business': Jensen Huang bet his last dollars on a chip he never held in his hands — and it saved Nvidia - Yahoo Finance 'We'll be out of business': Jensen Huang bet his last dollars on a chip he never he",
-      "capturedAt": "2026-07-10T05:50:42.757979+00:00"
+      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
     },
     {
       "id": "bb6517ae5e50",
@@ -294,7 +316,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "You Can Buy Jensen Huang’s Jacket—His Actual One—But It’ll Cost You - Investopedia You Can Buy Jensen Huang’s Jacket—His Actual One—But It’ll Cost You Investopedia",
-      "capturedAt": "2026-07-10T05:50:42.757979+00:00"
+      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
     },
     {
       "id": "0a2aa9603b70",
@@ -317,7 +339,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang Highlighted a New AI Bottleneck. 3 AI Stocks That Could Benefit. - The Motley Fool Nvidia CEO Jensen Huang Highlighted a New AI Bottleneck. 3 AI Stocks That Could Benefit. The Mot",
-      "capturedAt": "2026-07-10T05:50:42.757979+00:00"
+      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
     },
     {
       "id": "d4f6198303f2",
@@ -340,7 +362,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Micron Stock Investors Just Got Good News From Wall Street and Nvidia CEO Jensen Huang - The Motley Fool Micron Stock Investors Just Got Good News From Wall Street and Nvidia CEO Jensen Huang The Motley Fool",
-      "capturedAt": "2026-07-10T05:50:42.757979+00:00"
+      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
     },
     {
       "id": "751bb29666ff",
@@ -363,7 +385,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang estimates $100B cost for 1 GW AI factory - Crypto Briefing Nvidia CEO Jensen Huang estimates $100B cost for 1 GW AI factory Crypto Briefing",
-      "capturedAt": "2026-07-10T05:50:42.757979+00:00"
+      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
     },
     {
       "id": "4940379df969",
@@ -384,7 +406,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "輝達沒免費員工餐！黃仁勳回一句話 他笑翻「這很台灣人」 - 自由財經 輝達沒免費員工餐！黃仁勳回一句話 他笑翻「這很台灣人」 自由財經",
-      "capturedAt": "2026-07-10T05:50:42.757979+00:00"
+      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
     },
     {
       "id": "983355b0186a",
@@ -405,49 +427,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳都認愛！華莎抵高雄「手拿滿義美泡芙、粉絲信」超親民 同擔讚：難怪被喜歡 - Yahoo新聞 黃仁勳都認愛！華莎抵高雄「手拿滿義美泡芙、粉絲信」超親民 同擔讚：難怪被喜歡 Yahoo新聞",
-      "capturedAt": "2026-07-10T05:50:42.757979+00:00"
-    },
-    {
-      "id": "8a12156ceafc",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "輝達為何沒免費員工餐？ 黃仁勳霸氣回「這句」笑翻全場 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOUnB4WXctMlJOQkVJOVBJRk5BbHVCMGNQOHNwUVp1ZFNBQWdoRGd0ZW43ZVBBZmkxcDN4ekJvdE40Z1VmeEJRZUdaN1VBUUxCMm9pd2xKOXhUamhjVjFvSzdTbkxUaUtaSVJxbFVvMFRybXI3Q001V2twbTA5LVkzdF9aQ0xwLVFVRnNGMDRUd2pESVVSR0k3TlhuUy1aUUIzWXM1amFYSkdzcEhEVEZia1Z1azRSRjBBcFF4LUVBMW5nWjNDci1US2ItOGxyRDNYTV9RTjhrMWx4d1pHVzdrcldheEJOYlNSdDN0M0tzcEo4X2tTUGhpQzBiYm9lcjY3MDZIRkNYSnVUSDJQUWFSX1dQQWJicWZuY1dCbDZmWUZQbWYteDZVQkkyNFVvWHBqc3EwajVGU2VxVmppQXRTYnFrTHpPUHAzVEpoX2tLQVRwOHB1YUtJdmwxX0V4aE0?oc=5",
-      "publishedAt": "2026-07-03T04:39:48+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "輝達為何沒免費員工餐？ 黃仁勳霸氣回「這句」笑翻全場 - Yahoo新聞 輝達為何沒免費員工餐？ 黃仁勳霸氣回「這句」笑翻全場 Yahoo新聞",
-      "capturedAt": "2026-07-10T05:50:42.757979+00:00"
-    },
-    {
-      "id": "85095d36d3b6",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "輝達為何沒免費員工餐？ 黃仁勳霸氣回「這句」笑翻全場 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOZURhYTFXYkRIR0Z0V2NZTUtsUGtUMmZWYjl5b1JXdEZCSUxERUpwOE1tbmRRczdPaHZsRWxabTI4c2pHeTBBb1Zib1FnRnlUNWw4UHZSOGVOR0dFREtKclRGaUdYaGw3dkcxVVJyd3Q3M2xvYlJycHRZVkV1ajlXTXdkdWxvVnNGeGg5NW1QYkliSWtERFhUYWJPSGYyYU5KRkNvMnFhVDhrU0poZjc4NHFjZERJQ0NBRHI4TmlDZnZ5NW43cFF5ZnFKVmVXRFlBeHV6Rllib052WWFhMHIyYjZtS3Zhckg0RzR0STctLVN6SURjRWFTREU3UU94WW1PUGtkY3dHM3g2SGFwbTFMY01aVHhTek10c1NfaEFpWGlLME5ReXdhTFJUem9Lc1hOV0JNZnhrWThJSENZMndvLXROTHVwSUdDY2prcWxKQmVRTXlpdURGYkZZM1VTTkxxR09NanJyaw?oc=5",
-      "publishedAt": "2026-07-03T04:24:46+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "輝達為何沒免費員工餐？ 黃仁勳霸氣回「這句」笑翻全場 - Yahoo股市 輝達為何沒免費員工餐？ 黃仁勳霸氣回「這句」笑翻全場 Yahoo股市",
-      "capturedAt": "2026-07-10T05:50:42.757979+00:00"
+      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
     },
     {
       "id": "e612a81466ec",
@@ -468,7 +448,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang's iconic leather jacket is going up for auction - Business Insider Jensen Huang's iconic leather jacket is going up for auction Business Insider",
-      "capturedAt": "2026-07-10T05:50:42.757979+00:00"
+      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
     },
     {
       "id": "6310133cada2",
@@ -491,7 +471,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang's Iconic Leather Jacket Is Up for Auction—Why It Could Fetch $60,000 - inc.com Nvidia CEO Jensen Huang's Iconic Leather Jacket Is Up for Auction—Why It Could Fetch $60,000 inc.com",
-      "capturedAt": "2026-07-10T05:50:42.757979+00:00"
+      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
     },
     {
       "id": "769966fef0be",
@@ -512,18 +492,18 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "輝達為何沒有免費員工餐？黃仁勳脫口一句話「超像台灣人」...沒餐沒娛樂沒免費零食，反讓員工無怨言 - 今周刊 輝達為何沒有免費員工餐？黃仁勳脫口一句話「超像台灣人」...沒餐沒娛樂沒免費零食，反讓員工無怨言 今周刊",
-      "capturedAt": "2026-07-10T05:50:42.757979+00:00"
+      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
     },
     {
-      "id": "8f93642f531c",
+      "id": "8a12156ceafc",
       "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
-      "title": "為何輝達沒有免錢餐點？前員工曝黃仁勳脫口一句 笑稱「這很台灣人」 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPa1RVYk5mdHFsNUc3QVB1NVlPYzBjSlo0SktUQ2luWXJzTGhIUHk0cWZmVUN5NHN5ZEJhcDlvTXRIbEV0UUJSZXZwTFQxdmptb2lQMnFscjFtTjh1alBWbThXMkZBaVRZZzRNbS1aOTdwSDktS0tvdG9SM25rRGtoMHFHbnU3SHV0SjhNWTAxVk10S05IeWIzVWw2YzJfcDFGZ3J4RGxTTy1GSTRoMF9WRXlmYVU4WFdvZlNtN1FrTUVKWXRfTEdfeWd2QVd5V3JwemZIaDJia2hLQXNSR2Zsa2VZMkduS3EtVVZTanpUcTdRbkI0MFFwU1NHdWdISTRDWHpIRVdBWkdONFlzaE1fY0VMMHhqRUJZWmlsUkctdE9kUzNGZW5JbU95X01McUNKandxNmp3bVpCWDlmSG1ORTI3VWpKdXdSMHlQbVBkbzQ2bmJhMXE3R08yM2xVaFZ2ajdMcTJ3SXFEZVlUNHg1ZVNUNU1tLVFNNlJiNkRFUU5EekFJLTlQSmdCMnctYzZwcGxQT2lwYjJReVlV?oc=5",
-      "publishedAt": "2026-07-01T07:00:00+00:00",
+      "title": "輝達為何沒免費員工餐？ 黃仁勳霸氣回「這句」笑翻全場 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOUnB4WXctMlJOQkVJOVBJRk5BbHVCMGNQOHNwUVp1ZFNBQWdoRGd0ZW43ZVBBZmkxcDN4ekJvdE40Z1VmeEJRZUdaN1VBUUxCMm9pd2xKOXhUamhjVjFvSzdTbkxUaUtaSVJxbFVvMFRybXI3Q001V2twbTA5LVkzdF9aQ0xwLVFVRnNGMDRUd2pESVVSR0k3TlhuUy1aUUIzWXM1amFYSkdzcEhEVEZia1Z1azRSRjBBcFF4LUVBMW5nWjNDci1US2ItOGxyRDNYTV9RTjhrMWx4d1pHVzdrcldheEJOYlNSdDN0M0tzcEo4X2tTUGhpQzBiYm9lcjY3MDZIRkNYSnVUSDJQUWFSX1dQQWJicWZuY1dCbDZmWUZQbWYteDZVQkkyNFVvWHBqc3EwajVGU2VxVmppQXRTYnFrTHpPUHAzVEpoX2tLQVRwOHB1YUtJdmwxX0V4aE0?oc=5",
+      "publishedAt": "2026-07-02T07:00:00+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -532,8 +512,29 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "為何輝達沒有免錢餐點？前員工曝黃仁勳脫口一句 笑稱「這很台灣人」 - Yahoo新聞 為何輝達沒有免錢餐點？前員工曝黃仁勳脫口一句 笑稱「這很台灣人」 Yahoo新聞",
-      "capturedAt": "2026-07-10T05:50:42.757979+00:00"
+      "summary": "輝達為何沒免費員工餐？ 黃仁勳霸氣回「這句」笑翻全場 - Yahoo新聞 輝達為何沒免費員工餐？ 黃仁勳霸氣回「這句」笑翻全場 Yahoo新聞",
+      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
+    },
+    {
+      "id": "85095d36d3b6",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "輝達為何沒免費員工餐？ 黃仁勳霸氣回「這句」笑翻全場 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOZURhYTFXYkRIR0Z0V2NZTUtsUGtUMmZWYjl5b1JXdEZCSUxERUpwOE1tbmRRczdPaHZsRWxabTI4c2pHeTBBb1Zib1FnRnlUNWw4UHZSOGVOR0dFREtKclRGaUdYaGw3dkcxVVJyd3Q3M2xvYlJycHRZVkV1ajlXTXdkdWxvVnNGeGg5NW1QYkliSWtERFhUYWJPSGYyYU5KRkNvMnFhVDhrU0poZjc4NHFjZERJQ0NBRHI4TmlDZnZ5NW43cFF5ZnFKVmVXRFlBeHV6Rllib052WWFhMHIyYjZtS3Zhckg0RzR0STctLVN6SURjRWFTREU3UU94WW1PUGtkY3dHM3g2SGFwbTFMY01aVHhTek10c1NfaEFpWGlLME5ReXdhTFJUem9Lc1hOV0JNZnhrWThJSENZMndvLXROTHVwSUdDY2prcWxKQmVRTXlpdURGYkZZM1VTTkxxR09NanJyaw?oc=5",
+      "publishedAt": "2026-07-02T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "輝達為何沒免費員工餐？ 黃仁勳霸氣回「這句」笑翻全場 - Yahoo股市 輝達為何沒免費員工餐？ 黃仁勳霸氣回「這句」笑翻全場 Yahoo股市",
+      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
     }
   ],
   "errors": [
