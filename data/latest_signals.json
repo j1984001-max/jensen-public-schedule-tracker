@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T10:56:28.159826+00:00",
+  "generatedAt": "2026-07-10T20:24:29.602395+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
   "publishedToTimeline": 8,
@@ -25,7 +25,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "三星李在鎔傳7月底赴美密會黃仁勳爭取深化合作助陣超級晶片計畫| 全球財經| 全球 - 聯合新聞網 三星李在鎔傳7月底赴美密會黃仁勳爭取深化合作助陣超級晶片計畫| 全球財經| 全球 聯合新聞網",
-      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
+      "capturedAt": "2026-07-10T20:24:29.602413+00:00"
     },
     {
       "id": "e940a4672649",
@@ -50,7 +50,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Samsung chairman seeks meeting with Nvidia CEO Jensen Huang as AI chip alliance deepens - Crypto Briefing Samsung chairman seeks meeting with Nvidia CEO Jensen Huang as AI chip alliance deepens Crypto Briefing",
-      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
+      "capturedAt": "2026-07-10T20:24:29.602413+00:00"
     },
     {
       "id": "e7e2ed518b73",
@@ -73,7 +73,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Why Jensen Huang Skipped Japan During His Asian Trip - 36Kr Why Jensen Huang Skipped Japan During His Asian Trip 36Kr",
-      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
+      "capturedAt": "2026-07-10T20:24:29.602413+00:00"
     },
     {
       "id": "195c22114814",
@@ -96,7 +96,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳造訪台韓卻獨缺日本 日媒坦言：國內出現危機感 - 自由財經 黃仁勳造訪台韓卻獨缺日本 日媒坦言：國內出現危機感 自由財經",
-      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
+      "capturedAt": "2026-07-10T20:24:29.602413+00:00"
     },
     {
       "id": "dba7097ae367",
@@ -119,7 +119,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "What You Need to Know About Jensen Huang’s South Korea Trip and the AI Bubble? - TradingKey What You Need to Know About Jensen Huang’s South Korea Trip and the AI Bubble? TradingKey",
-      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
+      "capturedAt": "2026-07-10T20:24:29.602413+00:00"
     },
     {
       "id": "16380dde87cb",
@@ -144,7 +144,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "OpenAI's Altman to visit Naver after Nvidia CEO's trip - upi.com OpenAI's Altman to visit Naver after Nvidia CEO's trip upi.com",
-      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
+      "capturedAt": "2026-07-10T20:24:29.602413+00:00"
     },
     {
       "id": "9ba45be06134",
@@ -167,7 +167,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang's Korea Visit Wardrobe Draws Attention, From Dior to Leather Jacket - Seoul Economic Daily Jensen Huang's Korea Visit Wardrobe Draws Attention, From Dior to Leather Jacket Seoul E",
-      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
+      "capturedAt": "2026-07-10T20:24:29.602413+00:00"
     },
     {
       "id": "edc0d511f3d6",
@@ -190,7 +190,30 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "為創造雙贏實體AI生態系 黃仁勳訪韓力挺新創 - DIGITIMES 為創造雙贏實體AI生態系 黃仁勳訪韓力挺新創 DIGITIMES",
-      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
+      "capturedAt": "2026-07-10T20:24:29.602413+00:00"
+    },
+    {
+      "id": "d8f276c878af",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Nvidia CEO Jensen Huang Says Software Engineers Would Rather Build AI Agents Than Write Python Code - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV3BLUEJFaWxBNl9CYVBoV2s1R2hzSDd0VDdPbmNfN0ZGWGJfVnlqOC1QSU04VDJ1b0VpSE1wX3k0TmNDSEt5SkZHUk9SWXVINFdmUkVrWmRFY2dTdF9kUFBLUUtVWjNXQi1nTUhDTzRfY2FTZlU5blZDaFlVZTkzSUs1MjhmdzM1VkdXbWVEMzR6bjMxTXlJ?oc=5",
+      "publishedAt": "2026-07-10T17:31:17+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang",
+        "NVIDIA CEO",
+        "Nvidia CEO"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Nvidia CEO Jensen Huang Says Software Engineers Would Rather Build AI Agents Than Write Python Code - Yahoo Finance Nvidia CEO Jensen Huang Says Software Engineers Would Rather Build AI Agents Than Write",
+      "capturedAt": "2026-07-10T20:24:29.602413+00:00"
     },
     {
       "id": "40b8151ae821",
@@ -211,7 +234,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "據報三星董事長李在鎔擬本月晤黃仁勳 討論擴大半導體及AI合作 - Yahoo 財經 據報三星董事長李在鎔擬本月晤黃仁勳 討論擴大半導體及AI合作 Yahoo 財經",
-      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
+      "capturedAt": "2026-07-10T20:24:29.602413+00:00"
     },
     {
       "id": "f8810ea110ef",
@@ -232,28 +255,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Samsung's Lee Jae-Yong to Meet Nvidia's Jensen Huang for Semicon - GuruFocus Samsung's Lee Jae-Yong to Meet Nvidia's Jensen Huang for Semicon GuruFocus",
-      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
-    },
-    {
-      "id": "f30fa8cca2cd",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "緯創營收開獎...網議「沒電腦展+黃仁勳股價不會動」 專家：短線難見大行情 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxPaFJEeUoxSWRfMThZdzhnYjdyTUMxYkE2TDJzaGQ4VldlREtodTZWcWs2cWllbHl6ZlUycWVsUTZQTWJYX3VZVFlFV21aOVBCR2hYczRNNzd6RjZodXpmRDFRSEN6cXFfbF9WLU9xZ0NQZE0zSGcyajZ6ajNLU1p2X2JhMWl2R21ZUTZra2Vkdy1ST3RIN01US0pfWU9TSW9NT2s1TFhucTI4MkdyNkd3SWVuX3QxelBqVEJhMlItMnZ3dkgxS3AzMzk5dUp4RXA0M3RLbEVaZTlxa0dwWGVCRGxpMERKWWd2MUtvaktTMGs0N0RVRlFLeDVCaTlLV0REQldVNkFjSkE1QjBUUE1jZURGdWVUMndlUFJ4d19kNjhVcEdZUHlSa3hweUt0SXY4RkVtS1VSMTV4emxsVldvdElUWFFubzFlaVFSMWFwdnJOQXo3TFFSUVdtT1p2NFRSellxV0lBaXhnS2lCeGI3czM0czdoS3cyMm1rMFhEOFhPaE9WMERjaXloZ0FIRXBpWDNPdWktbFpfbVhLbDY2QkZVTGZVV0pveWRqVHJ0ZE5BOE1QOGFzRUJDUThUblh5SlROLUJvZVBwYXc3VE5iYUxMRTJabWhRRjQwTw?oc=5",
-      "publishedAt": "2026-07-08T10:02:51+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "緯創營收開獎...網議「沒電腦展+黃仁勳股價不會動」 專家：短線難見大行情 - Yahoo股市 緯創營收開獎...網議「沒電腦展+黃仁勳股價不會動」 專家：短線難見大行情 Yahoo股市",
-      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
+      "capturedAt": "2026-07-10T20:24:29.602413+00:00"
     },
     {
       "id": "13d4dfc6aa51",
@@ -274,7 +276,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳又選中了誰？輝達砸百億投資「17家AI新創公司」：下一家1 兆美元企業就在這 - 風傳媒 黃仁勳又選中了誰？輝達砸百億投資「17家AI新創公司」：下一家1 兆美元企業就在這 風傳媒",
-      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
+      "capturedAt": "2026-07-10T20:24:29.602413+00:00"
     },
     {
       "id": "9601a42bcd9e",
@@ -295,7 +297,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "'We'll be out of business': Jensen Huang bet his last dollars on a chip he never held in his hands — and it saved Nvidia - Yahoo Finance 'We'll be out of business': Jensen Huang bet his last dollars on a chip he never he",
-      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
+      "capturedAt": "2026-07-10T20:24:29.602413+00:00"
     },
     {
       "id": "bb6517ae5e50",
@@ -316,7 +318,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "You Can Buy Jensen Huang’s Jacket—His Actual One—But It’ll Cost You - Investopedia You Can Buy Jensen Huang’s Jacket—His Actual One—But It’ll Cost You Investopedia",
-      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
+      "capturedAt": "2026-07-10T20:24:29.602413+00:00"
     },
     {
       "id": "0a2aa9603b70",
@@ -339,7 +341,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang Highlighted a New AI Bottleneck. 3 AI Stocks That Could Benefit. - The Motley Fool Nvidia CEO Jensen Huang Highlighted a New AI Bottleneck. 3 AI Stocks That Could Benefit. The Mot",
-      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
+      "capturedAt": "2026-07-10T20:24:29.602413+00:00"
     },
     {
       "id": "d4f6198303f2",
@@ -362,7 +364,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Micron Stock Investors Just Got Good News From Wall Street and Nvidia CEO Jensen Huang - The Motley Fool Micron Stock Investors Just Got Good News From Wall Street and Nvidia CEO Jensen Huang The Motley Fool",
-      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
+      "capturedAt": "2026-07-10T20:24:29.602413+00:00"
     },
     {
       "id": "751bb29666ff",
@@ -385,7 +387,28 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang estimates $100B cost for 1 GW AI factory - Crypto Briefing Nvidia CEO Jensen Huang estimates $100B cost for 1 GW AI factory Crypto Briefing",
-      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
+      "capturedAt": "2026-07-10T20:24:29.602413+00:00"
+    },
+    {
+      "id": "c0f3a4e415d5",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳「主權AI」發威，台灣出口連動大噴發！除了台積電，哪些供應鏈將迎來超級大航海時代？ - 優分析UAnalyze",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SbmJtcFNTWnp1UUJESDhFU2JyTXcxbDBLV3B5WTctTXdjTGhMempiSXJSYWFGb29SczVKcTQtalZJdUVfaEM1d3NmMnNFUFphT2QwLS1B?oc=5",
+      "publishedAt": "2026-07-04T13:30:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳「主權AI」發威，台灣出口連動大噴發！除了台積電，哪些供應鏈將迎來超級大航海時代？ - 優分析UAnalyze 黃仁勳「主權AI」發威，台灣出口連動大噴發！除了台積電，哪些供應鏈將迎來超級大航海時代？ 優分析UAnalyze",
+      "capturedAt": "2026-07-10T20:24:29.602413+00:00"
     },
     {
       "id": "4940379df969",
@@ -406,18 +429,18 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "輝達沒免費員工餐！黃仁勳回一句話 他笑翻「這很台灣人」 - 自由財經 輝達沒免費員工餐！黃仁勳回一句話 他笑翻「這很台灣人」 自由財經",
-      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
+      "capturedAt": "2026-07-10T20:24:29.602413+00:00"
     },
     {
-      "id": "983355b0186a",
+      "id": "e49447f05900",
       "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
-      "title": "黃仁勳都認愛！華莎抵高雄「手拿滿義美泡芙、粉絲信」超親民 同擔讚：難怪被喜歡 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOanRuaGQxTHFZZzZ2UFB0RDZ3OUdyUFJOckd6UllNelpzZjhZY3UzY0dKTnVrUUhsZmI1U283Y2ZDZEpKc2tXOFNROTRqcGZVVDEtTS1OMTNkZVYyU3piX0pRNUlHcG9lWGMtYXBYYlpxMzI0dGowRXlNWkJDUzJfU2d3U0oyQnZQSXNqSWM3NUQ3eGhrcHd5MGRXNGNyTl80b3dtYUl3RDVjcm5uWG1wWmhYUXpoN0ZGcmhDTVl3THItbHAxaUFNS3NSUlI3SmpiZHRuWkdKMm9jU1NPUVhGYzlpSF9Uc2RaeVFHSlNkemtERUUtMmkzSlg2R3pYZlhsTXJTam5FU0JpLTlscUM0WTFkTmMzeUpWTDJ3c0pabXVER0RpZEdlcDh2MjU4THpRalhXQVFiR0ZCWVBuVm00Sl9fUHhFMEpDUy1NcXBQMkZLT2VpMU5XdWprV0d1Z3ZIUF9kVlNYbTVKbm9CUmtxTGN1cjNRT2Zk?oc=5",
-      "publishedAt": "2026-07-03T10:54:00+00:00",
+      "title": "黃仁勳來台時穿過！蘇富比拍賣「CEO的制服」 估價曝光 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoRU1aVkotZUI3VEg1Y0VuM0FNSm9HbW9XbkxndGZTTHdwVHhvd05YV0hsWFZpQkREdmRPOGt3TUhkWVRzUm9SYl9LVjdnNGRTeExOSmc5NGh4RGowWXp5SzR6NGhNUdIBa0FVX3lxTE42TU84SzNSYlh2YTg1TEdRM3lMRDdpSWIwemUyX1VPaUJ6X3E5eXZ6WE5FZXAxNUZBY0djLUpVQjcxbmJWZmU1WERmeGpSenBBMkZldWpMeVprZDNJeFJiT0V5UVhmWFVteXY0?oc=5",
+      "publishedAt": "2026-07-03T06:16:58+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -426,8 +449,29 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "黃仁勳都認愛！華莎抵高雄「手拿滿義美泡芙、粉絲信」超親民 同擔讚：難怪被喜歡 - Yahoo新聞 黃仁勳都認愛！華莎抵高雄「手拿滿義美泡芙、粉絲信」超親民 同擔讚：難怪被喜歡 Yahoo新聞",
-      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
+      "summary": "黃仁勳來台時穿過！蘇富比拍賣「CEO的制服」 估價曝光 - 自由時報 黃仁勳來台時穿過！蘇富比拍賣「CEO的制服」 估價曝光 自由時報",
+      "capturedAt": "2026-07-10T20:24:29.602413+00:00"
+    },
+    {
+      "id": "8a12156ceafc",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "輝達為何沒免費員工餐？ 黃仁勳霸氣回「這句」笑翻全場 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOUnB4WXctMlJOQkVJOVBJRk5BbHVCMGNQOHNwUVp1ZFNBQWdoRGd0ZW43ZVBBZmkxcDN4ekJvdE40Z1VmeEJRZUdaN1VBUUxCMm9pd2xKOXhUamhjVjFvSzdTbkxUaUtaSVJxbFVvMFRybXI3Q001V2twbTA5LVkzdF9aQ0xwLVFVRnNGMDRUd2pESVVSR0k3TlhuUy1aUUIzWXM1amFYSkdzcEhEVEZia1Z1azRSRjBBcFF4LUVBMW5nWjNDci1US2ItOGxyRDNYTV9RTjhrMWx4d1pHVzdrcldheEJOYlNSdDN0M0tzcEo4X2tTUGhpQzBiYm9lcjY3MDZIRkNYSnVUSDJQUWFSX1dQQWJicWZuY1dCbDZmWUZQbWYteDZVQkkyNFVvWHBqc3EwajVGU2VxVmppQXRTYnFrTHpPUHAzVEpoX2tLQVRwOHB1YUtJdmwxX0V4aE0?oc=5",
+      "publishedAt": "2026-07-03T04:15:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "輝達為何沒免費員工餐？ 黃仁勳霸氣回「這句」笑翻全場 - Yahoo新聞 輝達為何沒免費員工餐？ 黃仁勳霸氣回「這句」笑翻全場 Yahoo新聞",
+      "capturedAt": "2026-07-10T20:24:29.602413+00:00"
     },
     {
       "id": "e612a81466ec",
@@ -448,7 +492,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang's iconic leather jacket is going up for auction - Business Insider Jensen Huang's iconic leather jacket is going up for auction Business Insider",
-      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
+      "capturedAt": "2026-07-10T20:24:29.602413+00:00"
     },
     {
       "id": "6310133cada2",
@@ -471,7 +515,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang's Iconic Leather Jacket Is Up for Auction—Why It Could Fetch $60,000 - inc.com Nvidia CEO Jensen Huang's Iconic Leather Jacket Is Up for Auction—Why It Could Fetch $60,000 inc.com",
-      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
+      "capturedAt": "2026-07-10T20:24:29.602413+00:00"
     },
     {
       "id": "769966fef0be",
@@ -492,49 +536,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "輝達為何沒有免費員工餐？黃仁勳脫口一句話「超像台灣人」...沒餐沒娛樂沒免費零食，反讓員工無怨言 - 今周刊 輝達為何沒有免費員工餐？黃仁勳脫口一句話「超像台灣人」...沒餐沒娛樂沒免費零食，反讓員工無怨言 今周刊",
-      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
-    },
-    {
-      "id": "8a12156ceafc",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "輝達為何沒免費員工餐？ 黃仁勳霸氣回「這句」笑翻全場 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOUnB4WXctMlJOQkVJOVBJRk5BbHVCMGNQOHNwUVp1ZFNBQWdoRGd0ZW43ZVBBZmkxcDN4ekJvdE40Z1VmeEJRZUdaN1VBUUxCMm9pd2xKOXhUamhjVjFvSzdTbkxUaUtaSVJxbFVvMFRybXI3Q001V2twbTA5LVkzdF9aQ0xwLVFVRnNGMDRUd2pESVVSR0k3TlhuUy1aUUIzWXM1amFYSkdzcEhEVEZia1Z1azRSRjBBcFF4LUVBMW5nWjNDci1US2ItOGxyRDNYTV9RTjhrMWx4d1pHVzdrcldheEJOYlNSdDN0M0tzcEo4X2tTUGhpQzBiYm9lcjY3MDZIRkNYSnVUSDJQUWFSX1dQQWJicWZuY1dCbDZmWUZQbWYteDZVQkkyNFVvWHBqc3EwajVGU2VxVmppQXRTYnFrTHpPUHAzVEpoX2tLQVRwOHB1YUtJdmwxX0V4aE0?oc=5",
-      "publishedAt": "2026-07-02T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "輝達為何沒免費員工餐？ 黃仁勳霸氣回「這句」笑翻全場 - Yahoo新聞 輝達為何沒免費員工餐？ 黃仁勳霸氣回「這句」笑翻全場 Yahoo新聞",
-      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
-    },
-    {
-      "id": "85095d36d3b6",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "輝達為何沒免費員工餐？ 黃仁勳霸氣回「這句」笑翻全場 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOZURhYTFXYkRIR0Z0V2NZTUtsUGtUMmZWYjl5b1JXdEZCSUxERUpwOE1tbmRRczdPaHZsRWxabTI4c2pHeTBBb1Zib1FnRnlUNWw4UHZSOGVOR0dFREtKclRGaUdYaGw3dkcxVVJyd3Q3M2xvYlJycHRZVkV1ajlXTXdkdWxvVnNGeGg5NW1QYkliSWtERFhUYWJPSGYyYU5KRkNvMnFhVDhrU0poZjc4NHFjZERJQ0NBRHI4TmlDZnZ5NW43cFF5ZnFKVmVXRFlBeHV6Rllib052WWFhMHIyYjZtS3Zhckg0RzR0STctLVN6SURjRWFTREU3UU94WW1PUGtkY3dHM3g2SGFwbTFMY01aVHhTek10c1NfaEFpWGlLME5ReXdhTFJUem9Lc1hOV0JNZnhrWThJSENZMndvLXROTHVwSUdDY2prcWxKQmVRTXlpdURGYkZZM1VTTkxxR09NanJyaw?oc=5",
-      "publishedAt": "2026-07-02T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "輝達為何沒免費員工餐？ 黃仁勳霸氣回「這句」笑翻全場 - Yahoo股市 輝達為何沒免費員工餐？ 黃仁勳霸氣回「這句」笑翻全場 Yahoo股市",
-      "capturedAt": "2026-07-10T10:56:28.159842+00:00"
+      "capturedAt": "2026-07-10T20:24:29.602413+00:00"
     }
   ],
   "errors": [
