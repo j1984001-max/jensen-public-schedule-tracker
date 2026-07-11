@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-11T04:51:00.248276+00:00",
+  "generatedAt": "2026-07-11T09:39:03.089451+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
-  "publishedToTimeline": 7,
+  "publishedToTimeline": 12,
   "signals": [
     {
       "id": "9b7ecb067ace",
@@ -25,7 +25,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "三星李在鎔傳7月底赴美密會黃仁勳爭取深化合作助陣超級晶片計畫| 全球財經| 全球 - 聯合新聞網 三星李在鎔傳7月底赴美密會黃仁勳爭取深化合作助陣超級晶片計畫| 全球財經| 全球 聯合新聞網",
-      "capturedAt": "2026-07-11T04:51:00.248287+00:00"
+      "capturedAt": "2026-07-11T09:39:03.089465+00:00"
     },
     {
       "id": "e940a4672649",
@@ -50,7 +50,77 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Samsung chairman seeks meeting with Nvidia CEO Jensen Huang as AI chip alliance deepens - Crypto Briefing Samsung chairman seeks meeting with Nvidia CEO Jensen Huang as AI chip alliance deepens Crypto Briefing",
-      "capturedAt": "2026-07-11T04:51:00.248287+00:00"
+      "capturedAt": "2026-07-11T09:39:03.089465+00:00"
+    },
+    {
+      "id": "28b853aeb39d",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "NVIDIA CEO's Daughter Thanks Seoul Police for Visit - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeXltb01BamM3SWhxM1lFNEd5X2J4Y2UtQUJnT3hVWEpCeWhfOTcwQThVMzN0QnJPQTZtajdQQjJTbl9PLXZjNE1LU0lKSTBCWXQ3TzZraGlCV0pXWUxOdkNuWE5SeUlxN19CNndfYWkxRDJ6d1JsZWlwT3o5alFGY1VxUGg4X3FD?oc=5",
+      "publishedAt": "2026-06-28T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "NVIDIA CEO",
+        "Nvidia CEO"
+      ],
+      "matchedEventKeywords": [
+        "visit"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "NVIDIA CEO's Daughter Thanks Seoul Police for Visit - 조선일보 NVIDIA CEO's Daughter Thanks Seoul Police for Visit 조선일보",
+      "capturedAt": "2026-07-11T09:39:03.089465+00:00"
+    },
+    {
+      "id": "96ee3a0c3d0d",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳首爾兆元宴 體現韓記憶體霸權 - 20260626 - 國際 - 明報新聞網",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOSkFDUHZFNG5Fakg4S1gyUXlLTnhqYTQ2X2hHNXRsRFgweWpVa0VIQ2xwQ0s2blpPNXE1VEVtd3RZT2ZucXh1eG9CWG5ETnI1TVdoYWdtbDFqUnkzeDJ6U2NtZ09GUUlsazd1b2dpSHF0OTYwMXZDeVR4V19oTEJNc0RZWmFPWUpCeUVZd1pmNnAxbkhTYjQ5Y2VRWlloSjBVR195T3R2VWVHUEFSMDB4cF9yWGEwdWpkWmJpLS1CcFhydGxoRlg5bjBISEx3YjA0eGNyam1TWWJ6dUs0UGdhWUNOZnM2NzF3dU5saUx4QV9qeWxCSE9hZ1Q1Q3lveWNDcEswQnFqT3FxUm5IQ1Rubk81anl0bzBHZ1AweUVwZlNVUURHN24yTEFDZVphUFBRbkFSWDNTMVJBa19GVTFEbTBnRmhZODY3bjdyVFBpNWg?oc=5",
+      "publishedAt": "2026-06-26T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "CES"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳首爾兆元宴 體現韓記憶體霸權 - 20260626 - 國際 - 明報新聞網 黃仁勳首爾兆元宴 體現韓記憶體霸權 - 20260626 - 國際 明報新聞網",
+      "capturedAt": "2026-07-11T09:39:03.089465+00:00"
+    },
+    {
+      "id": "17c83a6114d9",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳亞洲行訪問台灣、南韓及中國 為什麼跳過日本？ | 日經中文網 | 國際 - 經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yWlFlOWpZaElWWXQ4NlhSN0xkOVZfbjNvdlFBZVVITG1qWmFUZFVSb0NzTkJVU3FQWXZ0eF83U0tibVM1MWpXSTAwR3dMQlJnYlNnNm05cDktLVJn?oc=5",
+      "publishedAt": "2026-06-17T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "訪問"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳亞洲行訪問台灣、南韓及中國 為什麼跳過日本？ | 日經中文網 | 國際 - 經濟日報 黃仁勳亞洲行訪問台灣、南韓及中國 為什麼跳過日本？ | 日經中文網 | 國際 經濟日報",
+      "capturedAt": "2026-07-11T09:39:03.089465+00:00"
     },
     {
       "id": "acfdc7b7ea3b",
@@ -73,7 +143,34 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Why Jensen Huang Skipped Japan During His Asian Trip - 36 Kr Why Jensen Huang Skipped Japan During His Asian Trip 36 Kr",
-      "capturedAt": "2026-07-11T04:51:00.248287+00:00"
+      "capturedAt": "2026-07-11T09:39:03.089465+00:00"
+    },
+    {
+      "id": "6f85a55596a5",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 55,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Last week, Nvidia founder Jensen Huang visited South Korea. When he said he had four big gifts to gi.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ENHJzMnE2SmIyNlhDblg0YmdPM1JKVTZXNXdBTERrRU5OcXBNRU5yMktYSkZwN2ZhZ1lBS29wRVFIcWwyVEJnSGRCdXUxU3ZsdHUzWWtR?oc=5",
+      "publishedAt": "2026-06-16T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [
+        "visit"
+      ],
+      "privacyReviewFlags": [
+        "visited"
+      ],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [
+        "visited"
+      ],
+      "summary": "Last week, Nvidia founder Jensen Huang visited South Korea. When he said he had four big gifts to gi.. - 매일경제 Last week, Nvidia founder Jensen Huang visited South Korea. When he said he had four big gifts to gi.. 매일경제",
+      "capturedAt": "2026-07-11T09:39:03.089465+00:00"
     },
     {
       "id": "195c22114814",
@@ -96,7 +193,53 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳造訪台韓卻獨缺日本 日媒坦言：國內出現危機感 - 自由財經 黃仁勳造訪台韓卻獨缺日本 日媒坦言：國內出現危機感 自由財經",
-      "capturedAt": "2026-07-11T04:51:00.248287+00:00"
+      "capturedAt": "2026-07-11T09:39:03.089465+00:00"
+    },
+    {
+      "id": "6bf81294d3d4",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "台韓成核心夥伴、日本被跳過？黃仁勳行程揭AI生態系新權力分布 - 上報Up Media",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jM0JkT3VyMlp3WDFucHBudXNCRHA1RThha0E0enh5ODRhaHJmdlNieEVERGY2RndBZThDNlZHbkdnM2ZtOHA1N0hVNWtTR0hNZm5BcFE2TzJWcTliRFRqUm9sc3UwWkk?oc=5",
+      "publishedAt": "2026-06-15T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "行程"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "台韓成核心夥伴、日本被跳過？黃仁勳行程揭AI生態系新權力分布 - 上報Up Media 台韓成核心夥伴、日本被跳過？黃仁勳行程揭AI生態系新權力分布 上報Up Media",
+      "capturedAt": "2026-07-11T09:39:03.089465+00:00"
+    },
+    {
+      "id": "02b609ca1c1e",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Jensen Huang Skips Japan on Asia Trip, Stirring Anxiety in Tokyo - Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObHRYWlJPdEw4N2toZ21uT1RlQ3ZjeWk4cU9IeTNaTENSOVZ4SUg2VkVUSnl0QlZjb1RFc255S1JKMExEdllDNUxHelFEODVpY2IxWmNYOEc4bVVzOEZ1ek9VUVFZblRkVTZDTlJ1U0xscHkwcmpMclM2MHVZU1l3SUpCSnBrQlJPLU5YbnBVSEd5dFFsUmVtVHBrallhYi13djY0SEtlRDM?oc=5",
+      "publishedAt": "2026-06-14T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [
+        "trip"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Jensen Huang Skips Japan on Asia Trip, Stirring Anxiety in Tokyo - Seoul Economic Daily Jensen Huang Skips Japan on Asia Trip, Stirring Anxiety in Tokyo Seoul Economic Daily",
+      "capturedAt": "2026-07-11T09:39:03.089465+00:00"
     },
     {
       "id": "dba7097ae367",
@@ -119,7 +262,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "What You Need to Know About Jensen Huang’s South Korea Trip and the AI Bubble? - TradingKey What You Need to Know About Jensen Huang’s South Korea Trip and the AI Bubble? TradingKey",
-      "capturedAt": "2026-07-11T04:51:00.248287+00:00"
+      "capturedAt": "2026-07-11T09:39:03.089465+00:00"
     },
     {
       "id": "16380dde87cb",
@@ -144,34 +287,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "OpenAI's Altman to visit Naver after Nvidia CEO's trip - upi.com OpenAI's Altman to visit Naver after Nvidia CEO's trip upi.com",
-      "capturedAt": "2026-07-11T04:51:00.248287+00:00"
-    },
-    {
-      "id": "9ba45be06134",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Jensen Huang's Korea Visit Wardrobe Draws Attention, From Dior to Leather Jacket - Seoul Economic Daily",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVl92V29QbEZKb1BJeklRZnJRb3JaanZsaWw2TFA1bG13ZzZJS1llemY0UUJMQ29TVTVoal9Vc1BFbTU5VUltM2RQbWNrUHhiblQ0cGNINE9UWkxaY3Y5cUQybUtUYmU1UlBZWGw2amRkMkxtbnBtd1RqXzd6VlJqeVVncnp3WERvTnBmbnQ2dW9DTWRGcUlwLXRB?oc=5",
-      "publishedAt": "2026-06-11T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [
-        "visit"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Jensen Huang's Korea Visit Wardrobe Draws Attention, From Dior to Leather Jacket - Seoul Economic Daily Jensen Huang's Korea Visit Wardrobe Draws Attention, From Dior to Leather Jacket Seoul E",
-      "capturedAt": "2026-07-11T04:51:00.248287+00:00"
+      "capturedAt": "2026-07-11T09:39:03.089465+00:00"
     },
     {
       "id": "d8f276c878af",
-      "status": "source-only",
+      "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: Jensen Huang",
@@ -190,11 +310,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang Says Software Engineers Would Rather Build AI Agents Than Write Python Code - Yahoo Finance Nvidia CEO Jensen Huang Says Software Engineers Would Rather Build AI Agents Than Write",
-      "capturedAt": "2026-07-11T04:51:00.248287+00:00"
+      "capturedAt": "2026-07-11T09:39:03.089465+00:00"
     },
     {
       "id": "40b8151ae821",
-      "status": "source-only",
+      "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳 韓國",
@@ -211,11 +331,32 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "據報三星董事長李在鎔擬本月晤黃仁勳 討論擴大半導體及AI合作 - Yahoo 財經 據報三星董事長李在鎔擬本月晤黃仁勳 討論擴大半導體及AI合作 Yahoo 財經",
-      "capturedAt": "2026-07-11T04:51:00.248287+00:00"
+      "capturedAt": "2026-07-11T09:39:03.089465+00:00"
+    },
+    {
+      "id": "07eedf605e5c",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "三星李在鎔傳7月底赴美密會黃仁勳 爭取深化合作 助陣超級晶片計畫 - 經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYkF2RUw1Rmxia0xIQzNobTdMYmViQl9CSFNaVC1pUWs5S1lHQmpMYzRwaG9OUUtXSFhyWV9Jd2dtUm9fc25zSkg3V3lIVzFVVmc5MUlnWEQybXRieUJtMDNOZ1ZaY0NQMjJJYmhVdkJ0OTNOUjdhRjhfN1hQdkxBcHVGRnBXRnNnRVF0NktIX0HSAV9BVV95cUxPWURqNThLVEVCNjNJd1FoV3Q4UTczZFpEVmNGNnBBRnRBMjZlbjM2MVA4MHpLZGZ0dEd6M2pmUzdlUkVaSjZPXzJfaldKOE5Ec013eWd6OEMwU01QaGUxMA?oc=5",
+      "publishedAt": "2026-07-10T03:54:33+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "三星李在鎔傳7月底赴美密會黃仁勳 爭取深化合作 助陣超級晶片計畫 - 經濟日報 三星李在鎔傳7月底赴美密會黃仁勳 爭取深化合作 助陣超級晶片計畫 經濟日報",
+      "capturedAt": "2026-07-11T09:39:03.089465+00:00"
     },
     {
       "id": "f8810ea110ef",
-      "status": "source-only",
+      "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: Jensen Huang Korea",
@@ -232,11 +373,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Samsung's Lee Jae-Yong to Meet Nvidia's Jensen Huang for Semicon - GuruFocus Samsung's Lee Jae-Yong to Meet Nvidia's Jensen Huang for Semicon GuruFocus",
-      "capturedAt": "2026-07-11T04:51:00.248287+00:00"
+      "capturedAt": "2026-07-11T09:39:03.089465+00:00"
     },
     {
       "id": "b2f2b9b8f804",
-      "status": "source-only",
+      "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: Jensen Huang",
@@ -253,11 +394,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang says his software engineers prefer building agents to writing code - Business Insider Jensen Huang says his software engineers prefer building agents to writing code Business Insi",
-      "capturedAt": "2026-07-11T04:51:00.248287+00:00"
+      "capturedAt": "2026-07-11T09:39:03.089465+00:00"
     },
     {
       "id": "13d4dfc6aa51",
-      "status": "source-only",
+      "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
@@ -274,11 +415,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳又選中了誰？輝達砸百億投資「17家AI新創公司」：下一家1 兆美元企業就在這 - 風傳媒 黃仁勳又選中了誰？輝達砸百億投資「17家AI新創公司」：下一家1 兆美元企業就在這 風傳媒",
-      "capturedAt": "2026-07-11T04:51:00.248287+00:00"
+      "capturedAt": "2026-07-11T09:39:03.089465+00:00"
     },
     {
       "id": "9601a42bcd9e",
-      "status": "source-only",
+      "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: Jensen Huang",
@@ -295,11 +436,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "'We'll be out of business': Jensen Huang bet his last dollars on a chip he never held in his hands — and it saved Nvidia - Yahoo Finance 'We'll be out of business': Jensen Huang bet his last dollars on a chip he never he",
-      "capturedAt": "2026-07-11T04:51:00.248287+00:00"
+      "capturedAt": "2026-07-11T09:39:03.089465+00:00"
     },
     {
       "id": "bb6517ae5e50",
-      "status": "source-only",
+      "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: Jensen Huang",
@@ -316,18 +457,18 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "You Can Buy Jensen Huang’s Jacket—His Actual One—But It’ll Cost You - Investopedia You Can Buy Jensen Huang’s Jacket—His Actual One—But It’ll Cost You Investopedia",
-      "capturedAt": "2026-07-11T04:51:00.248287+00:00"
+      "capturedAt": "2026-07-11T09:39:03.089465+00:00"
     },
     {
-      "id": "db7f027a65da",
-      "status": "source-only",
+      "id": "0a2aa9603b70",
+      "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: Jensen Huang",
       "sourceType": "新聞彙整",
-      "title": "Nvidia CEO Jensen Huang Highlighted a New AI Bottleneck. 3 AI Stocks That Could Benefit. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeXdsWVVmYTNlMGNYVThoRGJRM3RFQzV5UDk4U082Zk1GT3hZU0p0Y3ZYdURTZy1iY241M0NGdG91QWhrNlZZSzVGNlVWN0dGbk45aEJfYk9yMEhqRmszWlJzQTBUdHFoUEl5Szd2eUpLTG5VWEJSTVhhRE9zeUh4TE9QUDhPdTh1cnJma2o0clR4ME5CNDNCV1BnaFIxbnRG?oc=5",
-      "publishedAt": "2026-07-06T00:45:00+00:00",
+      "title": "Nvidia CEO Jensen Huang Highlighted a New AI Bottleneck. 3 AI Stocks That Could Benefit. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOelBoNzgzbmlWcDJaM0prY1ZLNC1acUNVb0xTaUhGUDE3VG42STBaMnpDcGNEdHZYMDJYZmhhWFNPWWtoRVdvb1RhYUFyOEo2N2JXTHg5d1MyYzNKV2dadjRUN1ZOaUhGUkltZy1FQmFoZlZ3Q1dQVml4THlXMjNabUVnbHh6cTF0aER3SjNNRnVZYTFUMkI4WQ?oc=5",
+      "publishedAt": "2026-07-06T01:25:00+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "Jensen Huang",
@@ -338,12 +479,12 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "Nvidia CEO Jensen Huang Highlighted a New AI Bottleneck. 3 AI Stocks That Could Benefit. - Yahoo Finance Nvidia CEO Jensen Huang Highlighted a New AI Bottleneck. 3 AI Stocks That Could Benefit. Yahoo Fin",
-      "capturedAt": "2026-07-11T04:51:00.248287+00:00"
+      "summary": "Nvidia CEO Jensen Huang Highlighted a New AI Bottleneck. 3 AI Stocks That Could Benefit. - The Motley Fool Nvidia CEO Jensen Huang Highlighted a New AI Bottleneck. 3 AI Stocks That Could Benefit. The Mot",
+      "capturedAt": "2026-07-11T09:39:03.089465+00:00"
     },
     {
       "id": "d4f6198303f2",
-      "status": "source-only",
+      "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: Jensen Huang",
@@ -362,11 +503,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Micron Stock Investors Just Got Good News From Wall Street and Nvidia CEO Jensen Huang - The Motley Fool Micron Stock Investors Just Got Good News From Wall Street and Nvidia CEO Jensen Huang The Motley Fool",
-      "capturedAt": "2026-07-11T04:51:00.248287+00:00"
+      "capturedAt": "2026-07-11T09:39:03.089465+00:00"
     },
     {
       "id": "751bb29666ff",
-      "status": "source-only",
+      "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: Jensen Huang",
@@ -385,11 +526,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang estimates $100B cost for 1 GW AI factory - Crypto Briefing Nvidia CEO Jensen Huang estimates $100B cost for 1 GW AI factory Crypto Briefing",
-      "capturedAt": "2026-07-11T04:51:00.248287+00:00"
+      "capturedAt": "2026-07-11T09:39:03.089465+00:00"
     },
     {
       "id": "c0f3a4e415d5",
-      "status": "source-only",
+      "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
@@ -406,135 +547,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳「主權AI」發威，台灣出口連動大噴發！除了台積電，哪些供應鏈將迎來超級大航海時代？ - 優分析UAnalyze 黃仁勳「主權AI」發威，台灣出口連動大噴發！除了台積電，哪些供應鏈將迎來超級大航海時代？ 優分析UAnalyze",
-      "capturedAt": "2026-07-11T04:51:00.248287+00:00"
-    },
-    {
-      "id": "43592f17bfbc",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳招牌黑皮衣登蘇富比 最高成交價估191萬 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKU3dDVFRJMkNhV2FjRVpkTl8xTE5uaEJLWXY2VVpEcDdzMWZfQ2RvNmZKbGcwSHBrU1Z0S2dHMmNwYUVtZnRJejZ0R0drX1NMbDlIOW9JVm9LQdIBX0FVX3lxTE1uTXRrZDFxZFN3clVKU093Ty15Y3dTX3RWQzN3RE1KN01XZFh5dzlYSlJDSDZVMEdPSVRJUlloUk5uU3JISEo5MFFlQ2ptRC1tOUwxZEhVOWxSZWpJUy1F?oc=5",
-      "publishedAt": "2026-07-03T12:00:38+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳招牌黑皮衣登蘇富比 最高成交價估191萬 - 經濟日報 黃仁勳招牌黑皮衣登蘇富比 最高成交價估191萬 經濟日報",
-      "capturedAt": "2026-07-11T04:51:00.248287+00:00"
-    },
-    {
-      "id": "4940379df969",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "輝達沒免費員工餐！黃仁勳回一句話 他笑翻「這很台灣人」 - 自由財經",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TSWRCZWpLbWFTVlFKVXk4VjFuLU1tSWFfZTFUZW1jQm9MYkRuVzBWaUJFMjAzZVlZXzlNVUpvNWlxSjNDMThXQmJKQ0t0ZThjZjl0RjRNMWpzX3ZWa0pz0gFkQVVfeXFMTXBGMUpLSzZqRk9pMk9IbTBiOExmX21ZYkhROTVDVTFsdGt5V3VzMHdPbG5mRlNtZnpJVzhuU0hfS05rN0J1YldpTENVUDJOSmNjM1V6YzBwaGpJd2g4RWNGS2hJRw?oc=5",
-      "publishedAt": "2026-07-03T11:59:19+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "輝達沒免費員工餐！黃仁勳回一句話 他笑翻「這很台灣人」 - 自由財經 輝達沒免費員工餐！黃仁勳回一句話 他笑翻「這很台灣人」 自由財經",
-      "capturedAt": "2026-07-11T04:51:00.248287+00:00"
-    },
-    {
-      "id": "983355b0186a",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳都認愛！華莎抵高雄「手拿滿義美泡芙、粉絲信」超親民 同擔讚：難怪被喜歡 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOanRuaGQxTHFZZzZ2UFB0RDZ3OUdyUFJOckd6UllNelpzZjhZY3UzY0dKTnVrUUhsZmI1U283Y2ZDZEpKc2tXOFNROTRqcGZVVDEtTS1OMTNkZVYyU3piX0pRNUlHcG9lWGMtYXBYYlpxMzI0dGowRXlNWkJDUzJfU2d3U0oyQnZQSXNqSWM3NUQ3eGhrcHd5MGRXNGNyTl80b3dtYUl3RDVjcm5uWG1wWmhYUXpoN0ZGcmhDTVl3THItbHAxaUFNS3NSUlI3SmpiZHRuWkdKMm9jU1NPUVhGYzlpSF9Uc2RaeVFHSlNkemtERUUtMmkzSlg2R3pYZlhsTXJTam5FU0JpLTlscUM0WTFkTmMzeUpWTDJ3c0pabXVER0RpZEdlcDh2MjU4THpRalhXQVFiR0ZCWVBuVm00Sl9fUHhFMEpDUy1NcXBQMkZLT2VpMU5XdWprV0d1Z3ZIUF9kVlNYbTVKbm9CUmtxTGN1cjNRT2Zk?oc=5",
-      "publishedAt": "2026-07-03T10:54:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳都認愛！華莎抵高雄「手拿滿義美泡芙、粉絲信」超親民 同擔讚：難怪被喜歡 - Yahoo新聞 黃仁勳都認愛！華莎抵高雄「手拿滿義美泡芙、粉絲信」超親民 同擔讚：難怪被喜歡 Yahoo新聞",
-      "capturedAt": "2026-07-11T04:51:00.248287+00:00"
-    },
-    {
-      "id": "e49447f05900",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳來台時穿過！蘇富比拍賣「CEO的制服」 估價曝光 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoRU1aVkotZUI3VEg1Y0VuM0FNSm9HbW9XbkxndGZTTHdwVHhvd05YV0hsWFZpQkREdmRPOGt3TUhkWVRzUm9SYl9LVjdnNGRTeExOSmc5NGh4RGowWXp5SzR6NGhNUdIBa0FVX3lxTE42TU84SzNSYlh2YTg1TEdRM3lMRDdpSWIwemUyX1VPaUJ6X3E5eXZ6WE5FZXAxNUZBY0djLUpVQjcxbmJWZmU1WERmeGpSenBBMkZldWpMeVprZDNJeFJiT0V5UVhmWFVteXY0?oc=5",
-      "publishedAt": "2026-07-03T06:16:58+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳來台時穿過！蘇富比拍賣「CEO的制服」 估價曝光 - 自由時報 黃仁勳來台時穿過！蘇富比拍賣「CEO的制服」 估價曝光 自由時報",
-      "capturedAt": "2026-07-11T04:51:00.248287+00:00"
-    },
-    {
-      "id": "8a12156ceafc",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "輝達為何沒免費員工餐？ 黃仁勳霸氣回「這句」笑翻全場 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOUnB4WXctMlJOQkVJOVBJRk5BbHVCMGNQOHNwUVp1ZFNBQWdoRGd0ZW43ZVBBZmkxcDN4ekJvdE40Z1VmeEJRZUdaN1VBUUxCMm9pd2xKOXhUamhjVjFvSzdTbkxUaUtaSVJxbFVvMFRybXI3Q001V2twbTA5LVkzdF9aQ0xwLVFVRnNGMDRUd2pESVVSR0k3TlhuUy1aUUIzWXM1amFYSkdzcEhEVEZia1Z1azRSRjBBcFF4LUVBMW5nWjNDci1US2ItOGxyRDNYTV9RTjhrMWx4d1pHVzdrcldheEJOYlNSdDN0M0tzcEo4X2tTUGhpQzBiYm9lcjY3MDZIRkNYSnVUSDJQUWFSX1dQQWJicWZuY1dCbDZmWUZQbWYteDZVQkkyNFVvWHBqc3EwajVGU2VxVmppQXRTYnFrTHpPUHAzVEpoX2tLQVRwOHB1YUtJdmwxX0V4aE0?oc=5",
-      "publishedAt": "2026-07-03T04:15:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "輝達為何沒免費員工餐？ 黃仁勳霸氣回「這句」笑翻全場 - Yahoo新聞 輝達為何沒免費員工餐？ 黃仁勳霸氣回「這句」笑翻全場 Yahoo新聞",
-      "capturedAt": "2026-07-11T04:51:00.248287+00:00"
-    },
-    {
-      "id": "6310133cada2",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "Nvidia CEO Jensen Huang's Iconic Leather Jacket Is Up for Auction—Why It Could Fetch $60,000 - inc.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOajRZSE9fV1F5NnJYdkFSalk2RHUybHZISjg0ZGN4anpCTTBQaU95cGxZT1IxVFVvZUpUWVNzeE44ME9wSFV2M0lCWkQ2YjlfYjF3WUhOalZUYjE1MW0xenRwRjZNdVFJSFBPT09QZEZlQWQ1OXJfU1hxV0xjUl9BM1k4MVJDZWFoai1zZkhLRFJuT3BOV0thZHREOA?oc=5",
-      "publishedAt": "2026-07-02T20:06:57+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang",
-        "NVIDIA CEO",
-        "Nvidia CEO"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Nvidia CEO Jensen Huang's Iconic Leather Jacket Is Up for Auction—Why It Could Fetch $60,000 - inc.com Nvidia CEO Jensen Huang's Iconic Leather Jacket Is Up for Auction—Why It Could Fetch $60,000 inc.com",
-      "capturedAt": "2026-07-11T04:51:00.248287+00:00"
+      "capturedAt": "2026-07-11T09:39:03.089465+00:00"
     }
   ],
   "errors": [
