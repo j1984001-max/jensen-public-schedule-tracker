@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T22:50:42.949432+00:00",
+  "generatedAt": "2026-07-16T04:47:57.284643+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
   "publishedToTimeline": 12,
@@ -25,7 +25,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia's Jensen Huang Praises SK hynix Nasdaq Debut as \"Incredibly Successful\" - Seoul Economic Daily Nvidia's Jensen Huang Praises SK hynix Nasdaq Debut as \"Incredibly Successful\" Seoul Economic Daily",
-      "capturedAt": "2026-07-15T22:50:42.949442+00:00"
+      "capturedAt": "2026-07-16T04:47:57.284662+00:00"
     },
     {
       "id": "05e7083ea850",
@@ -49,7 +49,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang hails SK hynix ADR success, touts Japan AI push after Korea visit - CHOSUNBIZ - Chosunbiz Jensen Huang hails SK hynix ADR success, touts Japan AI push after Korea visit - CHOSUNBI",
-      "capturedAt": "2026-07-15T22:50:42.949442+00:00"
+      "capturedAt": "2026-07-16T04:47:57.284662+00:00"
     },
     {
       "id": "504177438622",
@@ -72,7 +72,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang hails SK hynix ADR success, deepens Japan AI ties - CHOSUNBIZ - Chosunbiz Jensen Huang hails SK hynix ADR success, deepens Japan AI ties - CHOSUNBIZ Chosunbiz",
-      "capturedAt": "2026-07-15T22:50:42.949442+00:00"
+      "capturedAt": "2026-07-16T04:47:57.284662+00:00"
     },
     {
       "id": "d9e98ed406b4",
@@ -95,7 +95,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang's Akihabara visit honors partners behind Nvidia's 33-year rise - digitimes Jensen Huang's Akihabara visit honors partners behind Nvidia's 33-year rise digitimes",
-      "capturedAt": "2026-07-15T22:50:42.949442+00:00"
+      "capturedAt": "2026-07-16T04:47:57.284662+00:00"
     },
     {
       "id": "dc01ea396a2b",
@@ -118,7 +118,30 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Slammed a $2.5 Billion Chip-Smuggling Scheme at Nvidia's Stockholder Meeting - The Motley Fool Jensen Huang Slammed a $2.5 Billion Chip-Smuggling Scheme at Nvidia's Stockholder Me",
-      "capturedAt": "2026-07-15T22:50:42.949442+00:00"
+      "capturedAt": "2026-07-16T04:47:57.284662+00:00"
+    },
+    {
+      "id": "693c55da68f4",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Jensen Huang Slammed a $2.5 Billion Chip-Smuggling Scheme at Nvidia's Stockholder Meeting - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaGhwZDFFb2YzSk41YVhEOVlHUnY4T2ZDQWJTaHFaOEppWnFldDljQVBQQTV1R3R6ZWtJc0IwaXc4aDJsYWhNWng1OUdJMldyb2l2R0RtOXVnRl9qb2tUcy1va1MtMHdsM2lLaE5oMXNTX3hOZzN5NnVHVlIyN0Zxa2VHc0wzVDhWRFJTcWpjTGJSQQ?oc=5",
+      "publishedAt": "2026-07-13T19:35:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [
+        "meeting"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Jensen Huang Slammed a $2.5 Billion Chip-Smuggling Scheme at Nvidia's Stockholder Meeting - Yahoo Finance Jensen Huang Slammed a $2.5 Billion Chip-Smuggling Scheme at Nvidia's Stockholder Meet",
+      "capturedAt": "2026-07-16T04:47:57.284662+00:00"
     },
     {
       "id": "03311284dfcf",
@@ -143,7 +166,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang Said AI's \"Most Profound Impact Will Be in Life Sciences.\" Does This Bet on a Biotech Stock Prove He Means It? - The Motley Fool Nvidia CEO Jensen Huang Said AI's \"Most Profound I",
-      "capturedAt": "2026-07-15T22:50:42.949442+00:00"
+      "capturedAt": "2026-07-16T04:47:57.284662+00:00"
     },
     {
       "id": "e6e906dc7e86",
@@ -168,7 +191,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang Said AI's \"Most Profound Impact Will Be in Life Sciences.\" Does This Bet on a Biotech Stock Prove He Means It? - Yahoo Finance Nvidia CEO Jensen Huang Said AI's \"Most Profound Imp",
-      "capturedAt": "2026-07-15T22:50:42.949442+00:00"
+      "capturedAt": "2026-07-16T04:47:57.284662+00:00"
     },
     {
       "id": "e9dd995a5def",
@@ -192,7 +215,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳GTC Taiwan演講一次看！從AI代理人到機器人革命當AI越來越像人，對基督徒而言什麼最重要？ - 基督教今日報 黃仁勳GTC Taiwan演講一次看！從AI代理人到機器人革命當AI越來越像人，對基督徒而言什麼最重要？ 基督教今日報",
-      "capturedAt": "2026-07-15T22:50:42.949442+00:00"
+      "capturedAt": "2026-07-16T04:47:57.284662+00:00"
     },
     {
       "id": "e940a4672649",
@@ -217,7 +240,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Samsung chairman seeks meeting with Nvidia CEO Jensen Huang as AI chip alliance deepens - Crypto Briefing Samsung chairman seeks meeting with Nvidia CEO Jensen Huang as AI chip alliance deepens Crypto Briefing",
-      "capturedAt": "2026-07-15T22:50:42.949442+00:00"
+      "capturedAt": "2026-07-16T04:47:57.284662+00:00"
     },
     {
       "id": "f7017a2f4906",
@@ -240,11 +263,34 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Police earn praise for crowd control during Jensen Huang’s Korea visit - CHOSUNBIZ - Chosunbiz Police earn praise for crowd control during Jensen Huang’s Korea visit - CHOSUNBIZ Chosunbiz",
-      "capturedAt": "2026-07-15T22:50:42.949442+00:00"
+      "capturedAt": "2026-07-16T04:47:57.284662+00:00"
+    },
+    {
+      "id": "3bea43f0205c",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Memory Prices Heat Finally Reaches Nvidia. Here’s How Jensen Huang Is Dealing With It. - Barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYktTeUhXTDY4VndRQlBxWkd5M0xvVENGSXlWel9fNEU0MUd1TXpPZ3NmRG0wMnJJZHBqUnFLM19pQ2wtN25GNUI0bndwS0l0SXRoQkY0ekFzTllXX0g3V2hpRGpna3JWZkR5TFpEdmtUUGludl9oNDV0OGR4ZXQzMkJ6SWdiOHBGZDNDQTM4c0U4LUR5c2FTVi1kOTVtZ1U4M1k2dE9BNS13WXprUkJZR0s4WVRXNFlpNmtvRVZmajFicTktT2c?oc=5",
+      "publishedAt": "2026-07-08T13:00:02+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [
+        "CES"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Memory Prices Heat Finally Reaches Nvidia. Here’s How Jensen Huang Is Dealing With It. - Barchart.com Memory Prices Heat Finally Reaches Nvidia. Here’s How Jensen Huang Is Dealing With It. Barchart.com",
+      "capturedAt": "2026-07-16T04:47:57.284662+00:00"
     },
     {
       "id": "d241bd76b996",
-      "status": "low-confidence",
+      "status": "needs-review",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: Jensen Huang",
@@ -263,11 +309,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang pitches AI returns to family offices at Taipei event - qz.com Jensen Huang pitches AI returns to family offices at Taipei event qz.com",
-      "capturedAt": "2026-07-15T22:50:42.949442+00:00"
+      "capturedAt": "2026-07-16T04:47:57.284662+00:00"
     },
     {
       "id": "07dda8d160dd",
-      "status": "low-confidence",
+      "status": "needs-review",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳 韓國",
@@ -288,7 +334,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "NVIDIA CEO 黃仁勳訪韓後 LG 火速宣布 7 月 1 日起成立機器人事業中心 - 壹哥的科技生活 NVIDIA CEO 黃仁勳訪韓後 LG 火速宣布 7 月 1 日起成立機器人事業中心 壹哥的科技生活",
-      "capturedAt": "2026-07-15T22:50:42.949442+00:00"
+      "capturedAt": "2026-07-16T04:47:57.284662+00:00"
     },
     {
       "id": "27bacab10d3b",
@@ -311,7 +357,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳訪韓掀轟動 女兒致謝韓警 李在明宣布打造AI計畫 - 民視新聞網 黃仁勳訪韓掀轟動 女兒致謝韓警 李在明宣布打造AI計畫 民視新聞網",
-      "capturedAt": "2026-07-15T22:50:42.949442+00:00"
+      "capturedAt": "2026-07-16T04:47:57.284662+00:00"
     },
     {
       "id": "28b853aeb39d",
@@ -335,7 +381,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "NVIDIA CEO's Daughter Thanks Seoul Police for Visit - 조선일보 NVIDIA CEO's Daughter Thanks Seoul Police for Visit 조선일보",
-      "capturedAt": "2026-07-15T22:50:42.949442+00:00"
+      "capturedAt": "2026-07-16T04:47:57.284662+00:00"
     },
     {
       "id": "96ee3a0c3d0d",
@@ -358,7 +404,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳首爾兆元宴 體現韓記憶體霸權 - 20260626 - 國際 - 明報新聞網 黃仁勳首爾兆元宴 體現韓記憶體霸權 - 20260626 - 國際 明報新聞網",
-      "capturedAt": "2026-07-15T22:50:42.949442+00:00"
+      "capturedAt": "2026-07-16T04:47:57.284662+00:00"
     },
     {
       "id": "17c83a6114d9",
@@ -381,7 +427,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳亞洲行訪問台灣、南韓及中國 為什麼跳過日本？ | 日經中文網 | 國際 - 經濟日報 黃仁勳亞洲行訪問台灣、南韓及中國 為什麼跳過日本？ | 日經中文網 | 國際 經濟日報",
-      "capturedAt": "2026-07-15T22:50:42.949442+00:00"
+      "capturedAt": "2026-07-16T04:47:57.284662+00:00"
     },
     {
       "id": "e7e2ed518b73",
@@ -404,7 +450,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Why Jensen Huang Skipped Japan During His Asian Trip - 36Kr Why Jensen Huang Skipped Japan During His Asian Trip 36Kr",
-      "capturedAt": "2026-07-15T22:50:42.949442+00:00"
+      "capturedAt": "2026-07-16T04:47:57.284662+00:00"
     },
     {
       "id": "1d3ee6829942",
@@ -427,7 +473,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "獨漏日本！黃仁勳訪台、韓會面大咖 日媒憂：已落後AI浪潮 - FTNN 獨漏日本！黃仁勳訪台、韓會面大咖 日媒憂：已落後AI浪潮 FTNN",
-      "capturedAt": "2026-07-15T22:50:42.949442+00:00"
+      "capturedAt": "2026-07-16T04:47:57.284662+00:00"
     },
     {
       "id": "6f85a55596a5",
@@ -454,18 +500,18 @@
         "visited"
       ],
       "summary": "Last week, Nvidia founder Jensen Huang visited South Korea. When he said he had four big gifts to gi.. - 매일경제 Last week, Nvidia founder Jensen Huang visited South Korea. When he said he had four big gifts to gi.. 매일경제",
-      "capturedAt": "2026-07-15T22:50:42.949442+00:00"
+      "capturedAt": "2026-07-16T04:47:57.284662+00:00"
     },
     {
-      "id": "85a1a99410ff",
+      "id": "62fe2253e6de",
       "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
-      "title": "黃仁勳看好AI供應鏈後市！ 鄉民質疑「有撐」只是跌比較少：先救救輝達 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPZVJLNWh6X1Yyb0FISnRZYTJOOUhvM3RvUXJITk50a3JNTUh5eDluU2RsQi0zNmdWZ0ZJUVBRUjBNaGdNdWViUVo1ZXJSb19nX21GUkxELU9VcmM2S3dOajk1VG04NnZfek1CS0R3LWRqYlYya3l4THZqZWNWY2Y2U3lZRUJobml4bXBtMkFCVFpHTFNSTHk4NklNZHpYeHJXMUp2RUF1MktBSTFyT0R3TFFpbExNbEpsMWdsSFJDRnlodU5kczFEVGw2T25NZm1MR1J5bHNybXZ3dFJhNUNsY2NVQkI2YkdHa1NZYjQxeU13eURjQkdlbVpOTy1PVWdkOVJBOXpBQkhIS1hvUkNPR2tOWEdqcEJyWFhOTWlBMVhPcDBuRkVJRG9UNkUtN3hXZjF1bm9iTkxQNlA5SE1UdjMtbGtUVy1Oc2p3VmtVLTUtTEREVFNDRjQ2clNZUFpjRWJiS3o5c0dsNXJKQ0pPV2x3Y3BOelNBQ0tMR3VGM0NBY1ZZX3p1SWRPdVZKVkFiNkR2UVBQeUdyUTNXdUVTU3pmUmtlYUE?oc=5",
-      "publishedAt": "2026-07-15T22:20:00+00:00",
+      "title": "黃仁勳現身東京神田居酒屋 - 日經中文網",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdlFCNFdxN1JxcnZKWVZkd2RTQnpZam1KbDQ2UlFqY2pDVFVTemtwY0IwcElGTEt5eE5XelZWalFYM3ZLN2VUOVdBcG1iZWlpLXFXNFJKWUtiV05qSDdCOXRNMVlNUllYb3hBa0dLS3RUYWVNNzNMWlZDRTFqVGpJaDlBSXBsZ00wREFJZjd3?oc=5",
+      "publishedAt": "2026-07-16T01:37:01+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -474,19 +520,19 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "黃仁勳看好AI供應鏈後市！ 鄉民質疑「有撐」只是跌比較少：先救救輝達 - Yahoo股市 黃仁勳看好AI供應鏈後市！ 鄉民質疑「有撐」只是跌比較少：先救救輝達 Yahoo股市",
-      "capturedAt": "2026-07-15T22:50:42.949442+00:00"
+      "summary": "黃仁勳現身東京神田居酒屋 - 日經中文網 黃仁勳現身東京神田居酒屋 日經中文網",
+      "capturedAt": "2026-07-16T04:47:57.284662+00:00"
     },
     {
-      "id": "dbdc3f2a1ec5",
+      "id": "e24f1955b510",
       "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
-      "title": "「沒他就沒輝達」黃仁勳赴日見前SEGA社長 30年前一筆投資成轉機 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNZDFWdGpnXzFkNkVrSTkwTEVydmFyV2Zuc0xQejl2TFkwMHpFYzVsYlg2VFBpMFAtVVhFMVUyb0tkeXMzSnRDdklHamZXejNHUTdBU3lxNVZxenNGNEpJdm9odXFPakJ0VkZIUmEwZ3dTVjRlNkRCamlDRjRuY0lvNGtuc3JSeHZjRVhrR1FpWjJ3eHNIY0Q0V1MtTDNfeWp0ZVYwRWE4aXNudDNCLWRjeGRMODBxUXhVU2RLY1RvaGpJTnA3bTk3c2FvOFI5RFh6YnpnTnVUQktfcmlmb0lreERwQU12UVRGVTZYeWtFVndvLTJxSWNYNS13cFIzSV9Ybk9zcjE4MzhUc3N5VEswdjl0c25jN09mcHRsSXg5eWxvSTR1TktDMXRXWl85cGJaTHlNd1N1RDZ3NXAxbGJ1UVNRMGFkS09xT0hGZ0gyWnFtMlNCeUhaNjBfMjRWRkJXRmZ6YjhTREdEcHV1NmF0dXFpTQ?oc=5",
-      "publishedAt": "2026-07-15T22:15:00+00:00",
+      "title": "黃仁勳訪日：對Rapidus未來發展潛力高度期待 - 台視全球資訊網",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONFU1V2MyUHN6WGFSWDJGdnNiOFMtR3RDX3c5TEIyeUtIQTBXOHU0am5DS0U1WWFMRVRkMS1HbFhONDBQZThsWkphekJoSkQ3amI0TEF2c1hIbUdlWG02VmRHNkd5V2pqZkVLUlBVZWg4ZzcyN0doanJVTDFNaXNwMUktS0dFWmZaOGJjLUdYNTh5LTQ0VnNhUzltbFU?oc=5",
+      "publishedAt": "2026-07-16T00:33:23+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -495,71 +541,29 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "「沒他就沒輝達」黃仁勳赴日見前SEGA社長 30年前一筆投資成轉機 - Yahoo新聞 「沒他就沒輝達」黃仁勳赴日見前SEGA社長 30年前一筆投資成轉機 Yahoo新聞",
-      "capturedAt": "2026-07-15T22:50:42.949442+00:00"
+      "summary": "黃仁勳訪日：對Rapidus未來發展潛力高度期待 - 台視全球資訊網 黃仁勳訪日：對Rapidus未來發展潛力高度期待 台視全球資訊網",
+      "capturedAt": "2026-07-16T04:47:57.284662+00:00"
     },
     {
-      "id": "de5356e8cb43",
+      "id": "e51a85c25f46",
       "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
+      "sourceName": "Google News: Jensen Huang",
       "sourceType": "新聞彙整",
-      "title": "不忘30年前救命之恩黃仁勳親赴秋葉原感謝SEGA與恩人同框| 國際 - 中央社 CNA",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Vc0tVS3kyS1hySzl3MFVVYjFDbUdVbnBnNjExcTgwVTJoekM5ekk2ckdRSVlXOFgtUTNuMWFwU0FLV25iTTBMTHNLM1ZidU05UVlqVHdQSUl5TVdvNmF3?oc=5",
-      "publishedAt": "2026-07-15T19:41:00+00:00",
+      "title": "Watch Jensen Huang Says Nvidia's Vera Rubin Chips on Track - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd09tX3hVeTdpamVmMUQwZk1EV2prWXVMWHl3M1lUS1BTWVY4RHByUU82WmszZXZCN0VwQm1xTzg4RlYzVFVxRk02RXlfcldScE9KUUt4MnZ1enJHdHNMUHlEOFQzTnpQT3VEemgySkUzRFFNT3JRckY2bGw4RTdwbVBhUmV1a1BKT2FCdHVxWXFVWlA5YmsyTDhPSkJsZ2xLbVhYQ0RReFRqZ0U?oc=5",
+      "publishedAt": "2026-07-16T00:00:00+00:00",
       "detectedDates": [],
       "matchedKeywords": [
-        "黃仁勳"
+        "Jensen Huang"
       ],
       "matchedEventKeywords": [],
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "不忘30年前救命之恩黃仁勳親赴秋葉原感謝SEGA與恩人同框| 國際 - 中央社 CNA 不忘30年前救命之恩黃仁勳親赴秋葉原感謝SEGA與恩人同框| 國際 中央社 CNA",
-      "capturedAt": "2026-07-15T22:50:42.949442+00:00"
-    },
-    {
-      "id": "230e7473cdbe",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "【黃仁勳現身秋葉原擠爆！合體30年前「救命恩人」喊：沒他沒輝達】 （圖／網友授權提供） - facebook.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxOWTVDaTNpdXVjSXhUSEUyMmdmUmswcjIwdWd2VExLc2J5ZzdWLUFNNEpOVzZZXzl0TVZHdG5nYTRtYXVJcUlOSVgycU5aZUZjZzZFLVpWOHBNMGY2S21zaWNTTnhmQTVzYlM4cTFvWVJudFRuUTVTdW01TU8tWDh0b1ZlMlpvWExUNmdXbWFCQjFqVHdNTzk5SzRjcVppNXFJLWlzUkx3bm93SGJFbWlHU3FJTnRVZGt5MlhmSXdXektKeVhGNHRCTEs0Z2N4bUtFX3NDeWE5TlZ1ZjU0TElYS0d5UG93bzJtRkw5Sk1yQ1BWbE1ENk9Gd2VuM3VkekdPY2doWjNycGhqRVpITlNGUXNSdFBqWGVEaFNwUzZxYmxMR2tMSjl4UUEyc1ZrelNJVHdvdENscUQyQ3UzUXRhdTgxMHVpYVhxeXdOZDM2Y2VTemZodmI3NzdldEI0NEFnQUNVTWlUQUNjSU1CMGR3a0luY1lVSWJqd2ZPdzRWWTlwbzdIeWU3MS12TjZDa3dnZFhEQy1KV1ZiWE8zeVg5MVJHTF9iNjJ4QjQ1ZFBUblRHazk1UWN4bFhUOHo5MThpaC1kWHdMSW9mWEFNYkFvQlViOTFtaE1IMzh5WElCNA?oc=5",
-      "publishedAt": "2026-07-15T16:08:11+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "【黃仁勳現身秋葉原擠爆！合體30年前「救命恩人」喊：沒他沒輝達】 （圖／網友授權提供） - facebook.com 【黃仁勳現身秋葉原擠爆！合體30年前「救命恩人」喊：沒他沒輝達】 （圖／網友授權提供） facebook.com",
-      "capturedAt": "2026-07-15T22:50:42.949442+00:00"
-    },
-    {
-      "id": "a4ee06aad77a",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "駁斥延遲傳聞！黃仁勳：Vera Rubin投產 朝大規模量產推進 - 自由財經",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WOFlQanIyU19WaFVzY3dPUHlJX0lQci1DQkZCcDZRMWZ1ZEFyam4telYzLVVhLUxyODRFaWJ6blNNcWcwUmx1Y1RheW9nWUM3NFBfVkFNa0NsUk5WV2Q40gFkQVVfeXFMUF9UaFhpTjFHVHVJZzBVM2NyR1p0dTZVRG5yemJGR1FsTXdPZnZNeDVfZlN6VjZkQkNrS0E2UGJsYTZpWHBBWXJUcWhZVmRvYXpfcUZFcDhTNzVpOFhNUFd2T21fSA?oc=5",
-      "publishedAt": "2026-07-15T15:37:11+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "駁斥延遲傳聞！黃仁勳：Vera Rubin投產 朝大規模量產推進 - 自由財經 駁斥延遲傳聞！黃仁勳：Vera Rubin投產 朝大規模量產推進 自由財經",
-      "capturedAt": "2026-07-15T22:50:42.949442+00:00"
+      "summary": "Watch Jensen Huang Says Nvidia's Vera Rubin Chips on Track - Bloomberg.com Watch Jensen Huang Says Nvidia's Vera Rubin Chips on Track Bloomberg.com",
+      "capturedAt": "2026-07-16T04:47:57.284662+00:00"
     }
   ],
   "errors": [
