@@ -1,9 +1,32 @@
 {
-  "generatedAt": "2026-07-18T20:04:10.997239+00:00",
+  "generatedAt": "2026-07-18T22:39:44.181989+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
   "publishedToTimeline": 12,
   "signals": [
+    {
+      "id": "cb9bc3929403",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Jensen Huang Told CES 2026 That Memory Is Now the Biggest Bottleneck in AI. Micron and Sandisk Have Outperformed Nvidia's Stock Ever Since. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNVZfZFo2U3dBOW9HN09sSlZoaHhKWEJqd3k4aktvblJQaWYzTlo3TFdiZll6UmtOczZFUG94LXR3cEtPUkpMdms2b0xfXzduYkFDdmd6SDJmdXVlb2h3OEpWVmpZZDh5cHJBeUtQS1pRWUR4WFRzcHJsZFoyY1RwOGJqWjBzX3ZNUDZ1Um14elZzbElv?oc=5",
+      "publishedAt": "2026-07-18T19:42:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [
+        "CES"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Jensen Huang Told CES 2026 That Memory Is Now the Biggest Bottleneck in AI. Micron and Sandisk Have Outperformed Nvidia's Stock Ever Since. - Yahoo Finance Jensen Huang Told CES 2026 That Memo",
+      "capturedAt": "2026-07-18T22:39:44.182005+00:00"
+    },
     {
       "id": "26a4cb70da76",
       "status": "low-confidence",
@@ -27,7 +50,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang Pays Tribute To Sega During Visit To Tokyo - Forbes Nvidia CEO Jensen Huang Pays Tribute To Sega During Visit To Tokyo Forbes",
-      "capturedAt": "2026-07-18T20:04:10.997251+00:00"
+      "capturedAt": "2026-07-18T22:39:44.182005+00:00"
     },
     {
       "id": "577c10f517dd",
@@ -50,7 +73,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia's Jensen Huang Announces AI Factory, Then Hands Out Red Bean Buns to Fans in Tokyo - Benzinga Nvidia's Jensen Huang Announces AI Factory, Then Hands Out Red Bean Buns to Fans in Tokyo Benzinga",
-      "capturedAt": "2026-07-18T20:04:10.997251+00:00"
+      "capturedAt": "2026-07-18T22:39:44.182005+00:00"
     },
     {
       "id": "452e34dea7c2",
@@ -73,7 +96,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia chief Jensen Huang seals Japan robotics push after ‘yakitori summit’ - South China Morning Post Nvidia chief Jensen Huang seals Japan robotics push after ‘yakitori summit’ South China Morning Post",
-      "capturedAt": "2026-07-18T20:04:10.997251+00:00"
+      "capturedAt": "2026-07-18T22:39:44.182005+00:00"
     },
     {
       "id": "2190fb453ea3",
@@ -96,7 +119,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia chief Jensen Huang seals Japan robotics push after ‘yakitori summit’ - South China Morning Post Nvidia chief Jensen Huang seals Japan robotics push after ‘yakitori summit’ South China Morning Post",
-      "capturedAt": "2026-07-18T20:04:10.997251+00:00"
+      "capturedAt": "2026-07-18T22:39:44.182005+00:00"
     },
     {
       "id": "042c2b9bcc2e",
@@ -119,31 +142,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia's Jensen Huang Praises SK hynix Nasdaq Debut as \"Incredibly Successful\" - Seoul Economic Daily Nvidia's Jensen Huang Praises SK hynix Nasdaq Debut as \"Incredibly Successful\" Seoul Economic Daily",
-      "capturedAt": "2026-07-18T20:04:10.997251+00:00"
-    },
-    {
-      "id": "950c6c33f0e8",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "\"ADR Is Incredibly Successful\"... Jensen Huang, on Japan Trip, Lavishes Praise on SK hynix - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qdzN6NmxHT0xqNXQ1TDFCcUJ1WllQajc5MmRLeUVEZHN0RFJoc1RrdXFuYTQyQnM5WVF2Mkl2NXltVlhCYzFpQXNESVVkcnN6ZTEw?oc=5",
-      "publishedAt": "2026-07-15T12:17:19+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [
-        "CES",
-        "trip"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "\"ADR Is Incredibly Successful\"... Jensen Huang, on Japan Trip, Lavishes Praise on SK hynix - 매일경제 \"ADR Is Incredibly Successful\"... Jensen Huang, on Japan Trip, Lavishes Praise on SK hynix 매일경제",
-      "capturedAt": "2026-07-18T20:04:10.997251+00:00"
+      "capturedAt": "2026-07-18T22:39:44.182005+00:00"
     },
     {
       "id": "826ad97d28fa",
@@ -166,7 +165,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang hails SK hynix ADR success, deepens Japan AI ties - CHOSUNBIZ - Chosunbiz Jensen Huang hails SK hynix ADR success, deepens Japan AI ties - CHOSUNBIZ Chosunbiz",
-      "capturedAt": "2026-07-18T20:04:10.997251+00:00"
+      "capturedAt": "2026-07-18T22:39:44.182005+00:00"
     },
     {
       "id": "5b11a93fb5d9",
@@ -189,7 +188,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳6月亞洲行獨漏日本！官方宣布出席日本SEGA三十周年慶！進行報恩之旅？將見高市早苗與孫正義？ - 新唐人亞太電視台 黃仁勳6月亞洲行獨漏日本！官方宣布出席日本SEGA三十周年慶！進行報恩之旅？將見高市早苗與孫正義？ 新唐人亞太電視台",
-      "capturedAt": "2026-07-18T20:04:10.997251+00:00"
+      "capturedAt": "2026-07-18T22:39:44.182005+00:00"
     },
     {
       "id": "03311284dfcf",
@@ -214,7 +213,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang Said AI's \"Most Profound Impact Will Be in Life Sciences.\" Does This Bet on a Biotech Stock Prove He Means It? - The Motley Fool Nvidia CEO Jensen Huang Said AI's \"Most Profound I",
-      "capturedAt": "2026-07-18T20:04:10.997251+00:00"
+      "capturedAt": "2026-07-18T22:39:44.182005+00:00"
     },
     {
       "id": "e6e906dc7e86",
@@ -239,7 +238,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang Said AI's \"Most Profound Impact Will Be in Life Sciences.\" Does This Bet on a Biotech Stock Prove He Means It? - Yahoo Finance Nvidia CEO Jensen Huang Said AI's \"Most Profound Imp",
-      "capturedAt": "2026-07-18T20:04:10.997251+00:00"
+      "capturedAt": "2026-07-18T22:39:44.182005+00:00"
     },
     {
       "id": "e940a4672649",
@@ -264,7 +263,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Samsung chairman seeks meeting with Nvidia CEO Jensen Huang as AI chip alliance deepens - Crypto Briefing Samsung chairman seeks meeting with Nvidia CEO Jensen Huang as AI chip alliance deepens Crypto Briefing",
-      "capturedAt": "2026-07-18T20:04:10.997251+00:00"
+      "capturedAt": "2026-07-18T22:39:44.182005+00:00"
     },
     {
       "id": "f7017a2f4906",
@@ -287,7 +286,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Police earn praise for crowd control during Jensen Huang’s Korea visit - CHOSUNBIZ - Chosunbiz Police earn praise for crowd control during Jensen Huang’s Korea visit - CHOSUNBIZ Chosunbiz",
-      "capturedAt": "2026-07-18T20:04:10.997251+00:00"
+      "capturedAt": "2026-07-18T22:39:44.182005+00:00"
     },
     {
       "id": "07dda8d160dd",
@@ -312,7 +311,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "NVIDIA CEO 黃仁勳訪韓後 LG 火速宣布 7 月 1 日起成立機器人事業中心 - 壹哥的科技生活 NVIDIA CEO 黃仁勳訪韓後 LG 火速宣布 7 月 1 日起成立機器人事業中心 壹哥的科技生活",
-      "capturedAt": "2026-07-18T20:04:10.997251+00:00"
+      "capturedAt": "2026-07-18T22:39:44.182005+00:00"
     },
     {
       "id": "27bacab10d3b",
@@ -335,7 +334,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳訪韓掀轟動 女兒致謝韓警 李在明宣布打造AI計畫 - 民視新聞網 黃仁勳訪韓掀轟動 女兒致謝韓警 李在明宣布打造AI計畫 民視新聞網",
-      "capturedAt": "2026-07-18T20:04:10.997251+00:00"
+      "capturedAt": "2026-07-18T22:39:44.182005+00:00"
     },
     {
       "id": "28b853aeb39d",
@@ -359,7 +358,32 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "NVIDIA CEO's Daughter Thanks Seoul Police for Visit - 조선일보 NVIDIA CEO's Daughter Thanks Seoul Police for Visit 조선일보",
-      "capturedAt": "2026-07-18T20:04:10.997251+00:00"
+      "capturedAt": "2026-07-18T22:39:44.182005+00:00"
+    },
+    {
+      "id": "29569d313e33",
+      "status": "needs-review",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Nvidia CEO Jensen Huang's recent visit to Korea is seen as an event that imprinted the world that Ko.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03b05oSXdsRVoxa3dFMGs4YnhQR2trc1A3NUZ6WjJSSHlTbW5Qc2ZmdjlpUW9sNUZqTFJ2SlRqQzNNa3hwOFB6NkVyTVljYnh2UkZVNkhB?oc=5",
+      "publishedAt": "2026-06-26T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang",
+        "NVIDIA CEO",
+        "Nvidia CEO"
+      ],
+      "matchedEventKeywords": [
+        "visit"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Nvidia CEO Jensen Huang's recent visit to Korea is seen as an event that imprinted the world that Ko.. - 매일경제 Nvidia CEO Jensen Huang's recent visit to Korea is seen as an event that imprinted the world",
+      "capturedAt": "2026-07-18T22:39:44.182005+00:00"
     },
     {
       "id": "96ee3a0c3d0d",
@@ -382,7 +406,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳首爾兆元宴 體現韓記憶體霸權 - 20260626 - 國際 - 明報新聞網 黃仁勳首爾兆元宴 體現韓記憶體霸權 - 20260626 - 國際 明報新聞網",
-      "capturedAt": "2026-07-18T20:04:10.997251+00:00"
+      "capturedAt": "2026-07-18T22:39:44.182005+00:00"
     },
     {
       "id": "927c1f7b1c6e",
@@ -393,7 +417,7 @@
       "sourceType": "新聞彙整",
       "title": "Nvidia: Jensen Huang's Company Is Still the King of AI, and the Stock Is a Buy - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUVRzS3N2RE1HSHZQOENsVm9yQXcxd1IyemIzaDlMTGpOeE9UZms3ZVg0bnJJbDZkWC1GVHpzZFBoNUhUOFBTTHZqSE9CMGJXeU9WOHlQRzJQLUpoeUx0emZLTXpjRkVEbk8xVDJsUWtJSFZmTDlqLVJXTWpqdmNfbDNPNlUweWZOb0tDaG5oREhQa09KR0hv?oc=5",
-      "publishedAt": "2026-07-18T17:40:42+00:00",
+      "publishedAt": "2026-07-18T18:33:00+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "Jensen Huang"
@@ -403,28 +427,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia: Jensen Huang's Company Is Still the King of AI, and the Stock Is a Buy - The Motley Fool Nvidia: Jensen Huang's Company Is Still the King of AI, and the Stock Is a Buy The Motley Fool",
-      "capturedAt": "2026-07-18T20:04:10.997251+00:00"
-    },
-    {
-      "id": "25957e4a795b",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "日居酒屋推「黃仁勳同款套餐」！只要900元 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNUFgzMUZEZ2JJSTZFR1RFaXNOZGQtc2dxQ2dHQkVjOXdDOXVuZXFJZVdGbHEtNWYwQmE3bVYzV1JaTzA0aXZObU5UaHdMSWN6RWRTaThGT0kwUkRZQUlxYVlhVFgyTWhPQ1lndTkxbk56ME1QOHc5QmxaSTRwMk1rNHh2RDB5ZzdYd3NWSnJkaU5SdmVwdXNFQllLV2FqTVl2bHpyOW9BTUV2WGQyXzk0dWk3dEg5QVVJdjBBYy16blNRNWVManE2Qm9tbXdIdFo5aXd3R3U0b01oaUFVcVI0a243OGhsZ3o2eEh5Y3ZvdFQwT1h3X1N2R1RKdWpneTZ5cHlQdUxYTUFrZW1iZUE?oc=5",
-      "publishedAt": "2026-07-18T14:39:22+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "日居酒屋推「黃仁勳同款套餐」！只要900元 - Yahoo新聞 日居酒屋推「黃仁勳同款套餐」！只要900元 Yahoo新聞",
-      "capturedAt": "2026-07-18T20:04:10.997251+00:00"
+      "capturedAt": "2026-07-18T22:39:44.182005+00:00"
     },
     {
       "id": "d0d95f743c30",
@@ -445,7 +448,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Said Nvidia Will Be the First Customer for HBM4. Here's the AI Memory Stock That Has Reportedly Locked Up 70% of Those Orders. - The Motley Fool Jensen Huang Said Nvidia Will Be t",
-      "capturedAt": "2026-07-18T20:04:10.997251+00:00"
+      "capturedAt": "2026-07-18T22:39:44.182005+00:00"
     },
     {
       "id": "68088f2eb621",
@@ -466,7 +469,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Said Nvidia Will Be the First Customer for HBM4. Here's the AI Memory Stock That Has Reportedly Locked Up 70% of Those Orders. - Yahoo Finance Jensen Huang Said Nvidia Will Be the",
-      "capturedAt": "2026-07-18T20:04:10.997251+00:00"
+      "capturedAt": "2026-07-18T22:39:44.182005+00:00"
     },
     {
       "id": "885aebe92f67",
@@ -487,30 +490,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳前隨扈出手! 前刑警識破車手攔阻千萬金磚 - Yahoo新聞 黃仁勳前隨扈出手! 前刑警識破車手攔阻千萬金磚 Yahoo新聞",
-      "capturedAt": "2026-07-18T20:04:10.997251+00:00"
-    },
-    {
-      "id": "9602191de509",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "Jensen Huang Scores Big in Japan -- Here's How to Follow the Nvidia CEO's Lead as the Country Transforms Into a $124 Billion AI Hub - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaVZyS0RoeTRpOHZhOVVVdWtzM0Rkd3Q0anROZ3pKSFFYRXVURDY5MHRfS3Z3T1d4YnBMenhrd3RIN2NMVUtQRGQzRjhDa19zS3JidTRPbDRTZzRTb0w2aWFhZWNEeFpyRkRrYkFzdnpkeXdoM0MzTnJYMEo0bEJLZDNFYzJhY1JCVDJ5UWFhOGNJMGFGVUExLQ?oc=5",
-      "publishedAt": "2026-07-18T09:40:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang",
-        "NVIDIA CEO",
-        "Nvidia CEO"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Jensen Huang Scores Big in Japan -- Here's How to Follow the Nvidia CEO's Lead as the Country Transforms Into a $124 Billion AI Hub - The Motley Fool Jensen Huang Scores Big in Japan -- Here's",
-      "capturedAt": "2026-07-18T20:04:10.997251+00:00"
+      "capturedAt": "2026-07-18T22:39:44.182005+00:00"
     },
     {
       "id": "1f670ce1f91b",
@@ -533,7 +513,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Scores Big in Japan -- Here's How to Follow the Nvidia CEO's Lead as the Country Transforms Into a $124 Billion AI Hub - Yahoo Finance Jensen Huang Scores Big in Japan -- Here's H",
-      "capturedAt": "2026-07-18T20:04:10.997251+00:00"
+      "capturedAt": "2026-07-18T22:39:44.182005+00:00"
     },
     {
       "id": "c35fbbc4287b",
@@ -554,7 +534,28 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳來台灣穿的「招牌黑皮衣」拍賣 破3000萬元天價成交 - 自由財經 黃仁勳來台灣穿的「招牌黑皮衣」拍賣 破3000萬元天價成交 自由財經",
-      "capturedAt": "2026-07-18T20:04:10.997251+00:00"
+      "capturedAt": "2026-07-18T22:39:44.182005+00:00"
+    },
+    {
+      "id": "309bf5d1e185",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳招牌黑皮衣拍賣 3100萬元落槌 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPaEI4YmwwYVJmOFZ5Mm1tWXJqS2htVHNjNWQxYWprV2JSTkl2bzNaTVlJWW53VVBoc2IxNHZBMTBhX010X29IcWg1S0lFMjFweHhWTEMxTGZtV2NLWlRXZms1MU0yZDNIWmFjUjFFeDc4WU9PeXFaT1BfNXVPTGpVTmR5YWtfbVNaTDczd25YNXdZUElFdHV0UFVuYUhnUTJjQm5scWxBSDdQVXBqVkdXRzR2cVJBZFpjSmVUZ3VyNFVDak1WbnRfVUpEb1RtbE1OXzJsY1FQb252RDNmelJybkJYRk9wRzdtaUxrYzRlSDQ3QXBzSmNkSHVvZ0pNWWYyWmc?oc=5",
+      "publishedAt": "2026-07-18T01:53:19+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳招牌黑皮衣拍賣 3100萬元落槌 - Yahoo新聞 黃仁勳招牌黑皮衣拍賣 3100萬元落槌 Yahoo新聞",
+      "capturedAt": "2026-07-18T22:39:44.182005+00:00"
     }
   ],
   "errors": [
