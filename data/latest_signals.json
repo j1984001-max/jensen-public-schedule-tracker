@@ -1,9 +1,32 @@
 {
-  "generatedAt": "2026-07-22T04:55:29.443023+00:00",
+  "generatedAt": "2026-07-22T10:26:13.182654+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
   "publishedToTimeline": 12,
   "signals": [
+    {
+      "id": "b25afd26013e",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "South Korea’s Lee to Meet Jensen Huang in San Francisco on July 24 as He Starts US, South America and Germany Trip - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WTEhoc0JDSTlPd1gwUE1WYWU0eGdSY3BKUWVIMmJRcUZVZXdoVnJsMTJwMGpOakxLNjhSOGtfTG1BckMteUJ4dnozaXJiSnZISTJNXw?oc=5",
+      "publishedAt": "2026-07-22T08:39:32+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [
+        "trip"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "South Korea’s Lee to Meet Jensen Huang in San Francisco on July 24 as He Starts US, South America and Germany Trip - bloomingbit South Korea’s Lee to Meet Jensen Huang in San Francisco on July 24 as He Starts US, South",
+      "capturedAt": "2026-07-22T10:26:13.182669+00:00"
+    },
     {
       "id": "6b9d163c3d26",
       "status": "low-confidence",
@@ -25,7 +48,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "韓聯社：黃仁勳本周五將與三星李在鎔、SK崔泰源等人在美會面 - 世界新聞網 韓聯社：黃仁勳本周五將與三星李在鎔、SK崔泰源等人在美會面 世界新聞網",
-      "capturedAt": "2026-07-22T04:55:29.443037+00:00"
+      "capturedAt": "2026-07-22T10:26:13.182669+00:00"
     },
     {
       "id": "b83ef3ae659f",
@@ -48,7 +71,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "韓聯社：黃仁勳本周五將與三星李在鎔、SK崔泰源等在美會面 - 經濟日報 韓聯社：黃仁勳本周五將與三星李在鎔、SK崔泰源等在美會面 經濟日報",
-      "capturedAt": "2026-07-22T04:55:29.443037+00:00"
+      "capturedAt": "2026-07-22T10:26:13.182669+00:00"
     },
     {
       "id": "4ffe9cacb4c1",
@@ -71,7 +94,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "韓聯社：黃仁勳本周五將與三星李在鎔、SK崔泰源等在美會面| 全球財經| 全球 - UDN 韓聯社：黃仁勳本周五將與三星李在鎔、SK崔泰源等在美會面| 全球財經| 全球 UDN",
-      "capturedAt": "2026-07-22T04:55:29.443037+00:00"
+      "capturedAt": "2026-07-22T10:26:13.182669+00:00"
     },
     {
       "id": "b09559c1c88d",
@@ -94,7 +117,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "What to watch for after Jensen Huang’s Japan visit - TechCrunch What to watch for after Jensen Huang’s Japan visit TechCrunch",
-      "capturedAt": "2026-07-22T04:55:29.443037+00:00"
+      "capturedAt": "2026-07-22T10:26:13.182669+00:00"
     },
     {
       "id": "67cb5c58cf73",
@@ -121,7 +144,7 @@
         "visits"
       ],
       "summary": "Nvidia 'Would Not Be Here Today': Jensen Huang Credits Sega's $5 Million Bet For Saving the Company From Bankruptcy as He Revisits the Past - Yahoo Finance Nvidia 'Would Not Be Here Today': Jensen Huang Credits Sega's $5 Milli",
-      "capturedAt": "2026-07-22T04:55:29.443037+00:00"
+      "capturedAt": "2026-07-22T10:26:13.182669+00:00"
     },
     {
       "id": "cb9bc3929403",
@@ -144,7 +167,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Told CES 2026 That Memory Is Now the Biggest Bottleneck in AI. Micron and Sandisk Have Outperformed Nvidia's Stock Ever Since. - Yahoo Finance Jensen Huang Told CES 2026 That Memo",
-      "capturedAt": "2026-07-22T04:55:29.443037+00:00"
+      "capturedAt": "2026-07-22T10:26:13.182669+00:00"
     },
     {
       "id": "26a4cb70da76",
@@ -169,7 +192,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang Pays Tribute To Sega During Visit To Tokyo - Forbes Nvidia CEO Jensen Huang Pays Tribute To Sega During Visit To Tokyo Forbes",
-      "capturedAt": "2026-07-22T04:55:29.443037+00:00"
+      "capturedAt": "2026-07-22T10:26:13.182669+00:00"
     },
     {
       "id": "f7771e3affbd",
@@ -192,7 +215,30 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia's Jensen Huang Announces AI Factory, Then Hands Out Red Bean Buns to Fans in Tokyo - Benzinga Nvidia's Jensen Huang Announces AI Factory, Then Hands Out Red Bean Buns to Fans in Tokyo Benzinga",
-      "capturedAt": "2026-07-22T04:55:29.443037+00:00"
+      "capturedAt": "2026-07-22T10:26:13.182669+00:00"
+    },
+    {
+      "id": "2839248a7288",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Nvidia's Jensen Huang the latest US tech chief to visit Japan - Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRFNWOC1BbVFkUmNqYXU1NDR3VHVFd0NsR09DbUlxRmZIV3hLUmJHVHBDeFllXzQwVXFiWDNYbWZZazQyMVZCTUxncjRVV19yTTBDeEpWT29kVFN4SXJ0eFJ5SkhNdVJ5alBqZmVrYnYtcEdVMzRVS25mSmlsQU9IdWh3dXF6enRaSmxNTGNTWXBLekJhbHM5VnlQZ1Y1ZUNlalU3T04tYUM?oc=5",
+      "publishedAt": "2026-07-16T16:51:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [
+        "visit"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Nvidia's Jensen Huang the latest US tech chief to visit Japan - Nikkei Asia Nvidia's Jensen Huang the latest US tech chief to visit Japan Nikkei Asia",
+      "capturedAt": "2026-07-22T10:26:13.182669+00:00"
     },
     {
       "id": "66efbf2b6d34",
@@ -215,7 +261,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia chief Jensen Huang seals Japan robotics push after ‘yakitori summit’ - South China Morning Post Nvidia chief Jensen Huang seals Japan robotics push after ‘yakitori summit’ South China Morning Post",
-      "capturedAt": "2026-07-22T04:55:29.443037+00:00"
+      "capturedAt": "2026-07-22T10:26:13.182669+00:00"
     },
     {
       "id": "042c2b9bcc2e",
@@ -238,35 +284,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia's Jensen Huang Praises SK hynix Nasdaq Debut as \"Incredibly Successful\" - Seoul Economic Daily Nvidia's Jensen Huang Praises SK hynix Nasdaq Debut as \"Incredibly Successful\" Seoul Economic Daily",
-      "capturedAt": "2026-07-22T04:55:29.443037+00:00"
-    },
-    {
-      "id": "950c6c33f0e8",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "\"ADR Is Incredibly Successful\"... Jensen Huang, on Japan Trip, Lavishes Praise on SK hynix - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qdzN6NmxHT0xqNXQ1TDFCcUJ1WllQajc5MmRLeUVEZHN0RFJoc1RrdXFuYTQyQnM5WVF2Mkl2NXltVlhCYzFpQXNESVVkcnN6ZTEw?oc=5",
-      "publishedAt": "2026-07-15T12:17:19+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [
-        "CES",
-        "trip"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "\"ADR Is Incredibly Successful\"... Jensen Huang, on Japan Trip, Lavishes Praise on SK hynix - 매일경제 \"ADR Is Incredibly Successful\"... Jensen Huang, on Japan Trip, Lavishes Praise on SK hynix 매일경제",
-      "capturedAt": "2026-07-22T04:55:29.443037+00:00"
+      "capturedAt": "2026-07-22T10:26:13.182669+00:00"
     },
     {
       "id": "826ad97d28fa",
-      "status": "low-confidence",
+      "status": "needs-review",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: Jensen Huang Korea",
@@ -285,7 +307,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang hails SK hynix ADR success, deepens Japan AI ties - CHOSUNBIZ - Chosunbiz Jensen Huang hails SK hynix ADR success, deepens Japan AI ties - CHOSUNBIZ Chosunbiz",
-      "capturedAt": "2026-07-22T04:55:29.443037+00:00"
+      "capturedAt": "2026-07-22T10:26:13.182669+00:00"
     },
     {
       "id": "e940a4672649",
@@ -310,30 +332,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Samsung chairman seeks meeting with Nvidia CEO Jensen Huang as AI chip alliance deepens - Crypto Briefing Samsung chairman seeks meeting with Nvidia CEO Jensen Huang as AI chip alliance deepens Crypto Briefing",
-      "capturedAt": "2026-07-22T04:55:29.443037+00:00"
-    },
-    {
-      "id": "f7017a2f4906",
-      "status": "needs-review",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Police earn praise for crowd control during Jensen Huang’s Korea visit - CHOSUNBIZ - Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVVpPUTBwdVlrQURaclZ6dUlTdnJXLW9lUE9nZ21xVTV3cFVETGF5OHhCM0ktZE5YWjA5eG9jMlN0NXRuODlyQU15LVBwY1BEbGMzT2hHSks4MlZVRno0bUFNNVliWE1JSFV4cHMwMWZ5VHIzSVNRNFdnRWV5MGtYNtIBlAFBVV95cUxNODNPUlJjVzVITjlWWFhtUmdkNDktVXBrWUMzRGpRS29qTXk1NWpxWWExZTVrTzE5bFRaMFFyaEYtdVIydWFTQ2JYV0xiLWRWcU92dHBUS18xelN6bUdNLXoySHl5bFAzLUxmdkdsOVota3dKNFlxUGR0MjVHRnRaRzNjZVRUb1R4NnNQZGdnbDRXNlVZ?oc=5",
-      "publishedAt": "2026-07-09T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [
-        "visit"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Police earn praise for crowd control during Jensen Huang’s Korea visit - CHOSUNBIZ - Chosunbiz Police earn praise for crowd control during Jensen Huang’s Korea visit - CHOSUNBIZ Chosunbiz",
-      "capturedAt": "2026-07-22T04:55:29.443037+00:00"
+      "capturedAt": "2026-07-22T10:26:13.182669+00:00"
     },
     {
       "id": "e6ad2a346560",
@@ -357,7 +356,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO's daughter thanks Seoul police for crowd control during Korea visit - Korea JoongAng Daily Nvidia CEO's daughter thanks Seoul police for crowd control during Korea visit Korea Joo",
-      "capturedAt": "2026-07-22T04:55:29.443037+00:00"
+      "capturedAt": "2026-07-22T10:26:13.182669+00:00"
     },
     {
       "id": "28b853aeb39d",
@@ -381,7 +380,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "NVIDIA CEO's Daughter Thanks Seoul Police for Visit - 조선일보 NVIDIA CEO's Daughter Thanks Seoul Police for Visit 조선일보",
-      "capturedAt": "2026-07-22T04:55:29.443037+00:00"
+      "capturedAt": "2026-07-22T10:26:13.182669+00:00"
     },
     {
       "id": "4a6678cbe140",
@@ -405,32 +404,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO's daughter thanks Seoul police for crowd management during Korea visit - The Korea Times Nvidia CEO's daughter thanks Seoul police for crowd management during Korea visit The Kore",
-      "capturedAt": "2026-07-22T04:55:29.443037+00:00"
-    },
-    {
-      "id": "29569d313e33",
-      "status": "needs-review",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Nvidia CEO Jensen Huang's recent visit to Korea is seen as an event that imprinted the world that Ko.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03b05oSXdsRVoxa3dFMGs4YnhQR2trc1A3NUZ6WjJSSHlTbW5Qc2ZmdjlpUW9sNUZqTFJ2SlRqQzNNa3hwOFB6NkVyTVljYnh2UkZVNkhB?oc=5",
-      "publishedAt": "2026-06-26T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang",
-        "NVIDIA CEO",
-        "Nvidia CEO"
-      ],
-      "matchedEventKeywords": [
-        "visit"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Nvidia CEO Jensen Huang's recent visit to Korea is seen as an event that imprinted the world that Ko.. - 매일경제 Nvidia CEO Jensen Huang's recent visit to Korea is seen as an event that imprinted the world",
-      "capturedAt": "2026-07-22T04:55:29.443037+00:00"
+      "capturedAt": "2026-07-22T10:26:13.182669+00:00"
     },
     {
       "id": "96ee3a0c3d0d",
@@ -453,18 +427,39 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳首爾兆元宴 體現韓記憶體霸權 - 20260626 - 國際 - 明報新聞網 黃仁勳首爾兆元宴 體現韓記憶體霸權 - 20260626 - 國際 明報新聞網",
-      "capturedAt": "2026-07-22T04:55:29.443037+00:00"
+      "capturedAt": "2026-07-22T10:26:13.182669+00:00"
     },
     {
-      "id": "78bbd6aa2379",
+      "id": "f51e339e1aea",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Exclusive: Nvidia's Jensen Huang defends Chinese AI amid Kimi panic - Axios",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xdzhhRkh6bmxQNUJhUVd1c1pBcTBwNnQyVXZHT3dJVXJLcE9PRTFjdkY1WUtxVTgtX2Nwa1MwYm1iWnJiNlZyNzY4M2ppNUgtUG84UnNKSzlGbFY2MlRIbmxhaXJNekUzNDJyN04xSTBNQ3NkTWZ5N1VvMUktZw?oc=5",
+      "publishedAt": "2026-07-22T10:12:34+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Exclusive: Nvidia's Jensen Huang defends Chinese AI amid Kimi panic - Axios Exclusive: Nvidia's Jensen Huang defends Chinese AI amid Kimi panic Axios",
+      "capturedAt": "2026-07-22T10:26:13.182669+00:00"
+    },
+    {
+      "id": "d83a6450630d",
       "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
-      "title": "黃仁勳不只賣晶片！輝達傳搶進「暗光纖」市場 矽光子7檔飆漲停 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FbjFJdzIzZDcwYTJIZm9icGY0MDVRUUxhUEg1cGRmOEQ2d1JnbFVzeUhKejVSaF9EYkVIc1Z4YnlPSDhlU1MzZXdZa0RBNGE40gFWQVVfeXFMUFFMT1N0RXpCNi1uU0IybG94b0o5MUJyTkFJemdIcVl6WWg2MEF3Y1N6ZWFjVFVQdmFwd0R6d2tCMTMxckhNemNuMFNhRzJ6a2V2eEN3RUE?oc=5",
-      "publishedAt": "2026-07-22T04:00:46+00:00",
+      "title": "緯創砸200億，黃仁勳現身全美首座台資智慧工廠！他為何堅持美國製造AI伺服器？ - 天下雜誌",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLWUlURXFwQlBadWFBem5fSklxdUd3dmhsMUtYVUNlelJ1MjZGRGFZb054cGNyTnhwTlZiV1g1cGdTSWw2UUx2WWxIeEpldw?oc=5",
+      "publishedAt": "2026-07-22T08:25:00+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -473,8 +468,51 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "黃仁勳不只賣晶片！輝達傳搶進「暗光纖」市場 矽光子7檔飆漲停 - UDN 黃仁勳不只賣晶片！輝達傳搶進「暗光纖」市場 矽光子7檔飆漲停 UDN",
-      "capturedAt": "2026-07-22T04:55:29.443037+00:00"
+      "summary": "緯創砸200億，黃仁勳現身全美首座台資智慧工廠！他為何堅持美國製造AI伺服器？ - 天下雜誌 緯創砸200億，黃仁勳現身全美首座台資智慧工廠！他為何堅持美國製造AI伺服器？ 天下雜誌",
+      "capturedAt": "2026-07-22T10:26:13.182669+00:00"
+    },
+    {
+      "id": "337c5cb65f1f",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Korea's top biz leaders to meet Nvidia CEO in US - The Korea Times",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZDRSNlhsR29XWEM0OVdsRTJZNkFIRVVuQ245QzhHTGZOMEE1VDdHX3JGajYxZk4yZnJGblMxUW9yXy1IMFlIS1lSTUdIc2hBMGVyc2JoaTVIalFzMS00YkVLQ3dhWVhLQUZXdXAwQ1FjVUFwSDBqcm1DeUxIOF9VSTJqLXhYYW9RZ2RzUjdSeDQydi11a241b0NXbVFkWmt6eDk3b0NBWVhfa2Uy0gGsAUFVX3lxTE5kNFI2WGxHb1dYQzQ5V2xFMlk2QUhFVW5DbjlDOEdMZk4wQTVUN0dfckZqNjFmTjJmckZuUzFRb3JfLUgwWUhLWVJNR0hzaEEwZXJzYmhpNUhqUXMxLTRiRUtDd2FZWEtBRld1cDBDUWNVQXBIMGpybUN5TEg4X1VJMmoteFhhb1FnZHNSN1J4NDJ2LXVrbjVvQ1dtUWRaa3p4OTdvQ0FZWF9rZTI?oc=5",
+      "publishedAt": "2026-07-22T07:25:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "NVIDIA CEO",
+        "Nvidia CEO"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Korea's top biz leaders to meet Nvidia CEO in US - The Korea Times Korea's top biz leaders to meet Nvidia CEO in US The Korea Times",
+      "capturedAt": "2026-07-22T10:26:13.182669+00:00"
+    },
+    {
+      "id": "e7c389213d84",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "Kimi K3引發AI投資過度疑慮？黃仁勳： 應該說AI愈聰明用的人愈多 需求會更大 - news.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WOWd5WnVLUFF6VEFDTDc2SWROakRYY1ZwZE1VZk5CX2NKY1F2anZxeTlmc3FpMl9fam80dE5jazRNYkR1djRXQjQ1QWRFWms?oc=5",
+      "publishedAt": "2026-07-22T05:21:58+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Kimi K3引發AI投資過度疑慮？黃仁勳： 應該說AI愈聰明用的人愈多 需求會更大 - news.cnyes.com Kimi K3引發AI投資過度疑慮？黃仁勳： 應該說AI愈聰明用的人愈多 需求會更大 news.cnyes.com",
+      "capturedAt": "2026-07-22T10:26:13.182669+00:00"
     },
     {
       "id": "594f6400aeff",
@@ -495,7 +533,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳：與台灣做生意不再「俗擱大碗」而是具備高度成本效益 - news.cnyes.com 黃仁勳：與台灣做生意不再「俗擱大碗」而是具備高度成本效益 news.cnyes.com",
-      "capturedAt": "2026-07-22T04:55:29.443037+00:00"
+      "capturedAt": "2026-07-22T10:26:13.182669+00:00"
     },
     {
       "id": "9e44f34c5f99",
@@ -516,49 +554,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "AI界復仇者聯盟出動！韓國李在鎔、崔泰源本週五矽谷約見黃仁勳 - NOWnews今日新聞 AI界復仇者聯盟出動！韓國李在鎔、崔泰源本週五矽谷約見黃仁勳 NOWnews今日新聞",
-      "capturedAt": "2026-07-22T04:55:29.443037+00:00"
-    },
-    {
-      "id": "c51a69a9e8ba",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "獨家｜台廠赴美是被迫的？黃仁勳：沒必要用槍指著台灣的頭，這是自願選擇 - 數位時代",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaFF1YVVETzdoTEdnMmlBcGF1Ykt6RXhlaFY5TFlzb3NpNjZZUjQ3VGUzU3pUWVBUcXFUdzRBMXFUbDMxR0REcWZmS1RrRjlzLVY4V0dqZmkxUDJZbVRDRkRoYTJvYTh6Rm8tTWc5OGNaalY5VmNSZjhCWFhPZFhYWFU4U29JM3JvbmNJN1VER0R0UTVRTFpvVw?oc=5",
-      "publishedAt": "2026-07-22T03:14:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "獨家｜台廠赴美是被迫的？黃仁勳：沒必要用槍指著台灣的頭，這是自願選擇 - 數位時代 獨家｜台廠赴美是被迫的？黃仁勳：沒必要用槍指著台灣的頭，這是自願選擇 數位時代",
-      "capturedAt": "2026-07-22T04:55:29.443037+00:00"
-    },
-    {
-      "id": "027a102a26d4",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳傳將在美會三星、SK、Naver 全球AI巨頭齊聚矽谷圓桌會議 - DIGITIMES",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1icEtMdEdJaDF0d29VSHVaLVNKVzFIZXVEVktnTThaZWNJSVROamRVZmVhcHpEODN6RTR6c0taNGhmbXUtY0xlTmdSRjlERG55SkRiSFBKdm5ZWWhFZWdCd3RMUVZOT3BJOUdJ?oc=5",
-      "publishedAt": "2026-07-22T02:45:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳傳將在美會三星、SK、Naver 全球AI巨頭齊聚矽谷圓桌會議 - DIGITIMES 黃仁勳傳將在美會三星、SK、Naver 全球AI巨頭齊聚矽谷圓桌會議 DIGITIMES",
-      "capturedAt": "2026-07-22T04:55:29.443037+00:00"
+      "capturedAt": "2026-07-22T10:26:13.182669+00:00"
     }
   ],
   "errors": [
