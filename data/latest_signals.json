@@ -1,9 +1,55 @@
 {
-  "generatedAt": "2026-07-25T04:53:19.796273+00:00",
+  "generatedAt": "2026-07-25T09:48:54.536796+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
   "publishedToTimeline": 12,
   "signals": [
+    {
+      "id": "97d85f863bc2",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳會面李在明 宣布與SK合作規模達5000億美元 - 三立新聞網SETN.com",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9tNUhZV3JuSDJ1UFJRZ3BJQXVVemRFSVNIYWlqZ1hHX1RVU0sxMlQxbjlSbThYOWI0c2l3UUR0dl84WkczUmtia2Jpbw?oc=5",
+      "publishedAt": "2026-07-25T08:53:54+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "會面"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳會面李在明 宣布與SK合作規模達5000億美元 - 三立新聞網SETN.com 黃仁勳會面李在明 宣布與SK合作規模達5000億美元 三立新聞網SETN.com",
+      "capturedAt": "2026-07-25T09:48:54.536808+00:00"
+    },
+    {
+      "id": "e4691cc2622e",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "輝達重金加碼投資Naver與SK！黃仁勳看好南韓半導體與AI，提前綁定HBM產能 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQS3lzQktuSDJ3bEpHSW5ObkRnczk0a2xrVWxNUGlMb2xsbzRkRUNCUlVoYldnckZ0Q01BWkRIUVdrWGFuNXowaHUwZlRGU004d3dfWWl5RU5GOWFKS1hjVTVPUk11YzQ2dy02OEgtclJZbl9GNjZrNHZWV2VXcG1hLWhVQzY3SlRVaVhNQVZFNi1QWkwySTFpeW1Scmk0azRNbFZWeDQ5MDNRZVRJTGZoVDM3N1U0eFFqZ1ppcDRYdG1OdWJSS1hmN1dCLWZyR3FyTjJUbUdYOVdrOFVLcHNTZHJ4VmdyalpXR2wya2t5b0J0NENSQkZpTUwxeWhoYXk2NEt0aHE2NmVlTG1xY3V0M0gyRFJPNDBJbzFnQXV0WWFYWXdSTVFzeU4wLV96WUdzeGNTWEd1TC1QOE5CX2prYVdEWWh1a2xfSkttLWp4TmdxTW1FWTV3dWVTOWx3T3NKUG5mUVFMOWpDSUlxRlF4TFNLa2VaM1lvOTNzSEp3Szh3YXdkX0ZPZkVVcjE3TTBHX2V1YUppWU95WUxDcXc?oc=5",
+      "publishedAt": "2026-07-25T06:12:06+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "GTC"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "輝達重金加碼投資Naver與SK！黃仁勳看好南韓半導體與AI，提前綁定HBM產能 - Yahoo新聞 輝達重金加碼投資Naver與SK！黃仁勳看好南韓半導體與AI，提前綁定HBM產能 Yahoo新聞",
+      "capturedAt": "2026-07-25T09:48:54.536808+00:00"
+    },
     {
       "id": "4e9951717666",
       "status": "low-confidence",
@@ -25,16 +71,39 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Samsung, SK, Hyundai join Jensen Huang and Korea's President Lee at San Francisco AI Summit - digitimes Samsung, SK, Hyundai join Jensen Huang and Korea's President Lee at San Francisco AI Summit digitimes",
-      "capturedAt": "2026-07-25T04:53:19.796291+00:00"
+      "capturedAt": "2026-07-25T09:48:54.536808+00:00"
     },
     {
-      "id": "cb8fe8f717ef",
+      "id": "45a2508022eb",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "黃仁勳會面李在明宣布與SK合作規模達5000億美元| 國際 - 中央社 CNA",
+      "title": "舊金山AI峰會，黃仁勳會唔韓國總統李在明、商界領袖，釋放未來長期合作訊息 - 鏈新聞 ABMedia",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcUU3N09SS0tzWkJBMk9uMjlTYVZyZV9ZeXM3Y2ZGeG9OSlpaVlBBV1J6QWdiNnpoTkdPLVZhSXFVNXAxTG52SHRSTFBsVTJKdDdoYWxMeVV0THBISnZfdTZLYUt3WHhCTThoODlSU0lvZVJHNjAtSHRHN21JcVRyN0I5WDA?oc=5",
+      "publishedAt": "2026-07-25T04:12:38+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "峰會"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "舊金山AI峰會，黃仁勳會唔韓國總統李在明、商界領袖，釋放未來長期合作訊息 - 鏈新聞 ABMedia 舊金山AI峰會，黃仁勳會唔韓國總統李在明、商界領袖，釋放未來長期合作訊息 鏈新聞 ABMedia",
+      "capturedAt": "2026-07-25T09:48:54.536808+00:00"
+    },
+    {
+      "id": "e49542334dca",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳李在明會面宣布與SK合作規模達5000億美元| 國際 - 中央社 CNA",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2S1VZRmRkZTNZc05MbDkzOHFtbEw0aEJBVkpsVEdLUDRiUXk3N3NLVVZiQjZxVEhDenF0cHBEek9TOFdhSWVLc3h6R3lyajdSeWFrVWNSSmx0Sll1WXRR?oc=5",
       "publishedAt": "2026-07-25T02:52:00+00:00",
       "detectedDates": [],
@@ -47,8 +116,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "黃仁勳會面李在明宣布與SK合作規模達5000億美元| 國際 - 中央社 CNA 黃仁勳會面李在明宣布與SK合作規模達5000億美元| 國際 中央社 CNA",
-      "capturedAt": "2026-07-25T04:53:19.796291+00:00"
+      "summary": "黃仁勳李在明會面宣布與SK合作規模達5000億美元| 國際 - 中央社 CNA 黃仁勳李在明會面宣布與SK合作規模達5000億美元| 國際 中央社 CNA",
+      "capturedAt": "2026-07-25T09:48:54.536808+00:00"
     },
     {
       "id": "fa3cf81c40d5",
@@ -71,7 +140,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "AI峰會前夕黃仁勳會見SK會長 聚焦下一代記憶體、AI工廠合作 - news.cnyes.com AI峰會前夕黃仁勳會見SK會長 聚焦下一代記憶體、AI工廠合作 news.cnyes.com",
-      "capturedAt": "2026-07-25T04:53:19.796291+00:00"
+      "capturedAt": "2026-07-25T09:48:54.536808+00:00"
     },
     {
       "id": "54bc97dff82e",
@@ -95,7 +164,30 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang announces major partnerships with Korean companies following meeting with President Lee - Korea JoongAng Daily Jensen Huang announces major partnerships with Korean companies foll",
-      "capturedAt": "2026-07-25T04:53:19.796291+00:00"
+      "capturedAt": "2026-07-25T09:48:54.536808+00:00"
+    },
+    {
+      "id": "29886e409168",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Breaking News: Nvidia's Jensen Huang Announces $500 Billion Partnership With SK - Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcUx0OVMtQktEMlpwZVF0NHg5bDlxajZTVE5Tb0IxRkNUUGRfOFNrZGdaZTIxSldGNF9KOURzbjY4Q1pyUkRVRFIzdjBobnpqcEl1LUF1emt5ZnNab2wxVHotY2NpRDlMUXVMRUdJSmpGeFYwQ19udmZ5ck1fYmVzdlFSRVhRYU5xT1lCYkhzWkZqQlJfa2pEY1pVX1JqZUk?oc=5",
+      "publishedAt": "2026-07-24T23:46:49+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [
+        "CES"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Breaking News: Nvidia's Jensen Huang Announces $500 Billion Partnership With SK - Seoul Economic Daily Breaking News: Nvidia's Jensen Huang Announces $500 Billion Partnership With SK Seoul Economic Daily",
+      "capturedAt": "2026-07-25T09:48:54.536808+00:00"
     },
     {
       "id": "e6ffce9455d7",
@@ -118,7 +210,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Korea-US AI Summit: Samsung's Jay Y. Lee, Nvidia's Jensen Huang Forge 'Mega Alliance' in Silicon Valley - finance.biggo.com Korea-US AI Summit: Samsung's Jay Y. Lee, Nvidia's Jensen Huang Forge 'Mega Alliance' in Silicon Valley finance.biggo.c",
-      "capturedAt": "2026-07-25T04:53:19.796291+00:00"
+      "capturedAt": "2026-07-25T09:48:54.536808+00:00"
     },
     {
       "id": "b91514117c17",
@@ -141,7 +233,30 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Samsung, SK Chiefs to Meet Nvidia's Jensen Huang at US AI Summit; Multi-Billion Dollar Memory Deals in Focus - finance.biggo.com Samsung, SK Chiefs to Meet Nvidia's Jensen Huang at US AI Summit; Multi-Billion Dollar Memory Deals",
-      "capturedAt": "2026-07-25T04:53:19.796291+00:00"
+      "capturedAt": "2026-07-25T09:48:54.536808+00:00"
+    },
+    {
+      "id": "cc66a7c89776",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Samsung, SK, Naver Chiefs to Meet Nvidia's Jensen Huang in Silicon Valley AI Summit; Altman, Amodei Also Expected - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMbC15cDd2QUZzMXJ1YnJJaHplWmxFS3hUVFdySmZfbG9Ib1pySURjM3BoS0IxbzBPZExDRThVYXIxbnU4OEQtcFhRd1pLQy1XZFdpSUQxb1J4WXpzTy1KSWxGUG1GNU9ERVA3aDZ1dFBsSEVyd0E?oc=5",
+      "publishedAt": "2026-07-22T04:05:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [
+        "summit"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Samsung, SK, Naver Chiefs to Meet Nvidia's Jensen Huang in Silicon Valley AI Summit; Altman, Amodei Also Expected - finance.biggo.com Samsung, SK, Naver Chiefs to Meet Nvidia's Jensen Huang in Silicon Valley AI Summit; Altman, Amodei A",
+      "capturedAt": "2026-07-25T09:48:54.536808+00:00"
     },
     {
       "id": "58caca0db8b7",
@@ -164,11 +279,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "韓聯社：黃仁勳本周五將與三星李在鎔、SK崔泰源等在美會面 | 國際焦點 | 國際 - 經濟日報 韓聯社：黃仁勳本周五將與三星李在鎔、SK崔泰源等在美會面 | 國際焦點 | 國際 經濟日報",
-      "capturedAt": "2026-07-25T04:53:19.796291+00:00"
+      "capturedAt": "2026-07-25T09:48:54.536808+00:00"
     },
     {
       "id": "3379151b5bea",
-      "status": "low-confidence",
+      "status": "needs-review",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳 韓國",
@@ -187,11 +302,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "韓聯社：黃仁勳本周五將與三星李在鎔、SK崔泰源等在美會面| 全球財經| 全球 - UDN 韓聯社：黃仁勳本周五將與三星李在鎔、SK崔泰源等在美會面| 全球財經| 全球 UDN",
-      "capturedAt": "2026-07-25T04:53:19.796291+00:00"
+      "capturedAt": "2026-07-25T09:48:54.536808+00:00"
     },
     {
       "id": "cb9bc3929403",
-      "status": "low-confidence",
+      "status": "needs-review",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: Jensen Huang",
@@ -210,11 +325,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Told CES 2026 That Memory Is Now the Biggest Bottleneck in AI. Micron and Sandisk Have Outperformed Nvidia's Stock Ever Since. - Yahoo Finance Jensen Huang Told CES 2026 That Memo",
-      "capturedAt": "2026-07-25T04:53:19.796291+00:00"
+      "capturedAt": "2026-07-25T09:48:54.536808+00:00"
     },
     {
       "id": "f7771e3affbd",
-      "status": "low-confidence",
+      "status": "needs-review",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: Jensen Huang Korea",
@@ -233,11 +348,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia's Jensen Huang Announces AI Factory, Then Hands Out Red Bean Buns to Fans in Tokyo - Benzinga Nvidia's Jensen Huang Announces AI Factory, Then Hands Out Red Bean Buns to Fans in Tokyo Benzinga",
-      "capturedAt": "2026-07-25T04:53:19.796291+00:00"
+      "capturedAt": "2026-07-25T09:48:54.536808+00:00"
     },
     {
       "id": "66efbf2b6d34",
-      "status": "low-confidence",
+      "status": "needs-review",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: Jensen Huang Korea",
@@ -256,11 +371,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia chief Jensen Huang seals Japan robotics push after ‘yakitori summit’ - South China Morning Post Nvidia chief Jensen Huang seals Japan robotics push after ‘yakitori summit’ South China Morning Post",
-      "capturedAt": "2026-07-25T04:53:19.796291+00:00"
+      "capturedAt": "2026-07-25T09:48:54.536808+00:00"
     },
     {
       "id": "e940a4672649",
-      "status": "low-confidence",
+      "status": "needs-review",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: Jensen Huang Korea",
@@ -281,7 +396,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Samsung chairman seeks meeting with Nvidia CEO Jensen Huang as AI chip alliance deepens - Crypto Briefing Samsung chairman seeks meeting with Nvidia CEO Jensen Huang as AI chip alliance deepens Crypto Briefing",
-      "capturedAt": "2026-07-25T04:53:19.796291+00:00"
+      "capturedAt": "2026-07-25T09:48:54.536808+00:00"
     },
     {
       "id": "28b853aeb39d",
@@ -305,7 +420,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "NVIDIA CEO's Daughter Thanks Seoul Police for Visit - 조선일보 NVIDIA CEO's Daughter Thanks Seoul Police for Visit 조선일보",
-      "capturedAt": "2026-07-25T04:53:19.796291+00:00"
+      "capturedAt": "2026-07-25T09:48:54.536808+00:00"
     },
     {
       "id": "e6ad2a346560",
@@ -329,7 +444,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO's daughter thanks Seoul police for crowd control during Korea visit - Korea JoongAng Daily Nvidia CEO's daughter thanks Seoul police for crowd control during Korea visit Korea Joo",
-      "capturedAt": "2026-07-25T04:53:19.796291+00:00"
+      "capturedAt": "2026-07-25T09:48:54.536808+00:00"
     },
     {
       "id": "96ee3a0c3d0d",
@@ -352,18 +467,18 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳首爾兆元宴 體現韓記憶體霸權 - 20260626 - 國際 - 明報新聞網 黃仁勳首爾兆元宴 體現韓記憶體霸權 - 20260626 - 國際 明報新聞網",
-      "capturedAt": "2026-07-25T04:53:19.796291+00:00"
+      "capturedAt": "2026-07-25T09:48:54.536808+00:00"
     },
     {
-      "id": "50861d037637",
+      "id": "1e7b9d3d29ce",
       "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "輝達、SK集團公布5000億美元AI計畫 黃仁勳：南韓黃金時代來了 - 知新聞",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kclNnazB1NVl5ZTU0ejdTV2d1RTR6bEcxdnl6dkVOczVTdHlCbTRfeXhNTHVVMkxMdlZOdzRnaGxNMnljS0ZudWY2SWMyV2tqQ3BLMnpYVnExaGFYZTRSTndDUUJvYk5Hd2ZUb1lDUQ?oc=5",
-      "publishedAt": "2026-07-25T02:45:00+00:00",
+      "title": "輝達、SK集團公布5000億美元AI計畫 黃仁勳：南韓黃金時代來了 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPT2FId3FPYlhqYkxES1ptdFhFUTJla3VnS1RGOE5PMC1OcGw4bTBaVkotT19xQjhEVlNOdnJVcHJjWGJFYTBBY3Q2aHhZNFVhTjFzY25EQm9SVVgzcTd2NUtMbk1WU002V045TlVMXzNqRnVlS3JEUGF3QS1yeDd5Nkhld29USGZSaDNNYkNHSmp1c0Fub1VIdnI2UG9IN3NZOWtWVGoyMDUtUmNwOHNlUXlJV0d2M0IzT2w4YmZRemxHY1QwZzdIRndDdTZzd2c3blFWemxMbHJ1NVFBQlZGZmNDcndkSkZWTDkyUkRLV0pBd1hTeGtFdWR2bTVfT0NwOTdzYVZ1T0d4bFZLVmtCcXJLckFkYmFZeTY0TUVqZXNBRlhkUl9UUUVldzVrMmt4VFVLNF9RLUhfeEhOa0FsR0Z4NVNDbmhLV2JhX0dMS1Jha0E3aXhKN1JVVkktV2dZXy1PSE9wMHpkQQ?oc=5",
+      "publishedAt": "2026-07-25T05:33:47+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -372,8 +487,50 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "輝達、SK集團公布5000億美元AI計畫 黃仁勳：南韓黃金時代來了 - 知新聞 輝達、SK集團公布5000億美元AI計畫 黃仁勳：南韓黃金時代來了 知新聞",
-      "capturedAt": "2026-07-25T04:53:19.796291+00:00"
+      "summary": "輝達、SK集團公布5000億美元AI計畫 黃仁勳：南韓黃金時代來了 - Yahoo新聞 輝達、SK集團公布5000億美元AI計畫 黃仁勳：南韓黃金時代來了 Yahoo新聞",
+      "capturedAt": "2026-07-25T09:48:54.536808+00:00"
+    },
+    {
+      "id": "b32fe73de0e1",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "李在明率韓企黃仁勳再曝輝達.SK海力士合作- 國際 - 華視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZUDF3R3pVcnBJRkdCVENKRkpQQnhYa185TnVkaVlTcnFnQUhLLVlhUjFHaTJHd2hEekRHV00xekFLcHJyaVM0ZTFkaFhqUkpIcVBNWFdwZW9VRnd6TG92YUdieHlNX2p3TWd6UUIwbVlYazBWTWJZTA?oc=5",
+      "publishedAt": "2026-07-25T05:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "李在明率韓企黃仁勳再曝輝達.SK海力士合作- 國際 - 華視新聞網 李在明率韓企黃仁勳再曝輝達.SK海力士合作- 國際 華視新聞網",
+      "capturedAt": "2026-07-25T09:48:54.536808+00:00"
+    },
+    {
+      "id": "573645f30b7e",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Jensen Huang, SK Forge $500 Billion Alliance, Declares \"Golden Age of AI\" for South Korea - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByYk1IWDVjdi0wTFFMX2xMZV9OdzUxejhrdl85RmVzTUdNMVJqc083VXZFWXJCbW14SUxFTVZkRlBJSEp3LUZSWTZDdHU0Q1phdXN5U3FwTUQ3X24tS3ZjMmVjbGt5bGRwOGtOZWMxSmdtY0YxX1E?oc=5",
+      "publishedAt": "2026-07-25T02:56:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Jensen Huang, SK Forge $500 Billion Alliance, Declares \"Golden Age of AI\" for South Korea - finance.biggo.com Jensen Huang, SK Forge $500 Billion Alliance, Declares \"Golden Age of AI\" for Sout",
+      "capturedAt": "2026-07-25T09:48:54.536808+00:00"
     },
     {
       "id": "9e362f473413",
@@ -394,156 +551,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "韓國AI願景揭露！李在明、黃仁勳碰面 5000億美元大規模投資曝 - NOWnews今日新聞 韓國AI願景揭露！李在明、黃仁勳碰面 5000億美元大規模投資曝 NOWnews今日新聞",
-      "capturedAt": "2026-07-25T04:53:19.796291+00:00"
-    },
-    {
-      "id": "417826e46a05",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳震撼宣布！5000億美元攜手SK 在韓設AI前沿實驗室 - 自由財經",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjR3RCdE04bmQ5dGdvT09YT1FqUldYbUMzLU1hSWhYajdRb2M3STRUSUs1NGFRMWxURUM3VmtpcGVmUjdZLWo1TTEtNG9aM1oxcjZ6OF9RcUR4b0ZPenNN0gFkQVVfeXFMTnRIbnNCc3A1X3BOQ1M3Sko1dXNlVHRFT3ZCTXpraER1NDIzMUE2TzVoUWJDLTJTTEp4TkpGb19QdE0xdU1yM1p4eTRzbkxLN2k2dnhHaDFMV253ZUw1OUVhMkRNUw?oc=5",
-      "publishedAt": "2026-07-25T01:44:15+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳震撼宣布！5000億美元攜手SK 在韓設AI前沿實驗室 - 自由財經 黃仁勳震撼宣布！5000億美元攜手SK 在韓設AI前沿實驗室 自由財經",
-      "capturedAt": "2026-07-25T04:53:19.796291+00:00"
-    },
-    {
-      "id": "0588a1b0b202",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "President Lee arrives in San Francisco, set to meet Jensen Huang, Sam Altman - Korea JoongAng Daily",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMzVLQldKQkN1SEdxWXFxVTkwMC03eC1VNldLTWM3TEtaTm1kQnU3d0hSWnNzZjF5TUdLaUJhSWlubUUwTklCSmJqZmk0bzdoMElCa2JGX21TMmt0SU42a25jNnpnV19OTWZfOVBIeU9hTXNpSTZ5VUR4bjNrdFJibFZCQnlpTVpkZjZ2MmlNRkhZbXV0VjcwZUt4bm5hRjE4NlFKcG5mVlpUT3lWbDQ1bjkxaE9STEcxc0IydVV6UUdDUQ?oc=5",
-      "publishedAt": "2026-07-25T01:26:02+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "President Lee arrives in San Francisco, set to meet Jensen Huang, Sam Altman - Korea JoongAng Daily President Lee arrives in San Francisco, set to meet Jensen Huang, Sam Altman Korea JoongAng Daily",
-      "capturedAt": "2026-07-25T04:53:19.796291+00:00"
-    },
-    {
-      "id": "96d58ba669fb",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳「X」首秀！挺AI開放貼文吸3300萬瀏覽 馬斯克發文聲援 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tdXBnS2Y0WExNNlpjZzJKeWh4dHB2eUd4UjJ4TVc2TVpjTkFYa19fVnN3NWZTbUpkUzEtUGpIRTNKR25sbTFfRWZJSWNPZjRz0gFWQVVfeXFMTUxWRTR1M2pKT3VXLW1RUlp1ZElBZmg0YW9UMXJUc01UcDZoRjc2TVZqc213MFNZSnRxZmZEczNrX0U3bHl1OVpzaE1LMW5FUm5lSVBtM1E?oc=5",
-      "publishedAt": "2026-07-25T01:23:19+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳「X」首秀！挺AI開放貼文吸3300萬瀏覽 馬斯克發文聲援 - UDN 黃仁勳「X」首秀！挺AI開放貼文吸3300萬瀏覽 馬斯克發文聲援 UDN",
-      "capturedAt": "2026-07-25T04:53:19.796291+00:00"
-    },
-    {
-      "id": "837efd0b95df",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Watch Nvidia's Jensen Huang on South Korea's Golden Age & SK Hynix Group Partnership - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTU0yU0JrTVY0YnBSYnFWU180MnJfb1BoOU5ZQnpwSnJjbHdkQXVEel8ydmIwWXZfSnZmZUkzcVpVSzFwOGI2T3ltZHUzUUZKVzFNbVhnM0RfX1VDWldVYXl4ejlpbGFvc2p2R3hxRHpTdTBQZW9vbFc5WGNqS3JxOTJXcDhzS3o4dzljU0ktVmdMSVN6ZGZjS2VicEthR3JzdjhiZjRXQlVwb3AzQ0FnYjBYUkxlbkNrMHAxYVVCbHFqU0U?oc=5",
-      "publishedAt": "2026-07-25T00:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Watch Nvidia's Jensen Huang on South Korea's Golden Age & SK Hynix Group Partnership - Bloomberg.com Watch Nvidia's Jensen Huang on South Korea's Golden Age & SK Hynix Group Partnership Bloomberg.com",
-      "capturedAt": "2026-07-25T04:53:19.796291+00:00"
-    },
-    {
-      "id": "814894f6b01a",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Watch Nvidia CEO Jensen Huang on the AI Boom in South Korea - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWXR6SW90a016T3VnSzdrNWtGLTg2UDBHYUVzWld1bXRzeXlDVmttLUtPOWxMQjlNU3o1VmRtX2NvNVdKMnN6eVotVTJfbUhjRG1ScEhWWUxVLWpJajlwUUNnTkFOZWI1cXdaaUZINWpGNEZOMVFkUFlNdnp1WUVUUUtjWl9kdGdvbk9JUUNIY2lfWW9OUmF3X3dHcnRCODVqejhTOW9VRGZSNlo4?oc=5",
-      "publishedAt": "2026-07-25T00:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang",
-        "NVIDIA CEO",
-        "Nvidia CEO"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Watch Nvidia CEO Jensen Huang on the AI Boom in South Korea - Bloomberg.com Watch Nvidia CEO Jensen Huang on the AI Boom in South Korea Bloomberg.com",
-      "capturedAt": "2026-07-25T04:53:19.796291+00:00"
-    },
-    {
-      "id": "1f42d6f25f44",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Jensen Huang unveils $500b Korea push with SK, Samsung, Hyundai, Naver - CHOSUNBIZ - Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaDNPblRzMGV5ek1Obk1uRWZKOVI5Snh4M0xNZUFrdUNKZFlESVJtUWN3RmZfSXJENWk0OGVuRjBZNHhqejBWTGIxXzBock1EdEFNSjV1UTc2RExlc2dReHduSXpPVHNVUFgwdHBuSFZBN1dOYkQ2NU11T2I1eUpUU3R30gGWAUFVX3lxTE5KNmRtOE9WeU51ekRfUVdWcEFhVy1OMHAxUHpxd0xjdUotR0FUaUF5ZkdXaHZpX3JWVlJkLTc2VnRwa096Z2UzY2p0MDQzT25JMXFmQm94OEdSNnZZR0lma1Q4UlJvV0ZMUWc5d3BpS1NZUllNV2FWdHdPVlEyaFpob1BJR184RWVobnl4SmxPNXUtck5VUQ?oc=5",
-      "publishedAt": "2026-07-24T23:48:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Jensen Huang unveils $500b Korea push with SK, Samsung, Hyundai, Naver - CHOSUNBIZ - Chosunbiz Jensen Huang unveils $500b Korea push with SK, Samsung, Hyundai, Naver - CHOSUNBIZ Chosunbiz",
-      "capturedAt": "2026-07-25T04:53:19.796291+00:00"
-    },
-    {
-      "id": "cef7a964731e",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳開通「X帳號」首貼文內容曝！馬斯克秒轉發 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNbjV2czAzWXRYMjIyejZVUEZ2bk1jVjNSX3VXLVlqQ25mNFZrNVAtZmJRNWVxZU1fM0lHcmJPcnI0TFBPcUhLVkF1ZjFPN2ZtUEQybXE1YlRicDFWT0sxVUREai1XOU93cFZRelRTS1pBMHhqNEFscjIzSG53Nmh3SUJtLXpjR2lJUzlWU2xzMjBzcE0zX05xVUxaMjJXeVozbm5qUUlwTGo2dW1haTUyTjdScl82Nzk2ZDFnYmFmb2xLbnIwYk84eU9mQ2V2MFF1elVQMUtsT095NW5nRmFxLUlSbmdVWUhqamRabERsbFJsdDVJb3hHdGI2dVlPMUl4amFlQ0VydURVUk5iQXRhc0VtNWhfQVVoYTM1T2FHTVM2VFJOVTUxNGpvblJJdGx5cTJJdm5GVFdoNXN1NnVCVjRjdU0?oc=5",
-      "publishedAt": "2026-07-24T23:29:16+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳開通「X帳號」首貼文內容曝！馬斯克秒轉發 - Yahoo股市 黃仁勳開通「X帳號」首貼文內容曝！馬斯克秒轉發 Yahoo股市",
-      "capturedAt": "2026-07-25T04:53:19.796291+00:00"
+      "capturedAt": "2026-07-25T09:48:54.536808+00:00"
     }
   ],
   "errors": [
