@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-07-25T22:44:10.413393+00:00",
+  "generatedAt": "2026-07-26T05:18:15.681810+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
   "publishedToTimeline": 12,
   "signals": [
     {
-      "id": "d0bc349b828c",
+      "id": "c8b5a6d93c13",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "黃仁勳李在明會面談AI與SK合作達5千億美元 - 新唐人電視台",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZam5WNXNGdDVsNlFrNk4tTlBFZGZpRkZZbm1pbHlRLUt5VmZ5d3VqdXhpTG81S291c0hlVm82SEpBN1RiWnNlR3VvTmdpdVVYcEZTVTFiOHlDaDlnMkRZcE5SUkNvd9IBZkFVX3lxTFBZam5WNXNGdDVsNlFrNk4tTlBFZGZpRkZZbm1pbHlRLUt5VmZ5d3VqdXhpTG81S291c0hlVm82SEpBN1RiWnNlR3VvTmdpdVVYcEZTVTFiOHlDaDlnMkRZcE5SUkNvdw?oc=5",
-      "publishedAt": "2026-07-25T17:28:55+00:00",
+      "title": "AI峰會前夜，黃仁勳會見SK會長，討論下一代AI記憶體、AI工廠合作 - 鉅亨號",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9sUDNRc2JsTlhDa0VpTGNYYW1YNXZNcklEWGxMNFoxSGYzbkN5WWlveTVsUGpEWlRIbnQ5SnhWRDhtM1NOVlI3VA?oc=5",
+      "publishedAt": "2026-07-25T18:16:28+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
       ],
       "matchedEventKeywords": [
-        "會面"
+        "峰會"
       ],
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "黃仁勳李在明會面談AI與SK合作達5千億美元 - 新唐人電視台 黃仁勳李在明會面談AI與SK合作達5千億美元 新唐人電視台",
-      "capturedAt": "2026-07-25T22:44:10.413406+00:00"
+      "summary": "AI峰會前夜，黃仁勳會見SK會長，討論下一代AI記憶體、AI工廠合作 - 鉅亨號 AI峰會前夜，黃仁勳會見SK會長，討論下一代AI記憶體、AI工廠合作 鉅亨號",
+      "capturedAt": "2026-07-26T05:18:15.681852+00:00"
     },
     {
       "id": "d1cda71da9e0",
@@ -48,7 +48,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳會面李在明 宣布與SK合作規模達5000億美元 - 三立新聞 黃仁勳會面李在明 宣布與SK合作規模達5000億美元 三立新聞",
-      "capturedAt": "2026-07-25T22:44:10.413406+00:00"
+      "capturedAt": "2026-07-26T05:18:15.681852+00:00"
     },
     {
       "id": "4e9951717666",
@@ -71,7 +71,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Samsung, SK, Hyundai join Jensen Huang and Korea's President Lee at San Francisco AI Summit - digitimes Samsung, SK, Hyundai join Jensen Huang and Korea's President Lee at San Francisco AI Summit digitimes",
-      "capturedAt": "2026-07-25T22:44:10.413406+00:00"
+      "capturedAt": "2026-07-26T05:18:15.681852+00:00"
     },
     {
       "id": "45a2508022eb",
@@ -94,7 +94,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "舊金山AI峰會，黃仁勳會唔韓國總統李在明、商界領袖，釋放未來長期合作訊息 - 鏈新聞 ABMedia 舊金山AI峰會，黃仁勳會唔韓國總統李在明、商界領袖，釋放未來長期合作訊息 鏈新聞 ABMedia",
-      "capturedAt": "2026-07-25T22:44:10.413406+00:00"
+      "capturedAt": "2026-07-26T05:18:15.681852+00:00"
     },
     {
       "id": "e49542334dca",
@@ -117,7 +117,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳李在明會面宣布與SK合作規模達5000億美元| 國際 - 中央社 CNA 黃仁勳李在明會面宣布與SK合作規模達5000億美元| 國際 中央社 CNA",
-      "capturedAt": "2026-07-25T22:44:10.413406+00:00"
+      "capturedAt": "2026-07-26T05:18:15.681852+00:00"
     },
     {
       "id": "fa3cf81c40d5",
@@ -140,7 +140,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "AI峰會前夕黃仁勳會見SK會長 聚焦下一代記憶體、AI工廠合作 - news.cnyes.com AI峰會前夕黃仁勳會見SK會長 聚焦下一代記憶體、AI工廠合作 news.cnyes.com",
-      "capturedAt": "2026-07-25T22:44:10.413406+00:00"
+      "capturedAt": "2026-07-26T05:18:15.681852+00:00"
     },
     {
       "id": "54bc97dff82e",
@@ -164,7 +164,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang announces major partnerships with Korean companies following meeting with President Lee - Korea JoongAng Daily Jensen Huang announces major partnerships with Korean companies foll",
-      "capturedAt": "2026-07-25T22:44:10.413406+00:00"
+      "capturedAt": "2026-07-26T05:18:15.681852+00:00"
     },
     {
       "id": "29886e409168",
@@ -187,7 +187,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Breaking News: Nvidia's Jensen Huang Announces $500 Billion Partnership With SK - Seoul Economic Daily Breaking News: Nvidia's Jensen Huang Announces $500 Billion Partnership With SK Seoul Economic Daily",
-      "capturedAt": "2026-07-25T22:44:10.413406+00:00"
+      "capturedAt": "2026-07-26T05:18:15.681852+00:00"
     },
     {
       "id": "e6ffce9455d7",
@@ -210,7 +210,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Korea-US AI Summit: Samsung's Jay Y. Lee, Nvidia's Jensen Huang Forge 'Mega Alliance' in Silicon Valley - finance.biggo.com Korea-US AI Summit: Samsung's Jay Y. Lee, Nvidia's Jensen Huang Forge 'Mega Alliance' in Silicon Valley finance.biggo.c",
-      "capturedAt": "2026-07-25T22:44:10.413406+00:00"
+      "capturedAt": "2026-07-26T05:18:15.681852+00:00"
     },
     {
       "id": "b91514117c17",
@@ -233,7 +233,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Samsung, SK Chiefs to Meet Nvidia's Jensen Huang at US AI Summit; Multi-Billion Dollar Memory Deals in Focus - finance.biggo.com Samsung, SK Chiefs to Meet Nvidia's Jensen Huang at US AI Summit; Multi-Billion Dollar Memory Deals",
-      "capturedAt": "2026-07-25T22:44:10.413406+00:00"
+      "capturedAt": "2026-07-26T05:18:15.681852+00:00"
     },
     {
       "id": "9a1545c8cfbc",
@@ -256,7 +256,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Reportedly to Hold Secret Friday Meeting with Samsung, SK Chiefs; Korea-US AI Giants to Discuss HBM4 and Sovereign AI Plans - finance.biggo.com Jensen Huang Reportedly to Hold Sec",
-      "capturedAt": "2026-07-25T22:44:10.413406+00:00"
+      "capturedAt": "2026-07-26T05:18:15.681852+00:00"
     },
     {
       "id": "cc66a7c89776",
@@ -279,7 +279,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Samsung, SK, Naver Chiefs to Meet Nvidia's Jensen Huang in Silicon Valley AI Summit; Altman, Amodei Also Expected - finance.biggo.com Samsung, SK, Naver Chiefs to Meet Nvidia's Jensen Huang in Silicon Valley AI Summit; Altman, Amodei A",
-      "capturedAt": "2026-07-25T22:44:10.413406+00:00"
+      "capturedAt": "2026-07-26T05:18:15.681852+00:00"
     },
     {
       "id": "58caca0db8b7",
@@ -302,7 +302,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "韓聯社：黃仁勳本周五將與三星李在鎔、SK崔泰源等在美會面 | 國際焦點 | 國際 - 經濟日報 韓聯社：黃仁勳本周五將與三星李在鎔、SK崔泰源等在美會面 | 國際焦點 | 國際 經濟日報",
-      "capturedAt": "2026-07-25T22:44:10.413406+00:00"
+      "capturedAt": "2026-07-26T05:18:15.681852+00:00"
     },
     {
       "id": "3379151b5bea",
@@ -325,7 +325,35 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "韓聯社：黃仁勳本周五將與三星李在鎔、SK崔泰源等在美會面| 全球財經| 全球 - UDN 韓聯社：黃仁勳本周五將與三星李在鎔、SK崔泰源等在美會面| 全球財經| 全球 UDN",
-      "capturedAt": "2026-07-25T22:44:10.413406+00:00"
+      "capturedAt": "2026-07-26T05:18:15.681852+00:00"
+    },
+    {
+      "id": "84f190dfd842",
+      "status": "needs-review",
+      "category": "媒體公開行程候選",
+      "confidence": 55,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "'Made in Texas, USA': Nvidia CEO visits Fort Worth facility building AI supercomputers - Dallas News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU2ZkdXVWX3dYQjd5VFQ3S1N0U2g3QXEzTFEtY1BkUkhNUnVKRjlXMGd1V3pFOGptY3BfaVBMWW9ZaXhmc0VrQVZCLWh3cnQwa01EakJKSW42NENkdkItTEVnMnd3S2N1TzEtaXp2THJvVWtFYXdzNENpUGxVNjVjNVM4NmV0eEdwT0hhNzE2amlaNVgzVktuZV9XeTdRX0M0UGlxMnJHeDRnQzA?oc=5",
+      "publishedAt": "2026-07-22T00:06:54+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "NVIDIA CEO",
+        "Nvidia CEO"
+      ],
+      "matchedEventKeywords": [
+        "visit"
+      ],
+      "privacyReviewFlags": [
+        "visits"
+      ],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [
+        "visits"
+      ],
+      "summary": "'Made in Texas, USA': Nvidia CEO visits Fort Worth facility building AI supercomputers - Dallas News 'Made in Texas, USA': Nvidia CEO visits Fort Worth facility building AI supercomputers Dallas News",
+      "capturedAt": "2026-07-26T05:18:15.681852+00:00"
     },
     {
       "id": "cb9bc3929403",
@@ -348,7 +376,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Told CES 2026 That Memory Is Now the Biggest Bottleneck in AI. Micron and Sandisk Have Outperformed Nvidia's Stock Ever Since. - Yahoo Finance Jensen Huang Told CES 2026 That Memo",
-      "capturedAt": "2026-07-25T22:44:10.413406+00:00"
+      "capturedAt": "2026-07-26T05:18:15.681852+00:00"
     },
     {
       "id": "f7771e3affbd",
@@ -359,7 +387,7 @@
       "sourceType": "新聞彙整",
       "title": "Nvidia's Jensen Huang Announces AI Factory, Then Hands Out Red Bean Buns to Fans in Tokyo - Benzinga",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm53SkIzbzZyRXhQWWFoeVNJNi1xQkNCbEVVbE1xa2J3dVlQMmJRRkVyMWc5TUlWZVBZYVZWM0N0SVo0Wk0tQ29XX1Vxak5nTmt6Nm1MZ0ZNTVZKQWZvVnBVN0NDQVRnZTFoaEp5QmRuWTlCSjZiME9DcEhMUHIyWEZOcllBd2VHTGV4Zmw3Qm1vYXlHOFhIcHN4akJmT0F5SE52UE9tbHhDT25NaXo1bUZydjVtcEtXWnhMNDVFenF6UDBXMF9ZNGpyMzVQVzlDbHZkUGxtaw?oc=5",
-      "publishedAt": "2026-07-17T07:00:00+00:00",
+      "publishedAt": "2026-07-17T08:31:46+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "Jensen Huang"
@@ -371,7 +399,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia's Jensen Huang Announces AI Factory, Then Hands Out Red Bean Buns to Fans in Tokyo - Benzinga Nvidia's Jensen Huang Announces AI Factory, Then Hands Out Red Bean Buns to Fans in Tokyo Benzinga",
-      "capturedAt": "2026-07-25T22:44:10.413406+00:00"
+      "capturedAt": "2026-07-26T05:18:15.681852+00:00"
     },
     {
       "id": "66efbf2b6d34",
@@ -394,7 +422,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia chief Jensen Huang seals Japan robotics push after ‘yakitori summit’ - South China Morning Post Nvidia chief Jensen Huang seals Japan robotics push after ‘yakitori summit’ South China Morning Post",
-      "capturedAt": "2026-07-25T22:44:10.413406+00:00"
+      "capturedAt": "2026-07-26T05:18:15.681852+00:00"
     },
     {
       "id": "e940a4672649",
@@ -419,18 +447,43 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Samsung chairman seeks meeting with Nvidia CEO Jensen Huang as AI chip alliance deepens - Crypto Briefing Samsung chairman seeks meeting with Nvidia CEO Jensen Huang as AI chip alliance deepens Crypto Briefing",
-      "capturedAt": "2026-07-25T22:44:10.413406+00:00"
+      "capturedAt": "2026-07-26T05:18:15.681852+00:00"
     },
     {
-      "id": "d58636a232e4",
+      "id": "13f583d15100",
       "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "黃仁勳、奧特曼、李在鎔、崔泰源舊金山會晤 敲定9500億美元AI記憶體等合約 | 信傳媒 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4UDdUb0wxSkVqUDNHcFdveUp5LUFRRTctaEt0d0c0ZGVIdXFKTmctWnEwdGlKWFJmVE1MRDZFd2ZpSTVwUkpySnhQLVA1Q3pSTXZVZmJwR2NhZkc2TmkzR1ZSajlNcFdtQzlwSzNJUmc?oc=5",
-      "publishedAt": "2026-07-25T18:48:55+00:00",
+      "title": "率韓財閥與黃仁勳吃漢堡 李在明喊「一家人」 - 華視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpWHRxNHBCSEFISkgzNzdRY1lqRkQ5N01icFZ2dy1tdlgyS1VhaHRFbTl4Tk1pRkFtNzFteWRRWlFpbV9kUU5qQzBRT25EaVFtbXFYb2taUE5HSldodjhhbUxjREpCSVA5VXJwUjZ6UjBCcl9Rb013cQ?oc=5",
+      "publishedAt": "2026-07-26T04:30:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [
+        "吃"
+      ],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [
+        "吃"
+      ],
+      "summary": "率韓財閥與黃仁勳吃漢堡 李在明喊「一家人」 - 華視新聞網 率韓財閥與黃仁勳吃漢堡 李在明喊「一家人」 華視新聞網",
+      "capturedAt": "2026-07-26T05:18:15.681852+00:00"
+    },
+    {
+      "id": "90f6f453764e",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "韓股修正別怕？黃仁勳與韓政要餐敘 霸氣預告：還會再漲 - TVBS新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nWEhsRUtvTUJTUm1uNWxXdkFPSGtkVXIyTU1CeGYycG1TUHpKbGFFVXhmcEtFZTB6WGZ6enJoY09wRjY4OEFWOHd5bUpEaVk?oc=5",
+      "publishedAt": "2026-07-26T03:21:00+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -439,8 +492,52 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "黃仁勳、奧特曼、李在鎔、崔泰源舊金山會晤 敲定9500億美元AI記憶體等合約 | 信傳媒 - LINE TODAY 黃仁勳、奧特曼、李在鎔、崔泰源舊金山會晤 敲定9500億美元AI記憶體等合約 | 信傳媒 LINE TODAY",
-      "capturedAt": "2026-07-25T22:44:10.413406+00:00"
+      "summary": "韓股修正別怕？黃仁勳與韓政要餐敘 霸氣預告：還會再漲 - TVBS新聞網 韓股修正別怕？黃仁勳與韓政要餐敘 霸氣預告：還會再漲 TVBS新聞網",
+      "capturedAt": "2026-07-26T05:18:15.681852+00:00"
+    },
+    {
+      "id": "66379513006b",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Jensen Huang Says Nvidia to Announce $500 Billion Partnership With SK Group - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UOGhLNzUzeE4wUHQtSzF0c2V0ejN0UjNOOGpkQVRFelozeGNsYnVqcUlqNTVlZDdIRGVaTEZGY3FVbjZvcXZkenhBQ2M5RDZWWFhEcmliVXF0a1YwZDYzdWgxZEt2cjg?oc=5",
+      "publishedAt": "2026-07-26T02:31:06+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Jensen Huang Says Nvidia to Announce $500 Billion Partnership With SK Group - thelec.net Jensen Huang Says Nvidia to Announce $500 Billion Partnership With SK Group thelec.net",
+      "capturedAt": "2026-07-26T05:18:15.681852+00:00"
+    },
+    {
+      "id": "a1e438630046",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Why Nvidia CEO Jensen Huang Is Defending Chinese AI Models - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTnA2ck1JMW9sTV9SOU1jVHFzSko3NEtoZTNna3E1eTZGajN6eUhsY3dsNjYyVzdLNXJBeXFEejFfN0swS0h6MG9HbXdGWGZ2NWNtUkIxR2taOXZONDRndG4taDRnc1o1UUEzRUFjRVRvYW1tSnh0Q0J0SDhjT2gwb000dFphRXk3Y0Q2VVhLd0F0bzFJdFowMTJn?oc=5",
+      "publishedAt": "2026-07-25T22:07:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang",
+        "NVIDIA CEO",
+        "Nvidia CEO"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Why Nvidia CEO Jensen Huang Is Defending Chinese AI Models - Barron's Why Nvidia CEO Jensen Huang Is Defending Chinese AI Models Barron's",
+      "capturedAt": "2026-07-26T05:18:15.681852+00:00"
     },
     {
       "id": "f245bc3386f7",
@@ -463,97 +560,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang denies the chip boom will go bust soon and says 'this time is different' - Fortune Nvidia CEO Jensen Huang denies the chip boom will go bust soon and says 'this time is different'",
-      "capturedAt": "2026-07-25T22:44:10.413406+00:00"
-    },
-    {
-      "id": "e0ca68d17d7c",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "NVIDIA Inked A $500 Billion Agreement With SK hynix, And Then Jensen Huang Asked For “One More Beer” - Wccftech",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZWpiblFoYkVNOG9sZWVqcDZvQTUxT3pnMlBFRW1ZaHVXaWZPOUFnMVVDZlZRQzI0b3RLWm5Ka2o5WUdOVGdrRkRVMUNNZlYwQzVaVUVuV0h4QVNpOHhjSmgzMjE3UTBpTzdQajJEOF9sZGZsbWtfUElEWTVvZ3JfaUxURGpjbG90Zkh0VzlOYWlIaDJweXphQjBVcXlMZ0hqQzdpV3paZUt6YWtkOVJ4SWtpOWE4ZE9jcHfSAb8BQVVfeXFMTTZldmh2bXp6VVo5YVRCSG1iemNzWmFsVU52ZEFrSHpJMVJ6OEJOeVFHWTFYVFhVYnBMM01VVFJPbUxjN0JtdUtTODA3OVVHeU92Vm9iT3BhSy14cWhMTU1SLWJZVThOcU0xUUtHd280MmRJX2QwdXRORGFaWWRHUk84R3pVSDQtdjNXeGREV3lVTzFtaGYxdlNpeEVtNEJFRV9zamJkSzhxMUZwQWxadV90ekNRRWtMWmRzYmw2LXc?oc=5",
-      "publishedAt": "2026-07-25T14:05:35+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [
-        "beer"
-      ],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [
-        "beer"
-      ],
-      "summary": "NVIDIA Inked A $500 Billion Agreement With SK hynix, And Then Jensen Huang Asked For “One More Beer” - Wccftech NVIDIA Inked A $500 Billion Agreement With SK hynix, And Then Jensen Huang Asked For “One More Beer” Wccftech",
-      "capturedAt": "2026-07-25T22:44:10.413406+00:00"
-    },
-    {
-      "id": "a1e438630046",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "Why Nvidia CEO Jensen Huang Is Defending Chinese AI Models - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTnA2ck1JMW9sTV9SOU1jVHFzSko3NEtoZTNna3E1eTZGajN6eUhsY3dsNjYyVzdLNXJBeXFEejFfN0swS0h6MG9HbXdGWGZ2NWNtUkIxR2taOXZONDRndG4taDRnc1o1UUEzRUFjRVRvYW1tSnh0Q0J0SDhjT2gwb000dFphRXk3Y0Q2VVhLd0F0bzFJdFowMTJn?oc=5",
-      "publishedAt": "2026-07-25T13:42:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang",
-        "NVIDIA CEO",
-        "Nvidia CEO"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Why Nvidia CEO Jensen Huang Is Defending Chinese AI Models - Barron's Why Nvidia CEO Jensen Huang Is Defending Chinese AI Models Barron's",
-      "capturedAt": "2026-07-25T22:44:10.413406+00:00"
-    },
-    {
-      "id": "ecb3d99901e2",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳也參加！李在明在舊金山主揪「AI 同盟宴」辦在這裡大啖炸魚薯條 | 國際焦點 | 國際 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zYUQ2aUM2MG5md1Z5WXJMcTVJVUNqQmxCUVpocC1qUmd6Y3o4YjF0N2ZvREQzVVp4M05VN0pkTGczNW1pbnNrZXhQY1pzNTFaR2tVNnh4NXJSTUZrcUE5akZaLXZvZ3hZNzhZMURGUWFJQXBoUy04?oc=5",
-      "publishedAt": "2026-07-25T11:15:29+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳也參加！李在明在舊金山主揪「AI 同盟宴」辦在這裡大啖炸魚薯條 | 國際焦點 | 國際 - 經濟日報 黃仁勳也參加！李在明在舊金山主揪「AI 同盟宴」辦在這裡大啖炸魚薯條 | 國際焦點 | 國際 經濟日報",
-      "capturedAt": "2026-07-25T22:44:10.413406+00:00"
-    },
-    {
-      "id": "09bacb57939c",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳也參加李在明在舊金山主揪「AI同盟宴」辦在這裡大啖炸魚薯條| 全球財經| 全球 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uQmhGOHNUTG5xbEEzMWoyYkJGNGZ0R1UtQndzRFFhSjdhcnVreGNKM0ZId25wWHVyMmppa1gtTHRBUmlMRUhQZGF4NHhlLUZx?oc=5",
-      "publishedAt": "2026-07-25T11:13:44+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳也參加李在明在舊金山主揪「AI同盟宴」辦在這裡大啖炸魚薯條| 全球財經| 全球 - UDN 黃仁勳也參加李在明在舊金山主揪「AI同盟宴」辦在這裡大啖炸魚薯條| 全球財經| 全球 UDN",
-      "capturedAt": "2026-07-25T22:44:10.413406+00:00"
+      "capturedAt": "2026-07-26T05:18:15.681852+00:00"
     }
   ],
   "errors": [
