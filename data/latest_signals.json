@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-01T20:10:15.110517+00:00",
+  "generatedAt": "2026-08-01T22:44:42.749741+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
   "publishedToTimeline": 12,
   "signals": [
     {
-      "id": "a31c4cae556a",
+      "id": "7d6e7c7ea7bb",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 55,
       "sourceName": "Google News: Jensen Huang Korea",
       "sourceType": "新聞彙整",
-      "title": "Jensen Huang's 'Curse': KOSPI Declines Follow Visits, Announcements - 조선일보",
+      "title": "Jensen Huang's 'Curse': KOSPI Declines Follow Visits, Announcements - chosun.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVko5N1ozejZ5OXdFanQxWmpTU2RweWMtQzM2YnM1QjFtQ1VnaDZ4MThIaThPRGdfQWIzS1NHQVd4RDlSUnhWLVJza1JudnJkV2VrVXk4RU1BNHN6dnQ0YkJZRjhTcEFJN210ZmYxTkJGSHVjdFRiNE81VGNvY1pXeXNILTRteTdDa0RWbUtB?oc=5",
       "publishedAt": "2026-07-29T15:37:25+00:00",
       "detectedDates": [],
@@ -28,17 +28,17 @@
       "publicContextFlags": [
         "visits"
       ],
-      "summary": "Jensen Huang's 'Curse': KOSPI Declines Follow Visits, Announcements - 조선일보 Jensen Huang's 'Curse': KOSPI Declines Follow Visits, Announcements 조선일보",
-      "capturedAt": "2026-08-01T20:10:15.110536+00:00"
+      "summary": "Jensen Huang's 'Curse': KOSPI Declines Follow Visits, Announcements - chosun.com Jensen Huang's 'Curse': KOSPI Declines Follow Visits, Announcements chosun.com",
+      "capturedAt": "2026-08-01T22:44:42.749757+00:00"
     },
     {
-      "id": "821e27977c8d",
+      "id": "872d1230d450",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 55,
       "sourceName": "Google News: Jensen Huang Korea",
       "sourceType": "新聞彙整",
-      "title": "KOSPI Plunges After NVIDIA CEO's Visits Spark 'Huang Curse' Fears - 조선일보",
+      "title": "KOSPI Plunges After NVIDIA CEO's Visits Spark 'Huang Curse' Fears - chosun.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX3pqUE5WcDEwNGJNX1ZuTkxPZEJCdlRJU0RzSnBDRkZJZzBENDRzekRMSEJRLVVhbl93bU1jalhIODBiMTVLT045blNXbTJxYzVPTXA2SzVvZ0lJNjZuQ3JCTjB4LW1wZ0UzZVpBcWRsSi1maGtvS3BpYkxjVFpDc0c5UlJZUTlCdVFQZGhn?oc=5",
       "publishedAt": "2026-07-29T04:08:58+00:00",
       "detectedDates": [],
@@ -56,17 +56,17 @@
       "publicContextFlags": [
         "visits"
       ],
-      "summary": "KOSPI Plunges After NVIDIA CEO's Visits Spark 'Huang Curse' Fears - 조선일보 KOSPI Plunges After NVIDIA CEO's Visits Spark 'Huang Curse' Fears 조선일보",
-      "capturedAt": "2026-08-01T20:10:15.110536+00:00"
+      "summary": "KOSPI Plunges After NVIDIA CEO's Visits Spark 'Huang Curse' Fears - chosun.com KOSPI Plunges After NVIDIA CEO's Visits Spark 'Huang Curse' Fears chosun.com",
+      "capturedAt": "2026-08-01T22:44:42.749757+00:00"
     },
     {
-      "id": "a2e137660a94",
+      "id": "d7ac4fe45085",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: Jensen Huang",
       "sourceType": "新聞彙整",
-      "title": "Nvidia’s Jensen Huang meets US officials as issues grow over China chip access - scmp.com",
+      "title": "Nvidia’s Jensen Huang meets US officials as issues grow over China chip access - South China Morning Post",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb1dqeDZMNFFQcHdMOEV5WTVjZUZxNUZ1Wl9iWU8tdFpadHJaNVJxVjVYb0o5dDRoXzlIUlhkRENsdS1RZ1l6YmJVd3VHZWwxRmxmY1JhWEQtQkZKdGlKS1lHQURsSVJNd0hHWkp5anJRT2VFbjVaTzZBRzUtbGQ1bFBtMEh6QnhZaFJRWEJGeE9ld1I4SGwyNzFpX3B6cnMtZHRYdFd1aHpJMjlfTXEyNDU2aDJQVGdFaGprbGh3dmJGYi1Ra20tNWRHdU9FU1FsRUs4VtIB1AFBVV95cUxQenRuUW5mUFZhd3gzeGRnNjVSYmtaelpRQkxSWHE3Z3J1amlmWGx6OGtFcTZvdXpnZVhRTWFLZW1nYVhsOGF4V0NxX3lFZ1ZMbmJyakhjcUM2NjJQMDEwd2tXb2NoYVJnSzUtSk9iMUJXRGN3NU1CdEdfbnBqeEg5VFViaVNQVTlpQ21MVlBmMkYyaFpUcGw5Y1pqcGNxYlZ6Q2M4TWpWdzBjLWdrSnY1MUUxZHA1VGpFTTFZR3NTUWRqOXhJa25fVTBUdVoySWl3NEROLQ?oc=5",
       "publishedAt": "2026-07-28T21:21:58+00:00",
       "detectedDates": [],
@@ -79,8 +79,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "Nvidia’s Jensen Huang meets US officials as issues grow over China chip access - scmp.com Nvidia’s Jensen Huang meets US officials as issues grow over China chip access scmp.com",
-      "capturedAt": "2026-08-01T20:10:15.110536+00:00"
+      "summary": "Nvidia’s Jensen Huang meets US officials as issues grow over China chip access - South China Morning Post Nvidia’s Jensen Huang meets US officials as issues grow over China chip access South China Morn",
+      "capturedAt": "2026-08-01T22:44:42.749757+00:00"
     },
     {
       "id": "4e9951717666",
@@ -103,7 +103,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Samsung, SK, Hyundai join Jensen Huang and Korea's President Lee at San Francisco AI Summit - digitimes Samsung, SK, Hyundai join Jensen Huang and Korea's President Lee at San Francisco AI Summit digitimes",
-      "capturedAt": "2026-08-01T20:10:15.110536+00:00"
+      "capturedAt": "2026-08-01T22:44:42.749757+00:00"
     },
     {
       "id": "e49542334dca",
@@ -126,7 +126,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳李在明會面宣布與SK合作規模達5000億美元| 國際 - 中央社 CNA 黃仁勳李在明會面宣布與SK合作規模達5000億美元| 國際 中央社 CNA",
-      "capturedAt": "2026-08-01T20:10:15.110536+00:00"
+      "capturedAt": "2026-08-01T22:44:42.749757+00:00"
     },
     {
       "id": "fa3cf81c40d5",
@@ -149,16 +149,16 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "AI峰會前夕黃仁勳會見SK會長 聚焦下一代記憶體、AI工廠合作 - news.cnyes.com AI峰會前夕黃仁勳會見SK會長 聚焦下一代記憶體、AI工廠合作 news.cnyes.com",
-      "capturedAt": "2026-08-01T20:10:15.110536+00:00"
+      "capturedAt": "2026-08-01T22:44:42.749757+00:00"
     },
     {
-      "id": "2b12ab3b9450",
+      "id": "54bc97dff82e",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: Jensen Huang Korea",
       "sourceType": "新聞彙整",
-      "title": "Jensen Huang announces major partnerships with Korean companies following meeting with President Lee - koreajoongangdaily.com",
+      "title": "Jensen Huang announces major partnerships with Korean companies following meeting with President Lee - Korea JoongAng Daily",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWWI4LXNmMlBuVU1CWHBOZjZrOWg4YndZUXAtQ2JjU2F3SGtQaW5YMURielZuS0tvNUhmaUNVY0V1Z2xRdTh1Ulh4TFh6eFE4Z0o5bmRrcl9WOU5BRjdFRHliZzJCS3RiellPbUpyV2w5enNCR29VTU1Mckk4dmljWURERDM5ZnY3U3FHZkljSlRWaV9kT19DaTVxeGNVS2pfTkZZUGtzRHJYWWYyQWpoVjNyd0dpTk9BVXAyUEpSQXAyNlh2d1pxaWc1QVdqS2N5ZGZCQTBhRklTRERCLUhrZ1VwM3Zrb19x?oc=5",
       "publishedAt": "2026-07-25T01:34:45+00:00",
       "detectedDates": [],
@@ -172,8 +172,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "Jensen Huang announces major partnerships with Korean companies following meeting with President Lee - koreajoongangdaily.com Jensen Huang announces major partnerships with Korean companies fo",
-      "capturedAt": "2026-08-01T20:10:15.110536+00:00"
+      "summary": "Jensen Huang announces major partnerships with Korean companies following meeting with President Lee - Korea JoongAng Daily Jensen Huang announces major partnerships with Korean companies foll",
+      "capturedAt": "2026-08-01T22:44:42.749757+00:00"
     },
     {
       "id": "3d297e9a35f2",
@@ -196,7 +196,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Breaking News: Nvidia's Jensen Huang Announces $500 Billion Partnership with SK - Seoul Economic Daily Breaking News: Nvidia's Jensen Huang Announces $500 Billion Partnership with SK Seoul Economic Daily",
-      "capturedAt": "2026-08-01T20:10:15.110536+00:00"
+      "capturedAt": "2026-08-01T22:44:42.749757+00:00"
     },
     {
       "id": "3379151b5bea",
@@ -219,7 +219,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "韓聯社：黃仁勳本周五將與三星李在鎔、SK崔泰源等在美會面| 全球財經| 全球 - UDN 韓聯社：黃仁勳本周五將與三星李在鎔、SK崔泰源等在美會面| 全球財經| 全球 UDN",
-      "capturedAt": "2026-08-01T20:10:15.110536+00:00"
+      "capturedAt": "2026-08-01T22:44:42.749757+00:00"
     },
     {
       "id": "2fecdf26925b",
@@ -242,7 +242,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "韓聯社：黃仁勳本周五將與三星李在鎔、SK崔泰源等在美會面 - 經濟日報 韓聯社：黃仁勳本周五將與三星李在鎔、SK崔泰源等在美會面 經濟日報",
-      "capturedAt": "2026-08-01T20:10:15.110536+00:00"
+      "capturedAt": "2026-08-01T22:44:42.749757+00:00"
     },
     {
       "id": "cb9bc3929403",
@@ -265,7 +265,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Told CES 2026 That Memory Is Now the Biggest Bottleneck in AI. Micron and Sandisk Have Outperformed Nvidia's Stock Ever Since. - Yahoo Finance Jensen Huang Told CES 2026 That Memo",
-      "capturedAt": "2026-08-01T20:10:15.110536+00:00"
+      "capturedAt": "2026-08-01T22:44:42.749757+00:00"
     },
     {
       "id": "f7771e3affbd",
@@ -288,16 +288,16 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia's Jensen Huang Announces AI Factory, Then Hands Out Red Bean Buns to Fans in Tokyo - Benzinga Nvidia's Jensen Huang Announces AI Factory, Then Hands Out Red Bean Buns to Fans in Tokyo Benzinga",
-      "capturedAt": "2026-08-01T20:10:15.110536+00:00"
+      "capturedAt": "2026-08-01T22:44:42.749757+00:00"
     },
     {
-      "id": "2e6feefba69a",
+      "id": "66efbf2b6d34",
       "status": "needs-review",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: Jensen Huang Korea",
       "sourceType": "新聞彙整",
-      "title": "Nvidia chief Jensen Huang seals Japan robotics push after ‘yakitori summit’ - scmp.com",
+      "title": "Nvidia chief Jensen Huang seals Japan robotics push after ‘yakitori summit’ - South China Morning Post",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ2I5UGtkQ2VuS0UtQko4c1Z0VGxtdTRINExIOVV0dC05djJDeXoyNDFESk5vVUVPMnAwWFFnbTZ6d2xYR0pUNHE5b3kxRDJ5S3BpZ041YXNVb3ItdFluU1NqRS1GWTY2WjRjU0dqRVR0VnEwVzJMUTRWSjlRUnBRWTAwcWpjeGNzSWdSTXowcHliY3hGTDBHVS1pV0hVUHlWN3Jjb2dQbXJJWXN0NUpqS3FoLW9PTjZYZjhySlotbWp2TDJVdmpiN2530gHKAUFVX3lxTE9iRGtnZ1NybVJCTk1kX04yWE1LTGQ3eXYwTGF0U1JOYTlyYVhCZW5oTktLVFZQUEJZalZ3RXRieFNScWRVRlExU2J2VEVLODFzbGFHbWxPMU9TY1FZWlA2bXBuc3cyb2QtUHZQY1B0ZE4xS0hrN1ZlQTVhTFR0eVNVRmFpT3NzSjlLRndfSUNTU0Q1QUhWdzBMbnJRMFlrYTNhY2ViRGZwOGc0OUZYUzZYNld4dU90aUtla1dRSjVTNWt3SEs5TTFDRkE?oc=5",
       "publishedAt": "2026-07-16T07:00:00+00:00",
       "detectedDates": [],
@@ -310,8 +310,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "Nvidia chief Jensen Huang seals Japan robotics push after ‘yakitori summit’ - scmp.com Nvidia chief Jensen Huang seals Japan robotics push after ‘yakitori summit’ scmp.com",
-      "capturedAt": "2026-08-01T20:10:15.110536+00:00"
+      "summary": "Nvidia chief Jensen Huang seals Japan robotics push after ‘yakitori summit’ - South China Morning Post Nvidia chief Jensen Huang seals Japan robotics push after ‘yakitori summit’ South China Morning Post",
+      "capturedAt": "2026-08-01T22:44:42.749757+00:00"
     },
     {
       "id": "f6fad478b426",
@@ -332,7 +332,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳：晶片業短期不會不景氣 AI 教父信心喊話「這次不一樣」 - 經濟日報 黃仁勳：晶片業短期不會不景氣 AI 教父信心喊話「這次不一樣」 經濟日報",
-      "capturedAt": "2026-08-01T20:10:15.110536+00:00"
+      "capturedAt": "2026-08-01T22:44:42.749757+00:00"
     },
     {
       "id": "a2ada2511611",
@@ -353,7 +353,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳自爆「超內向」：沒有開源就沒今天的AI 記憶體已成AI最大瓶頸 - news.cnyes.com 黃仁勳自爆「超內向」：沒有開源就沒今天的AI 記憶體已成AI最大瓶頸 news.cnyes.com",
-      "capturedAt": "2026-08-01T20:10:15.110536+00:00"
+      "capturedAt": "2026-08-01T22:44:42.749757+00:00"
     },
     {
       "id": "af0e85a366aa",
@@ -374,16 +374,16 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Says Memory Is Now AI's Biggest Bottleneck. Here's What That Means for Nvidia. - Yahoo Finance Jensen Huang Says Memory Is Now AI's Biggest Bottleneck. Here's What That Means for",
-      "capturedAt": "2026-08-01T20:10:15.110536+00:00"
+      "capturedAt": "2026-08-01T22:44:42.749757+00:00"
     },
     {
-      "id": "2fba75afb856",
+      "id": "e755c2542739",
       "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "南韓造就全民賭徒，AI派對2大毒針，黃仁勳掏5000億也救不回？ - 天下雜誌",
+      "title": "南韓造就全民賭徒，AI派對2大毒針，黃仁勳掏5000億也救不回？ - cw.com.tw",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2cDRGUkstX0gzWWRXYnJybXZsREtVYnJvamQ5UGJITllmZUFXLTRPbUNsQ0hlYWRUdnJBRmJzZEU3SnM2MzlKcEI1dVpRN0tBNndRcVFUWUI?oc=5",
       "publishedAt": "2026-07-30T19:08:00+00:00",
       "detectedDates": [],
@@ -394,8 +394,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "南韓造就全民賭徒，AI派對2大毒針，黃仁勳掏5000億也救不回？ - 天下雜誌 南韓造就全民賭徒，AI派對2大毒針，黃仁勳掏5000億也救不回？ 天下雜誌",
-      "capturedAt": "2026-08-01T20:10:15.110536+00:00"
+      "summary": "南韓造就全民賭徒，AI派對2大毒針，黃仁勳掏5000億也救不回？ - cw.com.tw 南韓造就全民賭徒，AI派對2大毒針，黃仁勳掏5000億也救不回？ cw.com.tw",
+      "capturedAt": "2026-08-01T22:44:42.749757+00:00"
     },
     {
       "id": "6d287e0330c0",
@@ -416,14 +416,14 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "■ 黃仁勳加持 緯創井噴 - Yahoo新聞 ■ 黃仁勳加持 緯創井噴 Yahoo新聞",
-      "capturedAt": "2026-08-01T20:10:15.110536+00:00"
+      "capturedAt": "2026-08-01T22:44:42.749757+00:00"
     },
     {
-      "id": "c58a70cb213f",
+      "id": "063a2a49fea5",
       "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
       "title": "黃仁勳魔咒發威？KOSPI兩天重挫16%創次高跌幅 專家揭韓股「殺盤4大真相」 - Yahoo股市",
       "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNYnd1aTg1OHFrNWM4d1BqT0h6MjRvdUhDZnN3d2VjblVKUG13SmgweTlzZGMwendmX0Q1bkJtbVVwQ3lkTFJJNE85NWRKZWhocE5zR3dmeUVROFJQTkdUU1JjYUdTOGhvLUhjM3d0UWhrUkJBV2RHMkV6WXZ5d2E5VkpVbnEyU0pGQ2tHRjgxLUdJUjdfZm1ZajdiUk5yd1UteFR0NGgyeE9ucEw3SVNkQTEyeklrdE1Ld3A5aGxrTDNRNHprQmJwRjNBdXRNNkQ2SE15alBrMGNpSm8wLTJzRE56X25aelBTdVBQMWpBdVhuMGdKcHZUYjdNeU9XckVjRktGUG1QdGRtR01tZFpra2t1YXpRcW55WUJ5VDdaeUtzT2RsdGxSS25CRUdKYTJGZ0RHM0lTM2F3cFRKSmh1U0FNN2JVenk0UmJWZ0xqaXhNbDZ1MTVLOTUwT3hxd1VLcS1aczkyZy0tcVJ2S0RiQVlLaUcyOF9oSjF0MjFUTG1YWk50cTZSZnNuc0RrQmtaLU9ST2xBcV9XNU9DdzdmRmxCWQ?oc=5",
@@ -437,7 +437,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳魔咒發威？KOSPI兩天重挫16%創次高跌幅 專家揭韓股「殺盤4大真相」 - Yahoo股市 黃仁勳魔咒發威？KOSPI兩天重挫16%創次高跌幅 專家揭韓股「殺盤4大真相」 Yahoo股市",
-      "capturedAt": "2026-08-01T20:10:15.110536+00:00"
+      "capturedAt": "2026-08-01T22:44:42.749757+00:00"
     },
     {
       "id": "36863e8040e0",
@@ -458,7 +458,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "韓國股市連日暴跌，黃仁勳已有對策？《經濟學人》警告：他干預得越多，泡沫爆掉時就越慘烈| 李忠謙 | 新聞 - 風傳媒 韓國股市連日暴跌，黃仁勳已有對策？《經濟學人》警告：他干預得越多，泡沫爆掉時就越慘烈| 李忠謙 | 新聞 風傳媒",
-      "capturedAt": "2026-08-01T20:10:15.110536+00:00"
+      "capturedAt": "2026-08-01T22:44:42.749757+00:00"
     },
     {
       "id": "d488920b7c25",
@@ -479,7 +479,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang’s Warning To Every CEO: Don’t Let One Vendor Own Your AI - Forbes Jensen Huang’s Warning To Every CEO: Don’t Let One Vendor Own Your AI Forbes",
-      "capturedAt": "2026-08-01T20:10:15.110536+00:00"
+      "capturedAt": "2026-08-01T22:44:42.749757+00:00"
     },
     {
       "id": "2c3ecebf6d84",
@@ -500,7 +500,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "韓股連續熔斷！韓媒揭市場瘋傳「黃仁勳詛咒」 - 三立新聞網SETN.com 韓股連續熔斷！韓媒揭市場瘋傳「黃仁勳詛咒」 三立新聞網SETN.com",
-      "capturedAt": "2026-08-01T20:10:15.110536+00:00"
+      "capturedAt": "2026-08-01T22:44:42.749757+00:00"
     },
     {
       "id": "c35c9272950c",
@@ -521,7 +521,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "韓股遭血洗掀「黃仁勳詛咒」恐慌 韓媒：輝達循環式融資成重大利空 - 自由財經 韓股遭血洗掀「黃仁勳詛咒」恐慌 韓媒：輝達循環式融資成重大利空 自由財經",
-      "capturedAt": "2026-08-01T20:10:15.110536+00:00"
+      "capturedAt": "2026-08-01T22:44:42.749757+00:00"
     },
     {
       "id": "d8cfda26a0c9",
@@ -542,7 +542,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "輝達黃仁勳一句話霸氣包場！東京居酒屋老闆嚇傻 帳單金額曝光了 - 自由財經 輝達黃仁勳一句話霸氣包場！東京居酒屋老闆嚇傻 帳單金額曝光了 自由財經",
-      "capturedAt": "2026-08-01T20:10:15.110536+00:00"
+      "capturedAt": "2026-08-01T22:44:42.749757+00:00"
     }
   ],
   "errors": [
