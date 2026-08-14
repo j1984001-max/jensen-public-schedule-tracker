@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-13T22:31:37.703150+00:00",
+  "generatedAt": "2026-08-14T03:53:33.296975+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
   "publishedToTimeline": 12,
   "signals": [
     {
-      "id": "640af6fe3700",
+      "id": "cb9749e51f93",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "黃仁勳有望出席！ SK海力士美國HBM新廠27日動工 - finance.ettoday.net",
+      "title": "黃仁勳有望出席！ SK海力士美國HBM新廠27日動工 - ETtoday財經雲",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9udVc2dDdZV1Vqd29EamlqaFp5dGxHekp3SXM5UlNPZmZpdzlMZURlanN1dmJhZXNDYXF2Sm4yVGhnWGJXaEY0VGlaLWQ2UTR5UWfSAVBBVV95cUxNZFUzYkUwTG5PV2JVOGFla1RpTXIzS3oySnJVZWZzQXBxUmdadUlUSUVkSEljbmlPb1V4VmVqNVdJMGREeVlCaTlfLVJLamN6Qw?oc=5",
       "publishedAt": "2026-08-13T07:50:00+00:00",
       "detectedDates": [],
@@ -24,8 +24,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "黃仁勳有望出席！ SK海力士美國HBM新廠27日動工 - finance.ettoday.net 黃仁勳有望出席！ SK海力士美國HBM新廠27日動工 finance.ettoday.net",
-      "capturedAt": "2026-08-13T22:31:37.703163+00:00"
+      "summary": "黃仁勳有望出席！ SK海力士美國HBM新廠27日動工 - ETtoday財經雲 黃仁勳有望出席！ SK海力士美國HBM新廠27日動工 ETtoday財經雲",
+      "capturedAt": "2026-08-14T03:53:33.296992+00:00"
     },
     {
       "id": "21a4b16b0857",
@@ -48,30 +48,30 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳受邀出席！SK海力士美國新廠8月27日動工 2028年量產HBM - news.cnyes.com 黃仁勳受邀出席！SK海力士美國新廠8月27日動工 2028年量產HBM news.cnyes.com",
-      "capturedAt": "2026-08-13T22:31:37.703163+00:00"
+      "capturedAt": "2026-08-14T03:53:33.296992+00:00"
     },
     {
-      "id": "d3fafb81a22e",
+      "id": "8dfdbaf82bcb",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "SK海力士美國先進封裝廠動工典禮 崔泰源、黃仁勳出席與否成焦點 - digitimes.com.tw",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTDE5WWdReXJFR0VGM2pKQnE2WDB0aTViM19zNms4Qm4wWXczUmlrcV8wdjVoY1RyN1lHSmlLR1R3SUtzOWxOWFJkQmh2S2lNeWxyR2lVQjAxYmQ4U1NHSUpyek5LcDZqYm9tRFBQaDRfUWV1LWNIaVFGNngtOFRPSGNWV3JleFVJVVFkUFZR?oc=5",
-      "publishedAt": "2026-08-13T02:29:00+00:00",
+      "title": "黃仁勳下週訪韓！傳見三星、SK高層 擴大AI布局 - 三立新聞網SETN.com",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1acmo4cTkwc3VSOFExU0ZjWlFHMk1Nb3NfQ2FnUFpsdkw5bzBTbUUybDVZZjZyV1p1SmU2MHJOTE9tMGtfMWF4NdIBTEFVX3lxTE9wVXo5eGpxd2xLN0lrN1VMdlgyMkZPcmNlZHpzajVLZ1I4aGQ3UTUtQ0pHNHNaRWlwYUNPek5Mb1N6X0Q4VTNrMHlvSFk?oc=5",
+      "publishedAt": "2026-08-12T20:35:41+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
       ],
       "matchedEventKeywords": [
-        "出席"
+        "訪韓"
       ],
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "SK海力士美國先進封裝廠動工典禮 崔泰源、黃仁勳出席與否成焦點 - digitimes.com.tw SK海力士美國先進封裝廠動工典禮 崔泰源、黃仁勳出席與否成焦點 digitimes.com.tw",
-      "capturedAt": "2026-08-13T22:31:37.703163+00:00"
+      "summary": "黃仁勳下週訪韓！傳見三星、SK高層 擴大AI布局 - 三立新聞網SETN.com 黃仁勳下週訪韓！傳見三星、SK高層 擴大AI布局 三立新聞網SETN.com",
+      "capturedAt": "2026-08-14T03:53:33.296992+00:00"
     },
     {
       "id": "b9352920cda2",
@@ -94,16 +94,39 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China CNBC",
-      "capturedAt": "2026-08-13T22:31:37.703163+00:00"
+      "capturedAt": "2026-08-14T03:53:33.296992+00:00"
     },
     {
-      "id": "e2065defdbd8",
+      "id": "5d3b7a614206",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
-      "title": "連3年登上黃仁勳GTC背板！台灣10所大學憑什麼霸榜NVIDIA合作名單？ - 104職場力",
+      "title": "黃仁勳狂讚華莎「連新歌都知道」 她得知身分後急寄手寫信致謝 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPVEFuQTFvTFFnQnczRVpMZE5nUXBDdWFoZWVUTVBadUI2RDlNQTRiRU9nOF9uQ2wxTUdWREVON0JpTGxKWEI3ZV9YTnFLZTJzbnFlUGljUXhSYjFhSDFISjZqTkY0czhiU2FCOEJLTDJnTnczSmZvOGVRaURIUWp0TEdOc0pIVTBvc2l6M0VMcEs0WFNmMG9icEFvano5VENFZWVld2xwRHVtMzl3MG41ZlZfaDREV3ktX2otZnVtcTFtaE9YTlZWRElrSFE3OUxrOGFNMXhIZHFMSWRFV0N1WEI0SHBaazgxYnViQzZxVWpSNjBJMDZzUlIyTVBfQkVJNHhBUEdjeG8yWjA1U2RnWnpyRUp2WjZqSHJldU5Bb2Y2d3FWd1FkVFNLYnZGbWJncnM0UXJ5cXNkekgxcmU3ajJ5RklNWk9fZFgyc3Y5UTAtT3pzYXNkdGZ6Q0w1S3R1RWIzdW82a21jUGpUREMwY1NwQVpnMnpRLUtoc09oNWN3bkFtX0RJMlh5Skc0Zw?oc=5",
+      "publishedAt": "2026-08-09T08:43:56+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "CES"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳狂讚華莎「連新歌都知道」 她得知身分後急寄手寫信致謝 - Yahoo新聞 黃仁勳狂讚華莎「連新歌都知道」 她得知身分後急寄手寫信致謝 Yahoo新聞",
+      "capturedAt": "2026-08-14T03:53:33.296992+00:00"
+    },
+    {
+      "id": "338e69355be6",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "連3年登上黃仁勳GTC背板！台灣10所大學憑什麼霸榜NVIDIA合作名單？ - blog.104.com.tw",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FaGd6dm03blZkMktWZndTSGx0OTRNeUhzbGxlTEpfY29XTXQxenlpM01XQ1VSOXVCdTVHZXd1NTZIMW5ORTkxcWU1WUJvQ3h2Wl9HQXNRZlpheFFEMUFUWm9vQ3YyY0tzU09OeGFZVDRvWmM0RXc?oc=5",
       "publishedAt": "2026-07-30T07:00:00+00:00",
       "detectedDates": [],
@@ -116,8 +139,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "連3年登上黃仁勳GTC背板！台灣10所大學憑什麼霸榜NVIDIA合作名單？ - 104職場力 連3年登上黃仁勳GTC背板！台灣10所大學憑什麼霸榜NVIDIA合作名單？ 104職場力",
-      "capturedAt": "2026-08-13T22:31:37.703163+00:00"
+      "summary": "連3年登上黃仁勳GTC背板！台灣10所大學憑什麼霸榜NVIDIA合作名單？ - blog.104.com.tw 連3年登上黃仁勳GTC背板！台灣10所大學憑什麼霸榜NVIDIA合作名單？ blog.104.com.tw",
+      "capturedAt": "2026-08-14T03:53:33.296992+00:00"
     },
     {
       "id": "d7ac4fe45085",
@@ -140,7 +163,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia’s Jensen Huang meets US officials as issues grow over China chip access - South China Morning Post Nvidia’s Jensen Huang meets US officials as issues grow over China chip access South China Morn",
-      "capturedAt": "2026-08-13T22:31:37.703163+00:00"
+      "capturedAt": "2026-08-14T03:53:33.296992+00:00"
     },
     {
       "id": "821e27977c8d",
@@ -168,7 +191,7 @@
         "visits"
       ],
       "summary": "KOSPI Plunges After NVIDIA CEO's Visits Spark 'Huang Curse' Fears - 조선일보 KOSPI Plunges After NVIDIA CEO's Visits Spark 'Huang Curse' Fears 조선일보",
-      "capturedAt": "2026-08-13T22:31:37.703163+00:00"
+      "capturedAt": "2026-08-14T03:53:33.296992+00:00"
     },
     {
       "id": "54bc97dff82e",
@@ -192,7 +215,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang announces major partnerships with Korean companies following meeting with President Lee - Korea JoongAng Daily Jensen Huang announces major partnerships with Korean companies foll",
-      "capturedAt": "2026-08-13T22:31:37.703163+00:00"
+      "capturedAt": "2026-08-14T03:53:33.296992+00:00"
     },
     {
       "id": "7d67a516360a",
@@ -215,7 +238,30 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳李在明會面宣布與SK合作規模達5000億美元| 國際 - cna.com.tw 黃仁勳李在明會面宣布與SK合作規模達5000億美元| 國際 cna.com.tw",
-      "capturedAt": "2026-08-13T22:31:37.703163+00:00"
+      "capturedAt": "2026-08-14T03:53:33.296992+00:00"
+    },
+    {
+      "id": "b137aebb921e",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "舊金山AI峰會，黃仁勳會唔韓國總統李在明、商界領袖，釋放未來長期合作訊息 - abmedia.io",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcUU3N09SS0tzWkJBMk9uMjlTYVZyZV9ZeXM3Y2ZGeG9OSlpaVlBBV1J6QWdiNnpoTkdPLVZhSXFVNXAxTG52SHRSTFBsVTJKdDdoYWxMeVV0THBISnZfdTZLYUt3WHhCTThoODlSU0lvZVJHNjAtSHRHN21JcVRyN0I5WDA?oc=5",
+      "publishedAt": "2026-07-25T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "峰會"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "舊金山AI峰會，黃仁勳會唔韓國總統李在明、商界領袖，釋放未來長期合作訊息 - abmedia.io 舊金山AI峰會，黃仁勳會唔韓國總統李在明、商界領袖，釋放未來長期合作訊息 abmedia.io",
+      "capturedAt": "2026-08-14T03:53:33.296992+00:00"
     },
     {
       "id": "fa3cf81c40d5",
@@ -238,11 +284,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "AI峰會前夕黃仁勳會見SK會長 聚焦下一代記憶體、AI工廠合作 - news.cnyes.com AI峰會前夕黃仁勳會見SK會長 聚焦下一代記憶體、AI工廠合作 news.cnyes.com",
-      "capturedAt": "2026-08-13T22:31:37.703163+00:00"
+      "capturedAt": "2026-08-14T03:53:33.296992+00:00"
     },
     {
       "id": "e2af9788ab1a",
-      "status": "low-confidence",
+      "status": "needs-review",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳 韓國",
@@ -261,11 +307,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "舊金山AI峰會黃仁勳明日將會三星SK，緯創領軍低本益比的老AI股們補漲時機到了？｜股市話題｜豐雲學堂2026 年 08 月 - sinotrade.com.tw 舊金山AI峰會黃仁勳明日將會三星SK，緯創領軍低本益比的老AI股們補漲時機到了？｜股市話題｜豐雲學堂2026 年 08 月 sinotrade.com.tw",
-      "capturedAt": "2026-08-13T22:31:37.703163+00:00"
+      "capturedAt": "2026-08-14T03:53:33.296992+00:00"
     },
     {
       "id": "3379151b5bea",
-      "status": "low-confidence",
+      "status": "needs-review",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳 韓國",
@@ -284,7 +330,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "韓聯社：黃仁勳本周五將與三星李在鎔、SK崔泰源等在美會面| 全球財經| 全球 - UDN 韓聯社：黃仁勳本周五將與三星李在鎔、SK崔泰源等在美會面| 全球財經| 全球 UDN",
-      "capturedAt": "2026-08-13T22:31:37.703163+00:00"
+      "capturedAt": "2026-08-14T03:53:33.296992+00:00"
     },
     {
       "id": "2fecdf26925b",
@@ -307,7 +353,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "韓聯社：黃仁勳本周五將與三星李在鎔、SK崔泰源等在美會面 - 經濟日報 韓聯社：黃仁勳本周五將與三星李在鎔、SK崔泰源等在美會面 經濟日報",
-      "capturedAt": "2026-08-13T22:31:37.703163+00:00"
+      "capturedAt": "2026-08-14T03:53:33.296992+00:00"
     },
     {
       "id": "b09559c1c88d",
@@ -330,7 +376,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "What to watch for after Jensen Huang’s Japan visit - TechCrunch What to watch for after Jensen Huang’s Japan visit TechCrunch",
-      "capturedAt": "2026-08-13T22:31:37.703163+00:00"
+      "capturedAt": "2026-08-14T03:53:33.296992+00:00"
     },
     {
       "id": "f7771e3affbd",
@@ -353,7 +399,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia's Jensen Huang Announces AI Factory, Then Hands Out Red Bean Buns to Fans in Tokyo - Benzinga Nvidia's Jensen Huang Announces AI Factory, Then Hands Out Red Bean Buns to Fans in Tokyo Benzinga",
-      "capturedAt": "2026-08-13T22:31:37.703163+00:00"
+      "capturedAt": "2026-08-14T03:53:33.296992+00:00"
     },
     {
       "id": "cc65ee6afcf2",
@@ -376,7 +422,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang hails SK hynix ADR success, deepens Japan AI ties - CHOSUNBIZ - biz.chosun.com Jensen Huang hails SK hynix ADR success, deepens Japan AI ties - CHOSUNBIZ biz.chosun.com",
-      "capturedAt": "2026-08-13T22:31:37.703163+00:00"
+      "capturedAt": "2026-08-14T03:53:33.296992+00:00"
     },
     {
       "id": "0e74864bdd69",
@@ -397,7 +443,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳親筆催貨！SK海力士豪砸7200億美元蓋AI記憶體帝國 - news.cnyes.com 黃仁勳親筆催貨！SK海力士豪砸7200億美元蓋AI記憶體帝國 news.cnyes.com",
-      "capturedAt": "2026-08-13T22:31:37.703163+00:00"
+      "capturedAt": "2026-08-14T03:53:33.296992+00:00"
     },
     {
       "id": "0bd013752a24",
@@ -420,7 +466,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang Says 'First Time' That Chips Have Become An Investable Asset Class as BlackRock, Blackstone and Others Join $500 Billion AI Push - Yahoo Finance Nvidia CEO Jensen Huang Says 'Firs",
-      "capturedAt": "2026-08-13T22:31:37.703163+00:00"
+      "capturedAt": "2026-08-14T03:53:33.296992+00:00"
     },
     {
       "id": "12ca63fab034",
@@ -441,7 +487,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳恐面臨風險？科技大老警告：輝達正重演英特爾「老套路」 - Yahoo新聞 黃仁勳恐面臨風險？科技大老警告：輝達正重演英特爾「老套路」 Yahoo新聞",
-      "capturedAt": "2026-08-13T22:31:37.703163+00:00"
+      "capturedAt": "2026-08-14T03:53:33.296992+00:00"
     },
     {
       "id": "0f3e0cb34729",
@@ -462,7 +508,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳踏入危險陷阱中！科技大老警告：輝達正重蹈英特爾對抗超微的覆轍 - 自由財經 黃仁勳踏入危險陷阱中！科技大老警告：輝達正重蹈英特爾對抗超微的覆轍 自由財經",
-      "capturedAt": "2026-08-13T22:31:37.703163+00:00"
+      "capturedAt": "2026-08-14T03:53:33.296992+00:00"
     },
     {
       "id": "467927cfc255",
@@ -483,7 +529,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "SK Hynix to Break Ground on $3.87 Billion Indiana Packaging Plant on March 27; Joint Appearance by Chey Tae-won and Jensen Huang Draws Attention - finance.biggo.com SK Hynix to Break Ground on $3.87 Billion Indiana Packaging Plant on March 27; Joint Appearance by Chey Tae-won and Jensen Huang Draws Attentio",
-      "capturedAt": "2026-08-13T22:31:37.703163+00:00"
+      "capturedAt": "2026-08-14T03:53:33.296992+00:00"
     },
     {
       "id": "551d52c894ed",
@@ -504,49 +550,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "馬斯克、黃仁勳都在搶！輝達砸30億美元搶當「電力大亨」 3檔海外ETF狂賺雙位數 - Yahoo股市 馬斯克、黃仁勳都在搶！輝達砸30億美元搶當「電力大亨」 3檔海外ETF狂賺雙位數 Yahoo股市",
-      "capturedAt": "2026-08-13T22:31:37.703163+00:00"
-    },
-    {
-      "id": "7fac7db71a08",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳攜手6巨頭打造16兆AI帝國！華爾街一語點破致命傷 - 自由財經",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55YkplY2xZeV9yODVpMUZ2MHQzNy1UbEhCVkdqeEVUTWFyMTUtVUgyeW9SUUxIaUplMklWc0lKLXBMY0dnZ2Z6Ukt6LVNfMU5NT1BESFBELV9xV0VEbW0w?oc=5",
-      "publishedAt": "2026-08-12T02:40:35+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳攜手6巨頭打造16兆AI帝國！華爾街一語點破致命傷 - 自由財經 黃仁勳攜手6巨頭打造16兆AI帝國！華爾街一語點破致命傷 自由財經",
-      "capturedAt": "2026-08-13T22:31:37.703163+00:00"
-    },
-    {
-      "id": "ddde9285f657",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "Jensen Huang's latest pitch to investors: Nvidia's AI compute is its own asset class - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTVNtZU5wM1lSU2tvTFozZUNTMVFNbFdCYXZTU292N1gyeU9hTjZVbGFpNDJWWnR2cExyVUVXaUdqMDl3X256bS15YWl3cTlQZWhsajFHN253MjdfMkp6Q29HRXdRMmpKV0VYZE5WZVJEWW5rZWN6ZmZsVGpmX3dCUzlYSTJfcjZ3a1RKYTZLemxkendGRFRmbk1KV3lNbEh0WVE?oc=5",
-      "publishedAt": "2026-08-11T16:53:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Jensen Huang's latest pitch to investors: Nvidia's AI compute is its own asset class - Business Insider Jensen Huang's latest pitch to investors: Nvidia's AI compute is its own asset class Bus",
-      "capturedAt": "2026-08-13T22:31:37.703163+00:00"
+      "capturedAt": "2026-08-14T03:53:33.296992+00:00"
     }
   ],
   "errors": [
