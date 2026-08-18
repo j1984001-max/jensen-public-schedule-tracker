@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T08:37:52.361965+00:00",
+  "generatedAt": "2026-08-18T19:28:18.481140+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
   "publishedToTimeline": 12,
@@ -25,7 +25,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang’s Daughter to Visit LG Electronics Robotics Hub After Nvidia MOU - bloomingbit Jensen Huang’s Daughter to Visit LG Electronics Robotics Hub After Nvidia MOU bloomingbit",
-      "capturedAt": "2026-08-18T08:37:52.361978+00:00"
+      "capturedAt": "2026-08-18T19:28:18.481155+00:00"
     },
     {
       "id": "f02fd0a5924e",
@@ -49,7 +49,30 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO's daughter to visit LG factory for robotics talks - The Korea Herald Nvidia CEO's daughter to visit LG factory for robotics talks The Korea Herald",
-      "capturedAt": "2026-08-18T08:37:52.361978+00:00"
+      "capturedAt": "2026-08-18T19:28:18.481155+00:00"
+    },
+    {
+      "id": "f5487153fa95",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "The 4 Words From Jensen Huang That Could Redefine NVIDIA’s Total Addressable Market - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUXROX1BXUWVlb2xwVmVNYjFkOWlfQ1BzNzlOQVV6R3R5dHh3ZjVOaXpoTWprb2tJdy1oZm1rMFpXcUtXWGRNcEs1b0NOekY3aVotT1V6cmxaYWZGdU1kbEJ5S2pybnNOSGFHckpxek1jZHNJenF1QVJBdEdodXFyUXV5TUFLUUpJVkpIV0diaGhKdkM1WEJOYldHOWRGRFZ4N050U0l4T1NyaDhSLXhqSGljaFFXbWczUVpGOFRKQUpWYjFL?oc=5",
+      "publishedAt": "2026-08-15T12:00:08+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [
+        "CES"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "The 4 Words From Jensen Huang That Could Redefine NVIDIA’s Total Addressable Market - 24/7 Wall St. The 4 Words From Jensen Huang That Could Redefine NVIDIA’s Total Addressable Market 24/7 Wall St.",
+      "capturedAt": "2026-08-18T19:28:18.481155+00:00"
     },
     {
       "id": "cb9749e51f93",
@@ -72,7 +95,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳有望出席！ SK海力士美國HBM新廠27日動工 - ETtoday財經雲 黃仁勳有望出席！ SK海力士美國HBM新廠27日動工 ETtoday財經雲",
-      "capturedAt": "2026-08-18T08:37:52.361978+00:00"
+      "capturedAt": "2026-08-18T19:28:18.481155+00:00"
     },
     {
       "id": "21a4b16b0857",
@@ -95,7 +118,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳受邀出席！SK海力士美國新廠8月27日動工 2028年量產HBM - news.cnyes.com 黃仁勳受邀出席！SK海力士美國新廠8月27日動工 2028年量產HBM news.cnyes.com",
-      "capturedAt": "2026-08-18T08:37:52.361978+00:00"
+      "capturedAt": "2026-08-18T19:28:18.481155+00:00"
     },
     {
       "id": "88950548f5b0",
@@ -118,7 +141,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "輝達5,000億美元AI融資引曝險疑慮黃仁勳出面釐清- 國際 - 工商時報 輝達5,000億美元AI融資引曝險疑慮黃仁勳出面釐清- 國際 工商時報",
-      "capturedAt": "2026-08-18T08:37:52.361978+00:00"
+      "capturedAt": "2026-08-18T19:28:18.481155+00:00"
     },
     {
       "id": "b9352920cda2",
@@ -141,16 +164,16 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China CNBC",
-      "capturedAt": "2026-08-18T08:37:52.361978+00:00"
+      "capturedAt": "2026-08-18T19:28:18.481155+00:00"
     },
     {
-      "id": "5d3b7a614206",
+      "id": "63e10df5c33d",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
-      "title": "黃仁勳狂讚華莎「連新歌都知道」 她得知身分後急寄手寫信致謝 - Yahoo新聞",
+      "title": "黃仁勳狂讚華莎「連新歌都知道」 她得知身分後急寄手寫信致謝 - tw.news.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPVEFuQTFvTFFnQnczRVpMZE5nUXBDdWFoZWVUTVBadUI2RDlNQTRiRU9nOF9uQ2wxTUdWREVON0JpTGxKWEI3ZV9YTnFLZTJzbnFlUGljUXhSYjFhSDFISjZqTkY0czhiU2FCOEJLTDJnTnczSmZvOGVRaURIUWp0TEdOc0pIVTBvc2l6M0VMcEs0WFNmMG9icEFvano5VENFZWVld2xwRHVtMzl3MG41ZlZfaDREV3ktX2otZnVtcTFtaE9YTlZWRElrSFE3OUxrOGFNMXhIZHFMSWRFV0N1WEI0SHBaazgxYnViQzZxVWpSNjBJMDZzUlIyTVBfQkVJNHhBUEdjeG8yWjA1U2RnWnpyRUp2WjZqSHJldU5Bb2Y2d3FWd1FkVFNLYnZGbWJncnM0UXJ5cXNkekgxcmU3ajJ5RklNWk9fZFgyc3Y5UTAtT3pzYXNkdGZ6Q0w1S3R1RWIzdW82a21jUGpUREMwY1NwQVpnMnpRLUtoc09oNWN3bkFtX0RJMlh5Skc0Zw?oc=5",
       "publishedAt": "2026-08-09T07:00:00+00:00",
       "detectedDates": [],
@@ -163,35 +186,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "黃仁勳狂讚華莎「連新歌都知道」 她得知身分後急寄手寫信致謝 - Yahoo新聞 黃仁勳狂讚華莎「連新歌都知道」 她得知身分後急寄手寫信致謝 Yahoo新聞",
-      "capturedAt": "2026-08-18T08:37:52.361978+00:00"
-    },
-    {
-      "id": "08d6b9323b96",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 55,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳 YC 演講開示：現在是「創業最佳時機」，別想太多做就對了！ - 動區動趨",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ0NSSXFJeGZ6T0xWRl84TmdTbGRndjV6WHhlQjQteEdMY0tqMnJZeVB3c21naTREY3R3MFZjY0VrVUVfTGt1cFZiV1VWWEp0VzJITjc0cmMtQ241ZFI0NUd1NFYxalQ3aTFudlYxT3p5SWtmQjhuTFhTNjJKVGVSWDdfNA?oc=5",
-      "publishedAt": "2026-08-01T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "演講"
-      ],
-      "privacyReviewFlags": [
-        "現在"
-      ],
-      "blockedPrivacyFlags": [
-        "現在"
-      ],
-      "publicContextFlags": [],
-      "summary": "黃仁勳 YC 演講開示：現在是「創業最佳時機」，別想太多做就對了！ - 動區動趨 黃仁勳 YC 演講開示：現在是「創業最佳時機」，別想太多做就對了！ 動區動趨",
-      "capturedAt": "2026-08-18T08:37:52.361978+00:00"
+      "summary": "黃仁勳狂讚華莎「連新歌都知道」 她得知身分後急寄手寫信致謝 - tw.news.yahoo.com 黃仁勳狂讚華莎「連新歌都知道」 她得知身分後急寄手寫信致謝 tw.news.yahoo.com",
+      "capturedAt": "2026-08-18T19:28:18.481155+00:00"
     },
     {
       "id": "e2065defdbd8",
@@ -214,7 +210,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "連3年登上黃仁勳GTC背板！台灣10所大學憑什麼霸榜NVIDIA合作名單？ - 104職場力 連3年登上黃仁勳GTC背板！台灣10所大學憑什麼霸榜NVIDIA合作名單？ 104職場力",
-      "capturedAt": "2026-08-18T08:37:52.361978+00:00"
+      "capturedAt": "2026-08-18T19:28:18.481155+00:00"
     },
     {
       "id": "a31c4cae556a",
@@ -241,7 +237,7 @@
         "visits"
       ],
       "summary": "Jensen Huang's 'Curse': KOSPI Declines Follow Visits, Announcements - 조선일보 Jensen Huang's 'Curse': KOSPI Declines Follow Visits, Announcements 조선일보",
-      "capturedAt": "2026-08-18T08:37:52.361978+00:00"
+      "capturedAt": "2026-08-18T19:28:18.481155+00:00"
     },
     {
       "id": "d7ac4fe45085",
@@ -264,7 +260,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia’s Jensen Huang meets US officials as issues grow over China chip access - South China Morning Post Nvidia’s Jensen Huang meets US officials as issues grow over China chip access South China Morn",
-      "capturedAt": "2026-08-18T08:37:52.361978+00:00"
+      "capturedAt": "2026-08-18T19:28:18.481155+00:00"
     },
     {
       "id": "54bc97dff82e",
@@ -288,11 +284,34 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang announces major partnerships with Korean companies following meeting with President Lee - Korea JoongAng Daily Jensen Huang announces major partnerships with Korean companies foll",
-      "capturedAt": "2026-08-18T08:37:52.361978+00:00"
+      "capturedAt": "2026-08-18T19:28:18.481155+00:00"
+    },
+    {
+      "id": "3d297e9a35f2",
+      "status": "needs-review",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Breaking News: Nvidia's Jensen Huang Announces $500 Billion Partnership with SK - Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcUx0OVMtQktEMlpwZVF0NHg5bDlxajZTVE5Tb0IxRkNUUGRfOFNrZGdaZTIxSldGNF9KOURzbjY4Q1pyUkRVRFIzdjBobnpqcEl1LUF1emt5ZnNab2wxVHotY2NpRDlMUXVMRUdJSmpGeFYwQ19udmZ5ck1fYmVzdlFSRVhRYU5xT1lCYkhzWkZqQlJfa2pEY1pVX1JqZUk?oc=5",
+      "publishedAt": "2026-07-25T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [
+        "CES"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Breaking News: Nvidia's Jensen Huang Announces $500 Billion Partnership with SK - Seoul Economic Daily Breaking News: Nvidia's Jensen Huang Announces $500 Billion Partnership with SK Seoul Economic Daily",
+      "capturedAt": "2026-08-18T19:28:18.481155+00:00"
     },
     {
       "id": "7d67a516360a",
-      "status": "low-confidence",
+      "status": "needs-review",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳 韓國",
@@ -311,30 +330,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳李在明會面宣布與SK合作規模達5000億美元| 國際 - cna.com.tw 黃仁勳李在明會面宣布與SK合作規模達5000億美元| 國際 cna.com.tw",
-      "capturedAt": "2026-08-18T08:37:52.361978+00:00"
-    },
-    {
-      "id": "45a2508022eb",
-      "status": "needs-review",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "舊金山AI峰會，黃仁勳會唔韓國總統李在明、商界領袖，釋放未來長期合作訊息 - 鏈新聞 ABMedia",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcUU3N09SS0tzWkJBMk9uMjlTYVZyZV9ZeXM3Y2ZGeG9OSlpaVlBBV1J6QWdiNnpoTkdPLVZhSXFVNXAxTG52SHRSTFBsVTJKdDdoYWxMeVV0THBISnZfdTZLYUt3WHhCTThoODlSU0lvZVJHNjAtSHRHN21JcVRyN0I5WDA?oc=5",
-      "publishedAt": "2026-07-25T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "峰會"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "舊金山AI峰會，黃仁勳會唔韓國總統李在明、商界領袖，釋放未來長期合作訊息 - 鏈新聞 ABMedia 舊金山AI峰會，黃仁勳會唔韓國總統李在明、商界領袖，釋放未來長期合作訊息 鏈新聞 ABMedia",
-      "capturedAt": "2026-08-18T08:37:52.361978+00:00"
+      "capturedAt": "2026-08-18T19:28:18.481155+00:00"
     },
     {
       "id": "fa3cf81c40d5",
@@ -357,7 +353,30 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "AI峰會前夕黃仁勳會見SK會長 聚焦下一代記憶體、AI工廠合作 - news.cnyes.com AI峰會前夕黃仁勳會見SK會長 聚焦下一代記憶體、AI工廠合作 news.cnyes.com",
-      "capturedAt": "2026-08-18T08:37:52.361978+00:00"
+      "capturedAt": "2026-08-18T19:28:18.481155+00:00"
+    },
+    {
+      "id": "45a2508022eb",
+      "status": "needs-review",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "舊金山AI峰會，黃仁勳會唔韓國總統李在明、商界領袖，釋放未來長期合作訊息 - 鏈新聞 ABMedia",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcUU3N09SS0tzWkJBMk9uMjlTYVZyZV9ZeXM3Y2ZGeG9OSlpaVlBBV1J6QWdiNnpoTkdPLVZhSXFVNXAxTG52SHRSTFBsVTJKdDdoYWxMeVV0THBISnZfdTZLYUt3WHhCTThoODlSU0lvZVJHNjAtSHRHN21JcVRyN0I5WDA?oc=5",
+      "publishedAt": "2026-07-25T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "峰會"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "舊金山AI峰會，黃仁勳會唔韓國總統李在明、商界領袖，釋放未來長期合作訊息 - 鏈新聞 ABMedia 舊金山AI峰會，黃仁勳會唔韓國總統李在明、商界領袖，釋放未來長期合作訊息 鏈新聞 ABMedia",
+      "capturedAt": "2026-08-18T19:28:18.481155+00:00"
     },
     {
       "id": "e2af9788ab1a",
@@ -380,7 +399,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "舊金山AI峰會黃仁勳明日將會三星SK，緯創領軍低本益比的老AI股們補漲時機到了？｜股市話題｜豐雲學堂2026 年 08 月 - sinotrade.com.tw 舊金山AI峰會黃仁勳明日將會三星SK，緯創領軍低本益比的老AI股們補漲時機到了？｜股市話題｜豐雲學堂2026 年 08 月 sinotrade.com.tw",
-      "capturedAt": "2026-08-18T08:37:52.361978+00:00"
+      "capturedAt": "2026-08-18T19:28:18.481155+00:00"
     },
     {
       "id": "3379151b5bea",
@@ -403,16 +422,16 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "韓聯社：黃仁勳本周五將與三星李在鎔、SK崔泰源等在美會面| 全球財經| 全球 - UDN 韓聯社：黃仁勳本周五將與三星李在鎔、SK崔泰源等在美會面| 全球財經| 全球 UDN",
-      "capturedAt": "2026-08-18T08:37:52.361978+00:00"
+      "capturedAt": "2026-08-18T19:28:18.481155+00:00"
     },
     {
-      "id": "70edcb9709cc",
+      "id": "2fecdf26925b",
       "status": "needs-review",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "韓聯社：黃仁勳本周五將與三星李在鎔、SK崔泰源等在美會面 - money.udn.com",
+      "title": "韓聯社：黃仁勳本周五將與三星李在鎔、SK崔泰源等在美會面 - 經濟日報",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WOUN5WFAyTnVDSUpNUHc0d0NjdVkzWGJJRHdOMzJuZF9KUW80ZnMtWUhjVnJJMWRmRWExSmNNSndiU1ZuUFJoSF9WVmxaTFBOZjQ0SVBzNVdYd9IBX0FVX3lxTE1lU1hJN0RzclVEVDJSWFhFNDdLWFFTazNaTkJGMk8yYmo5WXBvMl91MV82ZGVadXIydHFzT0NHMkRiRGVuTzdEdDQxbE1Pa200cWNuV1piMXF0TlI0Yng4?oc=5",
       "publishedAt": "2026-07-22T07:00:00+00:00",
       "detectedDates": [],
@@ -425,32 +444,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "韓聯社：黃仁勳本周五將與三星李在鎔、SK崔泰源等在美會面 - money.udn.com 韓聯社：黃仁勳本周五將與三星李在鎔、SK崔泰源等在美會面 money.udn.com",
-      "capturedAt": "2026-08-18T08:37:52.361978+00:00"
-    },
-    {
-      "id": "ef5078726e40",
-      "status": "needs-review",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "AI世紀峰會？傳黃仁勳矽谷同框南韓三巨頭 OpenAI也出席 - TVBS新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fVFB4QVQ0N2paOXMwLVEwQnY5WkR2S01Ib1hiS0I5VzVfSU1fRkdlX0RyM3I3V05HdlZsUXFuMHZxX2xWdHhrUWlxUDlVd28?oc=5",
-      "publishedAt": "2026-07-22T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "峰會",
-        "出席"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "AI世紀峰會？傳黃仁勳矽谷同框南韓三巨頭 OpenAI也出席 - TVBS新聞網 AI世紀峰會？傳黃仁勳矽谷同框南韓三巨頭 OpenAI也出席 TVBS新聞網",
-      "capturedAt": "2026-08-18T08:37:52.361978+00:00"
+      "summary": "韓聯社：黃仁勳本周五將與三星李在鎔、SK崔泰源等在美會面 - 經濟日報 韓聯社：黃仁勳本周五將與三星李在鎔、SK崔泰源等在美會面 經濟日報",
+      "capturedAt": "2026-08-18T19:28:18.481155+00:00"
     },
     {
       "id": "ab0d2dbd7d63",
@@ -461,7 +456,7 @@
       "sourceType": "新聞彙整",
       "title": "輝達與 LG 機器人合作再升溫，黃仁勳女兒親赴首爾推進「機器人資料工廠」建置 - TechNews 科技新報",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM1J3Y1owbFNqUWtVZ2d6VmMtSzFrLWJjbjBfTUd5dlREUlltSGI5VmZxeTFUSFJtYXVENkh6TzMtdjlRSk5TaVRHZVhSQ1lNcnRIQnF1S3I5OGk2LUFGZ1VHOFdUQm1yRE9rcVV4ZmktNUhsNEtWT25BQ21jb01LSThzcm9ERU9UZTdnRmdDcFRMLUowZ1pXZzNRRmJRdjFaR0M5a0JB?oc=5",
-      "publishedAt": "2026-08-18T08:35:51+00:00",
+      "publishedAt": "2026-08-18T08:38:23+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -471,16 +466,16 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "輝達與 LG 機器人合作再升溫，黃仁勳女兒親赴首爾推進「機器人資料工廠」建置 - TechNews 科技新報 輝達與 LG 機器人合作再升溫，黃仁勳女兒親赴首爾推進「機器人資料工廠」建置 TechNews 科技新報",
-      "capturedAt": "2026-08-18T08:37:52.361978+00:00"
+      "capturedAt": "2026-08-18T19:28:18.481155+00:00"
     },
     {
-      "id": "e815bcf849df",
+      "id": "850781330a93",
       "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
-      "title": "黃仁勳點讚機器人供應鏈 台廠17強 - Yahoo新聞",
+      "title": "黃仁勳點讚機器人供應鏈 台廠17強 - tw.news.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQd016cldLejBFSXR3SjR0MTZDVWt4aU9zaExod3dGV1FBS0JfVmJFTExRZ0xMcmlvcGVyd3lCR24wbXlOSlhIU19qWk1QZVVWeDlnT3NQVUVHQ2R2TVpBV0FVS1BsZzZxcXhxUEVtdG1KWVF6OGVlZ2NCdnlBaTJqUWFNcldfbmxHT0Y4d0R1WFZLREFnc19tX0c5VURXYi1MNGhsdGJQMWhiV3BFNGFScktOekwtWkJoT1J2NC0yeFNrUUlOd0lZSjRWeXF2cW1pYmx5NnpYSHBFVVpoOUMzdkpsQWtIMVRwZXRwcm9SZFlyZFhfd3dDSzRjUnNQWVU?oc=5",
       "publishedAt": "2026-08-17T22:50:00+00:00",
       "detectedDates": [],
@@ -491,17 +486,17 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "黃仁勳點讚機器人供應鏈 台廠17強 - Yahoo新聞 黃仁勳點讚機器人供應鏈 台廠17強 Yahoo新聞",
-      "capturedAt": "2026-08-18T08:37:52.361978+00:00"
+      "summary": "黃仁勳點讚機器人供應鏈 台廠17強 - tw.news.yahoo.com 黃仁勳點讚機器人供應鏈 台廠17強 tw.news.yahoo.com",
+      "capturedAt": "2026-08-18T19:28:18.481155+00:00"
     },
     {
-      "id": "f9b8a0b2bf51",
+      "id": "3194bbad5ebe",
       "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
-      "title": "黃仁勳認證AI生存命脈！「這家台廠」獨家設備單價暴增10倍狂吞大單- 財經 - chinatimes.com",
+      "title": "黃仁勳認證AI生存命脈！「這家台廠」獨家設備單價暴增10倍狂吞大單- 財經 - 中時新聞網",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MOVMxVUt2ZGJxc0ZScXItSTdWZWtPRlJmNkg3OV9ndldSUm9BMHRzUkE2Q3ZiZC1UWWVDR1hPdk9aR0k5Q2YxQlN3TFpaTnJwYlFsNm02SVJBVVZQWm5VUlRET3JaZktuS25UYl9B?oc=5",
       "publishedAt": "2026-08-17T21:00:30+00:00",
       "detectedDates": [],
@@ -512,8 +507,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "黃仁勳認證AI生存命脈！「這家台廠」獨家設備單價暴增10倍狂吞大單- 財經 - chinatimes.com 黃仁勳認證AI生存命脈！「這家台廠」獨家設備單價暴增10倍狂吞大單- 財經 chinatimes.com",
-      "capturedAt": "2026-08-18T08:37:52.361978+00:00"
+      "summary": "黃仁勳認證AI生存命脈！「這家台廠」獨家設備單價暴增10倍狂吞大單- 財經 - 中時新聞網 黃仁勳認證AI生存命脈！「這家台廠」獨家設備單價暴增10倍狂吞大單- 財經 中時新聞網",
+      "capturedAt": "2026-08-18T19:28:18.481155+00:00"
     },
     {
       "id": "b7c135b1ac36",
@@ -534,7 +529,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "NVIDIA Corporation (NVDA) & KKR & Co (KKR): Wall Street Just Endorsed Jensen Huang’s “Big Concept.” What Happens Next? - Yahoo Finance NVIDIA Corporation (NVDA) & KKR & Co (KKR): Wall Street Just Endorsed Jensen Huang’s “Big Concept.” What Happens Next? Yahoo Fi",
-      "capturedAt": "2026-08-18T08:37:52.361978+00:00"
+      "capturedAt": "2026-08-18T19:28:18.481155+00:00"
     },
     {
       "id": "9d86944e7d61",
@@ -555,7 +550,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Doubled Nvidia's Own Sales Forecast to $1 Trillion Through 2027. Here's What That Guidance Means for the Stock's Valuation. - Yahoo Finance Jensen Huang Doubled Nvidia's Own Sales",
-      "capturedAt": "2026-08-18T08:37:52.361978+00:00"
+      "capturedAt": "2026-08-18T19:28:18.481155+00:00"
     }
   ],
   "errors": [
