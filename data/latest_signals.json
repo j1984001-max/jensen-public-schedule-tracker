@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T22:16:41.958330+00:00",
+  "generatedAt": "2026-08-26T02:54:55.843513+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
   "publishedToTimeline": 12,
@@ -25,7 +25,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳財報前突襲台灣！「包子＋30顆肉粽」行程曝光 法人盯8／27台股關鍵一戰 - Yahoo股市 黃仁勳財報前突襲台灣！「包子＋30顆肉粽」行程曝光 法人盯8／27台股關鍵一戰 Yahoo股市",
-      "capturedAt": "2026-08-25T22:16:41.958344+00:00"
+      "capturedAt": "2026-08-26T02:54:55.843528+00:00"
     },
     {
       "id": "dcf8c4348ae2",
@@ -48,7 +48,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "「AI教父」黃仁勳悄悄來台！行程全保密藏不住 北市買包子被民眾抓包 - Yahoo新聞 「AI教父」黃仁勳悄悄來台！行程全保密藏不住 北市買包子被民眾抓包 Yahoo新聞",
-      "capturedAt": "2026-08-25T22:16:41.958344+00:00"
+      "capturedAt": "2026-08-26T02:54:55.843528+00:00"
     },
     {
       "id": "c884a0632ccc",
@@ -71,7 +71,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳快閃台灣「只待2小時」 財報前夕神秘行程引關注 - Yahoo股市 黃仁勳快閃台灣「只待2小時」 財報前夕神秘行程引關注 Yahoo股市",
-      "capturedAt": "2026-08-25T22:16:41.958344+00:00"
+      "capturedAt": "2026-08-26T02:54:55.843528+00:00"
     },
     {
       "id": "c6c214827839",
@@ -94,57 +94,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳無預警搭專機快閃台灣！僅停留2小時離境 神祕行程引熱議 - UDN 黃仁勳無預警搭專機快閃台灣！僅停留2小時離境 神祕行程引熱議 UDN",
-      "capturedAt": "2026-08-25T22:16:41.958344+00:00"
-    },
-    {
-      "id": "3fe26fcc850b",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "輝達執行長黃仁勳傳快閃台灣！行程全程保密 - NOWnews今日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9XbTNwVTI1NWVxTzJHbE53QzRsOURqNUUtbndEbU1CNWk1RndiWWpvbmZFX0tlLS1OSlBmU2xOdnlzRDNKZlVDcU9QaUbSAVJBVV95cUxOT2NqbDFBdVJGQi1CcFBfT184d3VVZXlPeHdwaW9BcVJfTS1qOHhSM3l0SlFwY19yQllVVG9uMGtjM2MxQ2lmb3cwWTJwZm5UMjZR?oc=5",
-      "publishedAt": "2026-08-23T05:59:07+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "行程"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "輝達執行長黃仁勳傳快閃台灣！行程全程保密 - NOWnews今日新聞 輝達執行長黃仁勳傳快閃台灣！行程全程保密 NOWnews今日新聞",
-      "capturedAt": "2026-08-25T22:16:41.958344+00:00"
-    },
-    {
-      "id": "563a8c76e773",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 55,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "最新！黃仁勳低調來台「行程保密」 民眾驚喜搶合照 - 鏡新聞",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xN1hfa0owYXBoSFczc3czZW9hVFp0SUlxWVF3bTYyS29TNDV6eUtaLTRrLWk0N3g1SURqTC1tVVBPQmdOQmxlcHZzU01COHBjRGkzenFTZFLSAV5BVV95cUxPbS1pemZ3di1kSWVDSzdZSHVTdEktSFg3MEJFcHdVWVZZMUhVaUZrQjA0aEZhcWsyTmh0a3AweVN3NFZsNXI0c0F4Mnd1Zmh2TnRTOU5KeUtjN1Y3WXJB?oc=5",
-      "publishedAt": "2026-08-23T05:25:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "行程"
-      ],
-      "privacyReviewFlags": [
-        "合照"
-      ],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [
-        "合照"
-      ],
-      "summary": "最新！黃仁勳低調來台「行程保密」 民眾驚喜搶合照 - 鏡新聞 最新！黃仁勳低調來台「行程保密」 民眾驚喜搶合照 鏡新聞",
-      "capturedAt": "2026-08-25T22:16:41.958344+00:00"
+      "capturedAt": "2026-08-26T02:54:55.843528+00:00"
     },
     {
       "id": "ac3670654de5",
@@ -167,7 +117,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Declares 'ChatGPT Moment' Has Arrived for Robotics — Eyes on South Korea's Manufacturing Infrastructure - finance.biggo.com Jensen Huang Declares 'ChatGPT Moment' Has Arrived for",
-      "capturedAt": "2026-08-25T22:16:41.958344+00:00"
+      "capturedAt": "2026-08-26T02:54:55.843528+00:00"
     },
     {
       "id": "437a888b6131",
@@ -191,7 +141,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Four days after Jensen Huang met Koo Kwang-mo... his daughter will visit LG's robotics hub - 매일경제 Four days after Jensen Huang met Koo Kwang-mo... his daughter will visit LG's robotics hub 매일경제",
-      "capturedAt": "2026-08-25T22:16:41.958344+00:00"
+      "capturedAt": "2026-08-26T02:54:55.843528+00:00"
     },
     {
       "id": "f02fd0a5924e",
@@ -215,7 +165,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO's daughter to visit LG factory for robotics talks - The Korea Herald Nvidia CEO's daughter to visit LG factory for robotics talks The Korea Herald",
-      "capturedAt": "2026-08-25T22:16:41.958344+00:00"
+      "capturedAt": "2026-08-26T02:54:55.843528+00:00"
     },
     {
       "id": "cc2cc16631d1",
@@ -238,7 +188,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia-LG ties deepen as Jensen Huang's daughter to visit LG Electronics robotics hub Tuesday - 헤럴드경제 Nvidia-LG ties deepen as Jensen Huang's daughter to visit LG Electronics robotics hub Tuesday 헤럴드경제",
-      "capturedAt": "2026-08-25T22:16:41.958344+00:00"
+      "capturedAt": "2026-08-26T02:54:55.843528+00:00"
     },
     {
       "id": "ef9eab5c04f9",
@@ -261,7 +211,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 - 東森新聞 拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 東森新聞",
-      "capturedAt": "2026-08-25T22:16:41.958344+00:00"
+      "capturedAt": "2026-08-26T02:54:55.843528+00:00"
     },
     {
       "id": "cb9749e51f93",
@@ -284,11 +234,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳有望出席！ SK海力士美國HBM新廠27日動工 - ETtoday財經雲 黃仁勳有望出席！ SK海力士美國HBM新廠27日動工 ETtoday財經雲",
-      "capturedAt": "2026-08-25T22:16:41.958344+00:00"
+      "capturedAt": "2026-08-26T02:54:55.843528+00:00"
     },
     {
       "id": "21a4b16b0857",
-      "status": "needs-review",
+      "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳 韓國",
@@ -307,11 +257,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳受邀出席！SK海力士美國新廠8月27日動工 2028年量產HBM - news.cnyes.com 黃仁勳受邀出席！SK海力士美國新廠8月27日動工 2028年量產HBM news.cnyes.com",
-      "capturedAt": "2026-08-25T22:16:41.958344+00:00"
+      "capturedAt": "2026-08-26T02:54:55.843528+00:00"
     },
     {
       "id": "b9352920cda2",
-      "status": "needs-review",
+      "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: Jensen Huang",
@@ -330,7 +280,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China CNBC",
-      "capturedAt": "2026-08-25T22:16:41.958344+00:00"
+      "capturedAt": "2026-08-26T02:54:55.843528+00:00"
     },
     {
       "id": "34196bba56df",
@@ -353,7 +303,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang’s Four-Day Visit to South Korea: AI Gifts, HBM Supply Chain, and Physical AI Strategy - KuCoin Jensen Huang’s Four-Day Visit to South Korea: AI Gifts, HBM Supply Chain, and Physic",
-      "capturedAt": "2026-08-25T22:16:41.958344+00:00"
+      "capturedAt": "2026-08-26T02:54:55.843528+00:00"
     },
     {
       "id": "a31c4cae556a",
@@ -380,7 +330,7 @@
         "visits"
       ],
       "summary": "Jensen Huang's 'Curse': KOSPI Declines Follow Visits, Announcements - 조선일보 Jensen Huang's 'Curse': KOSPI Declines Follow Visits, Announcements 조선일보",
-      "capturedAt": "2026-08-25T22:16:41.958344+00:00"
+      "capturedAt": "2026-08-26T02:54:55.843528+00:00"
     },
     {
       "id": "d7ac4fe45085",
@@ -403,7 +353,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia’s Jensen Huang meets US officials as issues grow over China chip access - South China Morning Post Nvidia’s Jensen Huang meets US officials as issues grow over China chip access South China Morn",
-      "capturedAt": "2026-08-25T22:16:41.958344+00:00"
+      "capturedAt": "2026-08-26T02:54:55.843528+00:00"
     },
     {
       "id": "821e27977c8d",
@@ -431,7 +381,7 @@
         "visits"
       ],
       "summary": "KOSPI Plunges After NVIDIA CEO's Visits Spark 'Huang Curse' Fears - 조선일보 KOSPI Plunges After NVIDIA CEO's Visits Spark 'Huang Curse' Fears 조선일보",
-      "capturedAt": "2026-08-25T22:16:41.958344+00:00"
+      "capturedAt": "2026-08-26T02:54:55.843528+00:00"
     },
     {
       "id": "a92315ea63d0",
@@ -452,7 +402,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Told Investors in Seoul to \"Buy at a Discount\" During the Recent AI Stock Sell-Off. Here's Whether His Call Has Paid Off. - The Globe and Mail Jensen Huang Told Investors in Seoul",
-      "capturedAt": "2026-08-25T22:16:41.958344+00:00"
+      "capturedAt": "2026-08-26T02:54:55.843528+00:00"
     },
     {
       "id": "5e99e076d897",
@@ -473,7 +423,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Says Humanoid Robots Are 'Very Very Close' To Industrial Reality As Nvidia, Hyundai Deepen Alliance - Stocktwits Jensen Huang Says Humanoid Robots Are 'Very Very Close' To Industr",
-      "capturedAt": "2026-08-25T22:16:41.958344+00:00"
+      "capturedAt": "2026-08-26T02:54:55.843528+00:00"
     },
     {
       "id": "a4a0da9668f3",
@@ -494,28 +444,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Once Revealed He 'Wasn't A Particularly Good Kid' but One That 'Just Turned Out Good' — Here - Benzinga Jensen Huang Once Revealed He 'Wasn't A Particularly Good Kid' but One That",
-      "capturedAt": "2026-08-25T22:16:41.958344+00:00"
-    },
-    {
-      "id": "d6b203371605",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳快閃台灣隔天 基隆地檢署起訴輝達台灣公司經理涉伺服器走私案 - 信傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TLXN6MjF5TGp3c3ZYODNqYTNIMjBGelk4WUV1Sm1Oc1NxY1VLODJIcEg1V09QTnhXOGEtZUl0NldTVXY3LUxWNFZjcFJHRW12d3FJano3X1Vmdw?oc=5",
-      "publishedAt": "2026-08-24T23:15:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳快閃台灣隔天 基隆地檢署起訴輝達台灣公司經理涉伺服器走私案 - 信傳媒 黃仁勳快閃台灣隔天 基隆地檢署起訴輝達台灣公司經理涉伺服器走私案 信傳媒",
-      "capturedAt": "2026-08-25T22:16:41.958344+00:00"
+      "capturedAt": "2026-08-26T02:54:55.843528+00:00"
     },
     {
       "id": "a5eaf7d6ee08",
@@ -536,28 +465,91 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang's Manic Moves - The Information Jensen Huang's Manic Moves The Information",
-      "capturedAt": "2026-08-25T22:16:41.958344+00:00"
+      "capturedAt": "2026-08-26T02:54:55.843528+00:00"
     },
     {
-      "id": "1a5d1e39eaef",
+      "id": "c898cc28defd",
       "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
-      "sourceName": "Google News: Jensen Huang",
+      "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
-      "title": "Nvidia earnings may come down to guidance and Jensen Huang's confidence - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeGJGT1pZaUVJaXRPcFBDRG14RjRQSm0yanRhWlhLaGFldnNOcWFENWk2aTJ4U3ZlVXRCa0w4MHpOUkVQc2ZsTVlOY1BabHVROUliSnlSd0ZUeWtQblctMzJaY3pEYXctRkVBR256N0p5QU5xSW5tdjA5bWgtRVdPSTNR?oc=5",
-      "publishedAt": "2026-08-24T14:00:00+00:00",
+      "title": "黃仁勳概念美食再+1！低調攜妻快閃台灣2小時 直奔建國南路「包子名店」掃貨 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOT1R6M1JJbmhob0lFbExIUERFQzRIdExuUVQtVUUzdmpyZUY4TTlCaVZBSnVBWHlCbjVhcnV0RlZDclhfakZ3bXBUaS0wWDZEM1FMc1lqUDFNZ01jb3Y4RGFwUjBPTTNSb05NT1hXdE9US3BHNTNOYzVGcGVDYThDVEp1b2ZNNTJndGJxUTJ4dVJkX1BDTHJNRUVHMTJLSVctbHNWbXdNTHVlZFJBVklQamJjeC1ab1FzdXhxOHBicmNNbmZwallxamxYN0dGY3Z5dXVCRjFuZngtVHpmRk8teENiWDRNU21Qb1M3NVpBQjRJM21WR1BkWDMxNjJLMThJQmJRTWVaZjRMTml5SEFLbGN0Z3FFX2tNWDM0SldfVjNONHZxZ2N5LUE0ZUU2cGZjX0lqaVl0M0I3T0VETXc5VmFheGRLTERvV0kxTzhvekdLMERaVE5HcEZDQVEzZE1RZUdIZzFzdUdaQ0lCM1FrNXVkQk5pdlllejR6Z2s0MHdtajI4aktXUEZOTWRmVkJlQW1tS3NBMXhEOTNLeUEtSWlOMlRkY2ZKTEN6a01Wa09lTFU?oc=5",
+      "publishedAt": "2026-08-23T09:15:00+00:00",
       "detectedDates": [],
       "matchedKeywords": [
-        "Jensen Huang"
+        "黃仁勳"
       ],
       "matchedEventKeywords": [],
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "Nvidia earnings may come down to guidance and Jensen Huang's confidence - Yahoo Finance Nvidia earnings may come down to guidance and Jensen Huang's confidence Yahoo Finance",
-      "capturedAt": "2026-08-25T22:16:41.958344+00:00"
+      "summary": "黃仁勳概念美食再+1！低調攜妻快閃台灣2小時 直奔建國南路「包子名店」掃貨 - Yahoo股市 黃仁勳概念美食再+1！低調攜妻快閃台灣2小時 直奔建國南路「包子名店」掃貨 Yahoo股市",
+      "capturedAt": "2026-08-26T02:54:55.843528+00:00"
+    },
+    {
+      "id": "99309b56d24d",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳新愛店！快閃北市建國南路買肉包 - 自由財經",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2RnItRnA1dUV4MmR5dEs5RC1pem1iOW9zeGt4Nkdqcm9uRmZyWmtoOUZmOHhNYkE1OVlobFRzUzRhTDFzcHY1Yk9RSlVHZE9EblF5U2JmbEVCZGRUZGZj?oc=5",
+      "publishedAt": "2026-08-23T08:09:15+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳新愛店！快閃北市建國南路買肉包 - 自由財經 黃仁勳新愛店！快閃北市建國南路買肉包 自由財經",
+      "capturedAt": "2026-08-26T02:54:55.843528+00:00"
+    },
+    {
+      "id": "b6ad312c02bd",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "輝達執行長黃仁勳低調抵台 現身台北街頭了 - 自由財經",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiNzkxc0t1MVI2QnhIMThjajJtNU1CVmtXUlRvSGJhMl9KQkpnOGMzbG5iYW9fTUROcTVkMUZQZG9Ham5WM3JHOHhNLVNaU3UzeW9NV0hKUnF1MFU5UFA0?oc=5",
+      "publishedAt": "2026-08-23T07:10:09+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "輝達執行長黃仁勳低調抵台 現身台北街頭了 - 自由財經 輝達執行長黃仁勳低調抵台 現身台北街頭了 自由財經",
+      "capturedAt": "2026-08-26T02:54:55.843528+00:00"
+    },
+    {
+      "id": "b48adbc67f3c",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "輝達黃仁勳傳無預警抵台今年已第3度訪台- 綜合 - 華視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYQjQ5d2xrZldLaFpIM2tfMnBRZ0txeHJlNVczRkM0WUtMMDJuMUU3Qjdpa0JnMkptTktqVDlTaHphYmhxcGhnMTZIRlVRUWEtcG5oZTF0cWpVTzluMzVMMHRKd3J1ZzJnYXVsSVJLOXM?oc=5",
+      "publishedAt": "2026-08-23T06:30:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "輝達黃仁勳傳無預警抵台今年已第3度訪台- 綜合 - 華視新聞網 輝達黃仁勳傳無預警抵台今年已第3度訪台- 綜合 華視新聞網",
+      "capturedAt": "2026-08-26T02:54:55.843528+00:00"
     }
   ],
   "errors": [
