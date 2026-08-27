@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T21:41:38.229106+00:00",
+  "generatedAt": "2026-08-27T02:26:04.227369+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
   "publishedToTimeline": 12,
@@ -25,7 +25,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳財報前突襲台灣！「包子＋30顆肉粽」行程曝光 法人盯8／27台股關鍵一戰 - Yahoo股市 黃仁勳財報前突襲台灣！「包子＋30顆肉粽」行程曝光 法人盯8／27台股關鍵一戰 Yahoo股市",
-      "capturedAt": "2026-08-26T21:41:38.229120+00:00"
+      "capturedAt": "2026-08-27T02:26:04.227381+00:00"
     },
     {
       "id": "c884a0632ccc",
@@ -48,7 +48,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳快閃台灣「只待2小時」 財報前夕神秘行程引關注 - Yahoo股市 黃仁勳快閃台灣「只待2小時」 財報前夕神秘行程引關注 Yahoo股市",
-      "capturedAt": "2026-08-26T21:41:38.229120+00:00"
+      "capturedAt": "2026-08-27T02:26:04.227381+00:00"
     },
     {
       "id": "c6c214827839",
@@ -71,7 +71,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳無預警搭專機快閃台灣！僅停留2小時離境 神祕行程引熱議 - UDN 黃仁勳無預警搭專機快閃台灣！僅停留2小時離境 神祕行程引熱議 UDN",
-      "capturedAt": "2026-08-26T21:41:38.229120+00:00"
+      "capturedAt": "2026-08-27T02:26:04.227381+00:00"
     },
     {
       "id": "3fe26fcc850b",
@@ -94,7 +94,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "輝達執行長黃仁勳傳快閃台灣！行程全程保密 - NOWnews今日新聞 輝達執行長黃仁勳傳快閃台灣！行程全程保密 NOWnews今日新聞",
-      "capturedAt": "2026-08-26T21:41:38.229120+00:00"
+      "capturedAt": "2026-08-27T02:26:04.227381+00:00"
     },
     {
       "id": "563a8c76e773",
@@ -121,7 +121,7 @@
         "合照"
       ],
       "summary": "最新！黃仁勳低調來台「行程保密」 民眾驚喜搶合照 - 鏡新聞 最新！黃仁勳低調來台「行程保密」 民眾驚喜搶合照 鏡新聞",
-      "capturedAt": "2026-08-26T21:41:38.229120+00:00"
+      "capturedAt": "2026-08-27T02:26:04.227381+00:00"
     },
     {
       "id": "ac3670654de5",
@@ -144,7 +144,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Declares 'ChatGPT Moment' Has Arrived for Robotics — Eyes on South Korea's Manufacturing Infrastructure - finance.biggo.com Jensen Huang Declares 'ChatGPT Moment' Has Arrived for",
-      "capturedAt": "2026-08-26T21:41:38.229120+00:00"
+      "capturedAt": "2026-08-27T02:26:04.227381+00:00"
     },
     {
       "id": "cc2cc16631d1",
@@ -167,7 +167,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia-LG ties deepen as Jensen Huang's daughter to visit LG Electronics robotics hub Tuesday - 헤럴드경제 Nvidia-LG ties deepen as Jensen Huang's daughter to visit LG Electronics robotics hub Tuesday 헤럴드경제",
-      "capturedAt": "2026-08-26T21:41:38.229120+00:00"
+      "capturedAt": "2026-08-27T02:26:04.227381+00:00"
     },
     {
       "id": "437a888b6131",
@@ -191,7 +191,31 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Four days after Jensen Huang met Koo Kwang-mo... his daughter will visit LG's robotics hub - 매일경제 Four days after Jensen Huang met Koo Kwang-mo... his daughter will visit LG's robotics hub 매일경제",
-      "capturedAt": "2026-08-26T21:41:38.229120+00:00"
+      "capturedAt": "2026-08-27T02:26:04.227381+00:00"
+    },
+    {
+      "id": "f02fd0a5924e",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Nvidia CEO's daughter to visit LG factory for robotics talks - The Korea Herald",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YcnhvN1JYWG1fakJtUGpaek1MZy1uZnB4Y211b0xSdWQ2LVBwSDQwRWQxY2dELUV0ZTM4Q3RhaXZqdVBrSUR4UzNHRmpGLXNMQWg2SEQ0VQ?oc=5",
+      "publishedAt": "2026-08-17T02:30:22+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "NVIDIA CEO",
+        "Nvidia CEO"
+      ],
+      "matchedEventKeywords": [
+        "visit"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Nvidia CEO's daughter to visit LG factory for robotics talks - The Korea Herald Nvidia CEO's daughter to visit LG factory for robotics talks The Korea Herald",
+      "capturedAt": "2026-08-27T02:26:04.227381+00:00"
     },
     {
       "id": "ef9eab5c04f9",
@@ -214,7 +238,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 - 東森新聞 拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 東森新聞",
-      "capturedAt": "2026-08-26T21:41:38.229120+00:00"
+      "capturedAt": "2026-08-27T02:26:04.227381+00:00"
     },
     {
       "id": "cb9749e51f93",
@@ -237,7 +261,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳有望出席！ SK海力士美國HBM新廠27日動工 - ETtoday財經雲 黃仁勳有望出席！ SK海力士美國HBM新廠27日動工 ETtoday財經雲",
-      "capturedAt": "2026-08-26T21:41:38.229120+00:00"
+      "capturedAt": "2026-08-27T02:26:04.227381+00:00"
     },
     {
       "id": "21a4b16b0857",
@@ -260,11 +284,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳受邀出席！SK海力士美國新廠8月27日動工 2028年量產HBM - news.cnyes.com 黃仁勳受邀出席！SK海力士美國新廠8月27日動工 2028年量產HBM news.cnyes.com",
-      "capturedAt": "2026-08-26T21:41:38.229120+00:00"
+      "capturedAt": "2026-08-27T02:26:04.227381+00:00"
     },
     {
       "id": "1b951c5723d8",
-      "status": "low-confidence",
+      "status": "needs-review",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳 韓國",
@@ -283,7 +307,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "4923 力士 - 黃仁勳有望出席！ SK海力士美國HBM新廠27日動工- 股市爆料同學會 - CMoney 4923 力士 - 黃仁勳有望出席！ SK海力士美國HBM新廠27日動工- 股市爆料同學會 CMoney",
-      "capturedAt": "2026-08-26T21:41:38.229120+00:00"
+      "capturedAt": "2026-08-27T02:26:04.227381+00:00"
     },
     {
       "id": "b9352920cda2",
@@ -306,7 +330,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China CNBC",
-      "capturedAt": "2026-08-26T21:41:38.229120+00:00"
+      "capturedAt": "2026-08-27T02:26:04.227381+00:00"
     },
     {
       "id": "34196bba56df",
@@ -329,7 +353,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang’s Four-Day Visit to South Korea: AI Gifts, HBM Supply Chain, and Physical AI Strategy - KuCoin Jensen Huang’s Four-Day Visit to South Korea: AI Gifts, HBM Supply Chain, and Physic",
-      "capturedAt": "2026-08-26T21:41:38.229120+00:00"
+      "capturedAt": "2026-08-27T02:26:04.227381+00:00"
     },
     {
       "id": "a31c4cae556a",
@@ -356,7 +380,7 @@
         "visits"
       ],
       "summary": "Jensen Huang's 'Curse': KOSPI Declines Follow Visits, Announcements - 조선일보 Jensen Huang's 'Curse': KOSPI Declines Follow Visits, Announcements 조선일보",
-      "capturedAt": "2026-08-26T21:41:38.229120+00:00"
+      "capturedAt": "2026-08-27T02:26:04.227381+00:00"
     },
     {
       "id": "d7ac4fe45085",
@@ -379,7 +403,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia’s Jensen Huang meets US officials as issues grow over China chip access - South China Morning Post Nvidia’s Jensen Huang meets US officials as issues grow over China chip access South China Morn",
-      "capturedAt": "2026-08-26T21:41:38.229120+00:00"
+      "capturedAt": "2026-08-27T02:26:04.227381+00:00"
     },
     {
       "id": "821e27977c8d",
@@ -407,7 +431,114 @@
         "visits"
       ],
       "summary": "KOSPI Plunges After NVIDIA CEO's Visits Spark 'Huang Curse' Fears - 조선일보 KOSPI Plunges After NVIDIA CEO's Visits Spark 'Huang Curse' Fears 조선일보",
-      "capturedAt": "2026-08-26T21:41:38.229120+00:00"
+      "capturedAt": "2026-08-27T02:26:04.227381+00:00"
+    },
+    {
+      "id": "e9c793d1ca9e",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Jensen Huang defends Nvidia's growing financial support for AI ecosystem, says 'the risk is low' - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ29wLWtnX2ZHYk1YSVpvaFhmZENJTTM1QXAtYmpSV0t4UGczQkMtQXBEcFhCU2ZCQ0YyUVphZEt3cWF2UElQSkxKRWVGcnlYOE94OW5uQlcxZU02all2T3JvdzdDS0lhdERXZlpSYWczdTR6eElZM2NyNEJGQzNZRzNIU2Zzdlg4OVlWa3JGYWJiemUtVXdsSlZqTGpueFBmSUExd05KVmxBZ1dkV1hiR2JySEYtdDNlYlRNMThuM1VuakNGWG5Gd3ZR0gHPAUFVX3lxTFBNbElLUDdieXF1WW5jbl94R3RJOXlDX3c3VkNKRlJzLWQwdDQyMTRpaXBuaUJVWjFFUzdXNGRaSTJzS0tYVl81M25hTFhsUmF6d1JwVm1Cc0hUdTJwOUU4UllKdHU1eTVINUZtdUVRdTczYWdZZ0tjSG15d0FyckstbFRfVDUzYmh2bFNZU2VxMnhmWW5JR1JlaHdqLTZJVGRsSDFuaXMtYm1veUlVblFXemNpNVVjdUtnT2VNVDVVRnIyalhTSWg2QjVHTENzOA?oc=5",
+      "publishedAt": "2026-08-27T00:53:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Jensen Huang defends Nvidia's growing financial support for AI ecosystem, says 'the risk is low' - CNBC Jensen Huang defends Nvidia's growing financial support for AI ecosystem, says 'the risk",
+      "capturedAt": "2026-08-27T02:26:04.227381+00:00"
+    },
+    {
+      "id": "d91b93f14607",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳：AI從人類驅動轉向代理、算力需求高百倍- 新聞 - MoneyDJ",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMEtEM2NGUmE0ZE1oTGd6SDVZX0FITkRWTEs1VnlvX0Ric0xtTV8zMWFDZmFpRHNPeU1nd2xBTWFrQzRreFdVZzdfOG8zbkNNakxWZU1NbFBpcEUwdGx3YzB6WTF5ZzVtRV9GTk1UcS13MGpsa0U4OUE2WDc3MnpLQWozY096aXJTRFk0Wk9raWVndw?oc=5",
+      "publishedAt": "2026-08-27T00:45:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳：AI從人類驅動轉向代理、算力需求高百倍- 新聞 - MoneyDJ 黃仁勳：AI從人類驅動轉向代理、算力需求高百倍- 新聞 MoneyDJ",
+      "capturedAt": "2026-08-27T02:26:04.227381+00:00"
+    },
+    {
+      "id": "c68397efaf8d",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Watch Jim Cramer's full interview with Nvidia CEO Jensen Huang - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQkM3OXBjZFBqeHNvS3RBU2RleTFfN2FFWnFQX1ppdk45Z3JRYnZ2RVBlcTl4SlFLWmpfZm1FbjVqQ0ZkbWc0alViZWdsdjlRa0pZS0hCQVFsYnYyMm9KZ0NpVDFoamVDamJmTFQtU3ZjcDlaajVqUXB0VWJjUkhSeDFJQnRyMU16Z2pxSGcyeC1EZXVINWtzaG0tYWZMQmpJaTVtUXZYWQ?oc=5",
+      "publishedAt": "2026-08-26T23:54:46+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang",
+        "NVIDIA CEO",
+        "Nvidia CEO"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Watch Jim Cramer's full interview with Nvidia CEO Jensen Huang - CNBC Watch Jim Cramer's full interview with Nvidia CEO Jensen Huang CNBC",
+      "capturedAt": "2026-08-27T02:26:04.227381+00:00"
+    },
+    {
+      "id": "04f1295d071e",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "CNBC Transcript: Nvidia Founder & CEO Jensen Huang Speaks with CNBC’s Jim Cramer on “Mad Money” Today - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcmVWeUt3Z2ZMc05leFJUYUczUVpFT3VsRWZWa2h0VzZOUGdEOGlwT3Nac0xDNnBNT3E2MkhpelRTYTItYmJVYjljYjQ5b2VxV2ZFZ2dxY2llcFU1RlMzUktzdnR4d0N2WWRPa0QwQlF1Zlo1NW9CUkoyZ0xwOFFOSUp3LXlIRkd4TnlYd0FyZ04wM01fYko1YlB6M3dtNTZJTThSZzFYUGEwYUI5WTBDYURrNDMzeXIyT3dRRHBzeHkxR21rQVVIa2NRZ0h4dUVFYWfSAdIBQVVfeXFMTnJlVnlLd2dmTHNOZXhSVGFHM1FaRU91bEVmVmtodFc2TlBnRDhpcE9zWnNMQzZwTU9xNjJIaXpUU2EyLWJiVWI5Y2I0OW9lcVdmRWdncWNpZXBVNUZTM1JLc3Z0eHdDdllkT2tEMEJRdWZaNTVvQlJKMmdMcDhRTklKdy15SEZHeE55WHdBcmdOMDNNX2JKNWJQejN3bTU2SU04UmcxWFBhMGFCOVkwQ2FEazQzM3lyMk93UURwc3h5MUdta0FVSGtjUWdIeHVFRWFn?oc=5",
+      "publishedAt": "2026-08-26T23:48:13+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "CNBC Transcript: Nvidia Founder & CEO Jensen Huang Speaks with CNBC’s Jim Cramer on “Mad Money” Today - CNBC CNBC Transcript: Nvidia Founder & CEO Jensen Huang Speaks with CNBC’s Jim Cramer on “Mad Money” Today CNBC",
+      "capturedAt": "2026-08-27T02:26:04.227381+00:00"
+    },
+    {
+      "id": "69030671300d",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Jensen Huang Just Delivered Great News to Nvidia Shareholders - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYWpDaHAtWWU5RDRZbXd5a1Z6MG9aak93NXRnWUd3cWdJWmZDOGJOR2dPcFpiMkV4RVdzUHc4MUg5ZGRVdk9nOFd3SmZKTzQ0a3R3elY4UzBjUHNvMzRVQmE2VXV3aEg4c1VpeTNwd0FfbHpDOFNKNlZ2QmN4YVFreUlKT3Vwd05mUXVpbDJVQmwzR2x1WWhrcHQxWjAydkZvekxQVnZzZw?oc=5",
+      "publishedAt": "2026-08-26T23:15:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Jensen Huang Just Delivered Great News to Nvidia Shareholders - The Motley Fool Jensen Huang Just Delivered Great News to Nvidia Shareholders The Motley Fool",
+      "capturedAt": "2026-08-27T02:26:04.227381+00:00"
     },
     {
       "id": "74a7d119b944",
@@ -428,133 +559,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia earnings: Does Jensen Huang's commentary matter more than the numbers? - Fox Business Nvidia earnings: Does Jensen Huang's commentary matter more than the numbers? Fox Business",
-      "capturedAt": "2026-08-26T21:41:38.229120+00:00"
-    },
-    {
-      "id": "a92315ea63d0",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Jensen Huang Told Investors in Seoul to \"Buy at a Discount\" During the Recent AI Stock Sell-Off. Here's Whether His Call Has Paid Off. - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNdHdYZVh6VHJXcFhBZHRwNVBNN2RTNHR5ZFAzblNUUnlhdWFIT3RVUld6Q1Vvb0FWNEJYYUQzR0JLMk9DZjI4NExodjRaMjFPWHRremxjaUZqdl9tbW9PMEF2VVFKRE1XU0R6ejVzbXN2eUNBNTRxSEJGZW5tM0JHemd5N2dRaHZVU200WW0wZVNPRVpGUDNsSENSQTFwVWlGNEprSF9kQkxJUGNwbFNfUVBBN043VTN1QmZSc21UWndVMzZsbmhSLUluejBEWTVVc3o3U3JOWHBYRkxHSzRpemotNEZadjNtNEI1QTlWc0RqNHRDVTVzcVNKU19IQ21MX1ZzWjVTc2VkVzlyeUZtT3hIaHZIanNKeHZwcU9uMmhtNk5yeUZVZlhSZ2pqR2Zkd0JqRmk3dTZtR0ZG?oc=5",
-      "publishedAt": "2026-08-25T14:58:31+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Jensen Huang Told Investors in Seoul to \"Buy at a Discount\" During the Recent AI Stock Sell-Off. Here's Whether His Call Has Paid Off. - The Globe and Mail Jensen Huang Told Investors in Seoul",
-      "capturedAt": "2026-08-26T21:41:38.229120+00:00"
-    },
-    {
-      "id": "5e99e076d897",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Jensen Huang Says Humanoid Robots Are 'Very Very Close' To Industrial Reality As Nvidia, Hyundai Deepen Alliance - Stocktwits",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc3hUdXFYUERYaUpqZHVqejVRSGVpVWI1ZEdEVGVoOVV1TENyc21HNWotSkw3V1hEckE1czNxbHVmYzkycTBGZ2NMN1F5bDdPNHVVOHNJSVY0OWVfZTVYMDdfQkkzTjZHaDRlNnRjbHF4bGktbk90cDRDOXR4cURYel9NNzAwelZkMzRoS3FJS0g0cHRtRHVObVdiU09PZC1wbnV6NXZBTC1EWEx5TURsc0F4Qy1lQUxKUHB0Y1Q1QXJrRVJBWHVadmNsdkpwZw?oc=5",
-      "publishedAt": "2026-08-25T01:23:39+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Jensen Huang Says Humanoid Robots Are 'Very Very Close' To Industrial Reality As Nvidia, Hyundai Deepen Alliance - Stocktwits Jensen Huang Says Humanoid Robots Are 'Very Very Close' To Industr",
-      "capturedAt": "2026-08-26T21:41:38.229120+00:00"
-    },
-    {
-      "id": "a4a0da9668f3",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "Jensen Huang Once Revealed He 'Wasn't A Particularly Good Kid' but One That 'Just Turned Out Good' — Here - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQnFBVEk1Ujk2ZktnTi1aRWdIQk52RkZjbmgxbWZpYW5TbThaelVKeEtodmQ0Wl90RElGTHlzR0lDYnZpXzNGMW9POW1FNWZ5SFRqVFNkYUEyQ3Z6RnpQYnc2LV9hQlVJeWJ3Vk0xbUNBc19xZ2JiOU9TZ1BxYXBWWklJc2lWWmRTbXpZaF85eDZiQlRYSDZ0enJBQUNjTDZSMHNV?oc=5",
-      "publishedAt": "2026-08-25T01:01:15+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Jensen Huang Once Revealed He 'Wasn't A Particularly Good Kid' but One That 'Just Turned Out Good' — Here - Benzinga Jensen Huang Once Revealed He 'Wasn't A Particularly Good Kid' but One That",
-      "capturedAt": "2026-08-26T21:41:38.229120+00:00"
-    },
-    {
-      "id": "d6b203371605",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳快閃台灣隔天 基隆地檢署起訴輝達台灣公司經理涉伺服器走私案 - 信傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TLXN6MjF5TGp3c3ZYODNqYTNIMjBGelk4WUV1Sm1Oc1NxY1VLODJIcEg1V09QTnhXOGEtZUl0NldTVXY3LUxWNFZjcFJHRW12d3FJano3X1Vmdw?oc=5",
-      "publishedAt": "2026-08-24T23:15:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳快閃台灣隔天 基隆地檢署起訴輝達台灣公司經理涉伺服器走私案 - 信傳媒 黃仁勳快閃台灣隔天 基隆地檢署起訴輝達台灣公司經理涉伺服器走私案 信傳媒",
-      "capturedAt": "2026-08-26T21:41:38.229120+00:00"
-    },
-    {
-      "id": "a5eaf7d6ee08",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "Jensen Huang's Manic Moves - The Information",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa280UTJRZ08xY0FUaG1tc2lZUzlZQnJMZHF2ZlVNcElLMWJ2dFQzcDE1a2dCLUQyMmpqbnR2NEtrZGoxOXlWOFR3MmFTWFJCbnJxUGhJNDE4LVB0MUJEWFhCWVlmRGZBc1JNN2l5b1ZDR2Y3Mm9XSGNSWmtFLTUzWm9JSnk?oc=5",
-      "publishedAt": "2026-08-24T14:01:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Jensen Huang's Manic Moves - The Information Jensen Huang's Manic Moves The Information",
-      "capturedAt": "2026-08-26T21:41:38.229120+00:00"
-    },
-    {
-      "id": "85e29f0dd6ee",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳閃電離台為了它！輝達財報公布時間與市場期望懶人包 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPZ2xTMHVqNVdqRi1XNXJwSkF1Tk56djVTMWJFcE5HSWlvWkZkNlBwM0Zxd05FNVFVaTF3TXNaOGhyU3NSTUxQaXU5Q3JtNUFQZmpRaWtZLUh5OEltd3BiNE5Zd2NZTGdHX0FqYzl1azJadUg3cHM5M2xKZWV6RDJCWWFDYVdIYVoxTW1pQ2cxLUI2Vm5uTVFuanpJbzQtYUxUSkw2dFVXTG5Kd0pWbm5mWndnajljNWVzaUFaZDYxR19md3o2cGtEalZnWDU4SXlwb0xyZFlkQXV6Tk9tVVN5MWpOUU1XV2FVQWpyQ3ZlaHljOVBUelVUM0dKRHRQYnpLUjR0RGZfMGRYdDBraE9MZ3JPbnNMcWp5LVRMSjlnRVFzU05fcjd3UnROdDVBbkFWc2pCal9CcDVzR1dIVUgzb1NCNTlRU3FTN3BnaTlHMkN3T3JEOV9EUzhfNmFxb2dicExFajk0ODNKMjNTLWxneGtiUFNWZHg3UFk0N2hpTzF4WGF4cFUxS3NTZjc?oc=5",
-      "publishedAt": "2026-08-24T08:50:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳閃電離台為了它！輝達財報公布時間與市場期望懶人包 - Yahoo新聞 黃仁勳閃電離台為了它！輝達財報公布時間與市場期望懶人包 Yahoo新聞",
-      "capturedAt": "2026-08-26T21:41:38.229120+00:00"
+      "capturedAt": "2026-08-27T02:26:04.227381+00:00"
     }
   ],
   "errors": [
