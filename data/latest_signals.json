@@ -1,9 +1,55 @@
 {
-  "generatedAt": "2026-09-01T00:54:39.801055+00:00",
+  "generatedAt": "2026-09-01T06:53:57.761073+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
-  "publishedToTimeline": 10,
+  "publishedToTimeline": 12,
   "signals": [
+    {
+      "id": "1791b5deeb07",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Park Young-sun: \"Jensen Huang's Korea Visit Aims to Secure Korean Materials, Components, and Equipment First... South Korea Must Leap to Become an AI Ecosystem Designer\" - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FWTNnZHpwcHRHYkd1TzNMS1F0N1I3LTJwNTZMNk9ZV1ZIZ2YwZnFIWFRxWm1EdXJDa3gwbUxBNC0zSVdhZnJReThiZzNnUzdsOC02WF9QWXF4OWcyMHBCaTFoWUZTSXNZdWtWZzhzV3NsYkZzSVE?oc=5",
+      "publishedAt": "2026-09-01T03:56:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [
+        "visit"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Park Young-sun: \"Jensen Huang's Korea Visit Aims to Secure Korean Materials, Components, and Equipment First... South Korea Must Leap to Become an AI Ecosystem Designer\" - finance.biggo.com Park Young-sun: \"Je",
+      "capturedAt": "2026-09-01T06:53:57.761089+00:00"
+    },
+    {
+      "id": "bd37c9f56d7a",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "樸映宣：黃仁勳訪韓意在搶佔韓國材料零元件裝置供應鏈…韓國應躍升為AI生態系設計國 - BigGo 財經",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5QVY5cWpGN0hQWmdGX25OQjRXbXNFYzZDaXZqMElJYi1QSHFxVUo5bDhfbjBzMjVaampxVHg4TVdNV3BhZk10YkpUQTFDcXZfdFlhb0E2UWtCcVVwTV9aaElwemFRTWw1bUo3d1JwbkdLQUZiWExmamRn?oc=5",
+      "publishedAt": "2026-09-01T03:56:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "訪韓"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "樸映宣：黃仁勳訪韓意在搶佔韓國材料零元件裝置供應鏈…韓國應躍升為AI生態系設計國 - BigGo 財經 樸映宣：黃仁勳訪韓意在搶佔韓國材料零元件裝置供應鏈…韓國應躍升為AI生態系設計國 BigGo 財經",
+      "capturedAt": "2026-09-01T06:53:57.761089+00:00"
+    },
     {
       "id": "4655cfe63c42",
       "status": "low-confidence",
@@ -25,18 +71,18 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳財報前突襲台灣！「包子＋30顆肉粽」行程曝光 法人盯8／27台股關鍵一戰 - Yahoo股市 黃仁勳財報前突襲台灣！「包子＋30顆肉粽」行程曝光 法人盯8／27台股關鍵一戰 Yahoo股市",
-      "capturedAt": "2026-09-01T00:54:39.801067+00:00"
+      "capturedAt": "2026-09-01T06:53:57.761089+00:00"
     },
     {
-      "id": "7f44ccb4341d",
+      "id": "a30f7b41be90",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "黃仁勳無預警快閃台灣！傳只待2小時就離開 「行程全保密」仍被抓到街頭買包子 | 張大任 | 新聞 - 風傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9EX182Y251ZXJTZ3QydnZvS0o4VEJtVmhpa3dORjhoN244MG1pOU5yNm9xaWJpcXNEWHZmZW5NdjAzZUxiYmc0Mm9ZYXRMQQ?oc=5",
-      "publishedAt": "2026-08-23T07:00:00+00:00",
+      "title": "輝達執行長黃仁勳傳快閃台灣！行程全程保密 - NOWnews今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9XbTNwVTI1NWVxTzJHbE53QzRsOURqNUUtbndEbU1CNWk1RndiWWpvbmZFX0tlLS1OSlBmU2xOdnlzRDNKZlVDcU9QaUbSAVJBVV95cUxOT2NqbDFBdVJGQi1CcFBfT184d3VVZXlPeHdwaW9BcVJfTS1qOHhSM3l0SlFwY19yQllVVG9uMGtjM2MxQ2lmb3cwWTJwZm5UMjZR?oc=5",
+      "publishedAt": "2026-08-23T05:59:07+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -47,8 +93,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "黃仁勳無預警快閃台灣！傳只待2小時就離開 「行程全保密」仍被抓到街頭買包子 | 張大任 | 新聞 - 風傳媒 黃仁勳無預警快閃台灣！傳只待2小時就離開 「行程全保密」仍被抓到街頭買包子 | 張大任 | 新聞 風傳媒",
-      "capturedAt": "2026-09-01T00:54:39.801067+00:00"
+      "summary": "輝達執行長黃仁勳傳快閃台灣！行程全程保密 - NOWnews今日新聞 輝達執行長黃仁勳傳快閃台灣！行程全程保密 NOWnews今日新聞",
+      "capturedAt": "2026-09-01T06:53:57.761089+00:00"
     },
     {
       "id": "ac3670654de5",
@@ -71,7 +117,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Declares 'ChatGPT Moment' Has Arrived for Robotics — Eyes on South Korea's Manufacturing Infrastructure - finance.biggo.com Jensen Huang Declares 'ChatGPT Moment' Has Arrived for",
-      "capturedAt": "2026-09-01T00:54:39.801067+00:00"
+      "capturedAt": "2026-09-01T06:53:57.761089+00:00"
     },
     {
       "id": "437a888b6131",
@@ -95,16 +141,16 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Four days after Jensen Huang met Koo Kwang-mo... his daughter will visit LG's robotics hub - 매일경제 Four days after Jensen Huang met Koo Kwang-mo... his daughter will visit LG's robotics hub 매일경제",
-      "capturedAt": "2026-09-01T00:54:39.801067+00:00"
+      "capturedAt": "2026-09-01T06:53:57.761089+00:00"
     },
     {
-      "id": "e6121bfbe09d",
+      "id": "c54f5221a07b",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 | EBC 東森新聞 - LINE TODAY",
+      "title": "拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 | EBC 東森新聞 - today.line.me",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbnFmNHBKQzRsbTZTTEFZMEVCb0YwYlVDUHMwcWZ5VWNseTBkdy1yUS1MSGZ5LTdYMnJPYXZSREl0UkZqcGpjMy0yNnUxdk9PSDM4YXcwVThKaXRSSnRVRWhlSXQ4QTRuZl9MMzdvTnI1LUZfZ0NoNncxSThKS1Z6M3RTMA?oc=5",
       "publishedAt": "2026-08-14T07:00:00+00:00",
       "detectedDates": [],
@@ -117,8 +163,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 | EBC 東森新聞 - LINE TODAY 拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 | EBC 東森新聞 LINE TODAY",
-      "capturedAt": "2026-09-01T00:54:39.801067+00:00"
+      "summary": "拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 | EBC 東森新聞 - today.line.me 拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 | EBC 東森新聞 today.line.me",
+      "capturedAt": "2026-09-01T06:53:57.761089+00:00"
     },
     {
       "id": "ef9eab5c04f9",
@@ -141,16 +187,16 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 - 東森新聞 拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 東森新聞",
-      "capturedAt": "2026-09-01T00:54:39.801067+00:00"
+      "capturedAt": "2026-09-01T06:53:57.761089+00:00"
     },
     {
-      "id": "1b951c5723d8",
+      "id": "8e58164be137",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "4923 力士 - 黃仁勳有望出席！ SK海力士美國HBM新廠27日動工- 股市爆料同學會 - CMoney",
+      "title": "4923 力士 - 黃仁勳有望出席！ SK海力士美國HBM新廠27日動工- 股市爆料同學會 - cmoney.tw",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tU182YUd1a0ZxWTFxM0JlSzZfSXluaU9DQ2RzWm0tb2ZWQ0NDRXRKdFpLZFI4TjhSTGdRckJOQ2pNTVpFeWNRNUxzM2lBRU5RYUJNdjNiX1M?oc=5",
       "publishedAt": "2026-08-13T07:00:00+00:00",
       "detectedDates": [],
@@ -163,8 +209,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "4923 力士 - 黃仁勳有望出席！ SK海力士美國HBM新廠27日動工- 股市爆料同學會 - CMoney 4923 力士 - 黃仁勳有望出席！ SK海力士美國HBM新廠27日動工- 股市爆料同學會 CMoney",
-      "capturedAt": "2026-09-01T00:54:39.801067+00:00"
+      "summary": "4923 力士 - 黃仁勳有望出席！ SK海力士美國HBM新廠27日動工- 股市爆料同學會 - cmoney.tw 4923 力士 - 黃仁勳有望出席！ SK海力士美國HBM新廠27日動工- 股市爆料同學會 cmoney.tw",
+      "capturedAt": "2026-09-01T06:53:57.761089+00:00"
     },
     {
       "id": "21a4b16b0857",
@@ -187,7 +233,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳受邀出席！SK海力士美國新廠8月27日動工 2028年量產HBM - news.cnyes.com 黃仁勳受邀出席！SK海力士美國新廠8月27日動工 2028年量產HBM news.cnyes.com",
-      "capturedAt": "2026-09-01T00:54:39.801067+00:00"
+      "capturedAt": "2026-09-01T06:53:57.761089+00:00"
     },
     {
       "id": "2a50d4f9122b",
@@ -211,7 +257,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "比爾蓋茲訪韓、崔泰源離婚案、具光謨與黃仁勳會面…14日南韓財界迎「超級週」 - BigGo 財經 比爾蓋茲訪韓、崔泰源離婚案、具光謨與黃仁勳會面…14日南韓財界迎「超級週」 BigGo 財經",
-      "capturedAt": "2026-09-01T00:54:39.801067+00:00"
+      "capturedAt": "2026-09-01T06:53:57.761089+00:00"
     },
     {
       "id": "b9352920cda2",
@@ -234,11 +280,53 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China CNBC",
-      "capturedAt": "2026-09-01T00:54:39.801067+00:00"
+      "capturedAt": "2026-09-01T06:53:57.761089+00:00"
+    },
+    {
+      "id": "60293491a92e",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "聯發科一字鎖漲停！輝達砸35億美元注資加持 分析師樂看：黃仁勳點石成金 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxOMXE0VXF2S196QW9rTkU1OHNNaXJNYlZWUGxyOG00UnlrMnVTVFJMa3lUcHhGRk5NT1NEN0ZYLUhCUEZ5OTNBNDdSaTZFSHFEdWlwU3VYeEFMdzdZM3RGTUh3S1BaUlcya1oxQmFjWUpsbFFfOWZUcVo5eFdWNGtISlBNWFJGM3lXb3A3VU5rb3ZIU2dOb2RhX2hLOTZ5NDdzZ09ZdkEwaFF0X3RWaGtlVUxBQXU1blBNa25mVzkzdXg3WlI3RkdrUGFGbzNyMWk3eS0zSGJfNS1rMWNJZEIySkVsWmxLZTFHOFdGMktlMEJqTVFZam9kZXVaa0YwclBvT2JlUmdYUnVhMHdjMjRvT1lKTk9HRFpELUU0eGF6ejdUa3o4WV9yb2FiOWtvV2VqeUlrVDgtYXpZQTMzVzlPdF9EMWdGVVUtVVJCbzU3cDFiTFpYVFBuUXh2RlhhRHNwRnJoeVJyRWRVUHZJTzlQd0FUNzZYNjJfTjIxT1A2SDQzUzRBVU9ab2tnRG11V0pkU2FaNE1sd3FTRHV5WFhQZloyWUQtbkpWR3A2dDlNRUV5TnlpWWF0T1htZmR6MG9KbExmdDFFTVNMMm80Y1k3NWtFajZ6SlJYcFZNbU1XSQ?oc=5",
+      "publishedAt": "2026-09-01T01:58:06+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "聯發科一字鎖漲停！輝達砸35億美元注資加持 分析師樂看：黃仁勳點石成金 - Yahoo股市 聯發科一字鎖漲停！輝達砸35億美元注資加持 分析師樂看：黃仁勳點石成金 Yahoo股市",
+      "capturedAt": "2026-09-01T06:53:57.761089+00:00"
+    },
+    {
+      "id": "5e99e076d897",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Jensen Huang Says Humanoid Robots Are 'Very Very Close' To Industrial Reality As Nvidia, Hyundai Deepen Alliance - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc3hUdXFYUERYaUpqZHVqejVRSGVpVWI1ZEdEVGVoOVV1TENyc21HNWotSkw3V1hEckE1czNxbHVmYzkycTBGZ2NMN1F5bDdPNHVVOHNJSVY0OWVfZTVYMDdfQkkzTjZHaDRlNnRjbHF4bGktbk90cDRDOXR4cURYel9NNzAwelZkMzRoS3FJS0g0cHRtRHVObVdiU09PZC1wbnV6NXZBTC1EWEx5TURsc0F4Qy1lQUxKUHB0Y1Q1QXJrRVJBWHVadmNsdkpwZw?oc=5",
+      "publishedAt": "2026-09-01T00:11:28+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Jensen Huang Says Humanoid Robots Are 'Very Very Close' To Industrial Reality As Nvidia, Hyundai Deepen Alliance - Stocktwits Jensen Huang Says Humanoid Robots Are 'Very Very Close' To Industr",
+      "capturedAt": "2026-09-01T06:53:57.761089+00:00"
     },
     {
       "id": "d161c6bf3d3d",
-      "status": "source-only",
+      "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
@@ -255,11 +343,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "輝達首度砸錢入股台灣公司！1100億豪押聯發科 黃仁勳揭「10年合作版圖」 - Yahoo股市 輝達首度砸錢入股台灣公司！1100億豪押聯發科 黃仁勳揭「10年合作版圖」 Yahoo股市",
-      "capturedAt": "2026-09-01T00:54:39.801067+00:00"
+      "capturedAt": "2026-09-01T06:53:57.761089+00:00"
     },
     {
       "id": "85eaae6fb263",
-      "status": "source-only",
+      "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
@@ -276,11 +364,32 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "輝達聯發科新局3》錢繞一圈又回輝達？ 黃仁勳上火線否認 - Yahoo新聞 輝達聯發科新局3》錢繞一圈又回輝達？ 黃仁勳上火線否認 Yahoo新聞",
-      "capturedAt": "2026-09-01T00:54:39.801067+00:00"
+      "capturedAt": "2026-09-01T06:53:57.761089+00:00"
+    },
+    {
+      "id": "e075709bdbee",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "輝達、聯發科互借東風，黃仁勳：我們贏，他們也贏！ - 天下雜誌",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EZ2pwbW5BWm9OaGgwWHFwYTFlVUhtNTBTZkZmYUpGNHpiRExtS01OLWlZT0pneUkta0FjR1RNSktabFBPMS03eXpnOS1ZUQ?oc=5",
+      "publishedAt": "2026-08-31T21:09:43+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "輝達、聯發科互借東風，黃仁勳：我們贏，他們也贏！ - 天下雜誌 輝達、聯發科互借東風，黃仁勳：我們贏，他們也贏！ 天下雜誌",
+      "capturedAt": "2026-09-01T06:53:57.761089+00:00"
     },
     {
       "id": "b1e92a4d7fae",
-      "status": "source-only",
+      "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: Jensen Huang Korea",
@@ -301,32 +410,11 @@
         "dinner"
       ],
       "summary": "1 Dinner With Jensen Huang Can Spark a Stock Rally. Analysts Say Investors Should Be Careful - inc.com 1 Dinner With Jensen Huang Can Spark a Stock Rally. Analysts Say Investors Should Be Careful inc.com",
-      "capturedAt": "2026-09-01T00:54:39.801067+00:00"
-    },
-    {
-      "id": "b5e2cc245578",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "輝達千億投資聯發科！黃仁勳否認循環融資 強調十年期戰略合作 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56cmFzN2d1MXVEeVVUMlQ0SFRUUzJwWjlUd2pTNVlnWDhVMUtyaWdYVkJfSG1rNTg5YjliV1lJeE9QbTVESFZDbTRSNkZzVmVScWt3Ny1CaFB3d9IBX0FVX3lxTE1MMVY1SHNwcTVCS0RzSDNqZEpza2ROYUJNa1NMN1plbmhmdzJyREV6ZktEamQ2bnRKMC1lc2tuR3BubnpnWUlCcktCOEdBenZ0TEZuWnU3bDdtOVpFYVk4?oc=5",
-      "publishedAt": "2026-08-31T15:38:10+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "輝達千億投資聯發科！黃仁勳否認循環融資 強調十年期戰略合作 - 經濟日報 輝達千億投資聯發科！黃仁勳否認循環融資 強調十年期戰略合作 經濟日報",
-      "capturedAt": "2026-09-01T00:54:39.801067+00:00"
+      "capturedAt": "2026-09-01T06:53:57.761089+00:00"
     },
     {
       "id": "7949bb72b699",
-      "status": "source-only",
+      "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
@@ -343,11 +431,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "輝達砸35億美元投資聯發科 黃仁勳揭十年合作藍圖 - ETtoday財經雲 輝達砸35億美元投資聯發科 黃仁勳揭十年合作藍圖 ETtoday財經雲",
-      "capturedAt": "2026-09-01T00:54:39.801067+00:00"
+      "capturedAt": "2026-09-01T06:53:57.761089+00:00"
     },
     {
       "id": "42ba45fa3de6",
-      "status": "source-only",
+      "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
@@ -364,11 +452,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "NVIDIA與聯發科揭合作藍圖黃仁勳：AI大規格的工程整合- 新聞 - MoneyDJ NVIDIA與聯發科揭合作藍圖黃仁勳：AI大規格的工程整合- 新聞 MoneyDJ",
-      "capturedAt": "2026-09-01T00:54:39.801067+00:00"
+      "capturedAt": "2026-09-01T06:53:57.761089+00:00"
     },
     {
       "id": "e2a261e6d245",
-      "status": "source-only",
+      "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
@@ -385,11 +473,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳出手了！輝達首度重金投資台灣公司 認購聯發科35億美元海外可轉債 - Yahoo股市 黃仁勳出手了！輝達首度重金投資台灣公司 認購聯發科35億美元海外可轉債 Yahoo股市",
-      "capturedAt": "2026-09-01T00:54:39.801067+00:00"
+      "capturedAt": "2026-09-01T06:53:57.761089+00:00"
     },
     {
       "id": "dd1b94ef9edf",
-      "status": "source-only",
+      "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: Jensen Huang",
@@ -406,11 +494,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Was Addressing Nvidia Employees When Trump Suddenly Called — Hours Later, Trump Celebrated the Chipmaker’s ‘Incredible’ Results: Report (UPDATED) - Yahoo Finance Jensen Huang Was",
-      "capturedAt": "2026-09-01T00:54:39.801067+00:00"
+      "capturedAt": "2026-09-01T06:53:57.761089+00:00"
     },
     {
       "id": "3a972ce22166",
-      "status": "source-only",
+      "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
@@ -427,11 +515,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "輝達豪砸35億美元投資聯發科！黃仁勳押注台灣晶片大廠 - news.cnyes.com 輝達豪砸35億美元投資聯發科！黃仁勳押注台灣晶片大廠 news.cnyes.com",
-      "capturedAt": "2026-09-01T00:54:39.801067+00:00"
+      "capturedAt": "2026-09-01T06:53:57.761089+00:00"
     },
     {
       "id": "7b6898d184ed",
-      "status": "source-only",
+      "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: Jensen Huang",
@@ -450,91 +538,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Trump Praises Nvidia CEO Jensen Huang On 'Incredible Numbers,' Calls Micron One Of The World's 'Hottest' Companies - Yahoo Finance Trump Praises Nvidia CEO Jensen Huang On 'Incredible Numbers,' Calls Micron One Of The",
-      "capturedAt": "2026-09-01T00:54:39.801067+00:00"
-    },
-    {
-      "id": "6fec160f6d51",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳一句「下一波AI是機器人」點火！這檔業績狂增250％ 實體AI概念股衝鋒 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZWx5TE05TW5maHdwVWJOTEhZamJsSzcwZDlWMGxwZzRNZnhmWWUyMXZUYS0wdlpfM1FrZ2FfRlN6eHdpZDhEYlcyVjZhSlAxa0RxcTI4dnpBM21kR1ZVWEpOZ3F3TjB0Wnh0MmxzSzZjUkRmb1BsbkhRODJhSWhFWVEwUVl1LUZOMmxkS1d2UW9mQW1mM2hJM01ELVFkamtUV2NKOGlaUGJjc1dCSm11VHFNR3RNQ0w4b1drQWZxZEh3S2x6TnlxSnVpWFJMb0xqUFhCVlFEM0dFcjVybFhKUTVDZjFvUTMyeHlJTE9iOVpsYUE?oc=5",
-      "publishedAt": "2026-08-31T00:30:53+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳一句「下一波AI是機器人」點火！這檔業績狂增250％ 實體AI概念股衝鋒 - Yahoo股市 黃仁勳一句「下一波AI是機器人」點火！這檔業績狂增250％ 實體AI概念股衝鋒 Yahoo股市",
-      "capturedAt": "2026-09-01T00:54:39.801067+00:00"
-    },
-    {
-      "id": "e0da8cef15b3",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "Jensen Huang is brilliant, wrathful — and always gets what he wants - The Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYUxaam85RGRoaU1NZTN4X1dwcGJLeEZQRzhpT0gzSE9fSzhILUMwR3JmdW9UVk1aUkNoWm40MDloZ3E4VEdWSXMxdXU0NF9reXhCR1FPVnRpbDZrdXdfNEdRaERmM2NhWlhielBhaTYzdnNNTzdiMUxFXzRXWVNvcHZEZGplRUlkeVhpbHR3?oc=5",
-      "publishedAt": "2026-08-30T11:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Jensen Huang is brilliant, wrathful — and always gets what he wants - The Times Jensen Huang is brilliant, wrathful — and always gets what he wants The Times",
-      "capturedAt": "2026-09-01T00:54:39.801067+00:00"
-    },
-    {
-      "id": "34ab8058afbf",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "整理包／台股5萬點靠他們？ 黃仁勳概念股助漲東風 完整台廠供應鏈名單、潛在受惠股一次看 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQUlViSHpPeDVlY29yaHFNNE5NcVlUQnE3ZThTcXRGNHgxYTVPOVVTRDlaTDV6Zml5WEwxVHNSeGFDcnVHUHhRSW15SzNpU0dYVDU3dThWNEVCbkZI?oc=5",
-      "publishedAt": "2026-08-30T09:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "整理包／台股5萬點靠他們？ 黃仁勳概念股助漲東風 完整台廠供應鏈名單、潛在受惠股一次看 - 經濟日報 整理包／台股5萬點靠他們？ 黃仁勳概念股助漲東風 完整台廠供應鏈名單、潛在受惠股一次看 經濟日報",
-      "capturedAt": "2026-09-01T00:54:39.801067+00:00"
-    },
-    {
-      "id": "6dca0e3d98a9",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳：AI 算力瓶頸已延伸至土地、電力與機房 重電股重新復活 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5La3NuZjFpcDRIM2hueE1BUklRYzZiekJTT2hUdnBfOWZoTHVnZjlPQ0RCT3k3REcwci1EREoyTzE3Mm1UUEhjTXpKMkVFN1lYdG1jNjB5MzVPd9IBX0FVX3lxTE9zQXU5SVdtQnFwY0pmRXdqV3A2YW1URGhfSlRYS2REY1ZzMzgyR0NhSUswOEpMVUlTU1RTUXgwQkY2S2JBdkhCUzMzcnRiRm1YQU5TN1VYbkl3WXRqSkhn?oc=5",
-      "publishedAt": "2026-08-30T09:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳：AI 算力瓶頸已延伸至土地、電力與機房 重電股重新復活 - 經濟日報 黃仁勳：AI 算力瓶頸已延伸至土地、電力與機房 重電股重新復活 經濟日報",
-      "capturedAt": "2026-09-01T00:54:39.801067+00:00"
+      "capturedAt": "2026-09-01T06:53:57.761089+00:00"
     }
   ],
   "errors": [
