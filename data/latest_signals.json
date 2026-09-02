@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-02T06:31:54.117826+00:00",
+  "generatedAt": "2026-09-02T12:36:48.008108+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
-  "publishedToTimeline": 12,
+  "publishedToTimeline": 10,
   "signals": [
     {
       "id": "1791b5deeb07",
@@ -25,7 +25,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Park Young-sun: \"Jensen Huang's Korea Visit Aims to Secure Korean Materials, Components, and Equipment First... South Korea Must Leap to Become an AI Ecosystem Designer\" - finance.biggo.com Park Young-sun: \"Je",
-      "capturedAt": "2026-09-02T06:31:54.117843+00:00"
+      "capturedAt": "2026-09-02T12:36:48.008121+00:00"
     },
     {
       "id": "bd37c9f56d7a",
@@ -48,7 +48,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "樸映宣：黃仁勳訪韓意在搶佔韓國材料零元件裝置供應鏈…韓國應躍升為AI生態系設計國 - BigGo 財經 樸映宣：黃仁勳訪韓意在搶佔韓國材料零元件裝置供應鏈…韓國應躍升為AI生態系設計國 BigGo 財經",
-      "capturedAt": "2026-09-02T06:31:54.117843+00:00"
+      "capturedAt": "2026-09-02T12:36:48.008121+00:00"
     },
     {
       "id": "7028d3ce54a3",
@@ -71,54 +71,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "討論牆 | 黃仁勳受邀出席！SK海力士美國新廠8月27日動工 2028年量產HBM - LINE TODAY 討論牆 | 黃仁勳受邀出席！SK海力士美國新廠8月27日動工 2028年量產HBM LINE TODAY",
-      "capturedAt": "2026-09-02T06:31:54.117843+00:00"
-    },
-    {
-      "id": "58152bf4dd4f",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "OpenAI, Nvidia CEOs to speak at tech-focused G20 meeting - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ2hNTjJlM0VMcW8yeWg1UjUtUWRVbDE2WFlUb0ZQTTRkb1hNaEUtdTd6MGZGelFvN1hwU2hHMHhNNGNOSVVxMVNhUmFKMlVBNGJkT1hOdDNCMjZKWmRrcEtrY3JGWFlMU3dPOWYxTGNDaUt2VjZlQzRWZW01dlE2a1RwRUZtblRqZDA3bVVwVllRWmpWZTF5ZmJ5cXBfZFlfNUEtYWtmXzZYd19pTEkxVA?oc=5",
-      "publishedAt": "2026-08-27T15:58:11+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "NVIDIA CEO",
-        "Nvidia CEO"
-      ],
-      "matchedEventKeywords": [
-        "meeting"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "OpenAI, Nvidia CEOs to speak at tech-focused G20 meeting - Reuters OpenAI, Nvidia CEOs to speak at tech-focused G20 meeting Reuters",
-      "capturedAt": "2026-09-02T06:31:54.117843+00:00"
-    },
-    {
-      "id": "c884a0632ccc",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳快閃台灣「只待2小時」 財報前夕神秘行程引關注 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOaTdNNVVLMExGNVFaSFUyM3BsVWk3X2Y5UnU5ZjhndEZITTRyYVpSUzBHbWpNUXlMVklXMU51YnY3eXhYcmtmQjhfTFlfVzBSN3V2dGwxdHotYk5YbG5lNklDdjB3TklhYmVHV2tiUTM5MFRYanV1dDRoSVI3M196NlhrRHlCUGZ6aFBObk5HQmstczlhcWRmc3F6VTFSbVM0NkVmUVZ3eF8yQkU3Uk1BOGZFMjl4UlYxTmhNOUNYR3hobVhqemZYM0JOU2JqWnVmWHM1YXJHVjVPNm9Eb3JkNVhzbEROc2JLd3dkSHRUNVB0SVdJLU5URmtuWkhqTkxMQ3o3N0FrNTZ1STJUZlFwUzdrOVpVZnRUa3UyUnd6NjgtY0xvOWhXQjNLRUt3UXVzeEZGT29vMlpfNG51UkFnR3c4VTlySDNhOGNnQnBSOFV6S3VRaXFWN0h2cFZzYXVtODJvakRCbw?oc=5",
-      "publishedAt": "2026-08-23T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "行程"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳快閃台灣「只待2小時」 財報前夕神秘行程引關注 - Yahoo股市 黃仁勳快閃台灣「只待2小時」 財報前夕神秘行程引關注 Yahoo股市",
-      "capturedAt": "2026-09-02T06:31:54.117843+00:00"
+      "capturedAt": "2026-09-02T12:36:48.008121+00:00"
     },
     {
       "id": "dcf8c4348ae2",
@@ -141,57 +94,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "「AI教父」黃仁勳悄悄來台！行程全保密藏不住 北市買包子被民眾抓包 - Yahoo新聞 「AI教父」黃仁勳悄悄來台！行程全保密藏不住 北市買包子被民眾抓包 Yahoo新聞",
-      "capturedAt": "2026-09-02T06:31:54.117843+00:00"
-    },
-    {
-      "id": "563a8c76e773",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 55,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "最新！黃仁勳低調來台「行程保密」 民眾驚喜搶合照 - 鏡新聞",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xN1hfa0owYXBoSFczc3czZW9hVFp0SUlxWVF3bTYyS29TNDV6eUtaLTRrLWk0N3g1SURqTC1tVVBPQmdOQmxlcHZzU01COHBjRGkzenFTZFLSAV5BVV95cUxPbS1pemZ3di1kSWVDSzdZSHVTdEktSFg3MEJFcHdVWVZZMUhVaUZrQjA0aEZhcWsyTmh0a3AweVN3NFZsNXI0c0F4Mnd1Zmh2TnRTOU5KeUtjN1Y3WXJB?oc=5",
-      "publishedAt": "2026-08-23T05:25:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "行程"
-      ],
-      "privacyReviewFlags": [
-        "合照"
-      ],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [
-        "合照"
-      ],
-      "summary": "最新！黃仁勳低調來台「行程保密」 民眾驚喜搶合照 - 鏡新聞 最新！黃仁勳低調來台「行程保密」 民眾驚喜搶合照 鏡新聞",
-      "capturedAt": "2026-09-02T06:31:54.117843+00:00"
-    },
-    {
-      "id": "ac3670654de5",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Jensen Huang Declares 'ChatGPT Moment' Has Arrived for Robotics — Eyes on South Korea's Manufacturing Infrastructure - finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uUkZOOEVxOWRSX3JieV9zb1BUYVUwQkdOZXpaTS1aVnBUZVQ0NldRS2Z3TzhfekNkOV8zdkJTVmt1ZkluV1NCaURvNGtwRFVwX3lmSTU1bHVYbmxDTExsd1NCcGZNWFU2VUJTaFN0X2pFSVh4enc?oc=5",
-      "publishedAt": "2026-08-19T10:05:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [
-        "arrived"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Jensen Huang Declares 'ChatGPT Moment' Has Arrived for Robotics — Eyes on South Korea's Manufacturing Infrastructure - finance.biggo.com Jensen Huang Declares 'ChatGPT Moment' Has Arrived for",
-      "capturedAt": "2026-09-02T06:31:54.117843+00:00"
+      "capturedAt": "2026-09-02T12:36:48.008121+00:00"
     },
     {
       "id": "437a888b6131",
@@ -215,7 +118,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Four days after Jensen Huang met Koo Kwang-mo... his daughter will visit LG's robotics hub - 매일경제 Four days after Jensen Huang met Koo Kwang-mo... his daughter will visit LG's robotics hub 매일경제",
-      "capturedAt": "2026-09-02T06:31:54.117843+00:00"
+      "capturedAt": "2026-09-02T12:36:48.008121+00:00"
     },
     {
       "id": "e6121bfbe09d",
@@ -238,16 +141,16 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 | EBC 東森新聞 - LINE TODAY 拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 | EBC 東森新聞 LINE TODAY",
-      "capturedAt": "2026-09-02T06:31:54.117843+00:00"
+      "capturedAt": "2026-09-02T12:36:48.008121+00:00"
     },
     {
-      "id": "4324ef7e0faf",
+      "id": "ef9eab5c04f9",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 - news.ebc.net.tw",
+      "title": "拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 - 東森新聞",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0RnliZHhGOHEtZ3V4SWFpMlM3YVpFekk2djZNejBFbHpDdWYwWGdMaWd3cERYT2FQNVU4a1M5MUN3cUYtWFdSa3g0RkdKWVZLdDFiTUNFZw?oc=5",
       "publishedAt": "2026-08-14T07:00:00+00:00",
       "detectedDates": [],
@@ -260,8 +163,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 - news.ebc.net.tw 拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 news.ebc.net.tw",
-      "capturedAt": "2026-09-02T06:31:54.117843+00:00"
+      "summary": "拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 - 東森新聞 拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 東森新聞",
+      "capturedAt": "2026-09-02T12:36:48.008121+00:00"
     },
     {
       "id": "1b951c5723d8",
@@ -284,11 +187,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "4923 力士 - 黃仁勳有望出席！ SK海力士美國HBM新廠27日動工- 股市爆料同學會 - CMoney 4923 力士 - 黃仁勳有望出席！ SK海力士美國HBM新廠27日動工- 股市爆料同學會 CMoney",
-      "capturedAt": "2026-09-02T06:31:54.117843+00:00"
+      "capturedAt": "2026-09-02T12:36:48.008121+00:00"
     },
     {
       "id": "21a4b16b0857",
-      "status": "needs-review",
+      "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳 韓國",
@@ -307,11 +210,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳受邀出席！SK海力士美國新廠8月27日動工 2028年量產HBM - news.cnyes.com 黃仁勳受邀出席！SK海力士美國新廠8月27日動工 2028年量產HBM news.cnyes.com",
-      "capturedAt": "2026-09-02T06:31:54.117843+00:00"
+      "capturedAt": "2026-09-02T12:36:48.008121+00:00"
     },
     {
       "id": "19e5467fa6a3",
-      "status": "needs-review",
+      "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 55,
       "sourceName": "Google News: Jensen Huang Korea",
@@ -334,34 +237,36 @@
         "visits"
       ],
       "summary": "Bill Gates Visits South Korea, Chey Tae-won Divorce, Koo Kwang-mo Meets Jensen Huang: August 14 Marks 'Super Week' for Korean Business - finance.biggo.com Bill Gates Visits South Korea, Chey Tae-won Divorce, Koo Kwang-mo Meets Jensen Huang: August 14 Marks 'Super",
-      "capturedAt": "2026-09-02T06:31:54.117843+00:00"
+      "capturedAt": "2026-09-02T12:36:48.008121+00:00"
     },
     {
-      "id": "b9352920cda2",
-      "status": "needs-review",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: Jensen Huang",
+      "id": "5cca1f714486",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang Korea",
       "sourceType": "新聞彙整",
-      "title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYU55bUVtSkMySDZUS2RPRWpBTTRRZHhucjFpaUxWM0RoV0NuMVFPNFh1T29XMkpSR1NYRm5Oc1hUc1hnWTNVOXd5T29qXzNVTWdxRWxpal9oT1VCNk1kQVNYeW9fVDBZNG1jODVJNHN3R0lMQ19KSmwtY2JNQXM1V3ptYk7SAYoBQVVfeXFMTmt2WjUtTThxd2gzZnhqcW8wejI3WWdRNDlaZGFLaVFTZXQyZ0tkLW80RW4wSXFoMDBlNTVjZ1pnNFBpQzBQZjJFY0xHQ3Q5S2p4OHdSV05QZi01eG5XcFFmOGVHWmV6MndsZ2dNNU9NLU9FVHUzMkpmaE1DTGVEcS12NXBHcl9CWlJ3?oc=5",
-      "publishedAt": "2026-08-11T07:00:00+00:00",
+      "title": "Jensen Huang says dinner with him could double your stock overnight - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY0xlTUlDUXQzOU5mM0tmTXZwWm9OWEVoQzNQN2doTmJrSy1ZTlFFVm5wU2FzbDhFV1FwWTlBTjZRSjRQNjA4LVRyUGFRTnh5YWhkVDFDWWxvZHdObkVyeXE0cnhTQ2dMOVZGWEk1OUdSU1l0TWI1ZWdjblVMUndzWWdfcDMxTGRWWHhsX3NTVEp6emhtOVNCUDlOWXltNW1pekk3TGN6ZzA1anp3R05tRk5wc1g1aWUtRmZKNU5VRdIBxAFBVV95cUxPbzFOUGlkQnpqUVF6YjYzdHZZVGdZZ0ExMUZLQzJYeW9zV1ZkdWFjZWlHbUVraWVjcjJMVlI1RnJSdW1tbUZ1YzhqWWRGYU9EaElYVEJ1QTZ3WHZiZmZYNldqOG1TUzR5Nnhpa3l3VDBQSzNRLWhuOEJkbDZWQTNMM3ZkMndnODdoVjlLU1V3SmFuZ3h4TncxR0tsajM0SjZ6TzEweFR2WnpGSFQtY1NKeHdrZnJzQXFFYml2eUFpbFRyd1dt?oc=5",
+      "publishedAt": "2026-09-02T09:06:08+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "Jensen Huang"
       ],
-      "matchedEventKeywords": [
-        "CES"
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [
+        "dinner"
       ],
-      "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China CNBC",
-      "capturedAt": "2026-09-02T06:31:54.117843+00:00"
+      "publicContextFlags": [
+        "dinner"
+      ],
+      "summary": "Jensen Huang says dinner with him could double your stock overnight - Moneycontrol.com Jensen Huang says dinner with him could double your stock overnight Moneycontrol.com",
+      "capturedAt": "2026-09-02T12:36:48.008121+00:00"
     },
     {
       "id": "ea9327279159",
-      "status": "needs-review",
+      "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: Jensen Huang",
@@ -378,11 +283,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang: CrowdStrike Is Nvidia’s ‘No. 1 Cybersecurity Partner’ - crn.com Jensen Huang: CrowdStrike Is Nvidia’s ‘No. 1 Cybersecurity Partner’ crn.com",
-      "capturedAt": "2026-09-02T06:31:54.117843+00:00"
+      "capturedAt": "2026-09-02T12:36:48.008121+00:00"
     },
     {
       "id": "dcf644245890",
-      "status": "needs-review",
+      "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: Jensen Huang",
@@ -401,16 +306,16 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang Drops a Bombshell on AI Spending - Barchart.com Nvidia CEO Jensen Huang Drops a Bombshell on AI Spending Barchart.com",
-      "capturedAt": "2026-09-02T06:31:54.117843+00:00"
+      "capturedAt": "2026-09-02T12:36:48.008121+00:00"
     },
     {
-      "id": "f3441a142705",
-      "status": "needs-review",
+      "id": "04bfd680ef0e",
+      "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: Jensen Huang",
       "sourceType": "新聞彙整",
-      "title": "Nvidia CEO Jensen Huang says AI will create 'hundreds of thousands' of new jobs—including in the trades - Fortune",
+      "title": "Nvidia CEO Jensen Huang says AI will create 'hundreds of thousands' of new jobs—including in the trades - fortune.com",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZ3hBNzNSX2lWRjFBRnh3WDdyd3FwXzZ3U3I3al81ODA2VFJyNXVJZjNQZDJsZExQVUluVzU5VjJBaTNNRUxpaE8wVjB1WWdjcTdES2Q3ZDluZGxOYlhHUzFuVmhqcnRIUnBrSzVxc080UTVHaHJlU0t5YmgtQ1JkYk43Y0xYYUo4b19ydVQxTlk4U0M3OVBWeFpBdkYtT005Vm9yNlFnZk9wUmpqcU1YN01Jb0VrNVNFWkFtVTBPY19EVmgzekZaclpjRGRBNTZK?oc=5",
       "publishedAt": "2026-09-01T11:55:00+00:00",
       "detectedDates": [],
@@ -423,12 +328,12 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "Nvidia CEO Jensen Huang says AI will create 'hundreds of thousands' of new jobs—including in the trades - Fortune Nvidia CEO Jensen Huang says AI will create 'hundreds of thousands' of new jobs—including",
-      "capturedAt": "2026-09-02T06:31:54.117843+00:00"
+      "summary": "Nvidia CEO Jensen Huang says AI will create 'hundreds of thousands' of new jobs—including in the trades - fortune.com Nvidia CEO Jensen Huang says AI will create 'hundreds of thousands' of new jobs—inclu",
+      "capturedAt": "2026-09-02T12:36:48.008121+00:00"
     },
     {
       "id": "0f0a03acfdb6",
-      "status": "needs-review",
+      "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: Jensen Huang",
@@ -445,11 +350,55 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia Just Slid 5% Post-Earnings. Again. CEO Jensen Huang Insists \"This Time Is Different.\" Is the Stock Still a Buy? - Yahoo Finance Nvidia Just Slid 5% Post-Earnings. Again. CEO Jensen Huang Insists \"This Time Is Different.\" Is the Sto",
-      "capturedAt": "2026-09-02T06:31:54.117843+00:00"
+      "capturedAt": "2026-09-02T12:36:48.008121+00:00"
+    },
+    {
+      "id": "2f128c79f994",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Nvidia CEO Jensen Huang was asked to name the smartest person he has met; his unexpected answer may chang - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPa1VJU0NLRUw2aHFkeTJzd2xxLUxseGQzTkljS18zVTN6c2NocGQxZzVpblJvR0lsbmJud0tZbDB3am9CZE56M09JOTU2WGxRT2swbDl1M1JEMzNoYnQwV1VmZmJSRFJiZEdpOFNUWVAxUVhEd3Ntbk1Cb0tVSlUtUzMtekpSVjQzSWxMT2NtVWlKM1prRnMtekN0N1NPcGJMZGhYc2pZLURwOERZcnBaZXpTczVaRlZCUkJUc0NyRWtzMlBkLUFIb2YweUxDTTdITlhMWkM3LU05eXF2TWdQaWx2Vl91NVlqWll0TkpHcjVSLWJreHdNNjFVdjBYUTZUMTFyeDZ5VnM5NS15SWdlb3pORkZkbnVhZWdmc0xoUWZwZ3BydjJGMVQ2Sk43bmsydi1laHRlLXBSRXc1NDNGQWN0SWpYU3Q4Q3UxQmFQT19wZ1djQm5SU1BNNEFiS2k4aGxEdnV3WkE2bnlNMlBFStIB9gJBVV95cUxOSlpnajM3ZzB4RTVDUTZRN2tzQm1rMU5qZW9CbnlST2hwVWwzSWh6bDVuTHp6WnFLTDlHWEc1bFdNVURIak1rak4xbzVkVUdaUDBoS2hKTnF1MnE0Uk5xWEVjNUFtQnVyTTd4dC1HRDltUG1HNElJWHBKOHhRaGZHMEd1YXlXd3NRTjh4Y1YzZEFLTkppQjR3TlNPOEtGZ0o5a2Q3UXBVUDcwUlZWMGZmX2pHU2tHMng3RTBoaVdiOXlpRXh4ZTJqT3IyZHZwNUhGNUo5QnNLYkJqOEFaUktMRTlKbnIzSWlpZ1I3WnlsTmoxbG5TR2lEdHF1QlhuYmZHS01fdlk5dXZleEpuTGVYT3ROdVhWR1hLX1NSSHVldElka1N5QXk0VzdER0pzWURMaGZJbXBLQnNUOXpTaWY1YU4ydVY0Vjl3clJkMXFZdWRJeTIxMkJfMzhJZEpDOGw4U1dDRDZteTBmc0dacENGeXY3a0RWdw?oc=5",
+      "publishedAt": "2026-09-01T09:27:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang",
+        "NVIDIA CEO",
+        "Nvidia CEO"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Nvidia CEO Jensen Huang was asked to name the smartest person he has met; his unexpected answer may chang - The Times of India Nvidia CEO Jensen Huang was asked to name the smartest person he has met; hi",
+      "capturedAt": "2026-09-02T12:36:48.008121+00:00"
+    },
+    {
+      "id": "34ab8058afbf",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "整理包／台股5萬點靠他們？ 黃仁勳概念股助漲東風 完整台廠供應鏈名單、潛在受惠股一次看 - 經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQUlViSHpPeDVlY29yaHFNNE5NcVlUQnE3ZThTcXRGNHgxYTVPOVVTRDlaTDV6Zml5WEwxVHNSeGFDcnVHUHhRSW15SzNpU0dYVDU3dThWNEVCbkZI?oc=5",
+      "publishedAt": "2026-09-01T09:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "整理包／台股5萬點靠他們？ 黃仁勳概念股助漲東風 完整台廠供應鏈名單、潛在受惠股一次看 - 經濟日報 整理包／台股5萬點靠他們？ 黃仁勳概念股助漲東風 完整台廠供應鏈名單、潛在受惠股一次看 經濟日報",
+      "capturedAt": "2026-09-02T12:36:48.008121+00:00"
     },
     {
       "id": "b99d53aa4778",
-      "status": "needs-review",
+      "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
@@ -466,18 +415,18 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳一出手！台積電尾盤吸金破百億元 收2440元今日最高價 - Yahoo股市 黃仁勳一出手！台積電尾盤吸金破百億元 收2440元今日最高價 Yahoo股市",
-      "capturedAt": "2026-09-02T06:31:54.117843+00:00"
+      "capturedAt": "2026-09-02T12:36:48.008121+00:00"
     },
     {
       "id": "67ed41c79769",
-      "status": "needs-review",
+      "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
       "title": "黃仁勳也變00403A、00406A富爸爸！逾10檔「聯發科ETF」暴衝 最猛漲近6% - Yahoo股市",
       "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOTGpwMktlUTU1NmdxY0dPWWdHZVFvbU5VT0hnYkVvWTIxTW85WWpVaWRycks2SmVIQmZSYkU1ZDBrVFhmNjlOSVpmdlFtVWVNNzVPaDFrM0xSeWFlaGpmQU5qYWd2LTZKR2dOT0JtUkxuQW5PdjA1Z181MGVaRGt4dFZkdWFtSmxLeW9WTk1SeXp5OHhVOWduMjFGbkhLcnhIUklRcUN0QlVVbXN6RVFaSFpBRjJOUVFuTmxqUng1ZVBad3lkZWhYXzVfUWRNdlRSTFppTjZGUGo4OU1nY1RUcmlaX0tnM0RVOEk4Yk54N29fbnZIbmY0clRpbEFOTmtkYU1NYjhHN1B5ZTl6MVRTOFBQQVcyU09LaENsVEFsTENzUkF4Wms5STFfajg5a0tvY2x3aHJlWEo3enlKVUR5NnVQdlQ0WjM3Y0hfVFBIUDR1anEycDc4VVo4NURSMEVXRzVRNG55UVJFbVdkc0ljTVFTU0R4RTg0WnpPRlZiWmlGUVFiRnMtOA?oc=5",
-      "publishedAt": "2026-09-01T04:30:50+00:00",
+      "publishedAt": "2026-09-01T04:26:56+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -487,11 +436,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳也變00403A、00406A富爸爸！逾10檔「聯發科ETF」暴衝 最猛漲近6% - Yahoo股市 黃仁勳也變00403A、00406A富爸爸！逾10檔「聯發科ETF」暴衝 最猛漲近6% Yahoo股市",
-      "capturedAt": "2026-09-02T06:31:54.117843+00:00"
+      "capturedAt": "2026-09-02T12:36:48.008121+00:00"
     },
     {
       "id": "fc31bbe734dd",
-      "status": "needs-review",
+      "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
@@ -508,18 +457,18 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "輝達聯發科深化合作，黃仁勳、蔡力行揭密 35 億美元投資與全方位改寫 AI 產業規則邏輯 - TechNews 科技新報 輝達聯發科深化合作，黃仁勳、蔡力行揭密 35 億美元投資與全方位改寫 AI 產業規則邏輯 TechNews 科技新報",
-      "capturedAt": "2026-09-02T06:31:54.117843+00:00"
+      "capturedAt": "2026-09-02T12:36:48.008121+00:00"
     },
     {
-      "id": "d161c6bf3d3d",
-      "status": "needs-review",
+      "id": "0a13e4cc98d2",
+      "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
-      "title": "輝達首度砸錢入股台灣公司！1100億豪押聯發科 黃仁勳揭「10年合作版圖」 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxORHc3U090UE1wSzhvNVNEU3JsOUJnY1BwVkUwVmtTeHRQQ0RXZ3I5UVZCZElmUHFjMUxEWUxQTFBFby1ENmtBeHFJRG1sX1I4UWVXeE1VRm5kSWh2RGFiOVRCMmdyd2Y2YXd0aG5uZ1JDbmVNcU1jRjBhMVNPOGFLbmh3UDE1OW5hY0V5aU91VTRNbFJJVmNNSjQ5dW1EZ1lXUHB4Z3NGbFliZFNaeTFXLUM3cG1NOTROaXB4NFF3UzVYSGxPQ1lUYUFScFluNDMtSC1GSEZfTGY1ZXduMTRLRkJPLUtqVTktZUZQRGprVDlhTnQ0X2ExVUpuam5nRENuLTNfWUVYNldYdDg4MjhvRlY1V0VMT3JTdHFEbTNxYy11XzUtNmRFeW9ST2RkOXM2UnB4OVhHQ2dxNndjUFpHMzQtbUMzOHRTZVc2NkpTWG5lQ3BXWXhCREVERVNCaWZQY0pLcU5Fb3lsaG96cXl2QXZSMnBpLTV1Qng0NkgyN2Z4czNTOV82LW1lSHBNQUJVZ2lrT18zRTYyOG9jNGpISllzRE55R3NpVUNz?oc=5",
-      "publishedAt": "2026-08-31T23:50:00+00:00",
+      "title": "黃仁勳砸千億！ 認購聯發科ECB 攜手搶攻三大領域 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOanVFQ05CS2JxYUt2Q09EbXF5WDZScDY1NjdaTFptQ2pweWRIcFZZU214THZjQU5DTVdZaTJ4Z1dPcXJOdGNneW84ZG1TRUswbDR4UVg4MjJXQ1RrYkVIS2trYnJ6LVZXd2l4VXNEblNwSkpCN2JBTXhuSWJnODZGa19lSjVUczE2cW9Qc3dNeEhUaS12LTZPdlc4V0lkeGN1bElGOXg5TGFFcFlhZEZRMk9INDRJbHVSQkoyeVBqTUFMTmp1Q3hOS2x6NFZtaEw5azBRekc0aVRhb1I0SU9JSl9ZV1g5dTNfMGlVcjhIM0Q0d3VOMnVsV1FFQktFdXZWY3JqWmVNaHd2U3VtbHlSeXBPdU0wZl9jUFNjSjlQcG0wdFU2N0dMOVJoNTBIaEZkNlg1WDkxbDFXcWhuVmZieGItVUd2UQ?oc=5",
+      "publishedAt": "2026-09-01T00:55:09+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -528,12 +477,12 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "輝達首度砸錢入股台灣公司！1100億豪押聯發科 黃仁勳揭「10年合作版圖」 - Yahoo股市 輝達首度砸錢入股台灣公司！1100億豪押聯發科 黃仁勳揭「10年合作版圖」 Yahoo股市",
-      "capturedAt": "2026-09-02T06:31:54.117843+00:00"
+      "summary": "黃仁勳砸千億！ 認購聯發科ECB 攜手搶攻三大領域 - Yahoo股市 黃仁勳砸千億！ 認購聯發科ECB 攜手搶攻三大領域 Yahoo股市",
+      "capturedAt": "2026-09-02T12:36:48.008121+00:00"
     },
     {
       "id": "20fe335af59a",
-      "status": "needs-review",
+      "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
@@ -550,7 +499,53 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳和蔡力行接受彭博社採訪：攜手聯發科開放XPU生態系 - 信傳媒 黃仁勳和蔡力行接受彭博社採訪：攜手聯發科開放XPU生態系 信傳媒",
-      "capturedAt": "2026-09-02T06:31:54.117843+00:00"
+      "capturedAt": "2026-09-02T12:36:48.008121+00:00"
+    },
+    {
+      "id": "e075709bdbee",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "輝達、聯發科互借東風，黃仁勳：我們贏，他們也贏！ - 天下雜誌",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EZ2pwbW5BWm9OaGgwWHFwYTFlVUhtNTBTZkZmYUpGNHpiRExtS01OLWlZT0pneUkta0FjR1RNSktabFBPMS03eXpnOS1ZUQ?oc=5",
+      "publishedAt": "2026-08-31T21:09:43+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "輝達、聯發科互借東風，黃仁勳：我們贏，他們也贏！ - 天下雜誌 輝達、聯發科互借東風，黃仁勳：我們贏，他們也贏！ 天下雜誌",
+      "capturedAt": "2026-09-02T12:36:48.008121+00:00"
+    },
+    {
+      "id": "b1e92a4d7fae",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "1 Dinner With Jensen Huang Can Spark a Stock Rally. Analysts Say Investors Should Be Careful - inc.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOWJIM1JJXzl1NVVGdzlwTEt1cGRveWE4QWdsYlRqT1dxaHhKXzE2dFI5MVozTW4zUC1aYTRKYU5Edk9zbGJIVExMZlhNRmxsa041eVhIZ0ZTelJhMVRsX0c3SFRDb0VtRFJFLWxNQl9BLUR5TXpnYmhTSjVmbFB5S0ZJY3R1dTZjQVk2VHZ3OVY0QzVhOThyQndNdlV1M0FiajZ6TzJROG9keW4wM2xHbXFUTWRlUWE5UUxVRVQ1UEcyNmtCTm5EYWZiZw?oc=5",
+      "publishedAt": "2026-08-31T17:08:46+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [
+        "dinner"
+      ],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [
+        "dinner"
+      ],
+      "summary": "1 Dinner With Jensen Huang Can Spark a Stock Rally. Analysts Say Investors Should Be Careful - inc.com 1 Dinner With Jensen Huang Can Spark a Stock Rally. Analysts Say Investors Should Be Careful inc.com",
+      "capturedAt": "2026-09-02T12:36:48.008121+00:00"
     }
   ],
   "errors": [
