@@ -1,9 +1,32 @@
 {
-  "generatedAt": "2026-09-06T21:06:26.968800+00:00",
+  "generatedAt": "2026-09-06T23:21:38.977883+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
   "publishedToTimeline": 12,
   "signals": [
+    {
+      "id": "1d5e3035ec61",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Jensen Huang Says AGI Has Arrived. He Sells the Machines That Built It - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOUZMYTliejlKS1dfSmZCRmZZUko2WjJHa2RvSW03UVh6V0wwY3VJUnJrSXBDaGczVEJnWTkxR204QzEzUE0tRk15TGlIbm9sQkNGNkVTQ3VUWlVLV1AyRkU5ZVVlaGctSGloX0dRWGdQYUppZEVFNnpnbWE3Y3ZVZ2c2ZXc3SUtLRWZtVlRJUlNyNXFhSy1GTA?oc=5",
+      "publishedAt": "2026-09-06T21:39:37+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [
+        "arrived"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Jensen Huang Says AGI Has Arrived. He Sells the Machines That Built It - Yahoo Finance Jensen Huang Says AGI Has Arrived. He Sells the Machines That Built It Yahoo Finance",
+      "capturedAt": "2026-09-06T23:21:38.977901+00:00"
+    },
     {
       "id": "98bd743a7f55",
       "status": "low-confidence",
@@ -25,7 +48,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia’s $13 billion Hugging Face bet reveals Jensen Huang’s vision for the next AI battleground - Fortune Nvidia’s $13 billion Hugging Face bet reveals Jensen Huang’s vision for the next AI battleground Fortune",
-      "capturedAt": "2026-09-06T21:06:26.968814+00:00"
+      "capturedAt": "2026-09-06T23:21:38.977901+00:00"
     },
     {
       "id": "0e8acf53fcfc",
@@ -48,7 +71,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳落榜、好萊塢影星名媛入選 《時代》AI百大為何大洗牌？ - 基督教論壇報 黃仁勳落榜、好萊塢影星名媛入選 《時代》AI百大為何大洗牌？ 基督教論壇報",
-      "capturedAt": "2026-09-06T21:06:26.968814+00:00"
+      "capturedAt": "2026-09-06T23:21:38.977901+00:00"
     },
     {
       "id": "1791b5deeb07",
@@ -71,7 +94,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Park Young-sun: \"Jensen Huang's Korea Visit Aims to Secure Korean Materials, Components, and Equipment First... South Korea Must Leap to Become an AI Ecosystem Designer\" - finance.biggo.com Park Young-sun: \"Je",
-      "capturedAt": "2026-09-06T21:06:26.968814+00:00"
+      "capturedAt": "2026-09-06T23:21:38.977901+00:00"
     },
     {
       "id": "bd37c9f56d7a",
@@ -94,7 +117,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "樸映宣：黃仁勳訪韓意在搶佔韓國材料零元件裝置供應鏈…韓國應躍升為AI生態系設計國 - BigGo 財經 樸映宣：黃仁勳訪韓意在搶佔韓國材料零元件裝置供應鏈…韓國應躍升為AI生態系設計國 BigGo 財經",
-      "capturedAt": "2026-09-06T21:06:26.968814+00:00"
+      "capturedAt": "2026-09-06T23:21:38.977901+00:00"
     },
     {
       "id": "7028d3ce54a3",
@@ -117,30 +140,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "討論牆 | 黃仁勳受邀出席！SK海力士美國新廠8月27日動工 2028年量產HBM - LINE TODAY 討論牆 | 黃仁勳受邀出席！SK海力士美國新廠8月27日動工 2028年量產HBM LINE TODAY",
-      "capturedAt": "2026-09-06T21:06:26.968814+00:00"
-    },
-    {
-      "id": "a30f7b41be90",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "輝達執行長黃仁勳傳快閃台灣！行程全程保密 - NOWnews今日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9XbTNwVTI1NWVxTzJHbE53QzRsOURqNUUtbndEbU1CNWk1RndiWWpvbmZFX0tlLS1OSlBmU2xOdnlzRDNKZlVDcU9QaUbSAVJBVV95cUxOT2NqbDFBdVJGQi1CcFBfT184d3VVZXlPeHdwaW9BcVJfTS1qOHhSM3l0SlFwY19yQllVVG9uMGtjM2MxQ2lmb3cwWTJwZm5UMjZR?oc=5",
-      "publishedAt": "2026-08-23T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "行程"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "輝達執行長黃仁勳傳快閃台灣！行程全程保密 - NOWnews今日新聞 輝達執行長黃仁勳傳快閃台灣！行程全程保密 NOWnews今日新聞",
-      "capturedAt": "2026-09-06T21:06:26.968814+00:00"
+      "capturedAt": "2026-09-06T23:21:38.977901+00:00"
     },
     {
       "id": "f02fd0a5924e",
@@ -164,7 +164,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO's daughter to visit LG factory for robotics talks - The Korea Herald Nvidia CEO's daughter to visit LG factory for robotics talks The Korea Herald",
-      "capturedAt": "2026-09-06T21:06:26.968814+00:00"
+      "capturedAt": "2026-09-06T23:21:38.977901+00:00"
     },
     {
       "id": "437a888b6131",
@@ -188,7 +188,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Four days after Jensen Huang met Koo Kwang-mo... his daughter will visit LG's robotics hub - 매일경제 Four days after Jensen Huang met Koo Kwang-mo... his daughter will visit LG's robotics hub 매일경제",
-      "capturedAt": "2026-09-06T21:06:26.968814+00:00"
+      "capturedAt": "2026-09-06T23:21:38.977901+00:00"
     },
     {
       "id": "ef9eab5c04f9",
@@ -211,17 +211,17 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 - 東森新聞 拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 東森新聞",
-      "capturedAt": "2026-09-06T21:06:26.968814+00:00"
+      "capturedAt": "2026-09-06T23:21:38.977901+00:00"
     },
     {
-      "id": "21a4b16b0857",
+      "id": "b9e42906fe7e",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "黃仁勳受邀出席！SK海力士美國新廠8月27日動工 2028年量產HBM - news.cnyes.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14ZEtzdHpDZFp2ZDhMS0RtbVFxU2Y0Ql9mMXJ4VldwVldwQjg3c3A0YWprNEV6Q3lZUHF3MmhaREIyWWhBUkJsNVFSdVVQUDA?oc=5",
+      "title": "黃仁勳受邀出席！SK海力士美國新廠8月27日動工 2028年量產HBM - Yahoo 財經",
+      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOVmh1ZEpmQjZMdzJMUUFhX1U4bVlMMm51Sm1TN2RkTGxKX2ljWkhIaGZIYWdQc3dCekx3bXlwN05ZcFQ2MFctcXdsQ0JfVzdMZEZRS3gteERmVGY3T3JYaXM3YkxaNEFMQTlOaEZNTDdMRkFTUldvLVE2ZkdneENDa09LaEFsOGRRX2cyTVowb1EteGx4b1JCcEx1WmhPRGdxZFE1MWVFYWdjQWZXRFVUaWNfYUJIbklkOXJFaG9LenhmMDNDXzdDaUJMZkpLaVFQazc2d1BZZW82czlVc3JzU0I3SmdINEZjNXNZblF5R3R3NzFyWjNQY1hlYW5SejloNW9VRkEtQTY0UXM0c3pRVUtKbEMzWGh0Z3ZZdUE0anpSdWZIajRTTE1HS2MyYjR1RVU1QkFuSm9lYzlyTmRkb1lsckxfUms1STlFZG5WNnR2RnRKS2Q1Qm5FVHRvYTlhVC16ZE53ZkZHUkVU?oc=5",
       "publishedAt": "2026-08-13T07:00:00+00:00",
       "detectedDates": [],
       "matchedKeywords": [
@@ -233,8 +233,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "黃仁勳受邀出席！SK海力士美國新廠8月27日動工 2028年量產HBM - news.cnyes.com 黃仁勳受邀出席！SK海力士美國新廠8月27日動工 2028年量產HBM news.cnyes.com",
-      "capturedAt": "2026-09-06T21:06:26.968814+00:00"
+      "summary": "黃仁勳受邀出席！SK海力士美國新廠8月27日動工 2028年量產HBM - Yahoo 財經 黃仁勳受邀出席！SK海力士美國新廠8月27日動工 2028年量產HBM Yahoo 財經",
+      "capturedAt": "2026-09-06T23:21:38.977901+00:00"
     },
     {
       "id": "b9352920cda2",
@@ -257,7 +257,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China CNBC",
-      "capturedAt": "2026-09-06T21:06:26.968814+00:00"
+      "capturedAt": "2026-09-06T23:21:38.977901+00:00"
     },
     {
       "id": "4da2aa527bed",
@@ -280,7 +280,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳狂讚華莎「連新歌都知道」 她得知身分後急寄手寫信致謝 - Yahoo新聞 黃仁勳狂讚華莎「連新歌都知道」 她得知身分後急寄手寫信致謝 Yahoo新聞",
-      "capturedAt": "2026-09-06T21:06:26.968814+00:00"
+      "capturedAt": "2026-09-06T23:21:38.977901+00:00"
     },
     {
       "id": "f11f9feb24a9",
@@ -301,7 +301,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳不忍了！1個字終結AI泡沫論 輝達最大底氣曝光 - Yahoo股市 黃仁勳不忍了！1個字終結AI泡沫論 輝達最大底氣曝光 Yahoo股市",
-      "capturedAt": "2026-09-06T21:06:26.968814+00:00"
+      "capturedAt": "2026-09-06T23:21:38.977901+00:00"
     },
     {
       "id": "5c95d4930fba",
@@ -322,7 +322,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳超強人氣壓倒「50位最佳CEO」7項領導風格成為新典範 - 自由財經 黃仁勳超強人氣壓倒「50位最佳CEO」7項領導風格成為新典範 自由財經",
-      "capturedAt": "2026-09-06T21:06:26.968814+00:00"
+      "capturedAt": "2026-09-06T23:21:38.977901+00:00"
     },
     {
       "id": "1b587b5fb40d",
@@ -343,7 +343,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "解析黃仁勳七大領導魅力，獲得輝達全體員工近乎 99% 壓倒性支持 - TechNews 科技新報 解析黃仁勳七大領導魅力，獲得輝達全體員工近乎 99% 壓倒性支持 TechNews 科技新報",
-      "capturedAt": "2026-09-06T21:06:26.968814+00:00"
+      "capturedAt": "2026-09-06T23:21:38.977901+00:00"
     },
     {
       "id": "021d1422efc1",
@@ -364,7 +364,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Said This Word Exactly 1 Time During Nvidia's Earnings Call, and That Was Enough to Put Artificial Intelligence (AI) Bubble Fears to Rest - The Motley Fool Jensen Huang Said This",
-      "capturedAt": "2026-09-06T21:06:26.968814+00:00"
+      "capturedAt": "2026-09-06T23:21:38.977901+00:00"
     },
     {
       "id": "e453d868fd0b",
@@ -385,7 +385,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang's Nvidia Guided for 70% Revenue Growth in Fiscal 2028, Far Above the 44% Wall Street Expected, as Amazon Agreed to Buy 2 Million Nvidia GPUs. Is the Growth Forecast Believable? -",
-      "capturedAt": "2026-09-06T21:06:26.968814+00:00"
+      "capturedAt": "2026-09-06T23:21:38.977901+00:00"
     },
     {
       "id": "83af7f52b88a",
@@ -406,7 +406,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Why this veteran tech CEO is impressed by Nvidia's Jensen Huang buying Hugging Face for $12.9 billion - Yahoo Finance Why this veteran tech CEO is impressed by Nvidia's Jensen Huang buying Hugging Face for $12.9 billion Yahoo Finance",
-      "capturedAt": "2026-09-06T21:06:26.968814+00:00"
+      "capturedAt": "2026-09-06T23:21:38.977901+00:00"
     },
     {
       "id": "fb30edab7dd8",
@@ -427,7 +427,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳出手「豪捐3億」賑災 尼泊爾財長致謝：前所未有 - Yahoo新聞 黃仁勳出手「豪捐3億」賑災 尼泊爾財長致謝：前所未有 Yahoo新聞",
-      "capturedAt": "2026-09-06T21:06:26.968814+00:00"
+      "capturedAt": "2026-09-06T23:21:38.977901+00:00"
     },
     {
       "id": "df382a132b0c",
@@ -448,16 +448,16 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳砸4100億收購Hugging Face！陸行之點名鴻海跟「這2大台廠」有望受惠 - Yahoo股市 黃仁勳砸4100億收購Hugging Face！陸行之點名鴻海跟「這2大台廠」有望受惠 Yahoo股市",
-      "capturedAt": "2026-09-06T21:06:26.968814+00:00"
+      "capturedAt": "2026-09-06T23:21:38.977901+00:00"
     },
     {
-      "id": "aa4c4beddab6",
+      "id": "70f330c9f871",
       "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
-      "title": "原想做聊天機器人…Hugging Face被黃仁勳買下創辦人身價各飆570億元| 全球財經| 全球 - udn",
+      "title": "原想做聊天機器人…Hugging Face被黃仁勳買下創辦人身價各飆570億元| 全球財經| 全球 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FVl9pTmdmQTNyRHJHNi1DWExaZ3ZmQ0Y0ekFVTFl6THhHVXI0YUJOVFhrQ1NMNDduOFljMmEzU0Q1WktsbmdhTW1JOGI1b0N6?oc=5",
       "publishedAt": "2026-09-04T07:04:30+00:00",
       "detectedDates": [],
@@ -468,8 +468,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "原想做聊天機器人…Hugging Face被黃仁勳買下創辦人身價各飆570億元| 全球財經| 全球 - udn 原想做聊天機器人…Hugging Face被黃仁勳買下創辦人身價各飆570億元| 全球財經| 全球 udn",
-      "capturedAt": "2026-09-06T21:06:26.968814+00:00"
+      "summary": "原想做聊天機器人…Hugging Face被黃仁勳買下創辦人身價各飆570億元| 全球財經| 全球 - UDN 原想做聊天機器人…Hugging Face被黃仁勳買下創辦人身價各飆570億元| 全球財經| 全球 UDN",
+      "capturedAt": "2026-09-06T23:21:38.977901+00:00"
     },
     {
       "id": "5e99e076d897",
@@ -490,7 +490,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Says Humanoid Robots Are 'Very Very Close' To Industrial Reality As Nvidia, Hyundai Deepen Alliance - Stocktwits Jensen Huang Says Humanoid Robots Are 'Very Very Close' To Industr",
-      "capturedAt": "2026-09-06T21:06:26.968814+00:00"
+      "capturedAt": "2026-09-06T23:21:38.977901+00:00"
     },
     {
       "id": "42919377032e",
@@ -511,7 +511,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Lee Jae-yong, Chey Tae-won to Meet Jensen Huang in New York, Strengthening AI Memory Alliance - finance.biggo.com Lee Jae-yong, Chey Tae-won to Meet Jensen Huang in New York, Strengthening AI Memory Alliance finance.biggo.com",
-      "capturedAt": "2026-09-06T21:06:26.968814+00:00"
+      "capturedAt": "2026-09-06T23:21:38.977901+00:00"
     },
     {
       "id": "de39385bc506",
@@ -532,7 +532,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "李在鎔、崔泰源紐約會晤黃仁勳，鞏固AI記憶體同盟 - BigGo 財經 李在鎔、崔泰源紐約會晤黃仁勳，鞏固AI記憶體同盟 BigGo 財經",
-      "capturedAt": "2026-09-06T21:06:26.968814+00:00"
+      "capturedAt": "2026-09-06T23:21:38.977901+00:00"
     }
   ],
   "errors": [
