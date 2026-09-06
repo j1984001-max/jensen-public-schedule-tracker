@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-06T06:34:58.783994+00:00",
+  "generatedAt": "2026-09-06T11:59:39.214911+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
-  "publishedToTimeline": 10,
+  "publishedToTimeline": 11,
   "signals": [
     {
       "id": "98bd743a7f55",
@@ -25,7 +25,30 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia’s $13 billion Hugging Face bet reveals Jensen Huang’s vision for the next AI battleground - Fortune Nvidia’s $13 billion Hugging Face bet reveals Jensen Huang’s vision for the next AI battleground Fortune",
-      "capturedAt": "2026-09-06T06:34:58.784008+00:00"
+      "capturedAt": "2026-09-06T11:59:39.214921+00:00"
+    },
+    {
+      "id": "0e8acf53fcfc",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳落榜、好萊塢影星名媛入選 《時代》AI百大為何大洗牌？ - 基督教論壇報",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwUjhVak1vaWZORzVQcEZMU0todE1Jc1hUYnRPZzVOcnFvaGQ5bzh6TDlfWUNKeTljU3FNVVpiX2p1eC1VVk9zdEJKRzY0b1BzeG5UV1pxN2dQZEpQdktGampsUnBoWEQyM1E?oc=5",
+      "publishedAt": "2026-09-03T06:50:44+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "論壇"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳落榜、好萊塢影星名媛入選 《時代》AI百大為何大洗牌？ - 基督教論壇報 黃仁勳落榜、好萊塢影星名媛入選 《時代》AI百大為何大洗牌？ 基督教論壇報",
+      "capturedAt": "2026-09-06T11:59:39.214921+00:00"
     },
     {
       "id": "1791b5deeb07",
@@ -48,7 +71,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Park Young-sun: \"Jensen Huang's Korea Visit Aims to Secure Korean Materials, Components, and Equipment First... South Korea Must Leap to Become an AI Ecosystem Designer\" - finance.biggo.com Park Young-sun: \"Je",
-      "capturedAt": "2026-09-06T06:34:58.784008+00:00"
+      "capturedAt": "2026-09-06T11:59:39.214921+00:00"
     },
     {
       "id": "bd37c9f56d7a",
@@ -71,7 +94,34 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "樸映宣：黃仁勳訪韓意在搶佔韓國材料零元件裝置供應鏈…韓國應躍升為AI生態系設計國 - BigGo 財經 樸映宣：黃仁勳訪韓意在搶佔韓國材料零元件裝置供應鏈…韓國應躍升為AI生態系設計國 BigGo 財經",
-      "capturedAt": "2026-09-06T06:34:58.784008+00:00"
+      "capturedAt": "2026-09-06T11:59:39.214921+00:00"
+    },
+    {
+      "id": "a263656f2de9",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 55,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "意外朝聖寧夏夜市「黃仁勳愛店」 韓星來台狂吸氣運：想賺很多錢 - ETtoday星光雲| ETtoday新聞雲",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HMVhqOHdDMG5IelFOSGJqY1d3Tm4xVUhQUGNvUDVVMkZNNDVOVGl5bjlNVzRWRDZZYm15QzZISFB5TU5VSFMyYjFBU1dNZ9IBTEFVX3lxTE9nVFBYVU5na1VYV3d4c1pCNGRPR2E5cEswZUFGc0tWVnFTOTNZc2xXY2x2SFJtVE40XzNFVnNZV0RCNkh1RjlGMVJfWTg?oc=5",
+      "publishedAt": "2026-09-01T02:20:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "CES"
+      ],
+      "privacyReviewFlags": [
+        "夜市"
+      ],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [
+        "夜市"
+      ],
+      "summary": "意外朝聖寧夏夜市「黃仁勳愛店」 韓星來台狂吸氣運：想賺很多錢 - ETtoday星光雲| ETtoday新聞雲 意外朝聖寧夏夜市「黃仁勳愛店」 韓星來台狂吸氣運：想賺很多錢 ETtoday星光雲| ETtoday新聞雲",
+      "capturedAt": "2026-09-06T11:59:39.214921+00:00"
     },
     {
       "id": "a30f7b41be90",
@@ -94,34 +144,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "輝達執行長黃仁勳傳快閃台灣！行程全程保密 - NOWnews今日新聞 輝達執行長黃仁勳傳快閃台灣！行程全程保密 NOWnews今日新聞",
-      "capturedAt": "2026-09-06T06:34:58.784008+00:00"
-    },
-    {
-      "id": "563a8c76e773",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 55,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "最新！黃仁勳低調來台「行程保密」 民眾驚喜搶合照 - 鏡新聞",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xN1hfa0owYXBoSFczc3czZW9hVFp0SUlxWVF3bTYyS29TNDV6eUtaLTRrLWk0N3g1SURqTC1tVVBPQmdOQmxlcHZzU01COHBjRGkzenFTZFLSAV5BVV95cUxPbS1pemZ3di1kSWVDSzdZSHVTdEktSFg3MEJFcHdVWVZZMUhVaUZrQjA0aEZhcWsyTmh0a3AweVN3NFZsNXI0c0F4Mnd1Zmh2TnRTOU5KeUtjN1Y3WXJB?oc=5",
-      "publishedAt": "2026-08-23T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "行程"
-      ],
-      "privacyReviewFlags": [
-        "合照"
-      ],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [
-        "合照"
-      ],
-      "summary": "最新！黃仁勳低調來台「行程保密」 民眾驚喜搶合照 - 鏡新聞 最新！黃仁勳低調來台「行程保密」 民眾驚喜搶合照 鏡新聞",
-      "capturedAt": "2026-09-06T06:34:58.784008+00:00"
+      "capturedAt": "2026-09-06T11:59:39.214921+00:00"
     },
     {
       "id": "f02fd0a5924e",
@@ -145,16 +168,16 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO's daughter to visit LG factory for robotics talks - The Korea Herald Nvidia CEO's daughter to visit LG factory for robotics talks The Korea Herald",
-      "capturedAt": "2026-09-06T06:34:58.784008+00:00"
+      "capturedAt": "2026-09-06T11:59:39.214921+00:00"
     },
     {
-      "id": "4324ef7e0faf",
+      "id": "ef9eab5c04f9",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 - news.ebc.net.tw",
+      "title": "拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 - 東森新聞",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0RnliZHhGOHEtZ3V4SWFpMlM3YVpFekk2djZNejBFbHpDdWYwWGdMaWd3cERYT2FQNVU4a1M5MUN3cUYtWFdSa3g0RkdKWVZLdDFiTUNFZw?oc=5",
       "publishedAt": "2026-08-14T07:00:00+00:00",
       "detectedDates": [],
@@ -167,8 +190,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 - news.ebc.net.tw 拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 news.ebc.net.tw",
-      "capturedAt": "2026-09-06T06:34:58.784008+00:00"
+      "summary": "拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 - 東森新聞 拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 東森新聞",
+      "capturedAt": "2026-09-06T11:59:39.214921+00:00"
     },
     {
       "id": "b9e42906fe7e",
@@ -191,7 +214,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳受邀出席！SK海力士美國新廠8月27日動工 2028年量產HBM - Yahoo 財經 黃仁勳受邀出席！SK海力士美國新廠8月27日動工 2028年量產HBM Yahoo 財經",
-      "capturedAt": "2026-09-06T06:34:58.784008+00:00"
+      "capturedAt": "2026-09-06T11:59:39.214921+00:00"
     },
     {
       "id": "b9352920cda2",
@@ -214,7 +237,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China CNBC",
-      "capturedAt": "2026-09-06T06:34:58.784008+00:00"
+      "capturedAt": "2026-09-06T11:59:39.214921+00:00"
     },
     {
       "id": "4da2aa527bed",
@@ -237,18 +260,18 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳狂讚華莎「連新歌都知道」 她得知身分後急寄手寫信致謝 - Yahoo新聞 黃仁勳狂讚華莎「連新歌都知道」 她得知身分後急寄手寫信致謝 Yahoo新聞",
-      "capturedAt": "2026-09-06T06:34:58.784008+00:00"
+      "capturedAt": "2026-09-06T11:59:39.214921+00:00"
     },
     {
-      "id": "eb391f895f06",
+      "id": "f11f9feb24a9",
       "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
-      "title": "最強CEO！黃仁勳99％支持率狠甩蘋果 「7領導特質」大揭密 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPYUtteHh1UUN4ckxNTER6V2YzeXp0di1HQzlQM05vUG5oa09vTGZwcERuQUFWYXhQQ2RjdW5yY2lsWEgtR3RWUHUzeWxNYmIwWDRtbEhmLWxvZjhnR24xUGV4MGlVSndWOU5Ca29keDFLZEZqTXhfQU9iQ0xNRDdGblBrdldGQ2FGcWl4VENSeVdDOUFSelZjV3BiM18ydElpVzladUhxRlNUZGxSUWV0WHYzdEsxbkk1UlNsV01ZUDQwdHY1cV9jbXlzbzJZcjdRRFVhSFg2LXBtQ2h0UjJhRDRlQ3FKVXoxU2FfQzhPV1NKdDdqd2E0blIweXNlcmUwU2RyM0RTVWdmU2lhdjdEMnNEME5ndXZ3ZHZoZ2xaWC1FNEQ0UjlDNzZaREVxd0F4ZUZSQXJJSzdMcG1WYWVQNnpycDU?oc=5",
-      "publishedAt": "2026-09-06T03:21:05+00:00",
+      "title": "黃仁勳不忍了！1個字終結AI泡沫論 輝達最大底氣曝光 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOeGlBekswU2c1OHZUQ1VIa09yVVBTUDBrSFlnSmtnUDVXcC1SdTF6Ym9sMklIUzB3YlVUNkMtRllFYWt6M3JuSzR5MERqYjB2WGlwcDNDODJqR3RraUZ3YjlvczVWbnIyYmNPTnBJVkxWdHhjcUFXOV9rNXBWcXZlNDFyVW1tQ3E4SFhZVDhLZ1M5eVl2aFpWeG5uOUktTHBIVGpBc1RQb3lFX2VtZEhFNTdod25RdXJDRkJ0WlBlR3hXejdWUWRFNHc1MFdMMkgxZlNJQ256cFk2RG8wMExvX0V3Vm9XWGRGNl84bUNpanRISjhCVWdkRk1RanR4MV9EYUxEVEhKdDhRd0dVbTBueWVNRWxlUlVVaXdlRHE0UTNpMVJhenFwM2JWSFlLT1FyVDZMNG43b2N2X1BaZi1JQzNESnVDU2plMzJyNTd4Y3BkSTQ3SXpVZXdmRi1Ldw?oc=5",
+      "publishedAt": "2026-09-06T08:20:00+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -257,8 +280,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "最強CEO！黃仁勳99％支持率狠甩蘋果 「7領導特質」大揭密 - Yahoo新聞 最強CEO！黃仁勳99％支持率狠甩蘋果 「7領導特質」大揭密 Yahoo新聞",
-      "capturedAt": "2026-09-06T06:34:58.784008+00:00"
+      "summary": "黃仁勳不忍了！1個字終結AI泡沫論 輝達最大底氣曝光 - Yahoo股市 黃仁勳不忍了！1個字終結AI泡沫論 輝達最大底氣曝光 Yahoo股市",
+      "capturedAt": "2026-09-06T11:59:39.214921+00:00"
     },
     {
       "id": "5c95d4930fba",
@@ -279,7 +302,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳超強人氣壓倒「50位最佳CEO」7項領導風格成為新典範 - 自由財經 黃仁勳超強人氣壓倒「50位最佳CEO」7項領導風格成為新典範 自由財經",
-      "capturedAt": "2026-09-06T06:34:58.784008+00:00"
+      "capturedAt": "2026-09-06T11:59:39.214921+00:00"
     },
     {
       "id": "1b587b5fb40d",
@@ -300,7 +323,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "解析黃仁勳七大領導魅力，獲得輝達全體員工近乎 99% 壓倒性支持 - TechNews 科技新報 解析黃仁勳七大領導魅力，獲得輝達全體員工近乎 99% 壓倒性支持 TechNews 科技新報",
-      "capturedAt": "2026-09-06T06:34:58.784008+00:00"
+      "capturedAt": "2026-09-06T11:59:39.214921+00:00"
     },
     {
       "id": "021d1422efc1",
@@ -321,7 +344,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Said This Word Exactly 1 Time During Nvidia's Earnings Call, and That Was Enough to Put Artificial Intelligence (AI) Bubble Fears to Rest - The Motley Fool Jensen Huang Said This",
-      "capturedAt": "2026-09-06T06:34:58.784008+00:00"
+      "capturedAt": "2026-09-06T11:59:39.214921+00:00"
     },
     {
       "id": "e453d868fd0b",
@@ -342,7 +365,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang's Nvidia Guided for 70% Revenue Growth in Fiscal 2028, Far Above the 44% Wall Street Expected, as Amazon Agreed to Buy 2 Million Nvidia GPUs. Is the Growth Forecast Believable? -",
-      "capturedAt": "2026-09-06T06:34:58.784008+00:00"
+      "capturedAt": "2026-09-06T11:59:39.214921+00:00"
     },
     {
       "id": "83af7f52b88a",
@@ -363,7 +386,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Why this veteran tech CEO is impressed by Nvidia's Jensen Huang buying Hugging Face for $12.9 billion - Yahoo Finance Why this veteran tech CEO is impressed by Nvidia's Jensen Huang buying Hugging Face for $12.9 billion Yahoo Finance",
-      "capturedAt": "2026-09-06T06:34:58.784008+00:00"
+      "capturedAt": "2026-09-06T11:59:39.214921+00:00"
     },
     {
       "id": "fb30edab7dd8",
@@ -384,7 +407,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳出手「豪捐3億」賑災 尼泊爾財長致謝：前所未有 - Yahoo新聞 黃仁勳出手「豪捐3億」賑災 尼泊爾財長致謝：前所未有 Yahoo新聞",
-      "capturedAt": "2026-09-06T06:34:58.784008+00:00"
+      "capturedAt": "2026-09-06T11:59:39.214921+00:00"
     },
     {
       "id": "df382a132b0c",
@@ -405,7 +428,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳砸4100億收購Hugging Face！陸行之點名鴻海跟「這2大台廠」有望受惠 - Yahoo股市 黃仁勳砸4100億收購Hugging Face！陸行之點名鴻海跟「這2大台廠」有望受惠 Yahoo股市",
-      "capturedAt": "2026-09-06T06:34:58.784008+00:00"
+      "capturedAt": "2026-09-06T11:59:39.214921+00:00"
     },
     {
       "id": "70f330c9f871",
@@ -426,7 +449,28 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "原想做聊天機器人…Hugging Face被黃仁勳買下創辦人身價各飆570億元| 全球財經| 全球 - UDN 原想做聊天機器人…Hugging Face被黃仁勳買下創辦人身價各飆570億元| 全球財經| 全球 UDN",
-      "capturedAt": "2026-09-06T06:34:58.784008+00:00"
+      "capturedAt": "2026-09-06T11:59:39.214921+00:00"
+    },
+    {
+      "id": "5e99e076d897",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Jensen Huang Says Humanoid Robots Are 'Very Very Close' To Industrial Reality As Nvidia, Hyundai Deepen Alliance - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc3hUdXFYUERYaUpqZHVqejVRSGVpVWI1ZEdEVGVoOVV1TENyc21HNWotSkw3V1hEckE1czNxbHVmYzkycTBGZ2NMN1F5bDdPNHVVOHNJSVY0OWVfZTVYMDdfQkkzTjZHaDRlNnRjbHF4bGktbk90cDRDOXR4cURYel9NNzAwelZkMzRoS3FJS0g0cHRtRHVObVdiU09PZC1wbnV6NXZBTC1EWEx5TURsc0F4Qy1lQUxKUHB0Y1Q1QXJrRVJBWHVadmNsdkpwZw?oc=5",
+      "publishedAt": "2026-09-04T05:09:37+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Jensen Huang Says Humanoid Robots Are 'Very Very Close' To Industrial Reality As Nvidia, Hyundai Deepen Alliance - Stocktwits Jensen Huang Says Humanoid Robots Are 'Very Very Close' To Industr",
+      "capturedAt": "2026-09-06T11:59:39.214921+00:00"
     },
     {
       "id": "42919377032e",
@@ -447,7 +491,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Lee Jae-yong, Chey Tae-won to Meet Jensen Huang in New York, Strengthening AI Memory Alliance - finance.biggo.com Lee Jae-yong, Chey Tae-won to Meet Jensen Huang in New York, Strengthening AI Memory Alliance finance.biggo.com",
-      "capturedAt": "2026-09-06T06:34:58.784008+00:00"
+      "capturedAt": "2026-09-06T11:59:39.214921+00:00"
     },
     {
       "id": "de39385bc506",
@@ -468,7 +512,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "李在鎔、崔泰源紐約會晤黃仁勳，鞏固AI記憶體同盟 - BigGo 財經 李在鎔、崔泰源紐約會晤黃仁勳，鞏固AI記憶體同盟 BigGo 財經",
-      "capturedAt": "2026-09-06T06:34:58.784008+00:00"
+      "capturedAt": "2026-09-06T11:59:39.214921+00:00"
     },
     {
       "id": "e5ef590a3835",
@@ -489,51 +533,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "輝達129億美元收購Hugging Face！黃仁勳為何押注開放模型？3個理由看懂交易 - 數位時代 輝達129億美元收購Hugging Face！黃仁勳為何押注開放模型？3個理由看懂交易 數位時代",
-      "capturedAt": "2026-09-06T06:34:58.784008+00:00"
-    },
-    {
-      "id": "bf54154d941c",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "促各國投入AI基建 黃仁勳：AI如同水電、網路 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmaEpJSFBCMlNqUHZZcW1JREJpSVRWVC1hNUdVQU52SU5jdmFGcDExaXhZcG9UR2JfY3lEVkhCQmswN2FCdlJGMG54Q2ZwUGds0gFWQVVfeXFMTmQxTVAwMjlDNGdPS1laemwzZTRpZ1ZNY0l3WURwZ09TLWVmUmhOT3lkTVJFUWhyZGhraE9FZVVfZXRNQ1doZW9jU3F1U0ZwQ2ZMUUg0NGc?oc=5",
-      "publishedAt": "2026-09-03T16:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "促各國投入AI基建 黃仁勳：AI如同水電、網路 - UDN 促各國投入AI基建 黃仁勳：AI如同水電、網路 UDN",
-      "capturedAt": "2026-09-06T06:34:58.784008+00:00"
-    },
-    {
-      "id": "441f3cb565b8",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "Nvidia CEO Jensen Huang vows to keep Hugging Face 'an open platform for the entire AI ecosystem' - Fast Company",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUjFCYmJwbFZyV3JYNFd4YXdLR3Q2V3ZRdjVzd1F4MTJhR1E0N2NuMjU2UHZDY1pwMFh4YWFlUTU1ZzZEVjAtWll2LVM5d0wtazJvdnNOelFzOWJzQ0o1QWFMU2p6dUNveXVieU1OMEhsUFdsZGhCbGhMU2ZaelgyVjUxbFYwbWU5Z2UwSndKSnprWUFCTWdrRVMwUXNfSXRPOXFQa1U5bw?oc=5",
-      "publishedAt": "2026-09-03T14:16:48+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang",
-        "NVIDIA CEO",
-        "Nvidia CEO"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Nvidia CEO Jensen Huang vows to keep Hugging Face 'an open platform for the entire AI ecosystem' - Fast Company Nvidia CEO Jensen Huang vows to keep Hugging Face 'an open platform for the entire AI ecosy",
-      "capturedAt": "2026-09-06T06:34:58.784008+00:00"
+      "capturedAt": "2026-09-06T11:59:39.214921+00:00"
     }
   ],
   "errors": [
