@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T23:45:37.127608+00:00",
+  "generatedAt": "2026-09-09T06:49:18.474319+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
   "publishedToTimeline": 12,
@@ -27,7 +27,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang declares 'AGI has arrived' after OpenAI unveils GPT-6 Astra - Fox Business Nvidia CEO Jensen Huang declares 'AGI has arrived' after OpenAI unveils GPT-6 Astra Fox Business",
-      "capturedAt": "2026-09-08T23:45:37.127623+00:00"
+      "capturedAt": "2026-09-09T06:49:18.474335+00:00"
     },
     {
       "id": "cfad36273460",
@@ -50,16 +50,16 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Declares “AGI Has Arrived” — Powered by 100,000+ Nvidia Grace Blackwell GPUs - Yahoo Finance Jensen Huang Declares “AGI Has Arrived” — Powered by 100,000+ Nvidia Grace Blackwell G",
-      "capturedAt": "2026-09-08T23:45:37.127623+00:00"
+      "capturedAt": "2026-09-09T06:49:18.474335+00:00"
     },
     {
-      "id": "ca935168d052",
+      "id": "f03ce4a80dac",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: Jensen Huang",
       "sourceType": "新聞彙整",
-      "title": "Nvidia CEO Jensen Huang once again declares ‘AGI has arrived’ — but he’s been wrong before, and I’m done buying into the hype - techradar.com",
+      "title": "Nvidia CEO Jensen Huang once again declares ‘AGI has arrived’ — but he’s been wrong before, and I’m done buying into the hype - TechRadar",
       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPa0gtM2FiUmgxLU5NcFNXNXg1TTJiaEpqRmxUMzFpZkNLc2FXdHliYkttbmI2Q1VTMXd6dDFMOUNGTEVEQXAwV3l3bnVDOEt6dk45bDdsV0lvcXc3bzhjVE9rZVpVdGJzQk8yWnZuTzhJeXRzMFFXVlh6QTh2dXBuX1kyRDl5UnZaYTVjekVITV9xTk1UbVo3ei1uT2NqM0w0RHlqNjdkWFc4YzVYLWlHRi1sQmYyUGlGT3FaS0dVNDk1SlRHNEhiaDA5REhzeTFhWk9mWi1HVXk1bWxEa05JMXk3SUhQbVBpZExGLXBvX3ZEUktDMU0yRllKdktRVXhuUGV2bGlmbFozbHhlMmlGTWZ4bUFOdG9Na2FqWXBR?oc=5",
       "publishedAt": "2026-09-07T14:56:22+00:00",
       "detectedDates": [],
@@ -74,8 +74,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "Nvidia CEO Jensen Huang once again declares ‘AGI has arrived’ — but he’s been wrong before, and I’m done buying into the hype - techradar.com Nvidia CEO Jensen Huang once again declares ‘AGI has arrived’",
-      "capturedAt": "2026-09-08T23:45:37.127623+00:00"
+      "summary": "Nvidia CEO Jensen Huang once again declares ‘AGI has arrived’ — but he’s been wrong before, and I’m done buying into the hype - TechRadar Nvidia CEO Jensen Huang once again declares ‘AGI has arrived’ — b",
+      "capturedAt": "2026-09-09T06:49:18.474335+00:00"
     },
     {
       "id": "891a2f361e9b",
@@ -98,7 +98,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Says AGI Has Arrived. Nvidia Investors Should Pay Attention - Yahoo Finance Jensen Huang Says AGI Has Arrived. Nvidia Investors Should Pay Attention Yahoo Finance",
-      "capturedAt": "2026-09-08T23:45:37.127623+00:00"
+      "capturedAt": "2026-09-09T06:49:18.474335+00:00"
     },
     {
       "id": "2f1401f2bd45",
@@ -121,7 +121,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia's Jensen Huang Says 'AGI Has Arrived' and Congratulates OpenAI - Business Insider Nvidia's Jensen Huang Says 'AGI Has Arrived' and Congratulates OpenAI Business Insider",
-      "capturedAt": "2026-09-08T23:45:37.127623+00:00"
+      "capturedAt": "2026-09-09T06:49:18.474335+00:00"
     },
     {
       "id": "a2169fc1d2fb",
@@ -146,16 +146,16 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang Says AGI Has Arrived With OpenAI's GPT-6 Astra - Yahoo Finance Nvidia CEO Jensen Huang Says AGI Has Arrived With OpenAI's GPT-6 Astra Yahoo Finance",
-      "capturedAt": "2026-09-08T23:45:37.127623+00:00"
+      "capturedAt": "2026-09-09T06:49:18.474335+00:00"
     },
     {
-      "id": "cfdc822a815d",
+      "id": "98bd743a7f55",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: Jensen Huang",
       "sourceType": "新聞彙整",
-      "title": "Nvidia’s $13 billion Hugging Face bet reveals Jensen Huang’s vision for the next AI battleground - fortune.com",
+      "title": "Nvidia’s $13 billion Hugging Face bet reveals Jensen Huang’s vision for the next AI battleground - Fortune",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQVd2X1dnTS12d3ozWnJ4VWV4eW8wRFV2Qkg1TjR2T0E2WDdqTUg1SDMySE40NXJLUkp6RktXU2ZGYkgtc3oxRGVjWjM4Z1UxNU9wSDBJTFRIQm52MC1WQnlzcUlRYmpNTm5oZzdlVGpFYy05TXdfMWNMVEJVcDhyd09JS1k0Q294VkV1R2NIYmlFYkVIQmZBcWxfVW5uWDd1NDRObDBVTW55REZvMmI5ZzZGaW1GQQ?oc=5",
       "publishedAt": "2026-09-04T12:10:00+00:00",
       "detectedDates": [],
@@ -168,8 +168,31 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "Nvidia’s $13 billion Hugging Face bet reveals Jensen Huang’s vision for the next AI battleground - fortune.com Nvidia’s $13 billion Hugging Face bet reveals Jensen Huang’s vision for the next AI battleground fortune.com",
-      "capturedAt": "2026-09-08T23:45:37.127623+00:00"
+      "summary": "Nvidia’s $13 billion Hugging Face bet reveals Jensen Huang’s vision for the next AI battleground - Fortune Nvidia’s $13 billion Hugging Face bet reveals Jensen Huang’s vision for the next AI battleground Fortune",
+      "capturedAt": "2026-09-09T06:49:18.474335+00:00"
+    },
+    {
+      "id": "b98e68042c65",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "輝達執行長黃仁勳出席G20表示，AI投資已跨越轉折點，正成為生產力基礎設施。他強調，若各國投資AI基建，可帶動產業發展與創造就業。 - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi6wVBVV95cUxNOTRxU3ZSb2hRcHRKNVpfVDVxaXN5VG94Wmdfd1lhLWltNUN6dXZGSTg5a1pnUzFSUHVrbVRfcW9IbjhlYXR6Z1dzTnVMdUNWMHJNRURPRU9Gd1JLYURIcTJyU0dOUzJIb2xzR1ZWYlV1QVhubmQ4cERLVTRHeTBEX0pkajg5VHl1SDlfclUwdHJuM3VscG5CNjUxMzBjSkZYVEtNYUhVNXA1cmxLZWpQbHhHMWpuSksyRWcybS1pcndLYnhDSVZsRWk0TzV3ZHRTcElFVXhtTWljaVc5OXNjeDA1OU5YV3V6bHFuSklWX2xPZHYyQS1NTFRrdFhTbnVWVXdZSkZIZHg3Z2x3V29xaFFxQmlheHhPQkhDV01EYkpvcVpsUnI4NXhUNU02NFpWU1R6TmRQaTNEZXVpTHZFQXpybzQzZGpQSDdkazIwa1o1eHVBM1YyUE9Nb09jeVg3Wi14SjFfbUtXN21FWWEyZHdOTG1tU3pQcU9GakpkYWYtU3VPUHU4NVZBUW5iak9qSHJiUl9kS1JzdlR4eVhpZ2NnYlBrTm54Skw3RWpzUU5RM0JGV2RNeXRvczhiaWNubVd0dzgzWEo3TkpQdTdfMkR3YUpMMzFmMmFwLWd4NG1wZDlvRUxITGhJamhLN2NkaTVYTktZdTUwSmVtRm15Q0VmSVlNN1dwQ2c0bE14enZUR1JpTUxqS0swX2gwQTJ5RWZoWDE3elBrbGpicEFBMkx4MVVnYzVWWDl5c0t0bzRMcXgxUTllZ1MxaTZSTUlCcEJNX1cwa3YyNjNmbjdkSjdGTWV4VG9SbDlwbndtN2FnYlduN3RFdXFycHptZk5jdGhMWTMxMUhCWngzSUtQU3hVWDlyd3gzd2FDUjhNYnNpS1NkRnBmV2dINXYtWHdFWHhINlBnNkppRzFPaVJ2VmQ0amdaNlJXbU9UaElteGZGS2ZieXNWZmhfa09CdlNFRlFKbnJHYkhPNmM?oc=5",
+      "publishedAt": "2026-09-03T08:01:14+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "出席"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "輝達執行長黃仁勳出席G20表示，AI投資已跨越轉折點，正成為生產力基礎設施。他強調，若各國投資AI基建，可帶動產業發展與創造就業。 - facebook.com 輝達執行長黃仁勳出席G20表示，AI投資已跨越轉折點，正成為生產力基礎設施。他強調，若各國投資AI基建，可帶動產業發展與創造就業。 facebook.com",
+      "capturedAt": "2026-09-09T06:49:18.474335+00:00"
     },
     {
       "id": "94507e838c9b",
@@ -192,7 +215,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳落榜、芭莉絲希爾頓入選 《時代》AI百大透露權力版圖巨變 - 基督教論壇報 黃仁勳落榜、芭莉絲希爾頓入選 《時代》AI百大透露權力版圖巨變 基督教論壇報",
-      "capturedAt": "2026-09-08T23:45:37.127623+00:00"
+      "capturedAt": "2026-09-09T06:49:18.474335+00:00"
     },
     {
       "id": "bd37c9f56d7a",
@@ -215,7 +238,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "樸映宣：黃仁勳訪韓意在搶佔韓國材料零元件裝置供應鏈…韓國應躍升為AI生態系設計國 - BigGo 財經 樸映宣：黃仁勳訪韓意在搶佔韓國材料零元件裝置供應鏈…韓國應躍升為AI生態系設計國 BigGo 財經",
-      "capturedAt": "2026-09-08T23:45:37.127623+00:00"
+      "capturedAt": "2026-09-09T06:49:18.474335+00:00"
     },
     {
       "id": "1791b5deeb07",
@@ -238,7 +261,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Park Young-sun: \"Jensen Huang's Korea Visit Aims to Secure Korean Materials, Components, and Equipment First... South Korea Must Leap to Become an AI Ecosystem Designer\" - finance.biggo.com Park Young-sun: \"Je",
-      "capturedAt": "2026-09-08T23:45:37.127623+00:00"
+      "capturedAt": "2026-09-09T06:49:18.474335+00:00"
     },
     {
       "id": "563a8c76e773",
@@ -265,11 +288,11 @@
         "合照"
       ],
       "summary": "最新！黃仁勳低調來台「行程保密」 民眾驚喜搶合照 - 鏡新聞 最新！黃仁勳低調來台「行程保密」 民眾驚喜搶合照 鏡新聞",
-      "capturedAt": "2026-09-08T23:45:37.127623+00:00"
+      "capturedAt": "2026-09-09T06:49:18.474335+00:00"
     },
     {
       "id": "ac3670654de5",
-      "status": "low-confidence",
+      "status": "needs-review",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: Jensen Huang Korea",
@@ -288,7 +311,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Declares 'ChatGPT Moment' Has Arrived for Robotics — Eyes on South Korea's Manufacturing Infrastructure - finance.biggo.com Jensen Huang Declares 'ChatGPT Moment' Has Arrived for",
-      "capturedAt": "2026-09-08T23:45:37.127623+00:00"
+      "capturedAt": "2026-09-09T06:49:18.474335+00:00"
     },
     {
       "id": "f02fd0a5924e",
@@ -312,7 +335,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO's daughter to visit LG factory for robotics talks - The Korea Herald Nvidia CEO's daughter to visit LG factory for robotics talks The Korea Herald",
-      "capturedAt": "2026-09-08T23:45:37.127623+00:00"
+      "capturedAt": "2026-09-09T06:49:18.474335+00:00"
     },
     {
       "id": "437a888b6131",
@@ -336,16 +359,16 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Four days after Jensen Huang met Koo Kwang-mo... his daughter will visit LG's robotics hub - 매일경제 Four days after Jensen Huang met Koo Kwang-mo... his daughter will visit LG's robotics hub 매일경제",
-      "capturedAt": "2026-09-08T23:45:37.127623+00:00"
+      "capturedAt": "2026-09-09T06:49:18.474335+00:00"
     },
     {
-      "id": "ef9eab5c04f9",
+      "id": "4324ef7e0faf",
       "status": "needs-review",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 - 東森新聞",
+      "title": "拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 - news.ebc.net.tw",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0RnliZHhGOHEtZ3V4SWFpMlM3YVpFekk2djZNejBFbHpDdWYwWGdMaWd3cERYT2FQNVU4a1M5MUN3cUYtWFdSa3g0RkdKWVZLdDFiTUNFZw?oc=5",
       "publishedAt": "2026-08-14T07:00:00+00:00",
       "detectedDates": [],
@@ -358,31 +381,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 - 東森新聞 拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 東森新聞",
-      "capturedAt": "2026-09-08T23:45:37.127623+00:00"
-    },
-    {
-      "id": "cb9749e51f93",
-      "status": "needs-review",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳有望出席！ SK海力士美國HBM新廠27日動工 - ETtoday財經雲",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9udVc2dDdZV1Vqd29EamlqaFp5dGxHekp3SXM5UlNPZmZpdzlMZURlanN1dmJhZXNDYXF2Sm4yVGhnWGJXaEY0VGlaLWQ2UTR5UWfSAVBBVV95cUxNZFUzYkUwTG5PV2JVOGFla1RpTXIzS3oySnJVZWZzQXBxUmdadUlUSUVkSEljbmlPb1V4VmVqNVdJMGREeVlCaTlfLVJLamN6Qw?oc=5",
-      "publishedAt": "2026-08-13T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "出席"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳有望出席！ SK海力士美國HBM新廠27日動工 - ETtoday財經雲 黃仁勳有望出席！ SK海力士美國HBM新廠27日動工 ETtoday財經雲",
-      "capturedAt": "2026-09-08T23:45:37.127623+00:00"
+      "summary": "拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 - news.ebc.net.tw 拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 news.ebc.net.tw",
+      "capturedAt": "2026-09-09T06:49:18.474335+00:00"
     },
     {
       "id": "21a4b16b0857",
@@ -405,7 +405,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳受邀出席！SK海力士美國新廠8月27日動工 2028年量產HBM - news.cnyes.com 黃仁勳受邀出席！SK海力士美國新廠8月27日動工 2028年量產HBM news.cnyes.com",
-      "capturedAt": "2026-09-08T23:45:37.127623+00:00"
+      "capturedAt": "2026-09-09T06:49:18.474335+00:00"
     },
     {
       "id": "b9352920cda2",
@@ -428,7 +428,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China CNBC",
-      "capturedAt": "2026-09-08T23:45:37.127623+00:00"
+      "capturedAt": "2026-09-09T06:49:18.474335+00:00"
     },
     {
       "id": "21b426bd2cfd",
@@ -449,7 +449,49 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "99%員工為何願跟黃仁勳打天下？7個原因曝光 - 大纪元 99%員工為何願跟黃仁勳打天下？7個原因曝光 大纪元",
-      "capturedAt": "2026-09-08T23:45:37.127623+00:00"
+      "capturedAt": "2026-09-09T06:49:18.474335+00:00"
+    },
+    {
+      "id": "bbe5d08f4f1e",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "輝達罕見提前喊2028財年營收增70%！黃仁勳「能見度」底氣曝光 土地、電力到記憶體都先卡位 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOQ213NC0xdnN3bkU2aUdocGltUDNtTTdoUEtHdXpBaG1Ra1pYVVhMRl9ucktnN0FtLXRtRWJCVnRyclBqMzg1MkFQeF85ZjFlcTZ3R0F3U3NiRFhUWlVDbGp6SGRwSThlTXFZU1FKY0ZHSXk5R0VDMzhWbUozVjlhMk5MTUljZmdORmJZdVBIeHd3VzFySkE3MGZFNGhqeThQODZDMnJRV0VwV0JfaFM5RERRTmNrRnJqYmp0ejBtYTNUY1k1Q0dxWHpzODdFRnVvYkRoYW1fel9pdHlHalVKZ2QyOXdaUWNPdkduYVUxOTZnT1FIZ2xidTlEMjRHLTJuaHBNUkJZTVRUN05FV3dneUx3b3JvbUZRZnFfWm11UnlzTlp2ak8xRWd1eVBldU4yS1BtTTVLdlhBTGJnLUR2a2U5YVphUTZMMVpka1ZDWEozSlNqVlVZVUY3NXB2ZnNNWkk4QWdVb1lZeXMzOFhzR084eFRWSmxhb0tTQk52ZjR3YVkxTXJCdg?oc=5",
+      "publishedAt": "2026-09-08T10:10:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "輝達罕見提前喊2028財年營收增70%！黃仁勳「能見度」底氣曝光 土地、電力到記憶體都先卡位 - Yahoo股市 輝達罕見提前喊2028財年營收增70%！黃仁勳「能見度」底氣曝光 土地、電力到記憶體都先卡位 Yahoo股市",
+      "capturedAt": "2026-09-09T06:49:18.474335+00:00"
+    },
+    {
+      "id": "30be878a7801",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "OpenAI 最強模型問世 黃仁勳唱旺 AGI 輝達40萬顆 GPU 將上線 - 經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zWmxTNkJuLXRpU2VRWGd3SXh6czdaZ1R0NEZBMm1mcDE0RElRVkhNdXB4OW5lLWJXV1dYdi05NFliWXd1REhYWlE2VDF4U2RpSUxjWnhmaTQwd9IBX0FVX3lxTE5MYnpKZTJ0X0NKQlRNT3c0bVJLYXFPaFpUc2ZSZ1gtQXhZQnhUSW5uUjJBc3F0WTB2WEpSb3Z2VUdQZXFNc09vN0RRdUF4QlQ4dXl1OG52S2dtQkNESU9z?oc=5",
+      "publishedAt": "2026-09-08T09:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "OpenAI 最強模型問世 黃仁勳唱旺 AGI 輝達40萬顆 GPU 將上線 - 經濟日報 OpenAI 最強模型問世 黃仁勳唱旺 AGI 輝達40萬顆 GPU 將上線 經濟日報",
+      "capturedAt": "2026-09-09T06:49:18.474335+00:00"
     },
     {
       "id": "13e115502731",
@@ -470,28 +512,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "AGI真的來了？黃仁勳喊Astra達標、專家不認同- 新聞 - MoneyDJ AGI真的來了？黃仁勳喊Astra達標、專家不認同- 新聞 MoneyDJ",
-      "capturedAt": "2026-09-08T23:45:37.127623+00:00"
-    },
-    {
-      "id": "30be878a7801",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "OpenAI 最強模型問世 黃仁勳唱旺 AGI 輝達40萬顆 GPU 將上線 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zWmxTNkJuLXRpU2VRWGd3SXh6czdaZ1R0NEZBMm1mcDE0RElRVkhNdXB4OW5lLWJXV1dYdi05NFliWXd1REhYWlE2VDF4U2RpSUxjWnhmaTQwd9IBX0FVX3lxTE5MYnpKZTJ0X0NKQlRNT3c0bVJLYXFPaFpUc2ZSZ1gtQXhZQnhUSW5uUjJBc3F0WTB2WEpSb3Z2VUdQZXFNc09vN0RRdUF4QlQ4dXl1OG52S2dtQkNESU9z?oc=5",
-      "publishedAt": "2026-09-07T09:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "OpenAI 最強模型問世 黃仁勳唱旺 AGI 輝達40萬顆 GPU 將上線 - 經濟日報 OpenAI 最強模型問世 黃仁勳唱旺 AGI 輝達40萬顆 GPU 將上線 經濟日報",
-      "capturedAt": "2026-09-08T23:45:37.127623+00:00"
+      "capturedAt": "2026-09-09T06:49:18.474335+00:00"
     },
     {
       "id": "0ee0b6253379",
@@ -512,16 +533,16 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "ChatGPT問世不到4年！黃仁勳宣告「AGI已到來」下一步再上40萬顆GPU - 工商時報 ChatGPT問世不到4年！黃仁勳宣告「AGI已到來」下一步再上40萬顆GPU 工商時報",
-      "capturedAt": "2026-09-08T23:45:37.127623+00:00"
+      "capturedAt": "2026-09-09T06:49:18.474335+00:00"
     },
     {
-      "id": "d9d1f663ac86",
+      "id": "8e0b4763990d",
       "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
-      "title": "黃仁勳宣告「AGI已到來」！GPT-6 Astra狂吃10萬套輝達系統 - UDN",
+      "title": "黃仁勳宣告「AGI已到來」！GPT-6 Astra狂吃10萬套輝達系統 - udn.com",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nOXhQN1BQYVp5QWNpNmMwejVQZ0taY3RmeHBFclBBb0Z3cWpFbGhKc1VHdS15TXRtMU9la18xWjBlVElMT0tKR1pSYnA4MTdHV3fSAVdBVV95cUxOYk5kdzltVUg3cmpNbWlQcWhGOTA0U3BnOG1UMWZtSFJnd0tNbW92eThWWnhGeUxsX2RfUTA2QlgtVDdHSWtpVkRNc0lOREY0MlZJem5hY2c?oc=5",
       "publishedAt": "2026-09-07T05:09:32+00:00",
       "detectedDates": [],
@@ -536,29 +557,8 @@
       "publicContextFlags": [
         "吃"
       ],
-      "summary": "黃仁勳宣告「AGI已到來」！GPT-6 Astra狂吃10萬套輝達系統 - UDN 黃仁勳宣告「AGI已到來」！GPT-6 Astra狂吃10萬套輝達系統 UDN",
-      "capturedAt": "2026-09-08T23:45:37.127623+00:00"
-    },
-    {
-      "id": "9575b48bb13f",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳宣告「AGI已經到來」！OpenAI GPT-6 Astra訓練動用逾10萬套輝達系統 - news.cnyes.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EbHZDU01LX1BuMm84ZE9ER0tQbVZDTXFhR0ZSVVQ2NFdYQnozejRnYkVfWDBia1pPcWlnem1FOF9mRnlKX3liaWV2WWhHZUk?oc=5",
-      "publishedAt": "2026-09-07T02:42:04+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳宣告「AGI已經到來」！OpenAI GPT-6 Astra訓練動用逾10萬套輝達系統 - news.cnyes.com 黃仁勳宣告「AGI已經到來」！OpenAI GPT-6 Astra訓練動用逾10萬套輝達系統 news.cnyes.com",
-      "capturedAt": "2026-09-08T23:45:37.127623+00:00"
+      "summary": "黃仁勳宣告「AGI已到來」！GPT-6 Astra狂吃10萬套輝達系統 - udn.com 黃仁勳宣告「AGI已到來」！GPT-6 Astra狂吃10萬套輝達系統 udn.com",
+      "capturedAt": "2026-09-09T06:49:18.474335+00:00"
     }
   ],
   "errors": [
