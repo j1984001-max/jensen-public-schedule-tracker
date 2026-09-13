@@ -1,9 +1,36 @@
 {
-  "generatedAt": "2026-09-12T23:35:53.295972+00:00",
+  "generatedAt": "2026-09-13T06:53:11.868153+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
-  "publishedToTimeline": 9,
+  "publishedToTimeline": 11,
   "signals": [
+    {
+      "id": "06118742920d",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 55,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳訪韓如超級巨星！企業大佬幫倒酒、陪笑吃烤肉粉酸：財閥家小兒子 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5lSUJ4TjU2d0FIMlVWUmhiSzU2RlczdENtd3N1c3dKZ0RMdTZGTlVWalBaRmJZVERhZVRaTXB1ZEJhMno0NE81edIBTEFVX3lxTE1HeHhYZE82ZWNoVVVONGMwaFJxYWJwRUstb0VicXFnRVhvY0J4d3d4SnMzQkhZeHc4NHNobTVZOXZ3UzU0YkdxWHpUTk8?oc=5",
+      "publishedAt": "2026-09-12T02:13:56+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "訪韓"
+      ],
+      "privacyReviewFlags": [
+        "吃"
+      ],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [
+        "吃"
+      ],
+      "summary": "黃仁勳訪韓如超級巨星！企業大佬幫倒酒、陪笑吃烤肉粉酸：財閥家小兒子 - 三立新聞 黃仁勳訪韓如超級巨星！企業大佬幫倒酒、陪笑吃烤肉粉酸：財閥家小兒子 三立新聞",
+      "capturedAt": "2026-09-13T06:53:11.868164+00:00"
+    },
     {
       "id": "809f9cf0c0fc",
       "status": "low-confidence",
@@ -27,7 +54,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang declares 'AGI has arrived' after OpenAI unveils GPT-6 Astra - Fox Business Nvidia CEO Jensen Huang declares 'AGI has arrived' after OpenAI unveils GPT-6 Astra Fox Business",
-      "capturedAt": "2026-09-12T23:35:53.295985+00:00"
+      "capturedAt": "2026-09-13T06:53:11.868164+00:00"
     },
     {
       "id": "cfad36273460",
@@ -50,7 +77,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Declares “AGI Has Arrived” — Powered by 100,000+ Nvidia Grace Blackwell GPUs - Yahoo Finance Jensen Huang Declares “AGI Has Arrived” — Powered by 100,000+ Nvidia Grace Blackwell G",
-      "capturedAt": "2026-09-12T23:35:53.295985+00:00"
+      "capturedAt": "2026-09-13T06:53:11.868164+00:00"
     },
     {
       "id": "2f1401f2bd45",
@@ -73,7 +100,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia's Jensen Huang Says 'AGI Has Arrived' and Congratulates OpenAI - Business Insider Nvidia's Jensen Huang Says 'AGI Has Arrived' and Congratulates OpenAI Business Insider",
-      "capturedAt": "2026-09-12T23:35:53.295985+00:00"
+      "capturedAt": "2026-09-13T06:53:11.868164+00:00"
     },
     {
       "id": "a2169fc1d2fb",
@@ -98,7 +125,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang Says AGI Has Arrived With OpenAI's GPT-6 Astra - Yahoo Finance Nvidia CEO Jensen Huang Says AGI Has Arrived With OpenAI's GPT-6 Astra Yahoo Finance",
-      "capturedAt": "2026-09-12T23:35:53.295985+00:00"
+      "capturedAt": "2026-09-13T06:53:11.868164+00:00"
     },
     {
       "id": "bd37c9f56d7a",
@@ -121,7 +148,30 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "樸映宣：黃仁勳訪韓意在搶佔韓國材料零元件裝置供應鏈…韓國應躍升為AI生態系設計國 - BigGo 財經 樸映宣：黃仁勳訪韓意在搶佔韓國材料零元件裝置供應鏈…韓國應躍升為AI生態系設計國 BigGo 財經",
-      "capturedAt": "2026-09-12T23:35:53.295985+00:00"
+      "capturedAt": "2026-09-13T06:53:11.868164+00:00"
+    },
+    {
+      "id": "1791b5deeb07",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Park Young-sun: \"Jensen Huang's Korea Visit Aims to Secure Korean Materials, Components, and Equipment First... South Korea Must Leap to Become an AI Ecosystem Designer\" - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FWTNnZHpwcHRHYkd1TzNMS1F0N1I3LTJwNTZMNk9ZV1ZIZ2YwZnFIWFRxWm1EdXJDa3gwbUxBNC0zSVdhZnJReThiZzNnUzdsOC02WF9QWXF4OWcyMHBCaTFoWUZTSXNZdWtWZzhzV3NsYkZzSVE?oc=5",
+      "publishedAt": "2026-08-31T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [
+        "visit"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Park Young-sun: \"Jensen Huang's Korea Visit Aims to Secure Korean Materials, Components, and Equipment First... South Korea Must Leap to Become an AI Ecosystem Designer\" - finance.biggo.com Park Young-sun: \"Je",
+      "capturedAt": "2026-09-13T06:53:11.868164+00:00"
     },
     {
       "id": "7f44ccb4341d",
@@ -144,7 +194,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳無預警快閃台灣！傳只待2小時就離開 「行程全保密」仍被抓到街頭買包子 | 張大任 | 新聞 - 風傳媒 黃仁勳無預警快閃台灣！傳只待2小時就離開 「行程全保密」仍被抓到街頭買包子 | 張大任 | 新聞 風傳媒",
-      "capturedAt": "2026-09-12T23:35:53.295985+00:00"
+      "capturedAt": "2026-09-13T06:53:11.868164+00:00"
     },
     {
       "id": "f02fd0a5924e",
@@ -168,7 +218,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO's daughter to visit LG factory for robotics talks - The Korea Herald Nvidia CEO's daughter to visit LG factory for robotics talks The Korea Herald",
-      "capturedAt": "2026-09-12T23:35:53.295985+00:00"
+      "capturedAt": "2026-09-13T06:53:11.868164+00:00"
     },
     {
       "id": "437a888b6131",
@@ -192,7 +242,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Four days after Jensen Huang met Koo Kwang-mo... his daughter will visit LG's robotics hub - 매일경제 Four days after Jensen Huang met Koo Kwang-mo... his daughter will visit LG's robotics hub 매일경제",
-      "capturedAt": "2026-09-12T23:35:53.295985+00:00"
+      "capturedAt": "2026-09-13T06:53:11.868164+00:00"
     },
     {
       "id": "ef9eab5c04f9",
@@ -215,7 +265,28 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 - 東森新聞 拚2028量產HBM！SK海力士美國新廠動土 邀黃仁勳出席 東森新聞",
-      "capturedAt": "2026-09-12T23:35:53.295985+00:00"
+      "capturedAt": "2026-09-13T06:53:11.868164+00:00"
+    },
+    {
+      "id": "1387404bc1f0",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳點名資安為AI下一戰場！台美資安概念股有哪些？｜股市話題｜豐雲學堂 2026 年 09 月 - sinotrade.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxOTlpMTnpJS3VDUm5lZHJKbG9adUNsQ2doNEFDZjJtbGoyUTB4UkJfQmpjMGx4QUxmWlFkM0ZoUHMwMDRsUk1sMzdfaXBIQlNVc2NBM0tGR19OT0RBQkVsek5VRlhJSjJfX0tDRGxUdU1XYWhQNi1ELUdNUjZ2ZW9LcTNUUXhUNVA1UkNRd29nWVV2T0xEM2RZTlZ3R1ZCYXd0RWo5MGhOUmRxWUtQcldBTXJGQVI2N184cUFIOWxlUmJBdmwxRlhnRTdXclV6R3M4RmduT2ZRcEhzVENiQjBnNmp5NkU3dG02SUZBS0VKUUNoLUZLaXB3NXF5MUJtTjdTRmhoMjNSUldZd1VSQ3ltRkV6RmNxZUl3cHZiemVBZ2hVa2Y3VHFLNXYzU1MzSktuSWtsR2w0SFNYLVZPM3FhVjUtMGlFZXR6OFIyT05aZzJKbFA3OUlQcWVzYVQ3NTJhcDFLSFNsc09DY2N6bjkyZ2k5bEhKMnVGZXNUcGJZNW8wUmVuVVNCV1NuaFRrTWd6dDhlbGtpRHBkNlJ3RFdvNHVPSGhfNUc1Y0VjTUpmQWlxbE1iN0hXYTNBZw?oc=5",
+      "publishedAt": "2026-09-13T04:44:24+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳點名資安為AI下一戰場！台美資安概念股有哪些？｜股市話題｜豐雲學堂 2026 年 09 月 - sinotrade.com.tw 黃仁勳點名資安為AI下一戰場！台美資安概念股有哪些？｜股市話題｜豐雲學堂 2026 年 09 月 sinotrade.com.tw",
+      "capturedAt": "2026-09-13T06:53:11.868164+00:00"
     },
     {
       "id": "5e99e076d897",
@@ -236,7 +307,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Says Humanoid Robots Are 'Very Very Close' To Industrial Reality As Nvidia, Hyundai Deepen Alliance - Stocktwits Jensen Huang Says Humanoid Robots Are 'Very Very Close' To Industr",
-      "capturedAt": "2026-09-12T23:35:53.295985+00:00"
+      "capturedAt": "2026-09-13T06:53:11.868164+00:00"
     },
     {
       "id": "5e9e02ae424d",
@@ -257,28 +328,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳點名資安概念股飆- 日報 - 工商時報 黃仁勳點名資安概念股飆- 日報 工商時報",
-      "capturedAt": "2026-09-12T23:35:53.295985+00:00"
-    },
-    {
-      "id": "c2bd3bb1d910",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "輝達明年營收拚增70%！黃仁勳喊「不是沒需求、是供應跟不上」 網卻不買單 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CcktoYm11TTdzSDdVSFlyZU1qUzJXcFRkMmlkVTUzT1VrNk9KOHkwQW94cU5TM3AzMjcxdEpYa2xWR3c5aDJESkVjRGZXQ1JWVUHSAVdBVV95cUxNZVJpeWRaeEszQUpZODhvdU1RdnJUVk5pVzB0RVJaLWM4dHZvRmh4Zklta19lYm1aazBWRnAxSG5nYkVER0o1MmtEZ0F6TXV2VTNlT2gxWW8?oc=5",
-      "publishedAt": "2026-09-11T13:29:40+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "輝達明年營收拚增70%！黃仁勳喊「不是沒需求、是供應跟不上」 網卻不買單 - UDN 輝達明年營收拚增70%！黃仁勳喊「不是沒需求、是供應跟不上」 網卻不買單 UDN",
-      "capturedAt": "2026-09-12T23:35:53.295985+00:00"
+      "capturedAt": "2026-09-13T06:53:11.868164+00:00"
     },
     {
       "id": "58a7b18088ab",
@@ -301,7 +351,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang just doubled down on his big 2030 prediction - Yahoo Finance Nvidia CEO Jensen Huang just doubled down on his big 2030 prediction Yahoo Finance",
-      "capturedAt": "2026-09-12T23:35:53.295985+00:00"
+      "capturedAt": "2026-09-13T06:53:11.868164+00:00"
     },
     {
       "id": "373361364626",
@@ -322,7 +372,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳又來報明牌！點名「這領域」將成AI市場新商機：創造問題才能製造需求 - Yahoo股市 黃仁勳又來報明牌！點名「這領域」將成AI市場新商機：創造問題才能製造需求 Yahoo股市",
-      "capturedAt": "2026-09-12T23:35:53.295985+00:00"
+      "capturedAt": "2026-09-13T06:53:11.868164+00:00"
     },
     {
       "id": "30be878a7801",
@@ -343,28 +393,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "OpenAI 最強模型問世 黃仁勳唱旺 AGI 輝達40萬顆 GPU 將上線 - 經濟日報 OpenAI 最強模型問世 黃仁勳唱旺 AGI 輝達40萬顆 GPU 將上線 經濟日報",
-      "capturedAt": "2026-09-12T23:35:53.295985+00:00"
-    },
-    {
-      "id": "1387404bc1f0",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳點名資安為AI下一戰場！台美資安概念股有哪些？｜股市話題｜豐雲學堂 2026 年 09 月 - sinotrade.com.tw",
-      "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxOTlpMTnpJS3VDUm5lZHJKbG9adUNsQ2doNEFDZjJtbGoyUTB4UkJfQmpjMGx4QUxmWlFkM0ZoUHMwMDRsUk1sMzdfaXBIQlNVc2NBM0tGR19OT0RBQkVsek5VRlhJSjJfX0tDRGxUdU1XYWhQNi1ELUdNUjZ2ZW9LcTNUUXhUNVA1UkNRd29nWVV2T0xEM2RZTlZ3R1ZCYXd0RWo5MGhOUmRxWUtQcldBTXJGQVI2N184cUFIOWxlUmJBdmwxRlhnRTdXclV6R3M4RmduT2ZRcEhzVENiQjBnNmp5NkU3dG02SUZBS0VKUUNoLUZLaXB3NXF5MUJtTjdTRmhoMjNSUldZd1VSQ3ltRkV6RmNxZUl3cHZiemVBZ2hVa2Y3VHFLNXYzU1MzSktuSWtsR2w0SFNYLVZPM3FhVjUtMGlFZXR6OFIyT05aZzJKbFA3OUlQcWVzYVQ3NTJhcDFLSFNsc09DY2N6bjkyZ2k5bEhKMnVGZXNUcGJZNW8wUmVuVVNCV1NuaFRrTWd6dDhlbGtpRHBkNlJ3RFdvNHVPSGhfNUc1Y0VjTUpmQWlxbE1iN0hXYTNBZw?oc=5",
-      "publishedAt": "2026-09-11T08:41:44+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳點名資安為AI下一戰場！台美資安概念股有哪些？｜股市話題｜豐雲學堂 2026 年 09 月 - sinotrade.com.tw 黃仁勳點名資安為AI下一戰場！台美資安概念股有哪些？｜股市話題｜豐雲學堂 2026 年 09 月 sinotrade.com.tw",
-      "capturedAt": "2026-09-12T23:35:53.295985+00:00"
+      "capturedAt": "2026-09-13T06:53:11.868164+00:00"
     },
     {
       "id": "28dea12217fd",
@@ -385,7 +414,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "台灣人為何瘋追黃仁勳？外媒解密 AI 教父驚人效應 - TechNews 科技新報 台灣人為何瘋追黃仁勳？外媒解密 AI 教父驚人效應 TechNews 科技新報",
-      "capturedAt": "2026-09-12T23:35:53.295985+00:00"
+      "capturedAt": "2026-09-13T06:53:11.868164+00:00"
     },
     {
       "id": "719f644e1a91",
@@ -406,7 +435,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "告白「輝達起點」 黃仁勳︰台灣像家一樣 - 自由時報 告白「輝達起點」 黃仁勳︰台灣像家一樣 自由時報",
-      "capturedAt": "2026-09-12T23:35:53.295985+00:00"
+      "capturedAt": "2026-09-13T06:53:11.868164+00:00"
     },
     {
       "id": "d0bc5003af35",
@@ -427,7 +456,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳揭AI生意經：「製造問題」就是製造需求 - 鉅亨網 黃仁勳揭AI生意經：「製造問題」就是製造需求 鉅亨網",
-      "capturedAt": "2026-09-12T23:35:53.295985+00:00"
+      "capturedAt": "2026-09-13T06:53:11.868164+00:00"
     },
     {
       "id": "08f3ab88193a",
@@ -448,7 +477,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "台股大跌 黃仁勳一句話讓資服股突圍、三檔飆漲停 - 經濟日報 台股大跌 黃仁勳一句話讓資服股突圍、三檔飆漲停 經濟日報",
-      "capturedAt": "2026-09-12T23:35:53.295985+00:00"
+      "capturedAt": "2026-09-13T06:53:11.868164+00:00"
     },
     {
       "id": "c001e79341e4",
@@ -469,7 +498,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳點名AI下一波大商機：資安需求將爆發- 新聞 - MoneyDJ 黃仁勳點名AI下一波大商機：資安需求將爆發- 新聞 MoneyDJ",
-      "capturedAt": "2026-09-12T23:35:53.295985+00:00"
+      "capturedAt": "2026-09-13T06:53:11.868164+00:00"
     },
     {
       "id": "1ce930eee148",
@@ -490,7 +519,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳點名AI下一個大規模市場 自詡投資「投哪都不差」 - Yahoo股市 黃仁勳點名AI下一個大規模市場 自詡投資「投哪都不差」 Yahoo股市",
-      "capturedAt": "2026-09-12T23:35:53.295985+00:00"
+      "capturedAt": "2026-09-13T06:53:11.868164+00:00"
     },
     {
       "id": "bf10abd3602d",
@@ -511,28 +540,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳點火AI資安新賽道！網攻進入「27秒時代」 台股六大資安概念股浮上檯面 - 理財周刊 黃仁勳點火AI資安新賽道！網攻進入「27秒時代」 台股六大資安概念股浮上檯面 理財周刊",
-      "capturedAt": "2026-09-12T23:35:53.295985+00:00"
-    },
-    {
-      "id": "95d446e6c862",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳點名AI資安商機看好網路防禦成下一波重大應用- 國際 - 工商時報",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBUWNhWmM5TmpPazB2ZFd3ZGV2WGFDbFNQQU1oSVBEb1I5OWRXWHBTZ2tmS05yRHJIS2loS2FwTENWVFlGT09YaklaVkdraFZqVWRmdVFxR1lSRXNCbHpn?oc=5",
-      "publishedAt": "2026-09-10T23:32:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳點名AI資安商機看好網路防禦成下一波重大應用- 國際 - 工商時報 黃仁勳點名AI資安商機看好網路防禦成下一波重大應用- 國際 工商時報",
-      "capturedAt": "2026-09-12T23:35:53.295985+00:00"
+      "capturedAt": "2026-09-13T06:53:11.868164+00:00"
     }
   ],
   "errors": [
