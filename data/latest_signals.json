@@ -1,9 +1,32 @@
 {
-  "generatedAt": "2026-09-15T06:52:15.190001+00:00",
+  "generatedAt": "2026-09-15T13:13:52.634082+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
   "publishedToTimeline": 12,
   "signals": [
+    {
+      "id": "4f76e1f129aa",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳演講突接川普來電 台上擴音5分鐘喊「AI失控是騙局」 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFaVFGcVo0UUZRaVI0cWJFRzdZN21oeWcxTEVwTW9ha0ZrNXJRdmxPb09lbXFqb0RNaTk0ak10QzdoVnY2U1Q2QUpYX2g5OGk0?oc=5",
+      "publishedAt": "2026-09-15T06:30:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "演講"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳演講突接川普來電 台上擴音5分鐘喊「AI失控是騙局」 - UDN 黃仁勳演講突接川普來電 台上擴音5分鐘喊「AI失控是騙局」 UDN",
+      "capturedAt": "2026-09-15T13:13:52.634097+00:00"
+    },
     {
       "id": "55d7e79531e5",
       "status": "low-confidence",
@@ -25,7 +48,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Spotted Using Galaxy Z Fold 8 in Public — Was It Another Gift from Lee Jae-yong? - finance.biggo.com Jensen Huang Spotted Using Galaxy Z Fold 8 in Public — Was It Another Gift fro",
-      "capturedAt": "2026-09-15T06:52:15.190014+00:00"
+      "capturedAt": "2026-09-15T13:13:52.634097+00:00"
     },
     {
       "id": "005a39af5fa7",
@@ -48,7 +71,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳演講突接川普來電！台上「擴音熱線」 內容全曝光 - 鏡週刊Mirror Media 黃仁勳演講突接川普來電！台上「擴音熱線」 內容全曝光 鏡週刊Mirror Media",
-      "capturedAt": "2026-09-15T06:52:15.190014+00:00"
+      "capturedAt": "2026-09-15T13:13:52.634097+00:00"
     },
     {
       "id": "df5c797c1b5d",
@@ -73,7 +96,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Trump calls Nvidia CEO Jensen Huang during summit, dismisses AI fears as 'hoax' - foxbusiness.com Trump calls Nvidia CEO Jensen Huang during summit, dismisses AI fears as 'hoax' foxbusiness.com",
-      "capturedAt": "2026-09-15T06:52:15.190014+00:00"
+      "capturedAt": "2026-09-15T13:13:52.634097+00:00"
     },
     {
       "id": "fa82b2bbe3fe",
@@ -97,7 +120,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Trump calls Nvidia CEO to talk AI — and gets put on speakerphone during industry summit - NBC News Trump calls Nvidia CEO to talk AI — and gets put on speakerphone during industry summit NBC News",
-      "capturedAt": "2026-09-15T06:52:15.190014+00:00"
+      "capturedAt": "2026-09-15T13:13:52.634097+00:00"
     },
     {
       "id": "8457cfe83088",
@@ -120,7 +143,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳今旋風訪韓！一下飛機直奔《劉QUIZ》合體劉在錫 播出日期確定了 - 三立新聞 黃仁勳今旋風訪韓！一下飛機直奔《劉QUIZ》合體劉在錫 播出日期確定了 三立新聞",
-      "capturedAt": "2026-09-15T06:52:15.190014+00:00"
+      "capturedAt": "2026-09-15T13:13:52.634097+00:00"
     },
     {
       "id": "115e9bc0c371",
@@ -145,30 +168,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang declares 'AGI has arrived' after OpenAI unveils GPT-6 Astra - foxbusiness.com Nvidia CEO Jensen Huang declares 'AGI has arrived' after OpenAI unveils GPT-6 Astra foxbusiness.com",
-      "capturedAt": "2026-09-15T06:52:15.190014+00:00"
-    },
-    {
-      "id": "cfad36273460",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "Jensen Huang Declares “AGI Has Arrived” — Powered by 100,000+ Nvidia Grace Blackwell GPUs - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOVVkWkxDUEF0RjIwMW45ZUQyTjR0N1U5M2RIcGNlaG80a09KdG85X0NqdjhxTjVOY1dGOTVveW0wMW5jdWtkcFNUTVdaUWpDTG9POHlqLUpTcnBNN3Q4MTFJY2E4OTRhX0FuU25mMWZTd241MUotVXlfLUVuWTZ1TnhITmhvaktEdm5uNW80UXYycWJiSEhWc0QtYTdtZw?oc=5",
-      "publishedAt": "2026-09-07T16:30:16+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [
-        "arrived"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Jensen Huang Declares “AGI Has Arrived” — Powered by 100,000+ Nvidia Grace Blackwell GPUs - Yahoo Finance Jensen Huang Declares “AGI Has Arrived” — Powered by 100,000+ Nvidia Grace Blackwell G",
-      "capturedAt": "2026-09-15T06:52:15.190014+00:00"
+      "capturedAt": "2026-09-15T13:13:52.634097+00:00"
     },
     {
       "id": "891a2f361e9b",
@@ -191,18 +191,18 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Says AGI Has Arrived. Nvidia Investors Should Pay Attention - Yahoo Finance Jensen Huang Says AGI Has Arrived. Nvidia Investors Should Pay Attention Yahoo Finance",
-      "capturedAt": "2026-09-15T06:52:15.190014+00:00"
+      "capturedAt": "2026-09-15T13:13:52.634097+00:00"
     },
     {
-      "id": "2f1401f2bd45",
+      "id": "cfad36273460",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: Jensen Huang",
       "sourceType": "新聞彙整",
-      "title": "Nvidia's Jensen Huang Says 'AGI Has Arrived' and Congratulates OpenAI - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYVlPMC1CNnpsZ1VBRTAzTlJZU2RzWk92WGRmSUhQY3dwa3d1a1YtMXNwRDJ2UURBRy1vZkh3NnVzbHkxdko0TEFONXR6UnVBeUE1enZaQXhwRlJyVEZ2eWZPelIxME4wM2Z6XzZBMTJYYzM2eWN1SDYxcF9BQ25jdEtBd1Y?oc=5",
-      "publishedAt": "2026-09-07T12:03:00+00:00",
+      "title": "Jensen Huang Declares “AGI Has Arrived” — Powered by 100,000+ Nvidia Grace Blackwell GPUs - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOVVkWkxDUEF0RjIwMW45ZUQyTjR0N1U5M2RIcGNlaG80a09KdG85X0NqdjhxTjVOY1dGOTVveW0wMW5jdWtkcFNUTVdaUWpDTG9POHlqLUpTcnBNN3Q4MTFJY2E4OTRhX0FuU25mMWZTd241MUotVXlfLUVuWTZ1TnhITmhvaktEdm5uNW80UXYycWJiSEhWc0QtYTdtZw?oc=5",
+      "publishedAt": "2026-09-07T07:00:00+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "Jensen Huang"
@@ -213,8 +213,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "Nvidia's Jensen Huang Says 'AGI Has Arrived' and Congratulates OpenAI - Business Insider Nvidia's Jensen Huang Says 'AGI Has Arrived' and Congratulates OpenAI Business Insider",
-      "capturedAt": "2026-09-15T06:52:15.190014+00:00"
+      "summary": "Jensen Huang Declares “AGI Has Arrived” — Powered by 100,000+ Nvidia Grace Blackwell GPUs - Yahoo Finance Jensen Huang Declares “AGI Has Arrived” — Powered by 100,000+ Nvidia Grace Blackwell G",
+      "capturedAt": "2026-09-15T13:13:52.634097+00:00"
     },
     {
       "id": "a2169fc1d2fb",
@@ -239,7 +239,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang Says AGI Has Arrived With OpenAI's GPT-6 Astra - Yahoo Finance Nvidia CEO Jensen Huang Says AGI Has Arrived With OpenAI's GPT-6 Astra Yahoo Finance",
-      "capturedAt": "2026-09-15T06:52:15.190014+00:00"
+      "capturedAt": "2026-09-15T13:13:52.634097+00:00"
     },
     {
       "id": "bd37c9f56d7a",
@@ -262,11 +262,34 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "樸映宣：黃仁勳訪韓意在搶佔韓國材料零元件裝置供應鏈…韓國應躍升為AI生態系設計國 - BigGo 財經 樸映宣：黃仁勳訪韓意在搶佔韓國材料零元件裝置供應鏈…韓國應躍升為AI生態系設計國 BigGo 財經",
-      "capturedAt": "2026-09-15T06:52:15.190014+00:00"
+      "capturedAt": "2026-09-15T13:13:52.634097+00:00"
+    },
+    {
+      "id": "1791b5deeb07",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Park Young-sun: \"Jensen Huang's Korea Visit Aims to Secure Korean Materials, Components, and Equipment First... South Korea Must Leap to Become an AI Ecosystem Designer\" - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FWTNnZHpwcHRHYkd1TzNMS1F0N1I3LTJwNTZMNk9ZV1ZIZ2YwZnFIWFRxWm1EdXJDa3gwbUxBNC0zSVdhZnJReThiZzNnUzdsOC02WF9QWXF4OWcyMHBCaTFoWUZTSXNZdWtWZzhzV3NsYkZzSVE?oc=5",
+      "publishedAt": "2026-08-31T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [
+        "visit"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Park Young-sun: \"Jensen Huang's Korea Visit Aims to Secure Korean Materials, Components, and Equipment First... South Korea Must Leap to Become an AI Ecosystem Designer\" - finance.biggo.com Park Young-sun: \"Je",
+      "capturedAt": "2026-09-15T13:13:52.634097+00:00"
     },
     {
       "id": "8da48ad97251",
-      "status": "low-confidence",
+      "status": "needs-review",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳",
@@ -285,30 +308,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "「AI教父」黃仁勳悄悄來台！行程全保密藏不住 北市買包子被民眾抓包 | 財經 | CTWANT - CTWANT 「AI教父」黃仁勳悄悄來台！行程全保密藏不住 北市買包子被民眾抓包 | 財經 | CTWANT CTWANT",
-      "capturedAt": "2026-09-15T06:52:15.190014+00:00"
-    },
-    {
-      "id": "7f44ccb4341d",
-      "status": "needs-review",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳無預警快閃台灣！傳只待2小時就離開 「行程全保密」仍被抓到街頭買包子 | 張大任 | 新聞 - 風傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9EX182Y251ZXJTZ3QydnZvS0o4VEJtVmhpa3dORjhoN244MG1pOU5yNm9xaWJpcXNEWHZmZW5NdjAzZUxiYmc0Mm9ZYXRMQQ?oc=5",
-      "publishedAt": "2026-08-23T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "行程"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳無預警快閃台灣！傳只待2小時就離開 「行程全保密」仍被抓到街頭買包子 | 張大任 | 新聞 - 風傳媒 黃仁勳無預警快閃台灣！傳只待2小時就離開 「行程全保密」仍被抓到街頭買包子 | 張大任 | 新聞 風傳媒",
-      "capturedAt": "2026-09-15T06:52:15.190014+00:00"
+      "capturedAt": "2026-09-15T13:13:52.634097+00:00"
     },
     {
       "id": "f02fd0a5924e",
@@ -332,7 +332,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO's daughter to visit LG factory for robotics talks - The Korea Herald Nvidia CEO's daughter to visit LG factory for robotics talks The Korea Herald",
-      "capturedAt": "2026-09-15T06:52:15.190014+00:00"
+      "capturedAt": "2026-09-15T13:13:52.634097+00:00"
     },
     {
       "id": "437a888b6131",
@@ -356,14 +356,165 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Four days after Jensen Huang met Koo Kwang-mo... his daughter will visit LG's robotics hub - 매일경제 Four days after Jensen Huang met Koo Kwang-mo... his daughter will visit LG's robotics hub 매일경제",
-      "capturedAt": "2026-09-15T06:52:15.190014+00:00"
+      "capturedAt": "2026-09-15T13:13:52.634097+00:00"
     },
     {
-      "id": "63de22b42582",
+      "id": "07560875f942",
       "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "「川普來電」意外曝光！ 原來黃仁勳改拿三星Fold8摺疊機 - TVBS新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fX2JHWDFCdFlnanI2elotYm1rcTJyMWVqMnFNcWVFRENUZm50U3NjV3NJN0RXanA4SWUxMlFTbEJ2ZUlxeGM0ZmF4SE5iUFE?oc=5",
+      "publishedAt": "2026-09-15T12:38:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "「川普來電」意外曝光！ 原來黃仁勳改拿三星Fold8摺疊機 - TVBS新聞網 「川普來電」意外曝光！ 原來黃仁勳改拿三星Fold8摺疊機 TVBS新聞網",
+      "capturedAt": "2026-09-15T13:13:52.634097+00:00"
+    },
+    {
+      "id": "8ac544c146a0",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "NVIDIA CEO Uses Samsung Galaxy Z Fold8 in Trump Call - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSmZkMXJaaUpDY09tMDVMVUgzLU85cHdrMzJIT1VOQlVzQk5aVnNzSmI2Mk9UWW9MT01idE10dVFNZW1ZcW9VZGgwUHF4aWNWTWt6b1NoZDFzRU1KRTRUdVpTUWN4aDRBRGRjRV9hU2c1RHdlY19VQTkyWkphempDd0huRmlDd2py?oc=5",
+      "publishedAt": "2026-09-15T12:26:04+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "NVIDIA CEO",
+        "Nvidia CEO"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "NVIDIA CEO Uses Samsung Galaxy Z Fold8 in Trump Call - 조선일보 NVIDIA CEO Uses Samsung Galaxy Z Fold8 in Trump Call 조선일보",
+      "capturedAt": "2026-09-15T13:13:52.634097+00:00"
+    },
+    {
+      "id": "e30e3fc991a0",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "NVIDIA's Jensen Huang has seemingly picked a side in the foldable wars - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdTVuRlVpR0Fvdnp2emYtMWliRTBDSEQ2REhnRVhKY0lvQTEzTHFlRHd5S21JSi1yV2dwVENnMkNVb0gwakJGVWFicDBuZTIxLWNzUEloMG9YaXhZa29tSWV6WkE0ZjhOUUFZcVNON083bm0zczJKclowYTN0cXQtQUlwU0JSVElhTVRFNFZR?oc=5",
+      "publishedAt": "2026-09-15T11:11:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "NVIDIA's Jensen Huang has seemingly picked a side in the foldable wars - Android Authority NVIDIA's Jensen Huang has seemingly picked a side in the foldable wars Android Authority",
+      "capturedAt": "2026-09-15T13:13:52.634097+00:00"
+    },
+    {
+      "id": "315692c45527",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳換新手機了！ 與川普通話一幕曝正使用三星這款摺疊機 - knews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KRGlUY3E2c3hpM0lLa1I5ZUtZZ0xqd05fTkZmTXU5NXlleml5SnpsOGd0N082YXZ5YllRWHR2Z1JEbTh3YW8zOTdYV09XS2lGbGhRazc4NEpXS2R2NHYxbUlDVmM5NlhMX0NpTGl1RQ?oc=5",
+      "publishedAt": "2026-09-15T10:58:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳換新手機了！ 與川普通話一幕曝正使用三星這款摺疊機 - knews.com.tw 黃仁勳換新手機了！ 與川普通話一幕曝正使用三星這款摺疊機 knews.com.tw",
+      "capturedAt": "2026-09-15T13:13:52.634097+00:00"
+    },
+    {
+      "id": "2b875999e000",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Nvidia CEO Jensen Huang Upgrades From Fold 7 to Galaxy Z Fold 8 - SammyGuru",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX1BMa1JmMkpETnluUVpMcjJjZlJMNk4yQTNtb2pkcnNhcjlvaGxSSzJsaWtWSlRVOVRFT2hVN2hWRTktdWZKaldGNWh4N2pqazliQ0kzSlFHTGhVWFg3Z3dfUUtCdG5JQmU1V0N0ZUdNVU5kWmd0Um5IVFZfQmxVMGRXN01rOG55aURvVzhHdw?oc=5",
+      "publishedAt": "2026-09-15T10:03:25+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang",
+        "NVIDIA CEO",
+        "Nvidia CEO"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Nvidia CEO Jensen Huang Upgrades From Fold 7 to Galaxy Z Fold 8 - SammyGuru Nvidia CEO Jensen Huang Upgrades From Fold 7 to Galaxy Z Fold 8 SammyGuru",
+      "capturedAt": "2026-09-15T13:13:52.634097+00:00"
+    },
+    {
+      "id": "2018ac2dd016",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Jensen Huang spotted using Samsung's newest Galaxy Z Fold8 during call with Trump - The Korea Herald",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40LTU2R1Q3YV9ra1d1RmZJT2RCVHdxUnpvbGs4ZmVGbW9vUS1va1NLVGFZblhEN2F3eDI1X0Z1S2diUUNqRFlZR2U0Vk45bVNqY2VSQzFwZw?oc=5",
+      "publishedAt": "2026-09-15T08:56:44+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Jensen Huang spotted using Samsung's newest Galaxy Z Fold8 during call with Trump - The Korea Herald Jensen Huang spotted using Samsung's newest Galaxy Z Fold8 during call with Trump The Korea",
+      "capturedAt": "2026-09-15T13:13:52.634097+00:00"
+    },
+    {
+      "id": "fb7d49e21621",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Trump's Surprise Call Reveals Nvidia CEO Uses Samsung's Galaxy Z Fold 8 - Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdVA2cko4ME9zbENfcjVGS05SVlhwcmEyMFV5YUhKQS1GSklfZV9STmVUSlo2eloydFZ3MUZxUmR4UjJnckJESnExZGdqc1FtYXU3cFNZajJzOWFQYTRiQlQyTTMxQ3BrMmdzZEZaRGpkYUNmaWIybU96Z1AycTNqbXduYUhpZXdmTGo4OTBPMnhfNWY4OWVXZ3VCVQ?oc=5",
+      "publishedAt": "2026-09-15T06:32:26+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "NVIDIA CEO",
+        "Nvidia CEO"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Trump's Surprise Call Reveals Nvidia CEO Uses Samsung's Galaxy Z Fold 8 - Seoul Economic Daily Trump's Surprise Call Reveals Nvidia CEO Uses Samsung's Galaxy Z Fold 8 Seoul Economic Daily",
+      "capturedAt": "2026-09-15T13:13:52.634097+00:00"
+    },
+    {
+      "id": "14c77c6c040d",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
       "title": "黃仁勳改用三星了？手拿摺疊機和川普通話 網笑：最強免費廣告 - 自由電子報3C科技",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5lbmdvbVUtLURtQ0RrampyUFk3UVg4VnhRekJnNnVIMy1WTm56OFpMOU0wMm1HY0dFS0l1el9QQWpseUdyMW1j0gFMQVVfeXFMUGMzdEkwV1NiVVhBekF3MUxGLThtQXdYcWtsZ0w4dzA1R2ZZWDRUalJxUkZNRkhDbDd6bU9EZlJWR2pTOEtUbjF0Y0FpZg?oc=5",
@@ -377,18 +528,18 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳改用三星了？手拿摺疊機和川普通話 網笑：最強免費廣告 - 自由電子報3C科技 黃仁勳改用三星了？手拿摺疊機和川普通話 網笑：最強免費廣告 自由電子報3C科技",
-      "capturedAt": "2026-09-15T06:52:15.190014+00:00"
+      "capturedAt": "2026-09-15T13:13:52.634097+00:00"
     },
     {
-      "id": "751f02cae559",
+      "id": "8b12461f8ded",
       "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "川普致電黃仁勳 反對AI末日論稱資料中心為未來石油 - 新唐人亞太電視台",
-      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNM1BuY0NlNE8xTTlOeVBFaWxreEJkNk1jMUk4SkRJZkdLX3MxZ3VVU2lCTmVBS0tiZFFna0Y5SFlidE8zaDhKYXFLb1lxVVF2Vl9aZHZZWGt6UW5uRW5mZkhRamc5VFZ3c2Y4cVU2dE40Y1RtcVE2WlBUbVhJU3NWU2xUc1NWNmxkSTBhNExVN2k2T1ZqUTlNb2xuZmdpMjg0SkM1eW5EdEpwMEhZcEFXQTA0NGh5RUhXbUx1amNtSVQ3dzZOYXZHNWFSMFN0Ry1fQmg3MHBvTC0tNV81blVRa3NZVzVwTFBuNnBmTHd2NWJDUV8zdkxhQkgzWFNpYTJWRVdTYnBLdzdXcTFWX2RBTEkwdk1wUDlkd3UtTmJFRldXQjdrTEhQM2dYLWpVWWlYRThBWl9RYU9QWXZRUXZxNVYzNWlKWV96UG9aV3Jxc3lYdGxTT3NCTUVkdXowQV85MHo0ajRJNWk0WU5QZ3lZOHhmNDY?oc=5",
-      "publishedAt": "2026-09-15T05:34:16+00:00",
+      "title": "黃仁勳公開使用Galaxy Z Fold8！「二度用三星手機」又是李在鎔送的？ - udn科技玩家",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mOGJCSzI3MXg3ZWtscm1SaEh1T2lvc05Ra1NhVWVNSDQzanVCc200TFVsM2dyVWdDZ2RlcE9wY0NFVXRjMXRKejNuUVpMZXBhdE1EcDF5bE5vUdIBX0FVX3lxTFBrSGs5SDZ5NUtBN1g4UTJnQzZSVmxjUlZUNmh4NFFES2U4MGd2UXNLaEY5MVc0WVZmTTM5dFJIR05uM0x3Uk1XQ2FUdzBETURrLWVvaXA1dllEM2Z1Z3I4?oc=5",
+      "publishedAt": "2026-09-15T06:22:37+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -397,157 +548,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "川普致電黃仁勳 反對AI末日論稱資料中心為未來石油 - 新唐人亞太電視台 川普致電黃仁勳 反對AI末日論稱資料中心為未來石油 新唐人亞太電視台",
-      "capturedAt": "2026-09-15T06:52:15.190014+00:00"
-    },
-    {
-      "id": "4d1e68d21437",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳自嘲管理像「台灣父母」，愛批評卻創下輝達極低離職率 - TechNews 科技新報",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNi15WE1FOTdOU2ZIaEdaWkVIWDFRTnFwRURYdHhRX0VRMVN0dlVmUW1JYVpST0tnRTVmaFdtTUd1UTNCNDZucG1uYnVvYnFLMGdCOXpFckdTa2hNMGswaWl2Rk4zZkR1TGdVMWV2VHJrWmp0dkNxYXRFX2lyeWlfQ0ozbDdDN1JiNWFkYTlKMExCdkNpX2VpRGZpdUJKX1FkUTRaQ3daTnRybmo0VzVOYVVacDRWTnZUTUV1cG93?oc=5",
-      "publishedAt": "2026-09-15T00:33:27+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳自嘲管理像「台灣父母」，愛批評卻創下輝達極低離職率 - TechNews 科技新報 黃仁勳自嘲管理像「台灣父母」，愛批評卻創下輝達極低離職率 TechNews 科技新報",
-      "capturedAt": "2026-09-15T06:52:15.190014+00:00"
-    },
-    {
-      "id": "732ef4615e28",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "在台上手機狂響！黃仁勳突接到「川普來電」 開擴音大聊這1事 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQY2x0eU9Pbzdlb2lsazhlUTByRW16QTIwOTFDR2Uxa3lDSVpIQncwRlFJRzhyYS1wekZjSmphZ1FvUTNMVHgtWmZFTkRUeWo3UUluVWRHZEViU19tTGlFZm9ZTGRDa2FEREttT1VMZnZfTUNCVXBYa25zUTVpZkVsSjdzZU9ndEswZFc4TW1zYmFCeWtxOUJrbzR5VXJEdlNHaS1JbXpQQnFlN2psQXlQMDlFOThza1RYdFZBcTBFcXExeWtCREZOZkZVcmNqVkF6cHpOdkZha0U3blNhT3dBaTVZZ1R2M051aVNtRFdob0NoMFFSTXlmX2NxZEZtMVRnZVNFeDBsVWx5czRTX2ZoMm1Hc2V2TUVwYkRuMk0xcGdqZ2xjSTA0QWktSkNiNHc3LUh4elU5QzAwcWg1aWRvanRJbV9jdVdXOXd4NUJPTFNPNTdQRXZHaXprUUFPU1owam1fd1NydUdWcWFEQ2dFMGZKS2k3TXVr?oc=5",
-      "publishedAt": "2026-09-14T23:53:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "在台上手機狂響！黃仁勳突接到「川普來電」 開擴音大聊這1事 - Yahoo新聞 在台上手機狂響！黃仁勳突接到「川普來電」 開擴音大聊這1事 Yahoo新聞",
-      "capturedAt": "2026-09-15T06:52:15.190014+00:00"
-    },
-    {
-      "id": "163e006d0408",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "川普突襲致電黃仁勳 聯手拆解「AI末日論」 - news.cnyes.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PZzVoMTJFbGxoSkVGQTQ3NmZteVg3VjdrODNsWFdXSUpWOWw4ODVjRWdFYWkwNjNHNDNQWWdwWXhXVGg1RC0yMmJVMGhCemc?oc=5",
-      "publishedAt": "2026-09-14T22:51:13+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "川普突襲致電黃仁勳 聯手拆解「AI末日論」 - news.cnyes.com 川普突襲致電黃仁勳 聯手拆解「AI末日論」 news.cnyes.com",
-      "capturedAt": "2026-09-15T06:52:15.190014+00:00"
-    },
-    {
-      "id": "a537ab473d68",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’ - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR1hlbmpRM191TmRMWGdwUGhMcEJBZFQ4eHhiUXp6ZWd0MDZXRHFHaUpqbVdlZXhMY1ZQbE1kWjJpRm16dkNUb25fWXdFbDhrNlFFcUJxY0ktX01adi1qOXJ3Sy11Ynh0Um11TUh6MVMxS3QtT19URmhwVVRieWxGR19PanhQbVBhekFFcE5CdFBaM0M5a0tkV25aWlNpVzYxYm1UVHIwXy15bUJhai1IOHRQRHc?oc=5",
-      "publishedAt": "2026-09-14T21:51:02+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang",
-        "NVIDIA CEO",
-        "Nvidia CEO"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’ - TechCrunch Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’ TechCrunch",
-      "capturedAt": "2026-09-15T06:52:15.190014+00:00"
-    },
-    {
-      "id": "ca4ad36ceaa3",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "Nvidia’s Jensen Huang Gets Onstage Call From Trump, Who Dismissed A.I. Safety Concerns - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRjhtdU1rR0ZPZzBMOGZwZUpnYk8tWWtnVk0tV2VsRF9abV9pR2RicmJGbmtld045bkdwZVpSbzNKVDlLQ3ltamh0amZ0SnpQVGwwYnNvSS14SEZKRlNPb05Tdkxxc3k3b3h1N1RhVTJDbmtLNDBFd2VMSlEzQWN5UzUwajJFQQ?oc=5",
-      "publishedAt": "2026-09-14T20:49:02+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Nvidia’s Jensen Huang Gets Onstage Call From Trump, Who Dismissed A.I. Safety Concerns - The New York Times Nvidia’s Jensen Huang Gets Onstage Call From Trump, Who Dismissed A.I. Safety Concerns The Ne",
-      "capturedAt": "2026-09-15T06:52:15.190014+00:00"
-    },
-    {
-      "id": "0df442d765ff",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "員工離開創業！黃仁勳給超犀利建議直指弱點有望獲輝達掏錢投資| 全球財經| 全球 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBld1JUcVJvbWVzbkFza2xqbzRiaVFjRUhodHBoZmYxZS13MnBOb0ZQeGhUX3p0S01KUkR0NWNsd2t6ZzVPUEdNdTd6OFljZHJL?oc=5",
-      "publishedAt": "2026-09-14T14:33:58+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "員工離開創業！黃仁勳給超犀利建議直指弱點有望獲輝達掏錢投資| 全球財經| 全球 - UDN 員工離開創業！黃仁勳給超犀利建議直指弱點有望獲輝達掏錢投資| 全球財經| 全球 UDN",
-      "capturedAt": "2026-09-15T06:52:15.190014+00:00"
-    },
-    {
-      "id": "a6fff3a98763",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "離職前被黃仁勳被親自教育！前員工曝「2小時震撼對話」：收到10年來最誠實回饋 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxNN0hwTzdiZ09vcXBzYzYtVnV1YzM5eUpsTGdLNHoyQ3JiOVUtckt0blVwV1ZsczZSZUd0SWp5b1Fncno5bTRxRk1KOURKcHF3REJEdm93V1Z6aGxNWDhXUlJvTUFHMnBJaEtqNjNiS280ajNQWURvZGFWUzdJYmlRdmV5OXhxdE9SajFNNmt6Z21uQTBTXy0taGdlUUZZdzVxNmtnSkZ4YVJBOS1TcXBCekJVVGtaWGs3Z1ZsOEhmTVFvZXZTcjZfMWZpMU5ITlhtS2JDcFlqTHVYdlp3bXRoVzRoVTlkSDlQeXNPNGpKUGNyVXQ5XzUyZ0VQWjBod1BYeHZqX0kxeURFZjFsZ1N2TVdEMEljTXJkdEk3MkR1Y1FDaDl3cWtXNXk0NlRiZEJUNl9EVmNJWk1yMm5IYUd5d1M1T2tXUDhrdXQ4RUdISGJoN2Nfd2hZbU1WS1ZzNWhqZ1JhNTlhUTI3RmdmSlBVZE9vSk5oSnVPOXJMYUZWN05KX2h6bEQwT1BYQnZxRWNQSzJkNGd4TDhzUk1tTEt0OWFxTHFTZ1R2WnhfOUVIdHZxRGlHdHRvaHlONENXZ2ZxajJ0bEV4RklpS0VvbF9CdF9yQzlvWEU?oc=5",
-      "publishedAt": "2026-09-14T10:37:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "離職前被黃仁勳被親自教育！前員工曝「2小時震撼對話」：收到10年來最誠實回饋 - Yahoo股市 離職前被黃仁勳被親自教育！前員工曝「2小時震撼對話」：收到10年來最誠實回饋 Yahoo股市",
-      "capturedAt": "2026-09-15T06:52:15.190014+00:00"
+      "summary": "黃仁勳公開使用Galaxy Z Fold8！「二度用三星手機」又是李在鎔送的？ - udn科技玩家 黃仁勳公開使用Galaxy Z Fold8！「二度用三星手機」又是李在鎔送的？ udn科技玩家",
+      "capturedAt": "2026-09-15T13:13:52.634097+00:00"
     }
   ],
   "errors": [
