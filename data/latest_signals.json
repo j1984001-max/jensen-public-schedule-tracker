@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-09-14T22:18:19.997284+00:00",
+  "generatedAt": "2026-09-15T00:05:34.233585+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
   "publishedToTimeline": 12,
   "signals": [
+    {
+      "id": "390d146e6972",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Trump calls Nvidia CEO to talk AI — and gets put on speakerphone in all-hands meeting - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQkF6Q0JLVjMyRkRmX2YxS3J3MlRGX2xGdzhDWTF2alBnQ19vSmhxNGJpTTZrcDZlOTV3VTJnN3BCOXkzYzduOGo0bmpIc09CZ1lGbzdmdkc1eVlrYUEwN1RDV1NWUGdqYzBTWlZqYUVHWjFMSEpoMnplbDhkYTkyeHhRb0tFU3V2MXVkLXc2alVVUGlXRnctRFpkTzNDLXhOWWJOYXpVM09vNF94UEFFbVBxeFE?oc=5",
+      "publishedAt": "2026-09-14T23:06:12+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "NVIDIA CEO",
+        "Nvidia CEO"
+      ],
+      "matchedEventKeywords": [
+        "meeting"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Trump calls Nvidia CEO to talk AI — and gets put on speakerphone in all-hands meeting - NBC News Trump calls Nvidia CEO to talk AI — and gets put on speakerphone in all-hands meeting NBC News",
+      "capturedAt": "2026-09-15T00:05:34.233599+00:00"
+    },
     {
       "id": "8457cfe83088",
       "status": "low-confidence",
@@ -25,7 +49,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳今旋風訪韓！一下飛機直奔《劉QUIZ》合體劉在錫 播出日期確定了 - 三立新聞 黃仁勳今旋風訪韓！一下飛機直奔《劉QUIZ》合體劉在錫 播出日期確定了 三立新聞",
-      "capturedAt": "2026-09-14T22:18:19.997300+00:00"
+      "capturedAt": "2026-09-15T00:05:34.233599+00:00"
     },
     {
       "id": "809f9cf0c0fc",
@@ -50,7 +74,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang declares 'AGI has arrived' after OpenAI unveils GPT-6 Astra - Fox Business Nvidia CEO Jensen Huang declares 'AGI has arrived' after OpenAI unveils GPT-6 Astra Fox Business",
-      "capturedAt": "2026-09-14T22:18:19.997300+00:00"
+      "capturedAt": "2026-09-15T00:05:34.233599+00:00"
     },
     {
       "id": "cfad36273460",
@@ -73,7 +97,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Declares “AGI Has Arrived” — Powered by 100,000+ Nvidia Grace Blackwell GPUs - Yahoo Finance Jensen Huang Declares “AGI Has Arrived” — Powered by 100,000+ Nvidia Grace Blackwell G",
-      "capturedAt": "2026-09-14T22:18:19.997300+00:00"
+      "capturedAt": "2026-09-15T00:05:34.233599+00:00"
     },
     {
       "id": "891a2f361e9b",
@@ -96,16 +120,16 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Says AGI Has Arrived. Nvidia Investors Should Pay Attention - Yahoo Finance Jensen Huang Says AGI Has Arrived. Nvidia Investors Should Pay Attention Yahoo Finance",
-      "capturedAt": "2026-09-14T22:18:19.997300+00:00"
+      "capturedAt": "2026-09-15T00:05:34.233599+00:00"
     },
     {
-      "id": "2f1401f2bd45",
+      "id": "c558c6e3cc01",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: Jensen Huang",
       "sourceType": "新聞彙整",
-      "title": "Nvidia's Jensen Huang Says 'AGI Has Arrived' and Congratulates OpenAI - Business Insider",
+      "title": "Nvidia's Jensen Huang Says 'AGI Has Arrived' and Congratulates OpenAI - businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYVlPMC1CNnpsZ1VBRTAzTlJZU2RzWk92WGRmSUhQY3dwa3d1a1YtMXNwRDJ2UURBRy1vZkh3NnVzbHkxdko0TEFONXR6UnVBeUE1enZaQXhwRlJyVEZ2eWZPelIxME4wM2Z6XzZBMTJYYzM2eWN1SDYxcF9BQ25jdEtBd1Y?oc=5",
       "publishedAt": "2026-09-07T12:03:00+00:00",
       "detectedDates": [],
@@ -118,8 +142,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "Nvidia's Jensen Huang Says 'AGI Has Arrived' and Congratulates OpenAI - Business Insider Nvidia's Jensen Huang Says 'AGI Has Arrived' and Congratulates OpenAI Business Insider",
-      "capturedAt": "2026-09-14T22:18:19.997300+00:00"
+      "summary": "Nvidia's Jensen Huang Says 'AGI Has Arrived' and Congratulates OpenAI - businessinsider.com Nvidia's Jensen Huang Says 'AGI Has Arrived' and Congratulates OpenAI businessinsider.com",
+      "capturedAt": "2026-09-15T00:05:34.233599+00:00"
     },
     {
       "id": "a2169fc1d2fb",
@@ -144,7 +168,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang Says AGI Has Arrived With OpenAI's GPT-6 Astra - Yahoo Finance Nvidia CEO Jensen Huang Says AGI Has Arrived With OpenAI's GPT-6 Astra Yahoo Finance",
-      "capturedAt": "2026-09-14T22:18:19.997300+00:00"
+      "capturedAt": "2026-09-15T00:05:34.233599+00:00"
     },
     {
       "id": "bd37c9f56d7a",
@@ -167,7 +191,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "樸映宣：黃仁勳訪韓意在搶佔韓國材料零元件裝置供應鏈…韓國應躍升為AI生態系設計國 - BigGo 財經 樸映宣：黃仁勳訪韓意在搶佔韓國材料零元件裝置供應鏈…韓國應躍升為AI生態系設計國 BigGo 財經",
-      "capturedAt": "2026-09-14T22:18:19.997300+00:00"
+      "capturedAt": "2026-09-15T00:05:34.233599+00:00"
     },
     {
       "id": "1791b5deeb07",
@@ -190,16 +214,16 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Park Young-sun: \"Jensen Huang's Korea Visit Aims to Secure Korean Materials, Components, and Equipment First... South Korea Must Leap to Become an AI Ecosystem Designer\" - finance.biggo.com Park Young-sun: \"Je",
-      "capturedAt": "2026-09-14T22:18:19.997300+00:00"
+      "capturedAt": "2026-09-15T00:05:34.233599+00:00"
     },
     {
-      "id": "8da48ad97251",
+      "id": "93121ea7f45e",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
-      "title": "「AI教父」黃仁勳悄悄來台！行程全保密藏不住 北市買包子被民眾抓包 | 財經 | CTWANT - CTWANT",
+      "title": "「AI教父」黃仁勳悄悄來台！行程全保密藏不住 北市買包子被民眾抓包 | 財經 | CTWANT - ctwant.com",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXZFhBY09XZ1o5cWdmRl9jbzdYNXI1ZHFOUkhwai1ZbF9JS0Vfa0RIdlh5a2dBUldHaENTZHdoNDI1N1lPTEN1akxEeDdGUEHSAVRBVV95cUxQRlRPdmp4LVRWRm1UOU9OSWNYLTFfd0g0bXNyLWphekxER21OSWd2Z2lrOXBXQnBTWk9qTmhPNUVOSlRKWV9jVVpUMW5mdVpTWk9jSFc?oc=5",
       "publishedAt": "2026-08-23T07:00:00+00:00",
       "detectedDates": [],
@@ -212,8 +236,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "「AI教父」黃仁勳悄悄來台！行程全保密藏不住 北市買包子被民眾抓包 | 財經 | CTWANT - CTWANT 「AI教父」黃仁勳悄悄來台！行程全保密藏不住 北市買包子被民眾抓包 | 財經 | CTWANT CTWANT",
-      "capturedAt": "2026-09-14T22:18:19.997300+00:00"
+      "summary": "「AI教父」黃仁勳悄悄來台！行程全保密藏不住 北市買包子被民眾抓包 | 財經 | CTWANT - ctwant.com 「AI教父」黃仁勳悄悄來台！行程全保密藏不住 北市買包子被民眾抓包 | 財經 | CTWANT ctwant.com",
+      "capturedAt": "2026-09-15T00:05:34.233599+00:00"
     },
     {
       "id": "7caccea7be0d",
@@ -236,7 +260,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳無預警快閃台灣！傳只待2小時就離開 「行程全保密」仍被抓到街頭買包子 | 張大任 | 新聞 - storm.mg 黃仁勳無預警快閃台灣！傳只待2小時就離開 「行程全保密」仍被抓到街頭買包子 | 張大任 | 新聞 storm.mg",
-      "capturedAt": "2026-09-14T22:18:19.997300+00:00"
+      "capturedAt": "2026-09-15T00:05:34.233599+00:00"
     },
     {
       "id": "f02fd0a5924e",
@@ -260,11 +284,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO's daughter to visit LG factory for robotics talks - The Korea Herald Nvidia CEO's daughter to visit LG factory for robotics talks The Korea Herald",
-      "capturedAt": "2026-09-14T22:18:19.997300+00:00"
+      "capturedAt": "2026-09-15T00:05:34.233599+00:00"
     },
     {
       "id": "437a888b6131",
-      "status": "low-confidence",
+      "status": "needs-review",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: Jensen Huang Korea",
@@ -284,7 +308,51 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Four days after Jensen Huang met Koo Kwang-mo... his daughter will visit LG's robotics hub - 매일경제 Four days after Jensen Huang met Koo Kwang-mo... his daughter will visit LG's robotics hub 매일경제",
-      "capturedAt": "2026-09-14T22:18:19.997300+00:00"
+      "capturedAt": "2026-09-15T00:05:34.233599+00:00"
+    },
+    {
+      "id": "ca4ad36ceaa3",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Nvidia’s Jensen Huang Gets Onstage Call From Trump, Who Dismissed A.I. Safety Concerns - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRjhtdU1rR0ZPZzBMOGZwZUpnYk8tWWtnVk0tV2VsRF9abV9pR2RicmJGbmtld045bkdwZVpSbzNKVDlLQ3ltamh0amZ0SnpQVGwwYnNvSS14SEZKRlNPb05Tdkxxc3k3b3h1N1RhVTJDbmtLNDBFd2VMSlEzQWN5UzUwajJFQQ?oc=5",
+      "publishedAt": "2026-09-14T22:29:25+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Nvidia’s Jensen Huang Gets Onstage Call From Trump, Who Dismissed A.I. Safety Concerns - The New York Times Nvidia’s Jensen Huang Gets Onstage Call From Trump, Who Dismissed A.I. Safety Concerns The Ne",
+      "capturedAt": "2026-09-15T00:05:34.233599+00:00"
+    },
+    {
+      "id": "a537ab473d68",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’ - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR1hlbmpRM191TmRMWGdwUGhMcEJBZFQ4eHhiUXp6ZWd0MDZXRHFHaUpqbVdlZXhMY1ZQbE1kWjJpRm16dkNUb25fWXdFbDhrNlFFcUJxY0ktX01adi1qOXJ3Sy11Ynh0Um11TUh6MVMxS3QtT19URmhwVVRieWxGR19PanhQbVBhekFFcE5CdFBaM0M5a0tkV25aWlNpVzYxYm1UVHIwXy15bUJhai1IOHRQRHc?oc=5",
+      "publishedAt": "2026-09-14T21:51:02+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang",
+        "NVIDIA CEO",
+        "Nvidia CEO"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’ - TechCrunch Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’ TechCrunch",
+      "capturedAt": "2026-09-15T00:05:34.233599+00:00"
     },
     {
       "id": "a6fff3a98763",
@@ -305,16 +373,16 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "離職前被黃仁勳被親自教育！前員工曝「2小時震撼對話」：收到10年來最誠實回饋 - Yahoo股市 離職前被黃仁勳被親自教育！前員工曝「2小時震撼對話」：收到10年來最誠實回饋 Yahoo股市",
-      "capturedAt": "2026-09-14T22:18:19.997300+00:00"
+      "capturedAt": "2026-09-15T00:05:34.233599+00:00"
     },
     {
-      "id": "f234790e1ced",
+      "id": "38932a3f1aea",
       "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "離開Nvidia下場如何？前員工揭黃仁勳「超殘酷對話」 嫌公司名太糟竟成最強祝福 - 鏡週刊Mirror Media",
+      "title": "離開Nvidia下場如何？前員工揭黃仁勳「超殘酷對話」 嫌公司名太糟竟成最強祝福 - mirrormedia.mg",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55YW81SHNjY3liREVhaTFJUWJta1p5al9IQ3dVY0ZwRTg1bW8wOEtscFQtd2pxZFpiWEhiWEM4eF9uTHM1MGt6UE1iZjd6a244TWwxSFdERXZXMTjSAWBBVV95cUxOdU5fUTFKN0xUNHFVUDFiTkxsN2paLXlFSkpiVldrUEh3T2JpNnJWaC1XQ1lOVW5hSnNXdHp0Z0NuWEsxRjlSS09BMDE1UjZMSnBEeFEwTk5YemdTWnJMSWY?oc=5",
       "publishedAt": "2026-09-14T09:53:00+00:00",
       "detectedDates": [],
@@ -325,8 +393,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "離開Nvidia下場如何？前員工揭黃仁勳「超殘酷對話」 嫌公司名太糟竟成最強祝福 - 鏡週刊Mirror Media 離開Nvidia下場如何？前員工揭黃仁勳「超殘酷對話」 嫌公司名太糟竟成最強祝福 鏡週刊Mirror Media",
-      "capturedAt": "2026-09-14T22:18:19.997300+00:00"
+      "summary": "離開Nvidia下場如何？前員工揭黃仁勳「超殘酷對話」 嫌公司名太糟竟成最強祝福 - mirrormedia.mg 離開Nvidia下場如何？前員工揭黃仁勳「超殘酷對話」 嫌公司名太糟竟成最強祝福 mirrormedia.mg",
+      "capturedAt": "2026-09-15T00:05:34.233599+00:00"
     },
     {
       "id": "bf1f854e5d57",
@@ -347,7 +415,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳深夜揪「致命弱點」！輝達員工離職前夕真實對話曝：這名字太糟了 - Yahoo新聞 黃仁勳深夜揪「致命弱點」！輝達員工離職前夕真實對話曝：這名字太糟了 Yahoo新聞",
-      "capturedAt": "2026-09-14T22:18:19.997300+00:00"
+      "capturedAt": "2026-09-15T00:05:34.233599+00:00"
     },
     {
       "id": "30670025a93e",
@@ -368,7 +436,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "資安概念股有哪些？黃仁勳：資安很可能成為 AI 下一個重大應用領域 - pocket.tw 資安概念股有哪些？黃仁勳：資安很可能成為 AI 下一個重大應用領域 pocket.tw",
-      "capturedAt": "2026-09-14T22:18:19.997300+00:00"
+      "capturedAt": "2026-09-15T00:05:34.233599+00:00"
     },
     {
       "id": "581719d47fe2",
@@ -389,7 +457,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳點名AI下一戰場！台股重挫資安股逆勢噴出 2檔強鎖漲停 - Yahoo新聞 黃仁勳點名AI下一戰場！台股重挫資安股逆勢噴出 2檔強鎖漲停 Yahoo新聞",
-      "capturedAt": "2026-09-14T22:18:19.997300+00:00"
+      "capturedAt": "2026-09-15T00:05:34.233599+00:00"
     },
     {
       "id": "314fe6ccec75",
@@ -410,7 +478,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Says Cybersecurity Is AI's Next Frontier—South Korea's SAND Lab Hits Daily Limit, Security Stocks Surge - finance.biggo.com Jensen Huang Says Cybersecurity Is AI's Next Frontier—S",
-      "capturedAt": "2026-09-14T22:18:19.997300+00:00"
+      "capturedAt": "2026-09-15T00:05:34.233599+00:00"
     },
     {
       "id": "c665234a06ff",
@@ -431,7 +499,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "駁AI滅絕論 黃仁勳：誰不想讓產品轟動市場？ - UDN 駁AI滅絕論 黃仁勳：誰不想讓產品轟動市場？ UDN",
-      "capturedAt": "2026-09-14T22:18:19.997300+00:00"
+      "capturedAt": "2026-09-15T00:05:34.233599+00:00"
     },
     {
       "id": "86ba8c441a50",
@@ -454,7 +522,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang admits he criticizes everything his 42,000-plus employees show him - Fortune Nvidia CEO Jensen Huang admits he criticizes everything his 42,000-plus employees show him Fortune",
-      "capturedAt": "2026-09-14T22:18:19.997300+00:00"
+      "capturedAt": "2026-09-15T00:05:34.233599+00:00"
     },
     {
       "id": "30be878a7801",
@@ -475,74 +543,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "OpenAI 最強模型問世 黃仁勳唱旺 AGI 輝達40萬顆 GPU 將上線 - 經濟日報 OpenAI 最強模型問世 黃仁勳唱旺 AGI 輝達40萬顆 GPU 將上線 經濟日報",
-      "capturedAt": "2026-09-14T22:18:19.997300+00:00"
-    },
-    {
-      "id": "cd609ec47ff1",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "What happens when you tell Jensen Huang you're quitting Nvidia - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNlVpd1phQWhmU29YaTBhcU1rNmFQWFdXUnktRHl6WURTbUw1Yl9Xbk45WlFudlFfZ2hhT2c2amN0OEplcWhMdWIwcTlBYkxPUVdhampmLWhlMjBuQ1FfR1R0dUJ1RVM1WkpxZmZGZ3BuTUotV2hNZl85MzZuTVVIdDVHUXJWcFJrdjZLdzBwMEY1ZU5wSWczM0xocHpMZGQxSXlabA?oc=5",
-      "publishedAt": "2026-09-13T09:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "What happens when you tell Jensen Huang you're quitting Nvidia - Business Insider What happens when you tell Jensen Huang you're quitting Nvidia Business Insider",
-      "capturedAt": "2026-09-14T22:18:19.997300+00:00"
-    },
-    {
-      "id": "6b3623e86a7b",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳揪大咖吃百元熱炒店「最便宜兆元宴」藏玄機 韓媒揭背後含意 - 三立新聞",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAyeS01WFJwaklha2FET2g2REpfcUt3S0xuRi05dG43eUtyUGlPMTdBSDBMTndnVVRtT0NuVmtJVmNPamlNcDlwVNIBTEFVX3lxTE9RV2thbF96M2dERXBkZnZtZ1NSTUJONGNZUS1wRlExamJrUU9idUdEOWk5WlBsQzdFRjZfNHNVNEQwYXR6Q2g2UDFxcVA?oc=5",
-      "publishedAt": "2026-09-12T14:37:23+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [
-        "吃"
-      ],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [
-        "吃"
-      ],
-      "summary": "黃仁勳揪大咖吃百元熱炒店「最便宜兆元宴」藏玄機 韓媒揭背後含意 - 三立新聞 黃仁勳揪大咖吃百元熱炒店「最便宜兆元宴」藏玄機 韓媒揭背後含意 三立新聞",
-      "capturedAt": "2026-09-14T22:18:19.997300+00:00"
-    },
-    {
-      "id": "de6c0bf905c4",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "好想贏台灣？韓國高層來台固樁 傳今晚密會黃仁勳 - 三立新聞",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBFem04WGJqc3hURjBxM2kzMzNYTG4yMTJyYUtqUjVja2h4ckdPeGR1SDV3N0RtcmFfSW82SmRPdHpsMXNJTFN1adIBTEFVX3lxTE81NW1PeGljTzNxakxQeVpsSlY3SjFHMGVCd3NodW1XMXl3WEE5WE1OTFF3WDM2S1E3aXNPRmZadF84S2ptZ1NaSlRtTEM?oc=5",
-      "publishedAt": "2026-09-12T14:35:25+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "好想贏台灣？韓國高層來台固樁 傳今晚密會黃仁勳 - 三立新聞 好想贏台灣？韓國高層來台固樁 傳今晚密會黃仁勳 三立新聞",
-      "capturedAt": "2026-09-14T22:18:19.997300+00:00"
+      "capturedAt": "2026-09-15T00:05:34.233599+00:00"
     }
   ],
   "errors": [
