@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-20T12:54:41.013880+00:00",
+  "generatedAt": "2026-09-20T21:13:09.182667+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
-  "publishedToTimeline": 10,
+  "publishedToTimeline": 9,
   "signals": [
     {
-      "id": "40a510318a42",
+      "id": "faa30d85b055",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
-      "title": "路透：輝達執行長黃仁勳將出席川習會國宴 - money.udn.com",
+      "title": "路透：輝達執行長黃仁勳將出席川習會國宴 - 經濟日報",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XNTU2YU1MM1ZnTlFUWXF0ZTgzczBlVlBnMTdRRkRMenotanFRQlhCOUxOMWZ4RGdhRm5WMmdZSndKQ01hbUlvZDVnZ2RUQ2YwZWhKYldnZ0otZ9IBX0FVX3lxTE5hM241VWdMQzJpcWg1TmtxMzduSlJENFBiNUYyNEg0YXMxM2tVVXRmeXQxSDYyd2dycjczY3Z1UFctZGdXa25obzVybXZjclR2SHJ4YW1oV1ZseDRqZUln?oc=5",
       "publishedAt": "2026-09-15T23:36:43+00:00",
       "detectedDates": [],
@@ -24,45 +24,17 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "路透：輝達執行長黃仁勳將出席川習會國宴 - money.udn.com 路透：輝達執行長黃仁勳將出席川習會國宴 money.udn.com",
-      "capturedAt": "2026-09-20T12:54:41.013893+00:00"
+      "summary": "路透：輝達執行長黃仁勳將出席川習會國宴 - 經濟日報 路透：輝達執行長黃仁勳將出席川習會國宴 經濟日報",
+      "capturedAt": "2026-09-20T21:13:09.182680+00:00"
     },
     {
-      "id": "035ca964007c",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 55,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CeVJxT3M5b0dfbDBxdzJBNTZtTGdyc2h1V2wtSG5VUkZQQVMxRExYRm51U2NWWmpFYmNfVnZDaVF5TkdjZjZib3c2b1FkcUNOZVBidXRYQnU5UGd2TXl1bjY1bTZjbVYtbzRUbUVuY0lFRE3SAXhBVV95cUxOWUdvSkVyRmFDOHkzZ3VKU0kyeVN5SmxuZkdqVE9mRjdocWhhZzA3Q0VwQkVGOUl2dVlIV3cyQl9ua2dGTDcxZTlfOWpadkZVeWxaRHBHSVM1S1hsM3ZXMlVIbDFRcWRRbmF2UlltNl9RTEpTMVFUWjI?oc=5",
-      "publishedAt": "2026-09-15T22:06:16+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "NVIDIA CEO",
-        "Nvidia CEO"
-      ],
-      "matchedEventKeywords": [
-        "attend"
-      ],
-      "privacyReviewFlags": [
-        "dinner"
-      ],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [
-        "dinner"
-      ],
-      "summary": "Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source - CNBC Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source CNBC",
-      "capturedAt": "2026-09-20T12:54:41.013893+00:00"
-    },
-    {
-      "id": "30b62b2de101",
+      "id": "ec9c7cc96c8d",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "黃仁勳演講突熱線川普！竟掏「這1品牌新機」網看傻 - 民視新聞網",
+      "title": "黃仁勳演講「突開擴音」熱線川普！竟掏出「這1品牌最新款手機」網笑：最強免費廣告 - ftvnews.com.tw",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jdVpieXo4Z1BwMEQ2LWMxMnNTNFR6dE56cFc0T0ZabUZkTmNydzFDejZ3TTRIdjJHX1RDRzR6VnhYVnRTSUlUSUZxNEFVTld6NEF4WjcxVXhRTFAzaWhneA?oc=5",
       "publishedAt": "2026-09-15T08:19:25+00:00",
       "detectedDates": [],
@@ -75,8 +47,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "黃仁勳演講突熱線川普！竟掏「這1品牌新機」網看傻 - 民視新聞網 黃仁勳演講突熱線川普！竟掏「這1品牌新機」網看傻 民視新聞網",
-      "capturedAt": "2026-09-20T12:54:41.013893+00:00"
+      "summary": "黃仁勳演講「突開擴音」熱線川普！竟掏出「這1品牌最新款手機」網笑：最強免費廣告 - ftvnews.com.tw 黃仁勳演講「突開擴音」熱線川普！竟掏出「這1品牌最新款手機」網笑：最強免費廣告 ftvnews.com.tw",
+      "capturedAt": "2026-09-20T21:13:09.182680+00:00"
     },
     {
       "id": "55d7e79531e5",
@@ -99,7 +71,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Spotted Using Galaxy Z Fold 8 in Public — Was It Another Gift from Lee Jae-yong? - finance.biggo.com Jensen Huang Spotted Using Galaxy Z Fold 8 in Public — Was It Another Gift fro",
-      "capturedAt": "2026-09-20T12:54:41.013893+00:00"
+      "capturedAt": "2026-09-20T21:13:09.182680+00:00"
     },
     {
       "id": "079b22900d90",
@@ -122,7 +94,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "台上演講突遭川普狂Call！黃仁勳開擴音「對話全曝光」 - Yahoo股市 台上演講突遭川普狂Call！黃仁勳開擴音「對話全曝光」 Yahoo股市",
-      "capturedAt": "2026-09-20T12:54:41.013893+00:00"
+      "capturedAt": "2026-09-20T21:13:09.182680+00:00"
     },
     {
       "id": "fa82b2bbe3fe",
@@ -146,7 +118,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Trump calls Nvidia CEO to talk AI — and gets put on speakerphone during industry summit - NBC News Trump calls Nvidia CEO to talk AI — and gets put on speakerphone during industry summit NBC News",
-      "capturedAt": "2026-09-20T12:54:41.013893+00:00"
+      "capturedAt": "2026-09-20T21:13:09.182680+00:00"
     },
     {
       "id": "7bff070040ea",
@@ -169,7 +141,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "輝達GTC大會秀「Vera CPU」 黃仁勳強調將進入AI代理時代 - 公視新聞網PNN 輝達GTC大會秀「Vera CPU」 黃仁勳強調將進入AI代理時代 公視新聞網PNN",
-      "capturedAt": "2026-09-20T12:54:41.013893+00:00"
+      "capturedAt": "2026-09-20T21:13:09.182680+00:00"
     },
     {
       "id": "cfad36273460",
@@ -192,7 +164,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Declares “AGI Has Arrived” — Powered by 100,000+ Nvidia Grace Blackwell GPUs - Yahoo Finance Jensen Huang Declares “AGI Has Arrived” — Powered by 100,000+ Nvidia Grace Blackwell G",
-      "capturedAt": "2026-09-20T12:54:41.013893+00:00"
+      "capturedAt": "2026-09-20T21:13:09.182680+00:00"
     },
     {
       "id": "a2169fc1d2fb",
@@ -217,7 +189,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang Says AGI Has Arrived With OpenAI's GPT-6 Astra - Yahoo Finance Nvidia CEO Jensen Huang Says AGI Has Arrived With OpenAI's GPT-6 Astra Yahoo Finance",
-      "capturedAt": "2026-09-20T12:54:41.013893+00:00"
+      "capturedAt": "2026-09-20T21:13:09.182680+00:00"
     },
     {
       "id": "1791b5deeb07",
@@ -240,7 +212,51 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Park Young-sun: \"Jensen Huang's Korea Visit Aims to Secure Korean Materials, Components, and Equipment First... South Korea Must Leap to Become an AI Ecosystem Designer\" - finance.biggo.com Park Young-sun: \"Je",
-      "capturedAt": "2026-09-20T12:54:41.013893+00:00"
+      "capturedAt": "2026-09-20T21:13:09.182680+00:00"
+    },
+    {
+      "id": "a1a888ed9659",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Nvidia's Jensen Huang rejects AI extinction warnings as \"doomsday narratives\" - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYW5zMHVGQTA0bXB5dlhtcXVlY0JMRmstbzNobVItUWZxS1FlSnhDSkZVa0JpVFYtQld5VHZtSnhGUGVJb0RtUEFxcWd3YUxKU09PRXJkNXNuN0pobHIyN1VBdjNtcEM4Qm5RYWplWE9uMDd1TElZSjJmazhuS29zVWlCdEg2RnM?oc=5",
+      "publishedAt": "2026-09-20T13:37:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Nvidia's Jensen Huang rejects AI extinction warnings as \"doomsday narratives\" - CBS News Nvidia's Jensen Huang rejects AI extinction warnings as \"doomsday narratives\" CBS News",
+      "capturedAt": "2026-09-20T21:13:09.182680+00:00"
+    },
+    {
+      "id": "f8c10ec7aaa0",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnRwN284dVBRR1NqTHk3ellnNXcwQU1WRkNvR3RtdjdoZHF3Y21meXY0cGNEdmZzZUFjX2o4d3h4TG9HNXhmcFpZbkVaVkJQMEhrQ0NMTi1nRmw0ZU1OdF9JZndyUk1mcDdZS2J6STFhTVlHX1pOZ3JvR2xlUi1DQmdwcGlYMHhoWlNQSEZMUGZuazVXOUN1czVsMnBRajRoQ1HSAacBQVVfeXFMTzNvQ2VidEg5Uk9PbVdFWHdiSnJLLXZvamp3SFF6N1NlT2VGaGlEMGowMVQ3c19lNTZsdkJoWHJQSzFVLWpvbjc1RGlWVUdoRDJsbUpMOHdsU3J6eEJhVnJvTjdoU1JKdWtXQ0ktYjRUZG1QSVYyTWhyS2MyQU5qeldNVmZLbnhlVkViS2E5Zl9MXzFwVVJ6cjI2ZXVLZlEyRWMyTF83NnM?oc=5",
+      "publishedAt": "2026-09-20T11:00:01+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang",
+        "NVIDIA CEO",
+        "Nvidia CEO"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate - CNBC Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate CNBC",
+      "capturedAt": "2026-09-20T21:13:09.182680+00:00"
     },
     {
       "id": "e0d57a7365cd",
@@ -261,16 +277,16 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "討論牆 | 黃仁勳親筆催貨！SK海力士豪砸7200億美元蓋AI記憶體帝國 - LINE TODAY 討論牆 | 黃仁勳親筆催貨！SK海力士豪砸7200億美元蓋AI記憶體帝國 LINE TODAY",
-      "capturedAt": "2026-09-20T12:54:41.013893+00:00"
+      "capturedAt": "2026-09-20T21:13:09.182680+00:00"
     },
     {
-      "id": "f5f5534783cc",
+      "id": "04cb2be78c95",
       "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
-      "title": "宏碁下一局4》回首台灣科技50年 黃仁勳：宏碁是這段故事的起點 - 民報",
+      "title": "宏碁下一局4》回首台灣科技50年 黃仁勳：宏碁是這段故事的起點 - peoplenews.tw",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCbUF3Zm1ZRllQeHZ1ZGM5Uk1nVGszSTdBUmQ5TmRBSlJNeVplSXpaREgwaWQtclpqOWZCeGctMURxQm00ZndVYXpqRnNoWFlfMHFraTM1b1pMT3hSb01vaGw5Nm8?oc=5",
       "publishedAt": "2026-09-19T22:23:54+00:00",
       "detectedDates": [],
@@ -281,8 +297,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "宏碁下一局4》回首台灣科技50年 黃仁勳：宏碁是這段故事的起點 - 民報 宏碁下一局4》回首台灣科技50年 黃仁勳：宏碁是這段故事的起點 民報",
-      "capturedAt": "2026-09-20T12:54:41.013893+00:00"
+      "summary": "宏碁下一局4》回首台灣科技50年 黃仁勳：宏碁是這段故事的起點 - peoplenews.tw 宏碁下一局4》回首台灣科技50年 黃仁勳：宏碁是這段故事的起點 peoplenews.tw",
+      "capturedAt": "2026-09-20T21:13:09.182680+00:00"
     },
     {
       "id": "97dcc27dcfbe",
@@ -303,28 +319,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳：台灣是全球AI核心生態系成就輝達| 產經 - 中央社 CNA 黃仁勳：台灣是全球AI核心生態系成就輝達| 產經 中央社 CNA",
-      "capturedAt": "2026-09-20T12:54:41.013893+00:00"
-    },
-    {
-      "id": "6ab7f146bfd4",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "AI該放慢腳步否則世界末日將至？黃仁勳斷言：應儘可能全速發展| 全球財經| 全球 - udn",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsdjB5MWNEZ2plclZ2LUNoYUlZWTRsWGFYNlVoYmQwamptY1dER2trYmY4bld0TURkUVdjZ2RHc2ZObTlmSGtEZE5aMU41aHVD?oc=5",
-      "publishedAt": "2026-09-19T08:07:16+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "AI該放慢腳步否則世界末日將至？黃仁勳斷言：應儘可能全速發展| 全球財經| 全球 - udn AI該放慢腳步否則世界末日將至？黃仁勳斷言：應儘可能全速發展| 全球財經| 全球 udn",
-      "capturedAt": "2026-09-20T12:54:41.013893+00:00"
+      "capturedAt": "2026-09-20T21:13:09.182680+00:00"
     },
     {
       "id": "cae05ab49885",
@@ -345,7 +340,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "AI 滅絕人類機率就是 0%！黃仁勳霸氣打臉 AI 末日論「絕對別有用心」 - TechNews 科技新報 AI 滅絕人類機率就是 0%！黃仁勳霸氣打臉 AI 末日論「絕對別有用心」 TechNews 科技新報",
-      "capturedAt": "2026-09-20T12:54:41.013893+00:00"
+      "capturedAt": "2026-09-20T21:13:09.182680+00:00"
     },
     {
       "id": "96f4b36843dd",
@@ -368,7 +363,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang calls for AI to be developed \"as fast as we can\" - CBS News Nvidia CEO Jensen Huang calls for AI to be developed \"as fast as we can\" CBS News",
-      "capturedAt": "2026-09-20T12:54:41.013893+00:00"
+      "capturedAt": "2026-09-20T21:13:09.182680+00:00"
     },
     {
       "id": "cd3af942201c",
@@ -389,7 +384,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳喊輝達明年晶片銷量翻倍！外資搶買15檔聯電、華邦電最吸金- 日報 - 工商時報 黃仁勳喊輝達明年晶片銷量翻倍！外資搶買15檔聯電、華邦電最吸金- 日報 工商時報",
-      "capturedAt": "2026-09-20T12:54:41.013893+00:00"
+      "capturedAt": "2026-09-20T21:13:09.182680+00:00"
     },
     {
       "id": "2c2af9d3988f",
@@ -410,7 +405,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Says Chip Sales to Double Next Year; South Korean Chip Giants Lead KOSPI's 2.66% Surge - finance.biggo.com Jensen Huang Says Chip Sales to Double Next Year; South Korean Chip Gian",
-      "capturedAt": "2026-09-20T12:54:41.013893+00:00"
+      "capturedAt": "2026-09-20T21:13:09.182680+00:00"
     },
     {
       "id": "ca3a6b049f7f",
@@ -431,7 +426,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳喊明年晶片銷量翻倍 韓股晶片雙雄領軍大漲2.66% - BigGo 財經 黃仁勳喊明年晶片銷量翻倍 韓股晶片雙雄領軍大漲2.66% BigGo 財經",
-      "capturedAt": "2026-09-20T12:54:41.013893+00:00"
+      "capturedAt": "2026-09-20T21:13:09.182680+00:00"
     },
     {
       "id": "722c1a8b9522",
@@ -452,7 +447,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Says Nvidia Chip Sales to Double Next Year, Accelerating HBM4 Transition - finance.biggo.com Jensen Huang Says Nvidia Chip Sales to Double Next Year, Accelerating HBM4 Transition",
-      "capturedAt": "2026-09-20T12:54:41.013893+00:00"
+      "capturedAt": "2026-09-20T21:13:09.182680+00:00"
     },
     {
       "id": "c81d1027a5de",
@@ -473,7 +468,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳：Nvidia明年晶片銷量翻倍…HBM4轉換加速展望 - BigGo 財經 黃仁勳：Nvidia明年晶片銷量翻倍…HBM4轉換加速展望 BigGo 財經",
-      "capturedAt": "2026-09-20T12:54:41.013893+00:00"
+      "capturedAt": "2026-09-20T21:13:09.182680+00:00"
     },
     {
       "id": "3d69b5e3a2ef",
@@ -494,7 +489,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳一句話，晶片股集體大漲！ - 鉅亨號 黃仁勳一句話，晶片股集體大漲！ 鉅亨號",
-      "capturedAt": "2026-09-20T12:54:41.013893+00:00"
+      "capturedAt": "2026-09-20T21:13:09.182680+00:00"
     },
     {
       "id": "01a52aad0a13",
@@ -515,7 +510,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳：輝達明年晶片銷售量將翻倍 - TechNews 科技新報 黃仁勳：輝達明年晶片銷售量將翻倍 TechNews 科技新報",
-      "capturedAt": "2026-09-20T12:54:41.013893+00:00"
+      "capturedAt": "2026-09-20T21:13:09.182680+00:00"
     },
     {
       "id": "a363df8206d6",
@@ -536,7 +531,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳一句話...台積電漲35元至2460元！分析師看多：可開始加碼 - Yahoo股市 黃仁勳一句話...台積電漲35元至2460元！分析師看多：可開始加碼 Yahoo股市",
-      "capturedAt": "2026-09-20T12:54:41.013893+00:00"
+      "capturedAt": "2026-09-20T21:13:09.182680+00:00"
     }
   ],
   "errors": [
