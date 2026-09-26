@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-26T06:44:51.299052+00:00",
+  "generatedAt": "2026-09-26T12:43:55.854491+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
-  "publishedToTimeline": 11,
+  "publishedToTimeline": 12,
   "signals": [
     {
       "id": "98ffc907ba77",
@@ -25,7 +25,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "若黃仁勳有機會和習近平對談會說什麼？一文掌握他接受 CBS 訪問全內容 - 經濟日報 若黃仁勳有機會和習近平對談會說什麼？一文掌握他接受 CBS 訪問全內容 經濟日報",
-      "capturedAt": "2026-09-26T06:44:51.299066+00:00"
+      "capturedAt": "2026-09-26T12:43:55.854503+00:00"
     },
     {
       "id": "adb46faad0d3",
@@ -48,7 +48,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "輝達黃仁勳助威 王道經營與 AI 國際論壇登場 - 經濟日報 輝達黃仁勳助威 王道經營與 AI 國際論壇登場 經濟日報",
-      "capturedAt": "2026-09-26T06:44:51.299066+00:00"
+      "capturedAt": "2026-09-26T12:43:55.854503+00:00"
     },
     {
       "id": "70618469969a",
@@ -71,16 +71,16 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "川習會前先交鋒AI 黃仁勳將出席川習國宴 - UDN 川習會前先交鋒AI 黃仁勳將出席川習國宴 UDN",
-      "capturedAt": "2026-09-26T06:44:51.299066+00:00"
+      "capturedAt": "2026-09-26T12:43:55.854503+00:00"
     },
     {
-      "id": "23fa43364367",
+      "id": "6d42d745c400",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "黃仁勳演講突熱線川普！竟掏「這1品牌新機」網看傻 | 民視新聞網 - LINE TODAY",
+      "title": "黃仁勳演講突熱線川普！竟掏「這1品牌新機」網看傻 | 民視新聞網 - today.line.me",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jWFJTMDhhMWkzVzY4WGs5VjE2azRWa2stNmJ6b0xTbUU3YzRmbHlhUDJEVXRzOGNFWDF0UGlTcW4yY3JZZThDbGZ2cHVFVThDOGp4ejVR?oc=5",
       "publishedAt": "2026-09-15T07:00:00+00:00",
       "detectedDates": [],
@@ -93,8 +93,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "黃仁勳演講突熱線川普！竟掏「這1品牌新機」網看傻 | 民視新聞網 - LINE TODAY 黃仁勳演講突熱線川普！竟掏「這1品牌新機」網看傻 | 民視新聞網 LINE TODAY",
-      "capturedAt": "2026-09-26T06:44:51.299066+00:00"
+      "summary": "黃仁勳演講突熱線川普！竟掏「這1品牌新機」網看傻 | 民視新聞網 - today.line.me 黃仁勳演講突熱線川普！竟掏「這1品牌新機」網看傻 | 民視新聞網 today.line.me",
+      "capturedAt": "2026-09-26T12:43:55.854503+00:00"
     },
     {
       "id": "035ca964007c",
@@ -122,7 +122,7 @@
         "dinner"
       ],
       "summary": "Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source - CNBC Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source CNBC",
-      "capturedAt": "2026-09-26T06:44:51.299066+00:00"
+      "capturedAt": "2026-09-26T12:43:55.854503+00:00"
     },
     {
       "id": "fa82b2bbe3fe",
@@ -146,7 +146,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Trump calls Nvidia CEO to talk AI — and gets put on speakerphone during industry summit - NBC News Trump calls Nvidia CEO to talk AI — and gets put on speakerphone during industry summit NBC News",
-      "capturedAt": "2026-09-26T06:44:51.299066+00:00"
+      "capturedAt": "2026-09-26T12:43:55.854503+00:00"
     },
     {
       "id": "55d7e79531e5",
@@ -169,16 +169,16 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Spotted Using Galaxy Z Fold 8 in Public — Was It Another Gift from Lee Jae-yong? - finance.biggo.com Jensen Huang Spotted Using Galaxy Z Fold 8 in Public — Was It Another Gift fro",
-      "capturedAt": "2026-09-26T06:44:51.299066+00:00"
+      "capturedAt": "2026-09-26T12:43:55.854503+00:00"
     },
     {
-      "id": "7bff070040ea",
+      "id": "62023265ca3d",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "輝達GTC大會秀「Vera CPU」 黃仁勳強調將進入AI代理時代 - 公視新聞網PNN",
+      "title": "輝達GTC大會秀「Vera CPU」 黃仁勳強調將進入AI代理時代 - news.pts.org.tw",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Na0ZUMGtVZXlYVW5tVW9RYWwzcU9CdGVITWh3dWdUX0ZLb2VWNkFBTUFPZnZ2Z3J2OHFjVzZHcmFIcU5kSFlJVnB1Ym5NSWM?oc=5",
       "publishedAt": "2026-09-14T07:00:00+00:00",
       "detectedDates": [],
@@ -191,8 +191,54 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "輝達GTC大會秀「Vera CPU」 黃仁勳強調將進入AI代理時代 - 公視新聞網PNN 輝達GTC大會秀「Vera CPU」 黃仁勳強調將進入AI代理時代 公視新聞網PNN",
-      "capturedAt": "2026-09-26T06:44:51.299066+00:00"
+      "summary": "輝達GTC大會秀「Vera CPU」 黃仁勳強調將進入AI代理時代 - news.pts.org.tw 輝達GTC大會秀「Vera CPU」 黃仁勳強調將進入AI代理時代 news.pts.org.tw",
+      "capturedAt": "2026-09-26T12:43:55.854503+00:00"
+    },
+    {
+      "id": "89e26df595aa",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "COMPUTEX第二日 黃仁勳合體鴻海董事長劉揚偉 - news.pts.org.tw",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzSTYxSFVCblJzRldhZXFuWUtWR1p5aDV3eWNYcTl6YUhsaVg5U05PVl9iOVlMQnptS1QtWXByVlcxSEtnVl9xM2oweFpwS0U?oc=5",
+      "publishedAt": "2026-09-14T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "COMPUTEX"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "COMPUTEX第二日 黃仁勳合體鴻海董事長劉揚偉 - news.pts.org.tw COMPUTEX第二日 黃仁勳合體鴻海董事長劉揚偉 news.pts.org.tw",
+      "capturedAt": "2026-09-26T12:43:55.854503+00:00"
+    },
+    {
+      "id": "6a911d0190ba",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳來台赴張忠謀家餐敘 27日出席輝達總部動土儀式 - news.pts.org.tw",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFMVBSOEVqbVFCbW5BQ3BnUjVHZm5rcTIwdGFvOC1obGdHaW5vdEpKM1pKTG1ZXzdfZ1JJbU9wdWg3Yng5d0tNX3lwOUl3cWM?oc=5",
+      "publishedAt": "2026-09-14T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "出席"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳來台赴張忠謀家餐敘 27日出席輝達總部動土儀式 - news.pts.org.tw 黃仁勳來台赴張忠謀家餐敘 27日出席輝達總部動土儀式 news.pts.org.tw",
+      "capturedAt": "2026-09-26T12:43:55.854503+00:00"
     },
     {
       "id": "cfad36273460",
@@ -215,7 +261,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Declares “AGI Has Arrived” — Powered by 100,000+ Nvidia Grace Blackwell GPUs - Yahoo Finance Jensen Huang Declares “AGI Has Arrived” — Powered by 100,000+ Nvidia Grace Blackwell G",
-      "capturedAt": "2026-09-26T06:44:51.299066+00:00"
+      "capturedAt": "2026-09-26T12:43:55.854503+00:00"
     },
     {
       "id": "a2169fc1d2fb",
@@ -240,11 +286,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang Says AGI Has Arrived With OpenAI's GPT-6 Astra - Yahoo Finance Nvidia CEO Jensen Huang Says AGI Has Arrived With OpenAI's GPT-6 Astra Yahoo Finance",
-      "capturedAt": "2026-09-26T06:44:51.299066+00:00"
+      "capturedAt": "2026-09-26T12:43:55.854503+00:00"
     },
     {
       "id": "1791b5deeb07",
-      "status": "low-confidence",
+      "status": "needs-review",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: Jensen Huang Korea",
@@ -263,32 +309,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Park Young-sun: \"Jensen Huang's Korea Visit Aims to Secure Korean Materials, Components, and Equipment First... South Korea Must Leap to Become an AI Ecosystem Designer\" - finance.biggo.com Park Young-sun: \"Je",
-      "capturedAt": "2026-09-26T06:44:51.299066+00:00"
-    },
-    {
-      "id": "d1366bbb914a",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳、蘇姿丰等4科技巨頭坐主桌 川習二會白宮國宴座位曝玄機 - 自由財經",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00NVFkeGd3eXFrSWVqSklKOU1jeFBCX0JnTDlLLWlUUHhDdmRkc2pFRGo0VlhSd0VyZ2ltaVJKZkE0MmhFSjJnbDZ6Tmo2TEpLcmFYU01OSC1iSDhJeTcw0gFkQVVfeXFMTy1SVFlGNkVydllmVmIxN21leW5nRGROWTR5N1ZudUVRSzUza0Y2QjdKQnBXeUVZUjBJY2sxVU5Id1hMUVFWbzFrUGZ4bGI2TUtNYlhrbFdSVE1MVUN3TzMwd3J1Zw?oc=5",
-      "publishedAt": "2026-09-25T14:59:44+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳、蘇姿丰等4科技巨頭坐主桌 川習二會白宮國宴座位曝玄機 - 自由財經 黃仁勳、蘇姿丰等4科技巨頭坐主桌 川習二會白宮國宴座位曝玄機 自由財經",
-      "capturedAt": "2026-09-26T06:44:51.299066+00:00"
+      "capturedAt": "2026-09-26T12:43:55.854503+00:00"
     },
     {
       "id": "dd1b7ea9a83e",
-      "status": "source-only",
+      "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳 韓國",
@@ -305,11 +330,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "享受黃仁勳等級金秋 這天前有打折 - 三立新聞 享受黃仁勳等級金秋 這天前有打折 三立新聞",
-      "capturedAt": "2026-09-26T06:44:51.299066+00:00"
+      "capturedAt": "2026-09-26T12:43:55.854503+00:00"
     },
     {
       "id": "9d6c613e9991",
-      "status": "source-only",
+      "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: Jensen Huang",
@@ -326,16 +351,16 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia’s Jensen Huang on the true threat of AI - CNN Nvidia’s Jensen Huang on the true threat of AI CNN",
-      "capturedAt": "2026-09-26T06:44:51.299066+00:00"
+      "capturedAt": "2026-09-26T12:43:55.854503+00:00"
     },
     {
-      "id": "3efda1cda335",
-      "status": "source-only",
+      "id": "f4751c0550a1",
+      "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
-      "title": "美國國宴黃仁勳、蘇姿丰與川習同坐主桌 AI大咖「這家」缺席 - Yahoo新聞",
+      "title": "美國國宴黃仁勳、蘇姿丰與川習同坐主桌 AI大咖「這家」缺席 - tw.news.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQR3ZBVks4NEEwWEwyMmF0SXJSYUhLZmI1Skd5eFlwekM5ZXFqbndTZjRJNFNYeU1BSklQOVdRczNJNmpwY3BhTVpVUER6LVU3enljcVB2NTh4NTZJRjQ3QjQ3T1FCRjZJZVVsNFRTaDFIVmF1ZkFENUVWUE1xNVdBc0FfOTQ4LTJCSFFfYlM4VGtqUUNmS1FsVHpqQ2NlWW40QnNUXzFTTGVrQ0ZRV2xyUnhHNzBVS214dGZkODlHTi1YbnM3UmNfUnZzZ1p3YVNiZmVWX1NkRGh4Wl9RRkVBOU9aRVVXT01GM0xHMGVkcTA0ZnI2OHJoV1IwajFULTVmZi00NjBTeHJHTDROLVNjMHE3MzRpWU9yNVh0NWhkUkEtd25XcWdYR0FCdWZhdnVCNG9DNENsU2c4M1BBVVNSQzVDdGVjQV9EcUNzV2dOMWFTNEdyZ1hBcXZCQmp5MVcwSElrT2IyMWMxYnptUXVz?oc=5",
       "publishedAt": "2026-09-25T02:50:56+00:00",
       "detectedDates": [],
@@ -346,12 +371,12 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "美國國宴黃仁勳、蘇姿丰與川習同坐主桌 AI大咖「這家」缺席 - Yahoo新聞 美國國宴黃仁勳、蘇姿丰與川習同坐主桌 AI大咖「這家」缺席 Yahoo新聞",
-      "capturedAt": "2026-09-26T06:44:51.299066+00:00"
+      "summary": "美國國宴黃仁勳、蘇姿丰與川習同坐主桌 AI大咖「這家」缺席 - tw.news.yahoo.com 美國國宴黃仁勳、蘇姿丰與川習同坐主桌 AI大咖「這家」缺席 tw.news.yahoo.com",
+      "capturedAt": "2026-09-26T12:43:55.854503+00:00"
     },
     {
       "id": "b3aa73bf32de",
-      "status": "source-only",
+      "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
@@ -368,11 +393,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "AI算力爆「玻璃基板」革命！黃仁勳急催2年交貨台廠大贏家曝光- 財經 - 中時新聞網 AI算力爆「玻璃基板」革命！黃仁勳急催2年交貨台廠大贏家曝光- 財經 中時新聞網",
-      "capturedAt": "2026-09-26T06:44:51.299066+00:00"
+      "capturedAt": "2026-09-26T12:43:55.854503+00:00"
     },
     {
       "id": "6fe09e60dcc9",
-      "status": "source-only",
+      "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
@@ -389,11 +414,32 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳嚴厲評論：若無法妥善控管 AI 模型，實驗室就該關門 - TechNews 科技新報 黃仁勳嚴厲評論：若無法妥善控管 AI 模型，實驗室就該關門 TechNews 科技新報",
-      "capturedAt": "2026-09-26T06:44:51.299066+00:00"
+      "capturedAt": "2026-09-26T12:43:55.854503+00:00"
+    },
+    {
+      "id": "0a4824b9d2a0",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "\"Enough predictions\": Jensen Huang unloads on AI doomsday fears - Axios",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPZ0wxNFNydVJKYmV5TW1PX1JPRndMSndFMEE5bmhpb1RQeTZNbEN1VzlMQmNYZXptNVBqRmNTZ1VSeVZsYWtqdDdBRGk5eWhpRkROQS1IRVR0OUlIR3A2U1RZNGU1QUpfa3dKZzc5ZmNJbURURUxvQ19qSHk?oc=5",
+      "publishedAt": "2026-09-23T21:26:57+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "\"Enough predictions\": Jensen Huang unloads on AI doomsday fears - Axios \"Enough predictions\": Jensen Huang unloads on AI doomsday fears Axios",
+      "capturedAt": "2026-09-26T12:43:55.854503+00:00"
     },
     {
       "id": "c30fe4b49a97",
-      "status": "source-only",
+      "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: Jensen Huang",
@@ -410,11 +456,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Opinion | Jensen Huang Thinks A.I. Alarmism Has Gone Too Far - The New York Times Opinion | Jensen Huang Thinks A.I. Alarmism Has Gone Too Far The New York Times",
-      "capturedAt": "2026-09-26T06:44:51.299066+00:00"
+      "capturedAt": "2026-09-26T12:43:55.854503+00:00"
     },
     {
       "id": "677209b24a90",
-      "status": "source-only",
+      "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
@@ -431,11 +477,32 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "AI越來越強⋯黃仁勳開金口點名「資安」成下一波重點應用台股相關族群4大類一起看！｜盤點概念股 - Yahoo股市 AI越來越強⋯黃仁勳開金口點名「資安」成下一波重點應用台股相關族群4大類一起看！｜盤點概念股 Yahoo股市",
-      "capturedAt": "2026-09-26T06:44:51.299066+00:00"
+      "capturedAt": "2026-09-26T12:43:55.854503+00:00"
+    },
+    {
+      "id": "aeb34f4f9c46",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Jensen Huang Just Gave Nvidia Investors Great News and a Reason Why the Stock May Continue Surging in 2027 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQkhPNzF4UHZmZTM0THV2TER0R3I4eldFVzdQM0NzQU1PS2pGUTNuRVROMlRQU21KNHlXWE82SzdiT0JjSEdMcjBlVU5IVTI2aVJIWDFJZF9KTVd0T2Y2d0JuaExlX3ZvNldVSU1iRU91U1lPeFJfQlpBbnZlMHlhdVNFVWptT054VlBlNmkxSWlOMG1iUEpiZU5n?oc=5",
+      "publishedAt": "2026-09-21T19:47:27+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Jensen Huang Just Gave Nvidia Investors Great News and a Reason Why the Stock May Continue Surging in 2027 - Yahoo Finance Jensen Huang Just Gave Nvidia Investors Great News and a Reason Why t",
+      "capturedAt": "2026-09-26T12:43:55.854503+00:00"
     },
     {
       "id": "2f0c28e251f6",
-      "status": "source-only",
+      "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
@@ -452,11 +519,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia執行長黃仁勳駁「AI滅絕人類」憂慮：是「末日敘事」 - BBC Nvidia執行長黃仁勳駁「AI滅絕人類」憂慮：是「末日敘事」 BBC",
-      "capturedAt": "2026-09-26T06:44:51.299066+00:00"
+      "capturedAt": "2026-09-26T12:43:55.854503+00:00"
     },
     {
       "id": "3fa2ec1cfe26",
-      "status": "source-only",
+      "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: Jensen Huang Korea",
@@ -474,70 +541,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Wants To Pay Workers ‘As Much As Possible,’ Calls $8B In Taxes ‘A Privilege’ Amid Samsung, SK Hynix Pay Push - TradingView Nvidia CEO Wants To Pay Workers ‘As Much As Possible,’ C",
-      "capturedAt": "2026-09-26T06:44:51.299066+00:00"
-    },
-    {
-      "id": "e96d2f54be1f",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳：AI巨頭喊放慢腳步恐為託詞卸責把關| 科技 - 中央社 CNA",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaeFpqdl9JM0dmZlN3NjRvT2dEekJLaExaeXNiS0s2RlFWbW9CVGxadDlIT0VjTXJYQzRQelZhQmNZTUE4TzdJU0hjbzdHaVF5V3pmZ0NvLTNQYXl2aFE?oc=5",
-      "publishedAt": "2026-09-21T04:25:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳：AI巨頭喊放慢腳步恐為託詞卸責把關| 科技 - 中央社 CNA 黃仁勳：AI巨頭喊放慢腳步恐為託詞卸責把關| 科技 中央社 CNA",
-      "capturedAt": "2026-09-26T06:44:51.299066+00:00"
-    },
-    {
-      "id": "305a700aaf50",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳掛保證「AI不會毀滅世界」！台積電噴15元 分析師：月線可撿寶 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOamV1cE03NHhNa0d2bnhHRElsTS12c0dOak5IcExLaGJYXzlLUWhRTmxHRVo3a0o3US1RVkJTTHV4U05Xak1mQUJwT09zbWpXb19ZUFM5Q1AtWnVfWUhETGNvY2xuaWotdXZPU2dmYmxBaVpaWTJZcENjWWR1cXBWRTVRQXZ1VWJOQ3ZKUGlwcnhJbDZoS1NqTmJ0SG9xcnd3MnBZbnN3YkRTMTFwVmhpdnFZcEhCc3ZBU2ptRUxDbWxXSHBjdUxHalU4NWlobDlNOGlFRENXWEM2aG1UMWJGREptdHpRcGhvS3U4aWlGWUxXdmtISXFmSG0tLXJuVHI2MHd4ajRjWVlockRhMDdKRk4wZ2tCQzVBZmhoNjV1NXo1X091ZUppaTdaWHdYTl9iZFdUcTFnX1l2TFE0X0k3c0otbkFuYmd5dEJxNVVvZVI3dlpzM3NsUlJET3JvdEgxbnhHZUdKVTlzbVh2ZWJtNkpJcjlGWkM1eXZLOGQwQnhnNTlaRGE5bFI1c2pSQVBfUWJ0ZW9nb3VWN0VtMjJtWGJRSnBEdUhDNDcwVkc1WVBjaFBZQ0xZVGY5M2Ewdw?oc=5",
-      "publishedAt": "2026-09-21T01:24:47+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳掛保證「AI不會毀滅世界」！台積電噴15元 分析師：月線可撿寶 - Yahoo股市 黃仁勳掛保證「AI不會毀滅世界」！台積電噴15元 分析師：月線可撿寶 Yahoo股市",
-      "capturedAt": "2026-09-26T06:44:51.299066+00:00"
-    },
-    {
-      "id": "951487e16cc0",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳接受CBS專訪：再度駁AI毀滅論、提五層架構與AI工廠，並不贊成川普對中國晶片禁令 - 信傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hZ3FBWTBrNDlRLTc1R25pNE5SdlhXX2FrOXpDbW5fWVQwd3NqaFZwOFFJZ1JTQkRJRk85eVQ4THVXLXI1SzhETXplSTVCTEZmYXVmTnExUmJKQQ?oc=5",
-      "publishedAt": "2026-09-20T17:00:30+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳接受CBS專訪：再度駁AI毀滅論、提五層架構與AI工廠，並不贊成川普對中國晶片禁令 - 信傳媒 黃仁勳接受CBS專訪：再度駁AI毀滅論、提五層架構與AI工廠，並不贊成川普對中國晶片禁令 信傳媒",
-      "capturedAt": "2026-09-26T06:44:51.299066+00:00"
+      "capturedAt": "2026-09-26T12:43:55.854503+00:00"
     }
   ],
   "errors": [
