@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-29T01:21:34.018213+00:00",
+  "generatedAt": "2026-09-29T07:35:54.689662+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
-  "publishedToTimeline": 11,
+  "publishedToTimeline": 10,
   "signals": [
     {
-      "id": "20e5dae94e78",
+      "id": "a0b7983aed8c",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: Jensen Huang Korea",
       "sourceType": "新聞彙整",
-      "title": "Jensen Huang wins Van Fleet Award as Korea-US tech ties deepen - CHOSUNBIZ - Chosunbiz",
+      "title": "Jensen Huang wins Van Fleet Award as Korea-US tech ties deepen - CHOSUNBIZ - biz.chosun.com",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9odWxpOWoxeGNuZ2VuRlFUOGxaZDlZdG40XzhJNlFOVERDOFpFdVZpUVRScUFFZ083NS1JTEN3SElkbFVuNE1YdkdkbWpkVGFVUkpQTC1XU3dhb0FsbVJISW1DZHBocXJSOEttN2phZkdVVWZPZ3JQSlVn0gGOAUFVX3lxTFByYU5hVHBKUE5qd3RqSDRTTDMwUDR2NFJrN1hIeV9BRWpaT2xkMVBJZEJreEtlTkpHS2dHTlQ3Q0dTQ3dKaFc0akU5b2l3QXVaTHp4MTFKcEsyd3l5R0ZwTGZSLWZqcDkyRC0zZzRHbDZFbWlqYTkybXZzYUZSSmVnZ2JzLTFEOE9ZMl9Yd2c?oc=5",
       "publishedAt": "2026-09-29T01:10:00+00:00",
       "detectedDates": [],
@@ -24,8 +24,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "Jensen Huang wins Van Fleet Award as Korea-US tech ties deepen - CHOSUNBIZ - Chosunbiz Jensen Huang wins Van Fleet Award as Korea-US tech ties deepen - CHOSUNBIZ Chosunbiz",
-      "capturedAt": "2026-09-29T01:21:34.018226+00:00"
+      "summary": "Jensen Huang wins Van Fleet Award as Korea-US tech ties deepen - CHOSUNBIZ - biz.chosun.com Jensen Huang wins Van Fleet Award as Korea-US tech ties deepen - CHOSUNBIZ biz.chosun.com",
+      "capturedAt": "2026-09-29T07:35:54.689677+00:00"
     },
     {
       "id": "c60084fba2c8",
@@ -36,7 +36,7 @@
       "sourceType": "新聞彙整",
       "title": "Jensen Huang Holds Private Meetings with Samsung and SK Leaders in New York; 8th-Generation HBM and AI Factories Take Center Stage - finance.biggo.com",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90SHhTb3h5c1Z1ZzRaWFY3czhuczF5NW5jTEZ4aWdCSDJMWmZnNmFmZ29vN2wtUXhpcFNjUG9TWFFTSFRqVkRzWmk3LWFrMXJjamRIWlBQX3JEMS14ZjBwLWo4bU5GTjZiRy1MR3dKbXZJdWdNVEE?oc=5",
-      "publishedAt": "2026-09-28T21:40:09+00:00",
+      "publishedAt": "2026-09-28T21:35:00+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "Jensen Huang"
@@ -49,7 +49,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Holds Private Meetings with Samsung and SK Leaders in New York; 8th-Generation HBM and AI Factories Take Center Stage - finance.biggo.com Jensen Huang Holds Private Meetings with",
-      "capturedAt": "2026-09-29T01:21:34.018226+00:00"
+      "capturedAt": "2026-09-29T07:35:54.689677+00:00"
     },
     {
       "id": "5c35cdca0273",
@@ -72,16 +72,16 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "李在鎔、崔泰源、黃仁勳紐約兩個月內再度會面，商討HBM與AI基礎設施合作 - BigGo 財經 李在鎔、崔泰源、黃仁勳紐約兩個月內再度會面，商討HBM與AI基礎設施合作 BigGo 財經",
-      "capturedAt": "2026-09-29T01:21:34.018226+00:00"
+      "capturedAt": "2026-09-29T07:35:54.689677+00:00"
     },
     {
-      "id": "cf573204e24a",
+      "id": "98ffc907ba77",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
-      "title": "若黃仁勳有機會和習近平對談會說什麼？一文掌握他接受 CBS 訪問全內容 - money.udn.com",
+      "title": "若黃仁勳有機會和習近平對談會說什麼？一文掌握他接受 CBS 訪問全內容 - 經濟日報",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kTGJHZUFRLVFfaC11TzA2TkNUMjlfODlKWmZsbmtBRGFRTkhPeF93Y1VWck5sMjEtYVR5Tm42d0QtMEk5aTVDM2FjMTVySmF5eTVvbS1iSG9fd9IBX0FVX3lxTE56dEV0WGpua0lndS1RckwzdndiZjRfQWlhNVdqMzRNWGF4djhURmFXWG1jTjhvcWdjckJwWGhISTlDZDJodVpGU3QxYWRwY0ZIOHhhZW1nUEtUUy1nMTVV?oc=5",
       "publishedAt": "2026-09-21T09:30:51+00:00",
       "detectedDates": [],
@@ -94,31 +94,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "若黃仁勳有機會和習近平對談會說什麼？一文掌握他接受 CBS 訪問全內容 - money.udn.com 若黃仁勳有機會和習近平對談會說什麼？一文掌握他接受 CBS 訪問全內容 money.udn.com",
-      "capturedAt": "2026-09-29T01:21:34.018226+00:00"
-    },
-    {
-      "id": "96d3f7f6aab1",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "輝達黃仁勳助威 王道經營與 AI 國際論壇登場 - money.udn.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YUzNmek1DWFZ2eERPZ252SWFWVzRfV3dBZWdveVJxdFRsMjhmV0ZhV0NlSXc1VmxJQ3BGN1Z2VVVYNHk0bnRfdTlPTHlpa19NSWtrQVdIY3NId9IBX0FVX3lxTE9zQ0pLSlBsXzNDX0FnOEN3alNHYUM0Nk9zY3V0TXNnMGhMUV9YOVkzcGhpSlQxV3pJUmZJQVhtcFBNUEE2VjFILWU4QmNsa2lBR2t5ZTJscEJmSGZGazNV?oc=5",
-      "publishedAt": "2026-09-19T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "論壇"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "輝達黃仁勳助威 王道經營與 AI 國際論壇登場 - money.udn.com 輝達黃仁勳助威 王道經營與 AI 國際論壇登場 money.udn.com",
-      "capturedAt": "2026-09-29T01:21:34.018226+00:00"
+      "summary": "若黃仁勳有機會和習近平對談會說什麼？一文掌握他接受 CBS 訪問全內容 - 經濟日報 若黃仁勳有機會和習近平對談會說什麼？一文掌握他接受 CBS 訪問全內容 經濟日報",
+      "capturedAt": "2026-09-29T07:35:54.689677+00:00"
     },
     {
       "id": "fa82b2bbe3fe",
@@ -142,7 +119,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Trump calls Nvidia CEO to talk AI — and gets put on speakerphone during industry summit - NBC News Trump calls Nvidia CEO to talk AI — and gets put on speakerphone during industry summit NBC News",
-      "capturedAt": "2026-09-29T01:21:34.018226+00:00"
+      "capturedAt": "2026-09-29T07:35:54.689677+00:00"
     },
     {
       "id": "55d7e79531e5",
@@ -165,16 +142,16 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Spotted Using Galaxy Z Fold 8 in Public — Was It Another Gift from Lee Jae-yong? - finance.biggo.com Jensen Huang Spotted Using Galaxy Z Fold 8 in Public — Was It Another Gift fro",
-      "capturedAt": "2026-09-29T01:21:34.018226+00:00"
+      "capturedAt": "2026-09-29T07:35:54.689677+00:00"
     },
     {
-      "id": "7bff070040ea",
+      "id": "62023265ca3d",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "輝達GTC大會秀「Vera CPU」 黃仁勳強調將進入AI代理時代 - 公視新聞網PNN",
+      "title": "輝達GTC大會秀「Vera CPU」 黃仁勳強調將進入AI代理時代 - news.pts.org.tw",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Na0ZUMGtVZXlYVW5tVW9RYWwzcU9CdGVITWh3dWdUX0ZLb2VWNkFBTUFPZnZ2Z3J2OHFjVzZHcmFIcU5kSFlJVnB1Ym5NSWM?oc=5",
       "publishedAt": "2026-09-14T07:00:00+00:00",
       "detectedDates": [],
@@ -187,8 +164,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "輝達GTC大會秀「Vera CPU」 黃仁勳強調將進入AI代理時代 - 公視新聞網PNN 輝達GTC大會秀「Vera CPU」 黃仁勳強調將進入AI代理時代 公視新聞網PNN",
-      "capturedAt": "2026-09-29T01:21:34.018226+00:00"
+      "summary": "輝達GTC大會秀「Vera CPU」 黃仁勳強調將進入AI代理時代 - news.pts.org.tw 輝達GTC大會秀「Vera CPU」 黃仁勳強調將進入AI代理時代 news.pts.org.tw",
+      "capturedAt": "2026-09-29T07:35:54.689677+00:00"
     },
     {
       "id": "cfad36273460",
@@ -211,7 +188,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Declares “AGI Has Arrived” — Powered by 100,000+ Nvidia Grace Blackwell GPUs - Yahoo Finance Jensen Huang Declares “AGI Has Arrived” — Powered by 100,000+ Nvidia Grace Blackwell G",
-      "capturedAt": "2026-09-29T01:21:34.018226+00:00"
+      "capturedAt": "2026-09-29T07:35:54.689677+00:00"
     },
     {
       "id": "a2169fc1d2fb",
@@ -236,7 +213,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang Says AGI Has Arrived With OpenAI's GPT-6 Astra - Yahoo Finance Nvidia CEO Jensen Huang Says AGI Has Arrived With OpenAI's GPT-6 Astra Yahoo Finance",
-      "capturedAt": "2026-09-29T01:21:34.018226+00:00"
+      "capturedAt": "2026-09-29T07:35:54.689677+00:00"
     },
     {
       "id": "1791b5deeb07",
@@ -259,7 +236,239 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Park Young-sun: \"Jensen Huang's Korea Visit Aims to Secure Korean Materials, Components, and Equipment First... South Korea Must Leap to Become an AI Ecosystem Designer\" - finance.biggo.com Park Young-sun: \"Je",
-      "capturedAt": "2026-09-29T01:21:34.018226+00:00"
+      "capturedAt": "2026-09-29T07:35:54.689677+00:00"
+    },
+    {
+      "id": "1ffb3663796b",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Samsung, SK chiefs toast Jensen Huang’s Van Fleet Award in New York - Korea JoongAng Daily",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZUNWelZRUTRqVjdtX0FYZkUwTEJMSFRNLWRmYkxjcnBBMktaRG5rcUJSOTl2N0RJX0o1N0lmVEZFUnFCcW8zX1RSWGl4RkRwbXdFMF8tT0R4Ni05U2xjQ3kzSHpVcENjUVVPXzF3a1FGTGttamNvbkd0OUlvcGtkRm45OE41TGlVVS1Uck5LWWItY2pKcW45a0d4UkFxaHpqRVNIMGhSWkhfVS1jcnB0UkRwTURqQ0VLQnc?oc=5",
+      "publishedAt": "2026-09-29T06:53:18+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Samsung, SK chiefs toast Jensen Huang’s Van Fleet Award in New York - Korea JoongAng Daily Samsung, SK chiefs toast Jensen Huang’s Van Fleet Award in New York Korea JoongAng Daily",
+      "capturedAt": "2026-09-29T07:35:54.689677+00:00"
+    },
+    {
+      "id": "0afa8d85c3a9",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Jensen Huang Press Q&A: 'Nvidia Stock Is Undervalued' - Key Context by Tae Kim",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqbnhLNFVtR3NaQklkTURpWlRvY3B2M0VMM0p2ak5ibUpqaER6Z2NGSGhRdEQ1RWF2WDBlcG1JUWo4TG9aeHg0T0dhbl9va1h1dE5kVGFmU1l6V1BJZDk0VkFwNGJwMkl2SkVzWXU3SWg?oc=5",
+      "publishedAt": "2026-09-29T06:49:02+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Jensen Huang Press Q&A: 'Nvidia Stock Is Undervalued' - Key Context by Tae Kim Jensen Huang Press Q&A: 'Nvidia Stock Is Undervalued' Key Context by Tae Kim",
+      "capturedAt": "2026-09-29T07:35:54.689677+00:00"
+    },
+    {
+      "id": "46ced467773e",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Samsung, SK Leaders Celebrate NVIDIA CEO's Award - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS1JmZFZYVWRHSGFGcVQ5cHlxVzVuX19vaGJUam0xdVVkNmlnc3hyZDVHYkNyMlFWbGNDbEtWZ25aNG51blFzR0ZWYnU5WWVHby1CeHc2cDFZemkzckFPb1BoSEV2dWh3QmY5ZXpTbkxuOWNQNEdOeFhZdHdwaHUxbnRjcDBOdmdO?oc=5",
+      "publishedAt": "2026-09-29T05:54:10+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "NVIDIA CEO",
+        "Nvidia CEO"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Samsung, SK Leaders Celebrate NVIDIA CEO's Award - 조선일보 Samsung, SK Leaders Celebrate NVIDIA CEO's Award 조선일보",
+      "capturedAt": "2026-09-29T07:35:54.689677+00:00"
+    },
+    {
+      "id": "142dca91da6c",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "‘Important and consequential’: Jensen Huang on US-China AI race, risk management - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQVNfSzV5azFFMnhubTBnaDY2MjZWVGRaQUlHNDlRU3dVM2R4UHFsN0JNVElxV09WVUJ0LWs2aWcxNUI3aGh4QUVwWlZqMUowNXo3eEZqdlJ6YldhVjJnUW5PV2tIYW9qTnpkN1lKd3FkMzUyN1U3d0sxUXJ6SXlDTVlnM2JMZVRyM0tTVmtTTW12V1Z6eF9WZ1Zmbjk4VmFRaVlMeUJFdE45YmYyUVB2ZUl1eGVzRjNLVUhlcHlEQ3RZYlVZNTl4Z1RCRjlOR3Zab1HSAdIBQVVfeXFMTUc4ZUptZUpqOW92SDNDYjNTb0NXTi03aTR4N1lEUkpFRVlUMk00OEZyemM4b3hwSG1FSkZBZGY4TUZxM2s1SlAzUkkwYjI0V2dJVm1sdEVMekJ4TGZnM3lhRXZqYS05N1EyN2I1VWRtT2w4Zi0zQVJFaWg2MTB2NUxJSDVhejl4VkNfUEZtMm5vckxmdTRYOGFhX3VMZlNSM2JKa0VaLV92T3Y2ODl0RXlvajZuaU45UHZLUUUyNHpwODYzSWlWX2pBc2VCc2pmaTNB?oc=5",
+      "publishedAt": "2026-09-29T05:20:17+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "‘Important and consequential’: Jensen Huang on US-China AI race, risk management - South China Morning Post ‘Important and consequential’: Jensen Huang on US-China AI race, risk management South China Morning Post",
+      "capturedAt": "2026-09-29T07:35:54.689677+00:00"
+    },
+    {
+      "id": "d1b226872281",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "不認同AI發展「踩煞車」！黃仁勳再駁失控論：只是軟體而已 - 自由財經",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BWWJ5a0Rnam41aDdhRWtyb0k4UUpRa2txSUlraExwQUZOaEd5U0M0YVQ5RXRXSnlDY0tqZW9tcnFEZmNpU1g1eXF5N1ZWUGtjOVBDZTZYTEF0YXQ3V0tJ0gFkQVVfeXFMT2pfajdmUnB4Z3NRcDdqbU9Kck1vV2RMMnNJX3pqeDMyc3V4WHpxRE9SdG1uWUgwak9sSW01YVBVLUZVRVdueGNMVXRGWDVMbFRZN2ZjVlFQZ3lLbnVZNWNudVo2LQ?oc=5",
+      "publishedAt": "2026-09-29T04:22:50+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "不認同AI發展「踩煞車」！黃仁勳再駁失控論：只是軟體而已 - 自由財經 不認同AI發展「踩煞車」！黃仁勳再駁失控論：只是軟體而已 自由財經",
+      "capturedAt": "2026-09-29T07:35:54.689677+00:00"
+    },
+    {
+      "id": "7b22810ceda5",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Chey Tae-won Toasts Jensen Huang, Highlights Korea-U.S. AI Partnership - Korea IT Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaY2w1TnhyWUMzX2s1VG5EWHpYR1VCUUQ3NkVFVWNQOHdqUzdUd3hqZ0w4Q3VuYnQ2R1hKVlh2WmQtb1J1cWlVS041OGhKQTQ0MXkzWGdRVlYwM3ZpQURzY09CREtKSnpTQmZFZUpEeC0?oc=5",
+      "publishedAt": "2026-09-29T02:41:53+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Chey Tae-won Toasts Jensen Huang, Highlights Korea-U.S. AI Partnership - Korea IT Times Chey Tae-won Toasts Jensen Huang, Highlights Korea-U.S. AI Partnership Korea IT Times",
+      "capturedAt": "2026-09-29T07:35:54.689677+00:00"
+    },
+    {
+      "id": "ebaf546e7a23",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Jensen Huang Rejects AI Doomsday Fears: \"AI Will Not Run Wild\" - news.sbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tVWl6SC1VdTR2aDcwcVdjd0F6UGNqektycFk3aEpkUjluTXFCZ1JsckpxcEZOUmRxdVFKbmxBWTZNQjNMSGJzdVUxMnU1VktkcGlPSXBFYllCcTZDWjdvZ2ZVeUVadw?oc=5",
+      "publishedAt": "2026-09-29T02:29:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Jensen Huang Rejects AI Doomsday Fears: \"AI Will Not Run Wild\" - news.sbs.co.kr Jensen Huang Rejects AI Doomsday Fears: \"AI Will Not Run Wild\" news.sbs.co.kr",
+      "capturedAt": "2026-09-29T07:35:54.689677+00:00"
+    },
+    {
+      "id": "d14497786c22",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Samsung's Jay Y. Lee Hails 25-Year Friendship With Nvidia's Jensen Huang - Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRWNELXFDLWpUN0NYQUZPUnl0OTR0YW9iTzdqOXlPdFg4QnhmRjh3MTQta0JuM0Z6SWNfcnN1Mmhyb0hnV2lRNUlsY0lNQnh0M1FiaEFIeEpTRWhha0RKRVV0a01jclM2TG5JTW1nNTJ2NHNXT3pQZjN0MG5OT0h1M25iVzF6RUh1VzZBR2c0OU54eTBrdkM5OVpnVlQtSmM?oc=5",
+      "publishedAt": "2026-09-29T02:27:52+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Samsung's Jay Y. Lee Hails 25-Year Friendship With Nvidia's Jensen Huang - Seoul Economic Daily Samsung's Jay Y. Lee Hails 25-Year Friendship With Nvidia's Jensen Huang Seoul Economic Daily",
+      "capturedAt": "2026-09-29T07:35:54.689677+00:00"
+    },
+    {
+      "id": "be41c973bc3e",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Lee Jae-yong and Chey Tae-won Reunite with Jensen Huang, Showcasing Alliance with Foldables and GPUs - news.sbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ya08xb0U1UWpFbU1vdllTSENnd19VRzFsZUtfMXRNUnNJMVhBc3JiUkUyTVowcXR3ek5RRm5pR3ljM2d3YXRJZG10WVNUNF9IMmVtYVlvWUhtOU5OcW9QT2M4R3JodmtMSUNkcVVB?oc=5",
+      "publishedAt": "2026-09-29T02:02:39+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Lee Jae-yong and Chey Tae-won Reunite with Jensen Huang, Showcasing Alliance with Foldables and GPUs - news.sbs.co.kr Lee Jae-yong and Chey Tae-won Reunite with Jensen Huang, Showcasing Alliance with Foldables and GPUs news.sbs.co.kr",
+      "capturedAt": "2026-09-29T07:35:54.689677+00:00"
+    },
+    {
+      "id": "b8459e2a7fce",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Samsung Electronics displays video congratulating Jensen Huang on receiving the 'Van Fleet Award' at New York Times Square - starnewskorea.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRjBkV3hGR2ZhZHROVVRoUDNfVkJxdEJUazd6b0VoeVJsOXhFWWZocElXNU9RZXFLSS1Ednhkb1J1NEZ3NEtFUHpZNmhLR3FlVFRDdDBOd0l6cUR2T0ZFa3JwdjdnWlhsc2xSS1Y3RnZ0QVBUa01oLTBfdE5BbVdPSUIzOA?oc=5",
+      "publishedAt": "2026-09-29T01:35:28+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Samsung Electronics displays video congratulating Jensen Huang on receiving the 'Van Fleet Award' at New York Times Square - starnewskorea.com Samsung Electronics displays video congratulating Jensen Huang on receiving the 'Van Fleet Award' a",
+      "capturedAt": "2026-09-29T07:35:54.689677+00:00"
+    },
+    {
+      "id": "932002852f40",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Lee Jae-yong and Chey Tae-won Reunite with Jensen Huang... Lee Jae-yong Says, \"We Have Three Things in Common\" - news.sbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzOUZkSmJvYkcxdXAzRExDZkl2YW02d29LOW93VEF3VXg2Y0ltSFNyUzBfT1J4VVdrRFhEM01qdF9tdFpVWlVEcTdsWkVvNV9yTkFYZ3hETFNYV2o2dDNVOEJTT0Ezdw?oc=5",
+      "publishedAt": "2026-09-29T01:10:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Lee Jae-yong and Chey Tae-won Reunite with Jensen Huang... Lee Jae-yong Says, \"We Have Three Things in Common\" - news.sbs.co.kr Lee Jae-yong and Chey Tae-won Reunite with Jensen Huang... Lee Jae-yong Says, \"We Have Three Things in Comm",
+      "capturedAt": "2026-09-29T07:35:54.689677+00:00"
     },
     {
       "id": "2d1e2256604c",
@@ -280,16 +489,16 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang receives Van Fleet Award for contribution to Korea-U.S. relations - Korea JoongAng Daily Jensen Huang receives Van Fleet Award for contribution to Korea-U.S. relations Korea Joong",
-      "capturedAt": "2026-09-29T01:21:34.018226+00:00"
+      "capturedAt": "2026-09-29T07:35:54.689677+00:00"
     },
     {
-      "id": "58d8948e7de3",
+      "id": "51b4a8a1baf2",
       "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "韓媒：黃仁勳將於紐約會晤三星、SK集團掌門人，商討AI晶片合作 - 鉅亨號",
+      "title": "韓媒：黃仁勳將於紐約會晤三星、SK集團掌門人，商討AI晶片合作 - hao.cnyes.com",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB3dXVRVFpxdUNuR2hRQnVBRG9QRHp5aGVENncxM2JFaW1rLVFNMU16ZEtSZHdJcFlIZ0FULXo4ZUlSR2RfN1NlSw?oc=5",
       "publishedAt": "2026-09-29T00:23:28+00:00",
       "detectedDates": [],
@@ -300,19 +509,19 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "韓媒：黃仁勳將於紐約會晤三星、SK集團掌門人，商討AI晶片合作 - 鉅亨號 韓媒：黃仁勳將於紐約會晤三星、SK集團掌門人，商討AI晶片合作 鉅亨號",
-      "capturedAt": "2026-09-29T01:21:34.018226+00:00"
+      "summary": "韓媒：黃仁勳將於紐約會晤三星、SK集團掌門人，商討AI晶片合作 - hao.cnyes.com 韓媒：黃仁勳將於紐約會晤三星、SK集團掌門人，商討AI晶片合作 hao.cnyes.com",
+      "capturedAt": "2026-09-29T07:35:54.689677+00:00"
     },
     {
-      "id": "b6f8b35e9222",
+      "id": "70bea75896d8",
       "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "黃仁勳紐約密會三星、SK掌門人 第8代HBM與AI工廠成焦點 - BigGo 財經",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80RXR5WEZGUWZoYTkzOTRmOV9wel9veU5GbkNfallWal9USHB6bHdBcDBEMVJtMFU0U3hfbldJSEEzclp6ajRWVzUtaF9LbzVBQ1RGSXRMSW1iaEpNc2g3MDlCSDZwYUR0MmphUTh1ZjZXaE00bU42UmZ3?oc=5",
-      "publishedAt": "2026-09-28T21:35:00+00:00",
+      "title": "AI代理人危險嗎？黃仁勳：並不反對政府監管 | 信傳媒 - LINE TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HdmVWN1B0LXNjMXd4MkF5V1dBeDQ3OXV3aGtnbXRja0lmSUtkazFOYzdmYnVCN0lTR0JVZzFzOWk1S0NvQ3JlMm5POUhLZ1J2cjMtVkpB?oc=5",
+      "publishedAt": "2026-09-28T23:56:06+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -321,222 +530,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "黃仁勳紐約密會三星、SK掌門人 第8代HBM與AI工廠成焦點 - BigGo 財經 黃仁勳紐約密會三星、SK掌門人 第8代HBM與AI工廠成焦點 BigGo 財經",
-      "capturedAt": "2026-09-29T01:21:34.018226+00:00"
-    },
-    {
-      "id": "a6204ffbc97d",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "狂盯第8代HBM！韓廠紐約密會黃仁勳 三星竟想一條龍全包 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPSUhWdDBxdXlxeUdLUUstQ2tiaENxTjg2T1Fnam90UlNaWUN1NEZ2MndsMC10cndyMzZlaENWb1V2UkJzTk1PcE94dnJzUzlpc1dXUUE4elU5UVJBd2pDdjFsV1lka0dZeFZfQUNxc1hlaTVmYTNEWUhHdHQzVk9kbnB3ZXNfSFNFaHhLUVd5MmRrVUJxVWVCUUtqTmJHTDRBYTVESmxaSkY0STRfLVZ0NGRTN3kxTGFfbHR6Z0R1S05tSGxwd0VRNGY0VTBROVFMQ18zcnBGRE1DZ0FKVFdiY3RuM25uVTgzRHd4Zlc1U3pfNDBrNTlDVzNhcWltUEppTnNfTTdzNDN1b2pZN0hoVWZnN3BYQ2VRSExZNTdFNU9scE5KSnRDUGdGcUNta2puUmtpT1JZWkV1TmZTQnJPN3lXSWF6TmVGYjNIQ1UyVmNZbjYwMk5ONg?oc=5",
-      "publishedAt": "2026-09-28T21:06:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "狂盯第8代HBM！韓廠紐約密會黃仁勳 三星竟想一條龍全包 - Yahoo新聞 狂盯第8代HBM！韓廠紐約密會黃仁勳 三星竟想一條龍全包 Yahoo新聞",
-      "capturedAt": "2026-09-29T01:21:34.018226+00:00"
-    },
-    {
-      "id": "6a1393e0ea9e",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳看好成長前景 輝達買回4.8兆元庫藏股 - 自由財經",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCN2xwUmhGaWE3TmRlaGZBYzBoTGxkVkpxVWViYVpRTkNMcUFrMldFQkV6Y2FCRkJCMTk2VFlsZmUzOFp4U3VqY0hCMDY4YTFEYjU2d0s0aXZsRTI2Qm1j0gFkQVVfeXFMTlhLcjNUdU9vc2VrbHEtbEZIMGFOSmlCM1I5cF85Sk5HQ0FqT1otdG9HVVk4X0JTdzF2eXNWWmFuMkdROTRqb1hXU292VUJEOXlMV1M1LWFvT0tsZlpOU0FFcXdFXw?oc=5",
-      "publishedAt": "2026-09-28T13:59:59+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳看好成長前景 輝達買回4.8兆元庫藏股 - 自由財經 黃仁勳看好成長前景 輝達買回4.8兆元庫藏股 自由財經",
-      "capturedAt": "2026-09-29T01:21:34.018226+00:00"
-    },
-    {
-      "id": "ac2e37755524",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "Nvidia CEO Jensen Huang: All systems around AI systems must be designed with restrictive rights - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLU92Q1luamJ3SktxM0ZQTUNhdE9HQUZkcndQeWdWcTQ2b0FwRldIaldsVUMtXzBvWHA3SnZmdDF1YUdCdnBSOERGOEpNdVQzaTExTkxZQzBSZ2FxWDN0RTZHMGRublpYNnA3OGw3bnQyOGNySXgxQ2V4X1pydllhZC00VXZIYXpDTlYwZlBRdEtKdjEwVlFlRzEyUmp4aU9mM0RERThySjgxVi1Sd1hBZE03Mms5SlRiaDNVdTJZSEE0emxTYmhQN0Y0cUZ1c20yakFJ?oc=5",
-      "publishedAt": "2026-09-28T12:52:19+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang",
-        "NVIDIA CEO",
-        "Nvidia CEO"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Nvidia CEO Jensen Huang: All systems around AI systems must be designed with restrictive rights - CNBC Nvidia CEO Jensen Huang: All systems around AI systems must be designed with restrictive rights CNBC",
-      "capturedAt": "2026-09-29T01:21:34.018226+00:00"
-    },
-    {
-      "id": "94738106d19a",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd' - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeGNaelh2QkxHVU41WVVXMGlUSjBLaTBKeEtUYlNyMUI3M1o2X1lMY1ZPVG5PazNfNFV1OFBEMFFWVkhmVUN4QTZkTk1SSDB5OUpVc2l2VWtFX2ZhRHhaTUZzcmtDNW52TXdXWExqVEdZZGJQRTBTSUJiZDhiazBfcVI2QS1DT01BQi1XR0duTjAwRU9qOFpScEVSMHhhY2JRYU5DbVdSSjFiOXM5X3RWRXFfQXZkQkt1TnNkZlIxekRuLThVZDdRdlUtelRCV0dfSXpSZkdoVUhtdVdtQ19WZnNVcw?oc=5",
-      "publishedAt": "2026-09-28T10:36:57+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd' - Yahoo Finance Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd' Yahoo Finance",
-      "capturedAt": "2026-09-29T01:21:34.018226+00:00"
-    },
-    {
-      "id": "8b28adfb043e",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳不藏了！「AI 四階段」實體走向世界 台股供應鏈獲利看俏 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQTXZmUFRGSjZXT29TSUpjazJ4eVR6WXNZY0JyZHhkckZJOHBFQ0c1ak1vNHV4OG5Gd2ZiYXVJX2gzWFdSZlpfN1o2MkdBc3RIeURlZ05nV2dUSndGRVF4NVZDTlhac3QweW9ramI0dDZXSTByOFBLcTdlYTg2ak01YV9qTFFyVVRka3QyRlo2OUViTEhETm93TS1heHloYnBKUF90N1BxLW9IeXN6Y0hOazN4MmlyZTVrdFZBT1RwTnZhRkxpTjNNNjZ3UFVkUURXVEJnMnI0QWlnTlY3bWs0WFNpS0xjXzEwWmVPdm1ydlUtOGRjRmt1bjQ3UDBZWWJ6NGc1THFSTkJlWjFIcExIcHpmcU1DckhBRlFfaXhhendNMjJHQTVxZ3g0LVpzNnBEcDNIZGx1RDlKcG40OUgyVTdlaEhiYkRuSk9PRmhKVGxLRGx4elZuQ1QxNXg3NHItLW4xX1ljMzBHZXBPSWNERE9tVXhtaFhYYzZfYmxIZk5OZjA?oc=5",
-      "publishedAt": "2026-09-28T09:50:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳不藏了！「AI 四階段」實體走向世界 台股供應鏈獲利看俏 - Yahoo股市 黃仁勳不藏了！「AI 四階段」實體走向世界 台股供應鏈獲利看俏 Yahoo股市",
-      "capturedAt": "2026-09-29T01:21:34.018226+00:00"
-    },
-    {
-      "id": "1877412dfbd3",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "NVIDIA CEO Jensen Huang to Meet with Samsung and SK Group Leaders - GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbkwyeTg5OXIyT3U4R01MSnlDQThMSUlaWVB5SVZmUHV5bVluMWtfWXkwTXExczJWdzhEMWswM1dMY1l3aFNlZ1hhOEprZm40ZW5WX0FSckNuLXRLeVo2dFBsaUMwRlluRlJVeGN5VXdBMzhuc3RQOU9tTzRpazNmOEFGTFRUalBKeENwdExjNGhJZGYwRXRnS3g4czMtRU5YT1dRel9HTQ?oc=5",
-      "publishedAt": "2026-09-28T07:51:55+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang",
-        "NVIDIA CEO",
-        "Nvidia CEO"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "NVIDIA CEO Jensen Huang to Meet with Samsung and SK Group Leaders - GuruFocus NVIDIA CEO Jensen Huang to Meet with Samsung and SK Group Leaders GuruFocus",
-      "capturedAt": "2026-09-29T01:21:34.018226+00:00"
-    },
-    {
-      "id": "70261cae3492",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Korean media: Jensen Huang will meet with the heads of Samsung and SK Group in New York to discuss AI chip cooperation. - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX1lTcWp3M25rTF9DdW1YM1ZBanlZT1pxX2IzdDVyXy1XSVV4eFM2R2VfV2N1MmlZOVdsZk1LYjgtWHQ3c2drZTlUQ1ZIemVXdzl0YVREQnE0V3ZSTTYtLUVxc3piV2lUbHJGN25JelJJeU43b25HVjhuWHhWNllZVU13WFg3dkdCRjFscG12cGN4bDE1aXJZRDI4dnU?oc=5",
-      "publishedAt": "2026-09-28T07:39:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Korean media: Jensen Huang will meet with the heads of Samsung and SK Group in New York to discuss AI chip cooperation. - 富途牛牛 Korean media: Jensen Huang will meet with the heads of Samsung and SK Group in",
-      "capturedAt": "2026-09-29T01:21:34.018226+00:00"
-    },
-    {
-      "id": "8ea6db6a5bac",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳「這部位」被點名富可敵國 命理師驚呼：統治商業帝國面相 - 三立新聞網SETN.com",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBfMUlEVENnc05mMng5ZEtvUEFwTC1NVlNHQUlGMG41QnB3emNrOENFYVItOF94Vkd2TjNkZTRKY2NpeXV1aVV0NtIBTEFVX3lxTE0wUS1XQjFIbkgxSldlMTVFXzgySnRSV2lLSThFTXNOeGh6UjlZN1h1TkxBTmhvTkthMGgya0dqWFV6eDNsSjZfY1pQZUk?oc=5",
-      "publishedAt": "2026-09-28T00:00:34+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳「這部位」被點名富可敵國 命理師驚呼：統治商業帝國面相 - 三立新聞網SETN.com 黃仁勳「這部位」被點名富可敵國 命理師驚呼：統治商業帝國面相 三立新聞網SETN.com",
-      "capturedAt": "2026-09-29T01:21:34.018226+00:00"
-    },
-    {
-      "id": "232a5f31740f",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Jensen Huang to Meet Samsung, SK Chiefs in New York on AI Chips - en.sedaily.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcUU5N3MtQ2pnZ1dOa1hQajRQaFA3c2NGcFdtR3FqNUYyOG5IaUtZQVRmMk9YNDNfVWpaVGRJTUJXX2RPd2FwZ0hNVVQ0cFRlWWhKTE5KUlo2bXpxWTJTdVB4M0RTZjB3R0lqb2Q3UXcyWjR1WFRTUFNYUHZyRE01NjRBSm9JQV9BTGZfLWFLTjRtSEFyQUhlQmJhUUdEYm8?oc=5",
-      "publishedAt": "2026-09-27T21:30:05+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Jensen Huang to Meet Samsung, SK Chiefs in New York on AI Chips - en.sedaily.com Jensen Huang to Meet Samsung, SK Chiefs in New York on AI Chips en.sedaily.com",
-      "capturedAt": "2026-09-29T01:21:34.018226+00:00"
-    },
-    {
-      "id": "0ae090323e10",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Lee Jae-yong, Chey Tae-won, and Jensen Huang to Meet in New York After Two Months — HBM and AI Infrastructure Cooperation on Agenda - finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4MEROcWItbWs1UU8xUy05VWlWckIzR2ZCR3Fxb2NGRkZLdHY4LUFxTFU3VmdGZ1lpdl83UERTeU9maUtEQWVOaGdaS0tRVXdCYkJHM21fcENscmg4a2NjWmJvd1NTRTExdkdVUVBtU2hmT0dJYXc?oc=5",
-      "publishedAt": "2026-09-27T11:25:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Lee Jae-yong, Chey Tae-won, and Jensen Huang to Meet in New York After Two Months — HBM and AI Infrastructure Cooperation on Agenda - finance.biggo.com Lee Jae-yong, Chey Tae-won, and Jensen Huang to Meet in New York After T",
-      "capturedAt": "2026-09-29T01:21:34.018226+00:00"
+      "summary": "AI代理人危險嗎？黃仁勳：並不反對政府監管 | 信傳媒 - LINE TODAY AI代理人危險嗎？黃仁勳：並不反對政府監管 | 信傳媒 LINE TODAY",
+      "capturedAt": "2026-09-29T07:35:54.689677+00:00"
     }
   ],
   "errors": [
