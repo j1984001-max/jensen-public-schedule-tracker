@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-02T07:38:58.363298+00:00",
+  "generatedAt": "2026-10-02T14:31:14.150161+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
-  "publishedToTimeline": 9,
+  "publishedToTimeline": 10,
   "signals": [
     {
       "id": "f2856d602b39",
@@ -25,7 +25,30 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Epik High神還原黃仁勳訪韓聚會照 網看細節傻眼：這居然不是AI - CMoney Epik High神還原黃仁勳訪韓聚會照 網看細節傻眼：這居然不是AI CMoney",
-      "capturedAt": "2026-10-02T07:38:58.363310+00:00"
+      "capturedAt": "2026-10-02T14:31:14.150179+00:00"
+    },
+    {
+      "id": "64ddeb3aa4c0",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "Epik High神還原黃仁勳訪韓聚會照 網看細節傻眼：這居然不是AI - ETtoday星光雲",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04Y2pxeFJMMXJ3cjB5MmU0Wnc2ck1Lek1TZjhBalpNbHJJbzRpX2Ryc2pmb1VnbVFfWmdfbS1BbWNmMVZDSXJfaFJVbFJSZ9IBTEFVX3lxTE1uWlZpZkdBeGxPSU05bnBTYUFDX3FKaERXYmR5Yjh5dUJNX1JHaU9pWTBaU1FYTEttYmdVcUhEX0ZjVnFOVVc5MkF1OHA?oc=5",
+      "publishedAt": "2026-10-01T08:41:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "訪韓"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Epik High神還原黃仁勳訪韓聚會照 網看細節傻眼：這居然不是AI - ETtoday星光雲 Epik High神還原黃仁勳訪韓聚會照 網看細節傻眼：這居然不是AI ETtoday星光雲",
+      "capturedAt": "2026-10-02T14:31:14.150179+00:00"
     },
     {
       "id": "20e5dae94e78",
@@ -48,7 +71,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang wins Van Fleet Award as Korea-US tech ties deepen - CHOSUNBIZ - Chosunbiz Jensen Huang wins Van Fleet Award as Korea-US tech ties deepen - CHOSUNBIZ Chosunbiz",
-      "capturedAt": "2026-10-02T07:38:58.363310+00:00"
+      "capturedAt": "2026-10-02T14:31:14.150179+00:00"
     },
     {
       "id": "5c35cdca0273",
@@ -71,7 +94,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "李在鎔、崔泰源、黃仁勳紐約兩個月內再度會面，商討HBM與AI基礎設施合作 - BigGo 財經 李在鎔、崔泰源、黃仁勳紐約兩個月內再度會面，商討HBM與AI基礎設施合作 BigGo 財經",
-      "capturedAt": "2026-10-02T07:38:58.363310+00:00"
+      "capturedAt": "2026-10-02T14:31:14.150179+00:00"
     },
     {
       "id": "cd1d84b58f7b",
@@ -94,16 +117,16 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Understanding Jensen Huang’s AI optimism and how it influences President Trump - NPR Understanding Jensen Huang’s AI optimism and how it influences President Trump NPR",
-      "capturedAt": "2026-10-02T07:38:58.363310+00:00"
+      "capturedAt": "2026-10-02T14:31:14.150179+00:00"
     },
     {
-      "id": "cf573204e24a",
+      "id": "98ffc907ba77",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
-      "title": "若黃仁勳有機會和習近平對談會說什麼？一文掌握他接受 CBS 訪問全內容 - money.udn.com",
+      "title": "若黃仁勳有機會和習近平對談會說什麼？一文掌握他接受 CBS 訪問全內容 - 經濟日報",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kTGJHZUFRLVFfaC11TzA2TkNUMjlfODlKWmZsbmtBRGFRTkhPeF93Y1VWck5sMjEtYVR5Tm42d0QtMEk5aTVDM2FjMTVySmF5eTVvbS1iSG9fd9IBX0FVX3lxTE56dEV0WGpua0lndS1RckwzdndiZjRfQWlhNVdqMzRNWGF4djhURmFXWG1jTjhvcWdjckJwWGhISTlDZDJodVpGU3QxYWRwY0ZIOHhhZW1nUEtUUy1nMTVV?oc=5",
       "publishedAt": "2026-09-21T07:00:00+00:00",
       "detectedDates": [],
@@ -116,8 +139,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "若黃仁勳有機會和習近平對談會說什麼？一文掌握他接受 CBS 訪問全內容 - money.udn.com 若黃仁勳有機會和習近平對談會說什麼？一文掌握他接受 CBS 訪問全內容 money.udn.com",
-      "capturedAt": "2026-10-02T07:38:58.363310+00:00"
+      "summary": "若黃仁勳有機會和習近平對談會說什麼？一文掌握他接受 CBS 訪問全內容 - 經濟日報 若黃仁勳有機會和習近平對談會說什麼？一文掌握他接受 CBS 訪問全內容 經濟日報",
+      "capturedAt": "2026-10-02T14:31:14.150179+00:00"
     },
     {
       "id": "fa82b2bbe3fe",
@@ -141,7 +164,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Trump calls Nvidia CEO to talk AI — and gets put on speakerphone during industry summit - NBC News Trump calls Nvidia CEO to talk AI — and gets put on speakerphone during industry summit NBC News",
-      "capturedAt": "2026-10-02T07:38:58.363310+00:00"
+      "capturedAt": "2026-10-02T14:31:14.150179+00:00"
     },
     {
       "id": "55d7e79531e5",
@@ -164,16 +187,16 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Spotted Using Galaxy Z Fold 8 in Public — Was It Another Gift from Lee Jae-yong? - finance.biggo.com Jensen Huang Spotted Using Galaxy Z Fold 8 in Public — Was It Another Gift fro",
-      "capturedAt": "2026-10-02T07:38:58.363310+00:00"
+      "capturedAt": "2026-10-02T14:31:14.150179+00:00"
     },
     {
-      "id": "62023265ca3d",
+      "id": "d4b8742f3088",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "輝達GTC大會秀「Vera CPU」 黃仁勳強調將進入AI代理時代 - news.pts.org.tw",
+      "title": "輝達GTC大會秀「Vera CPU」 黃仁勳強調將進入AI代理時代 - 你的公共電視",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Na0ZUMGtVZXlYVW5tVW9RYWwzcU9CdGVITWh3dWdUX0ZLb2VWNkFBTUFPZnZ2Z3J2OHFjVzZHcmFIcU5kSFlJVnB1Ym5NSWM?oc=5",
       "publishedAt": "2026-09-14T07:00:00+00:00",
       "detectedDates": [],
@@ -186,8 +209,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "輝達GTC大會秀「Vera CPU」 黃仁勳強調將進入AI代理時代 - news.pts.org.tw 輝達GTC大會秀「Vera CPU」 黃仁勳強調將進入AI代理時代 news.pts.org.tw",
-      "capturedAt": "2026-10-02T07:38:58.363310+00:00"
+      "summary": "輝達GTC大會秀「Vera CPU」 黃仁勳強調將進入AI代理時代 - 你的公共電視 輝達GTC大會秀「Vera CPU」 黃仁勳強調將進入AI代理時代 你的公共電視",
+      "capturedAt": "2026-10-02T14:31:14.150179+00:00"
     },
     {
       "id": "a2169fc1d2fb",
@@ -212,7 +235,28 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang Says AGI Has Arrived With OpenAI's GPT-6 Astra - Yahoo Finance Nvidia CEO Jensen Huang Says AGI Has Arrived With OpenAI's GPT-6 Astra Yahoo Finance",
-      "capturedAt": "2026-10-02T07:38:58.363310+00:00"
+      "capturedAt": "2026-10-02T14:31:14.150179+00:00"
+    },
+    {
+      "id": "2f072969539d",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "傳AI巨頭白宮衝突 黃仁勳槓Anthropic執行長：別以為你在造福社會 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOR2hoQ21JbW8zV1Z2bFRRUE13X0V1RzlZMllVUnJHel9PdHkyN01EZHljb28wR3FpYV9oVF9kS01EMHczSHdPSFEzczJZdjlTYThOaEhmQ0pFcFlfbGhySFo3bmJ4QlJMWU5GWV9MSnBMQWxHUmpBNncweFJaUzdEUm8tNXMwS3hIUEt4N0o2OUJ5Y0R6SHgweWY5ZmdRc1ZiU1dteUVVbmdOM0R6NGpGYmdIUXFoYzVMMUpmUWQwUXRkU3JYOV82cEYyNUFyLVZhMHdOV3htdUcyVmw3WVRDZjZuU0hoWkl2NHJLWkRUNjBCVmV2MXVTcmNQa084OXZLYS1OVkJlSEVkdTNHejNDSUxfMjlWelBvbzJieVhxSzFqeFBSYnFvRHZ3b0FfQm85OGZhWlpRUDBjY1d1M3ZndDl4WG11clZkYTdSMWlsdVpSc2tIQTlxdGpTUjE4SmExNjFZZmFkR25pRkFEMzZBa1R3T1VBemt1?oc=5",
+      "publishedAt": "2026-10-02T09:43:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "傳AI巨頭白宮衝突 黃仁勳槓Anthropic執行長：別以為你在造福社會 - Yahoo新聞 傳AI巨頭白宮衝突 黃仁勳槓Anthropic執行長：別以為你在造福社會 Yahoo新聞",
+      "capturedAt": "2026-10-02T14:31:14.150179+00:00"
     },
     {
       "id": "b9fb59622887",
@@ -233,7 +277,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "輝達、三星、SK集團掌門人齊聚紐約 李在鎔自曝和黃仁勳有3個共通點「1句話」逗笑全場 - 財訊 輝達、三星、SK集團掌門人齊聚紐約 李在鎔自曝和黃仁勳有3個共通點「1句話」逗笑全場 財訊",
-      "capturedAt": "2026-10-02T07:38:58.363310+00:00"
+      "capturedAt": "2026-10-02T14:31:14.150179+00:00"
     },
     {
       "id": "4c1a3066ea67",
@@ -254,7 +298,28 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang wins Van Fleet Award as Nvidia, South Korea trio reunites - digitimes Jensen Huang wins Van Fleet Award as Nvidia, South Korea trio reunites digitimes",
-      "capturedAt": "2026-10-02T07:38:58.363310+00:00"
+      "capturedAt": "2026-10-02T14:31:14.150179+00:00"
+    },
+    {
+      "id": "caacbc876c04",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "當黃仁勳說「納稅是榮譽與特權」，英國富豪圈正爆發37 年來最大「稅務難民潮」｜讀者太太／英國職場放大鏡｜換日線 - 換日線 Crossing",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aaFRtVjc5dEpRVktOWktNSkt5b3p5Y0JWdXNnWGV1ejVRZ3NJVkJRREh1eGxuNDVYYlhRUE1oTjI3YTllQU9KVndCZ0x1VWlHcnc?oc=5",
+      "publishedAt": "2026-09-30T16:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "當黃仁勳說「納稅是榮譽與特權」，英國富豪圈正爆發37 年來最大「稅務難民潮」｜讀者太太／英國職場放大鏡｜換日線 - 換日線 Crossing 當黃仁勳說「納稅是榮譽與特權」，英國富豪圈正爆發37 年來最大「稅務難民潮」｜讀者太太／英國職場放大鏡｜換日線 換日線 Crossing",
+      "capturedAt": "2026-10-02T14:31:14.150179+00:00"
     },
     {
       "id": "172d245e5902",
@@ -275,7 +340,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Pledges Another 33 Years of Partnership With Samsung - The Mac Observer Jensen Huang Pledges Another 33 Years of Partnership With Samsung The Mac Observer",
-      "capturedAt": "2026-10-02T07:38:58.363310+00:00"
+      "capturedAt": "2026-10-02T14:31:14.150179+00:00"
     },
     {
       "id": "404988c7bfb4",
@@ -296,7 +361,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "分析｜「玻璃基板」是什麼？為何黃仁勳催促台積電積極開發 - Yahoo股市 分析｜「玻璃基板」是什麼？為何黃仁勳催促台積電積極開發 Yahoo股市",
-      "capturedAt": "2026-10-02T07:38:58.363310+00:00"
+      "capturedAt": "2026-10-02T14:31:14.150179+00:00"
     },
     {
       "id": "b0e8256acae0",
@@ -319,7 +384,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang: AI data center build-out could create 1 million jobs and reshape the US economy - Yahoo Finance Nvidia CEO Jensen Huang: AI data center build-out could create 1 million jobs and",
-      "capturedAt": "2026-10-02T07:38:58.363310+00:00"
+      "capturedAt": "2026-10-02T14:31:14.150179+00:00"
     },
     {
       "id": "1ae589e57438",
@@ -340,7 +405,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "面板又瘋了！群創靠黃仁勳「一句話」漲停爆量奪成交王「這檔晶圓代工」3D AI Foundry獲法人喊買、85元目標價 - Yahoo股市 面板又瘋了！群創靠黃仁勳「一句話」漲停爆量奪成交王「這檔晶圓代工」3D AI Foundry獲法人喊買、85元目標價 Yahoo股市",
-      "capturedAt": "2026-10-02T07:38:58.363310+00:00"
+      "capturedAt": "2026-10-02T14:31:14.150179+00:00"
     },
     {
       "id": "8660cf760b1a",
@@ -363,7 +428,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "NVIDIA CEO Jensen Huang happy to cooperate with Samsung for the next 33 years - SamMobile NVIDIA CEO Jensen Huang happy to cooperate with Samsung for the next 33 years SamMobile",
-      "capturedAt": "2026-10-02T07:38:58.363310+00:00"
+      "capturedAt": "2026-10-02T14:31:14.150179+00:00"
     },
     {
       "id": "8beb5350de52",
@@ -384,7 +449,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "教宗良十四世首度公開點名 批評黃仁勳反對政府監管AI - 信傳媒 教宗良十四世首度公開點名 批評黃仁勳反對政府監管AI 信傳媒",
-      "capturedAt": "2026-10-02T07:38:58.363310+00:00"
+      "capturedAt": "2026-10-02T14:31:14.150179+00:00"
     },
     {
       "id": "f4beed5eedee",
@@ -407,18 +472,18 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "川普宣布簽署「類AI憲法」！黃仁勳、祖克柏、馬斯克等科技大咖齊聚白宮｜朝鮮半島陷緊張！南韓控北韓地雷炸傷官兵金與正反嗆：開火就反擊｜2026/09/30 中央社全球午間快報 - 中央社 CNA 川普宣布簽署「類AI憲法」！黃仁勳、祖克柏、馬斯克等科技大咖齊聚白宮｜朝鮮半島陷緊張！南韓控北韓地雷炸傷官兵金與正反嗆：開火就反擊｜2026/09/30 中央社全球午間快報 中央社 CNA",
-      "capturedAt": "2026-10-02T07:38:58.363310+00:00"
+      "capturedAt": "2026-10-02T14:31:14.150179+00:00"
     },
     {
-      "id": "d89f46cc1aab",
+      "id": "be3bdec2a4ee",
       "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
-      "title": "川普現身車道狂聊AI協議「有如憲法」 黃仁勳、馬斯克一票CEO陪站30分鐘 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPTnJNSFJMQ0JRYkFfSFRXVlNsN21zUEkxYzBYUzlIMFMzX0lBcjhyU0RoSThkR1lwUjVKUzVvVWt1N3kyZG8wNkpKd1JGQUtSTmtlZnUtR2U4X1RDUHFHemVMaVdGSXJ3QXRVaVRWdl9yRmwzdXB6X3hYamRVRnpleEVNdU5YbVJNRjZ1OXpmOTNGUWxSTU1qUlNpaE93bWZlem42RFpkeVZnd2FISWY5anhhWGw4U3VaVnFBTkhoZ3J2cnh5WHZYWjh3Y1YyV3FNbkFxZEUwdzdFSXUtNzIxSHdUbWRPcTFaUV84RV9EcjhHSmplaXVFZHcxSjZOazNQb1p0RG0wZnhLenRXc0FPWHl0U2dMcmQ1NDg5eDgzQjBpSWhhNVd2QUZOZmlnbXlFVDBUckJHc0owTDl2MEVTelhHWVBmZkFtbktIenQ0RjBWcE9UbnFfSWR2ZWk0YlM0Ym1JdHlSUDlKTG14TmpQaGJOS3JtQW1BSDNFSHpyWWczaWVzelpMWDVmNGFRdw?oc=5",
-      "publishedAt": "2026-09-30T03:53:49+00:00",
+      "title": "黃仁勳：AI工廠將成新資產類別！還靠訂單把台積電、鴻海帶到美國 - 數位時代",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ta1BmdVRSTGdfajNvT3BWaDlSVWhpMVdlS2FiS1BYTS1HSHFoWlc5SmRCUzMwYjdjVGd2QU5RbjhiUThBc3VrTzZzd3B6WmpDX2lia3lNYS11cDRQajVCTlhfVTZiUndIWGhoWXpkU3F4OV9FU3p0YQ?oc=5",
+      "publishedAt": "2026-09-30T02:51:00+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -427,8 +492,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "川普現身車道狂聊AI協議「有如憲法」 黃仁勳、馬斯克一票CEO陪站30分鐘 - Yahoo新聞 川普現身車道狂聊AI協議「有如憲法」 黃仁勳、馬斯克一票CEO陪站30分鐘 Yahoo新聞",
-      "capturedAt": "2026-10-02T07:38:58.363310+00:00"
+      "summary": "黃仁勳：AI工廠將成新資產類別！還靠訂單把台積電、鴻海帶到美國 - 數位時代 黃仁勳：AI工廠將成新資產類別！還靠訂單把台積電、鴻海帶到美國 數位時代",
+      "capturedAt": "2026-10-02T14:31:14.150179+00:00"
     },
     {
       "id": "7fc03b126ad2",
@@ -450,7 +515,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "NVIDIA CEO Huang Pledges 33 More Years With Korea - 조선일보 NVIDIA CEO Huang Pledges 33 More Years With Korea 조선일보",
-      "capturedAt": "2026-10-02T07:38:58.363310+00:00"
+      "capturedAt": "2026-10-02T14:31:14.150179+00:00"
     },
     {
       "id": "0c7b055a985e",
@@ -471,72 +536,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "川普宣布簽署「AI憲法」！黃仁勳等巨頭簽字 內容曝光 - UDN 川普宣布簽署「AI憲法」！黃仁勳等巨頭簽字 內容曝光 UDN",
-      "capturedAt": "2026-10-02T07:38:58.363310+00:00"
-    },
-    {
-      "id": "55b60af4383b",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Nvidia CEO Jensen Huang receives Van Fleet Award - 동아일보",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02a0lTMEUtUXBQZkVqUTVqSGVjYzgycXFLOW4tZzVHT1lVQmt2OUFtNDh6S2IyTGlYUVMtMzJfZTFROTJCdzZaUFNqWnVZU2JjTmFrX3JJZ3RUSE9XSDlJeUxvdXhIZw?oc=5",
-      "publishedAt": "2026-09-29T23:28:35+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang",
-        "NVIDIA CEO",
-        "Nvidia CEO"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Nvidia CEO Jensen Huang receives Van Fleet Award - 동아일보 Nvidia CEO Jensen Huang receives Van Fleet Award 동아일보",
-      "capturedAt": "2026-10-02T07:38:58.363310+00:00"
-    },
-    {
-      "id": "11da5133a800",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Samsung, SK leaders join Nvidia's Jensen Huang at New York gala - upi.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOW56Z2dLNnk4OWl2OUlUSEtqZVM4dXRsS0xQZmNlbUdYVno5ZEZ6SW9UZDVHbjE0VU8tV09ydExycERJbHVBRXJ4ZFg2N0Q5ZDIxTWduRFp0Y01WcTVNWGhBSFZtV2FhSnhtcko2ZFRVQ2FlZUZSbHgyQ0d2MVZUZk52eVByNlpORjdGbDJCczFXZ0d5WjlfZjVyOVFMZXlMRHBlZVozSjdqZU9oWFJpUnlQQTh3TjlvdGsxeS0xMFRfeVJYaVFJd252SVVTQlljNy04MNIB2gFBVV95cUxPQmJPSl9kS2FZN2NiSFg1ZmZfM2pHQWtxdlFoSjAyMnJTbE9rT19lczNYS1o0VzdkT1ZiZm1fQVdDMDB5XzEyTWszYTVEYVZfb0E1OHZ6c3Q2SWZmdEdLb1JMTVFBbmZwZ0ItOExQdWo2WlhYQWlSdmhEcHhOYmlzbWFTenY4MDQxcFo5cFhNR0pqUzctMDg0cTNqS3pjOUxOak9ZQ2N1MFVBa1ZQZ2E0MmVkdFZrQmZQcEhPclktd01mNVNyZ2xZU0FZMzNRdWVUdFc5WnhaeTQtZw?oc=5",
-      "publishedAt": "2026-09-29T23:02:22+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Samsung, SK leaders join Nvidia's Jensen Huang at New York gala - upi.com Samsung, SK leaders join Nvidia's Jensen Huang at New York gala upi.com",
-      "capturedAt": "2026-10-02T07:38:58.363310+00:00"
-    },
-    {
-      "id": "67db4b912697",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "監管爭議 教宗批黃仁勳淡化AI風險 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ISEo1MER5UEFEQi15NFR2RFlsaGdsbm1wbUpGQ2dXNjV1LXZrb01tU0RVc3dvLVBGRUFIQzQtZkVOQ0p3eDAxaFRXWWZnZGhk0gFWQVVfeXFMUDZHZDNETUpoeFJiTVRaczhUbGNGZlkzaUlQaFR2YXpJSnE4cmt3NHdYVHdOQ2dLYWhLZURCX2Uyc2VYVkYxMUNDSHVfMHJxdktLU2JGVHc?oc=5",
-      "publishedAt": "2026-09-29T16:13:21+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "監管爭議 教宗批黃仁勳淡化AI風險 - UDN 監管爭議 教宗批黃仁勳淡化AI風險 UDN",
-      "capturedAt": "2026-10-02T07:38:58.363310+00:00"
+      "capturedAt": "2026-10-02T14:31:14.150179+00:00"
     }
   ],
   "errors": [
