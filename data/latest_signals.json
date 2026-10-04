@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-04T07:30:47.771096+00:00",
+  "generatedAt": "2026-10-04T13:46:19.146324+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
-  "publishedToTimeline": 7,
+  "publishedToTimeline": 8,
   "signals": [
     {
       "id": "5835a6f049a1",
@@ -13,7 +13,7 @@
       "sourceType": "新聞彙整",
       "title": "黃仁勳女兒結婚了！李在鎔意外曝喜訊 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOOXlrVWhBZmNod1hSYWhJQ25jMFJWQWh0Unl1Vmp1SWYwQ2Y3LUluaFB2d0NtdndodDFFTTIwZE5fQ0ZNWGstMVgtcHdlMlVKWE5XLVVaZjlaZVRfM3dJanBqc1hpOGlKcGoyXzBhRnpEdHJFZE9sT0lOS0RpTTQ0SWdlalU3MFFJZllOT1RUUnRaeTFWNXNIX2RpQV9UeWhtSUpldUJyV2dqRzdITk96Mlk3OGVDcVR5MGJERzFnNDljVmFaNEw2RWVsRXRHRzFWb3ZrbmdWVU83WmFVM0pmaHhsQkktc0dPUlZ4d3g0VzdJdUVSd2pzQXVNcy1saWxzRXQ4dGNqUkhPajY5aF96aU9PZkM?oc=5",
-      "publishedAt": "2026-10-04T06:11:15+00:00",
+      "publishedAt": "2026-10-04T09:11:15+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -25,7 +25,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳女兒結婚了！李在鎔意外曝喜訊 - Yahoo新聞 黃仁勳女兒結婚了！李在鎔意外曝喜訊 Yahoo新聞",
-      "capturedAt": "2026-10-04T07:30:47.771112+00:00"
+      "capturedAt": "2026-10-04T13:46:19.146336+00:00"
     },
     {
       "id": "20e5dae94e78",
@@ -48,7 +48,31 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang wins Van Fleet Award as Korea-US tech ties deepen - CHOSUNBIZ - Chosunbiz Jensen Huang wins Van Fleet Award as Korea-US tech ties deepen - CHOSUNBIZ Chosunbiz",
-      "capturedAt": "2026-10-04T07:30:47.771112+00:00"
+      "capturedAt": "2026-10-04T13:46:19.146336+00:00"
+    },
+    {
+      "id": "c60084fba2c8",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Jensen Huang Holds Private Meetings with Samsung and SK Leaders in New York; 8th-Generation HBM and AI Factories Take Center Stage - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90SHhTb3h5c1Z1ZzRaWFY3czhuczF5NW5jTEZ4aWdCSDJMWmZnNmFmZ29vN2wtUXhpcFNjUG9TWFFTSFRqVkRzWmk3LWFrMXJjamRIWlBQX3JEMS14ZjBwLWo4bU5GTjZiRy1MR3dKbXZJdWdNVEE?oc=5",
+      "publishedAt": "2026-09-28T21:35:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [
+        "meeting",
+        "meetings"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Jensen Huang Holds Private Meetings with Samsung and SK Leaders in New York; 8th-Generation HBM and AI Factories Take Center Stage - finance.biggo.com Jensen Huang Holds Private Meetings with",
+      "capturedAt": "2026-10-04T13:46:19.146336+00:00"
     },
     {
       "id": "98ffc907ba77",
@@ -71,16 +95,16 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "若黃仁勳有機會和習近平對談會說什麼？一文掌握他接受 CBS 訪問全內容 - 經濟日報 若黃仁勳有機會和習近平對談會說什麼？一文掌握他接受 CBS 訪問全內容 經濟日報",
-      "capturedAt": "2026-10-04T07:30:47.771112+00:00"
+      "capturedAt": "2026-10-04T13:46:19.146336+00:00"
     },
     {
-      "id": "88e32bec2955",
+      "id": "6bedca920f8a",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 55,
       "sourceName": "Google News: Jensen Huang",
       "sourceType": "新聞彙整",
-      "title": "Nvidia CEO to attend Trump dinner for Xi, source says - reuters.com",
+      "title": "Nvidia CEO to attend Trump dinner for Xi, source says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdDNGcU9fWlg4SmVTNzN2UUF1dUduZHFPVXFESnRBbDV3d081endTWHFQd2hNZUx6UThibVBxWHdycmFmUlBWcUZmY0NZdlVLdFhETHk3bGZJaURIb3lSVzdHcjFjZEhSTi1qTzJEWGpyYmpXODdTWVRJX3c2dmpVQXBWWEN6dlZFUFhNTnctbFVwYjk4WFFuSjg0RVlMZDFOUkE?oc=5",
       "publishedAt": "2026-09-15T07:00:00+00:00",
       "detectedDates": [],
@@ -98,8 +122,8 @@
       "publicContextFlags": [
         "dinner"
       ],
-      "summary": "Nvidia CEO to attend Trump dinner for Xi, source says - reuters.com Nvidia CEO to attend Trump dinner for Xi, source says reuters.com",
-      "capturedAt": "2026-10-04T07:30:47.771112+00:00"
+      "summary": "Nvidia CEO to attend Trump dinner for Xi, source says - Reuters Nvidia CEO to attend Trump dinner for Xi, source says Reuters",
+      "capturedAt": "2026-10-04T13:46:19.146336+00:00"
     },
     {
       "id": "fa82b2bbe3fe",
@@ -123,7 +147,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Trump calls Nvidia CEO to talk AI — and gets put on speakerphone during industry summit - NBC News Trump calls Nvidia CEO to talk AI — and gets put on speakerphone during industry summit NBC News",
-      "capturedAt": "2026-10-04T07:30:47.771112+00:00"
+      "capturedAt": "2026-10-04T13:46:19.146336+00:00"
     },
     {
       "id": "cfad36273460",
@@ -146,7 +170,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Declares “AGI Has Arrived” — Powered by 100,000+ Nvidia Grace Blackwell GPUs - Yahoo Finance Jensen Huang Declares “AGI Has Arrived” — Powered by 100,000+ Nvidia Grace Blackwell G",
-      "capturedAt": "2026-10-04T07:30:47.771112+00:00"
+      "capturedAt": "2026-10-04T13:46:19.146336+00:00"
     },
     {
       "id": "a2169fc1d2fb",
@@ -171,28 +195,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang Says AGI Has Arrived With OpenAI's GPT-6 Astra - Yahoo Finance Nvidia CEO Jensen Huang Says AGI Has Arrived With OpenAI's GPT-6 Astra Yahoo Finance",
-      "capturedAt": "2026-10-04T07:30:47.771112+00:00"
-    },
-    {
-      "id": "bd9839b495fe",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "李在鎔說漏嘴？黃仁勳喜訊曝光 長女黃敏珊「2日前完婚」 | 太報 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZbmtkWkxaTGUzV2hjcGd1Sm9QZkJORENQZl91M051TG5taGkySlN0d084RXM4N2ZnZHNlRDBEWkQycUpQblZXaUNaWHBwYXR3ek1VU1Z3?oc=5",
-      "publishedAt": "2026-10-04T05:04:40+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "李在鎔說漏嘴？黃仁勳喜訊曝光 長女黃敏珊「2日前完婚」 | 太報 - LINE TODAY 李在鎔說漏嘴？黃仁勳喜訊曝光 長女黃敏珊「2日前完婚」 | 太報 LINE TODAY",
-      "capturedAt": "2026-10-04T07:30:47.771112+00:00"
+      "capturedAt": "2026-10-04T13:46:19.146336+00:00"
     },
     {
       "id": "21a309b2dde4",
@@ -203,7 +206,7 @@
       "sourceType": "新聞彙整",
       "title": "黃仁勳愛女傳婚訊！三星李在鎔致詞「說溜嘴」曝喜訊 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOTG1mQV8tRlVWVll2dm9lcDJoOUprb2tPMkpCMkRPcHd1VmVLWEJiaVRtbEpfM0FPcEpGamxlVHF4RnY5T3dLRUhCcjMtZzFzYWJ3eVI2cV9SYVdWQ0N3YjVKbU9tbXp0Ti1QSXBOMnJvRUg3WXJ6M1FWNEtGNHFYdUdwUjAySFFUWmRrYWNfejN6eEhzb1YwYUVrVkRWOUVxTlRrdVU1OS03TEdiS3hCOVg4di0zX0VQLTVuaDBYdFZrSjVRSGt0d01QTm1uMklMaUYzSnh5Nml5VERlYkVnQjd6RjN3MEREaUhFTWtCa2s0dmFJNk44TnUyUEFLX2JKZUtjVVFudzVBX0hkZ2RKWWJmMHE1dmpVSnBvMTlEMmFFNVhFZ2RpUkNEeXJHUWNxVUVBQmc3NEFCR3FPbFVEMmRnc2k3VTZmVG0tQVBaVnBVZ2M?oc=5",
-      "publishedAt": "2026-10-04T03:43:15+00:00",
+      "publishedAt": "2026-10-04T08:34:48+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -213,14 +216,56 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳愛女傳婚訊！三星李在鎔致詞「說溜嘴」曝喜訊 - Yahoo新聞 黃仁勳愛女傳婚訊！三星李在鎔致詞「說溜嘴」曝喜訊 Yahoo新聞",
-      "capturedAt": "2026-10-04T07:30:47.771112+00:00"
+      "capturedAt": "2026-10-04T13:46:19.146336+00:00"
     },
     {
-      "id": "7396ffb3708c",
+      "id": "a48348f2b4eb",
       "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳女兒閃婚了？李在鎔1句意外爆喜訊「驚人內幕曝光」 - 民視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EeTRKbmg5bXQ0XzE3NXBvRG9tWXEtUE94aGdTRzNBLUJDWDZqQUJ2VWZmamVwSUF5ZVlOZUxiemRJd0FudEQ4LXI4VHBBRFQ4NmFqbXFwOFBQNmtyMnZTYw?oc=5",
+      "publishedAt": "2026-10-04T08:18:16+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳女兒閃婚了？李在鎔1句意外爆喜訊「驚人內幕曝光」 - 民視新聞網 黃仁勳女兒閃婚了？李在鎔1句意外爆喜訊「驚人內幕曝光」 民視新聞網",
+      "capturedAt": "2026-10-04T13:46:19.146336+00:00"
+    },
+    {
+      "id": "599e436ac181",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳嫁女兒了三星李在鎔曝喜訊：剛完婚| 產經 - 非凡新聞台",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lbmktcDRBcWVOWU9tbnFkQXdHZllxdWxuNEdRcFRtTjhTS1IyT3FhNzlDSjktaThIYS05X0lCRldjNml6ZUtnUnFfbFNMZExXd2tMa3B5bmVhNE40?oc=5",
+      "publishedAt": "2026-10-04T02:29:02+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳嫁女兒了三星李在鎔曝喜訊：剛完婚| 產經 - 非凡新聞台 黃仁勳嫁女兒了三星李在鎔曝喜訊：剛完婚| 產經 非凡新聞台",
+      "capturedAt": "2026-10-04T13:46:19.146336+00:00"
+    },
+    {
+      "id": "09c293d7ec50",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
       "title": "黃仁勳嫁女兒了！李在鎔致詞意外說溜嘴 還揭1巧合 - UDN",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RTkNlRWQ0NVBpQ0ZhMHQxcjVqaVVVQ0ktWEdJNllCLURYM1RUSmlNRm82SnZRTHplS2lWRFYzUk9MeEVWTkdjNk1aUWZHWFIt0gFWQVVfeXFMTTZFdXVhbHBTQ2hSTGFueklQWnBqRVdXN1VHRnJfaFNZZ1lXUktGa3FidS1mLVpkSVBUQURtdFhDdGVSbk83cHBHV1hRbFV6SWF6RjVmeHc?oc=5",
@@ -234,7 +279,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳嫁女兒了！李在鎔致詞意外說溜嘴 還揭1巧合 - UDN 黃仁勳嫁女兒了！李在鎔致詞意外說溜嘴 還揭1巧合 UDN",
-      "capturedAt": "2026-10-04T07:30:47.771112+00:00"
+      "capturedAt": "2026-10-04T13:46:19.146336+00:00"
     },
     {
       "id": "412fde440c71",
@@ -255,7 +300,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳愛女嫁了？ 三星會長意外洩黃敏珊完婚- 國際 - 華視新聞網 黃仁勳愛女嫁了？ 三星會長意外洩黃敏珊完婚- 國際 華視新聞網",
-      "capturedAt": "2026-10-04T07:30:47.771112+00:00"
+      "capturedAt": "2026-10-04T13:46:19.146336+00:00"
     },
     {
       "id": "111249378cb4",
@@ -276,7 +321,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang says AI isn't alive, contain it - StartupHub.ai Jensen Huang says AI isn't alive, contain it StartupHub.ai",
-      "capturedAt": "2026-10-04T07:30:47.771112+00:00"
+      "capturedAt": "2026-10-04T13:46:19.146336+00:00"
     },
     {
       "id": "bc3f054787f4",
@@ -297,7 +342,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳女兒嫁了！黃敏珊傳完婚 三星會長李在鎔致詞意外洩喜訊 - ETtoday財經雲 黃仁勳女兒嫁了！黃敏珊傳完婚 三星會長李在鎔致詞意外洩喜訊 ETtoday財經雲",
-      "capturedAt": "2026-10-04T07:30:47.771112+00:00"
+      "capturedAt": "2026-10-04T13:46:19.146336+00:00"
     },
     {
       "id": "5f29f1e21b3c",
@@ -318,7 +363,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳紐約領獎三星電子李在鎔曝輝達千金嫁人喜訊- 國際 - 中時新聞網 黃仁勳紐約領獎三星電子李在鎔曝輝達千金嫁人喜訊- 國際 中時新聞網",
-      "capturedAt": "2026-10-04T07:30:47.771112+00:00"
+      "capturedAt": "2026-10-04T13:46:19.146336+00:00"
     },
     {
       "id": "45ae18551938",
@@ -339,7 +384,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳嫁愛女？輝達千金黃敏珊傳已完婚 三星李在鎔親曝喜訊 - Yahoo新聞 黃仁勳嫁愛女？輝達千金黃敏珊傳已完婚 三星李在鎔親曝喜訊 Yahoo新聞",
-      "capturedAt": "2026-10-04T07:30:47.771112+00:00"
+      "capturedAt": "2026-10-04T13:46:19.146336+00:00"
     },
     {
       "id": "9a53cbc39143",
@@ -360,7 +405,28 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳愛女黃敏珊驚傳新婚 三星會長李在鎔紐約晚宴親揭：2天前才嫁人 - Yahoo新聞 黃仁勳愛女黃敏珊驚傳新婚 三星會長李在鎔紐約晚宴親揭：2天前才嫁人 Yahoo新聞",
-      "capturedAt": "2026-10-04T07:30:47.771112+00:00"
+      "capturedAt": "2026-10-04T13:46:19.146336+00:00"
+    },
+    {
+      "id": "a014d7d50d0e",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳愛女黃敏珊驚傳新婚 三星會長李在鎔紐約晚宴親揭：2天前才嫁人 | 財經 | CTWANT - CTWANT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vNmNNNW1VMGJSLXdYUlFpZi1iYVJwV3RIS0pFeUg0d2ZYbTVtTV9ZZlVodHBDNHFramtwajljR3V6REFsNE43Yi1vR0ZTWDTSAVRBVV95cUxPNTBNVm5TZ2YzbV8xZS01ZjZpNmFKZkxYLUtxbkFhZFlGZmtiRG5Mck1nek9KNU9aV2Y3bC0zNTVrRG1ZNjFMeHRqT2FMbWl2MU5waGY?oc=5",
+      "publishedAt": "2026-10-03T10:53:53+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳愛女黃敏珊驚傳新婚 三星會長李在鎔紐約晚宴親揭：2天前才嫁人 | 財經 | CTWANT - CTWANT 黃仁勳愛女黃敏珊驚傳新婚 三星會長李在鎔紐約晚宴親揭：2天前才嫁人 | 財經 | CTWANT CTWANT",
+      "capturedAt": "2026-10-04T13:46:19.146336+00:00"
     },
     {
       "id": "77f15fa16926",
@@ -381,16 +447,16 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "傳黃仁勳女兒已出嫁 三星會長李在鎔曝：不久前剛完婚 - 三立新聞網SETN.com 傳黃仁勳女兒已出嫁 三星會長李在鎔曝：不久前剛完婚 三立新聞網SETN.com",
-      "capturedAt": "2026-10-04T07:30:47.771112+00:00"
+      "capturedAt": "2026-10-04T13:46:19.146336+00:00"
     },
     {
-      "id": "bc04277df97b",
+      "id": "888712d83c44",
       "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "傳黃仁勳女兒已出嫁 三星會長李在鎔曝：不久前剛完婚 - 三立新聞",
+      "title": "傳黃仁勳女兒已出嫁 三星會長李在鎔曝：不久前剛完婚 - 三立新聞網SETN.com",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1rSmE0bmtnYjB4UEFmc24xME1yYV9IaXBvdjNBVV82bkhVSGt4UkZxQ0lqZXhKTDNpZklnYmg2QW1XS0hjOFRhRNIBTEFVX3lxTE4wVHl4enZXUFJqMXozWVU2S3laOG9YRnpnM2pBQUw4S0daZU1kdWJ2bmVGWnNJREZnZVByOFRKMnRZVU9hSmI5bExPRy0?oc=5",
       "publishedAt": "2026-10-03T09:55:00+00:00",
       "detectedDates": [],
@@ -401,29 +467,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "傳黃仁勳女兒已出嫁 三星會長李在鎔曝：不久前剛完婚 - 三立新聞 傳黃仁勳女兒已出嫁 三星會長李在鎔曝：不久前剛完婚 三立新聞",
-      "capturedAt": "2026-10-04T07:30:47.771112+00:00"
-    },
-    {
-      "id": "bbe4c2f803f5",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳女兒黃敏珊結婚了！李在鎔致詞意外說溜嘴 還揭1巧合 - TVBS新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZV0ZVQWtYdGpWYUFSaDBKTHg5aGFkU3ZJek9TSDE0Y0JUcTVQM0ZPS2NPVGdCZFNzSjUyaVdsRWp4bG1hbElHN1FjSzN6OUE?oc=5",
-      "publishedAt": "2026-10-03T09:47:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳女兒黃敏珊結婚了！李在鎔致詞意外說溜嘴 還揭1巧合 - TVBS新聞網 黃仁勳女兒黃敏珊結婚了！李在鎔致詞意外說溜嘴 還揭1巧合 TVBS新聞網",
-      "capturedAt": "2026-10-04T07:30:47.771112+00:00"
+      "summary": "傳黃仁勳女兒已出嫁 三星會長李在鎔曝：不久前剛完婚 - 三立新聞網SETN.com 傳黃仁勳女兒已出嫁 三星會長李在鎔曝：不久前剛完婚 三立新聞網SETN.com",
+      "capturedAt": "2026-10-04T13:46:19.146336+00:00"
     },
     {
       "id": "ab3cfc5f67f9",
@@ -444,28 +489,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳嫁女兒了？三星李在鎔意外洩喜訊 傳黃敏珊已完婚 - 自由財經 黃仁勳嫁女兒了？三星李在鎔意外洩喜訊 傳黃敏珊已完婚 自由財經",
-      "capturedAt": "2026-10-04T07:30:47.771112+00:00"
-    },
-    {
-      "id": "2f072969539d",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "傳AI巨頭白宮衝突 黃仁勳槓Anthropic執行長：別以為你在造福社會 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOR2hoQ21JbW8zV1Z2bFRRUE13X0V1RzlZMllVUnJHel9PdHkyN01EZHljb28wR3FpYV9oVF9kS01EMHczSHdPSFEzczJZdjlTYThOaEhmQ0pFcFlfbGhySFo3bmJ4QlJMWU5GWV9MSnBMQWxHUmpBNncweFJaUzdEUm8tNXMwS3hIUEt4N0o2OUJ5Y0R6SHgweWY5ZmdRc1ZiU1dteUVVbmdOM0R6NGpGYmdIUXFoYzVMMUpmUWQwUXRkU3JYOV82cEYyNUFyLVZhMHdOV3htdUcyVmw3WVRDZjZuU0hoWkl2NHJLWkRUNjBCVmV2MXVTcmNQa084OXZLYS1OVkJlSEVkdTNHejNDSUxfMjlWelBvbzJieVhxSzFqeFBSYnFvRHZ3b0FfQm85OGZhWlpRUDBjY1d1M3ZndDl4WG11clZkYTdSMWlsdVpSc2tIQTlxdGpTUjE4SmExNjFZZmFkR25pRkFEMzZBa1R3T1VBemt1?oc=5",
-      "publishedAt": "2026-10-02T09:43:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "傳AI巨頭白宮衝突 黃仁勳槓Anthropic執行長：別以為你在造福社會 - Yahoo新聞 傳AI巨頭白宮衝突 黃仁勳槓Anthropic執行長：別以為你在造福社會 Yahoo新聞",
-      "capturedAt": "2026-10-04T07:30:47.771112+00:00"
+      "capturedAt": "2026-10-04T13:46:19.146336+00:00"
     },
     {
       "id": "b9fb59622887",
@@ -486,7 +510,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "輝達、三星、SK集團掌門人齊聚紐約 李在鎔自曝和黃仁勳有3個共通點「1句話」逗笑全場 - 財訊 輝達、三星、SK集團掌門人齊聚紐約 李在鎔自曝和黃仁勳有3個共通點「1句話」逗笑全場 財訊",
-      "capturedAt": "2026-10-04T07:30:47.771112+00:00"
+      "capturedAt": "2026-10-04T13:46:19.146336+00:00"
     },
     {
       "id": "3843c1c62d37",
@@ -507,28 +531,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "【錯誤】張忠謀告別信？講黃仁勳保護台灣和蔣萬安送鑰匙？非真實訊息！多段落拼湊文章 - MyGoPen 【錯誤】張忠謀告別信？講黃仁勳保護台灣和蔣萬安送鑰匙？非真實訊息！多段落拼湊文章 MyGoPen",
-      "capturedAt": "2026-10-04T07:30:47.771112+00:00"
-    },
-    {
-      "id": "1fe91f848f3a",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Jensen Huang wins Van Fleet Award as Nvidia, South Korea trio reunites - digitimes.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYVkyZmRXdnFxY0p4dlUxXzkxeUFZS1lQcWVfTG1iME0zVk5UMUdkNkNIc0pOd0E2bk9SVXZqb1pEX3Vnd0xfTExWTW5LX3F3TFZESE9nMEpjaHpTdXY0MDlteTFueDVqcjN2NmhZRDItRnlLTjVra3BrbWZOMXZZakxvLWlXOU5ZU280c0xfN21LMV9fU1dLYTRDb3VxU1l1cDI3ZWJn?oc=5",
-      "publishedAt": "2026-10-01T00:16:53+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Jensen Huang wins Van Fleet Award as Nvidia, South Korea trio reunites - digitimes.com Jensen Huang wins Van Fleet Award as Nvidia, South Korea trio reunites digitimes.com",
-      "capturedAt": "2026-10-04T07:30:47.771112+00:00"
+      "capturedAt": "2026-10-04T13:46:19.146336+00:00"
     }
   ],
   "errors": [
