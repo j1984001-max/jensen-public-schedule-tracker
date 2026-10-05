@@ -1,87 +1,340 @@
 {
-  "generatedAt": "2026-10-04T22:13:24.758967+00:00",
+  "generatedAt": "2026-10-05T00:19:40.391600+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
-  "publishedToTimeline": 0,
+  "publishedToTimeline": 9,
   "signals": [
     {
-      "id": "2825717aa0fa",
-      "status": "source-only",
-      "category": "官方公開提及",
-      "confidence": 72,
-      "sourceName": "NVIDIA Newsroom",
-      "sourceType": "官方",
-      "title": "NVIDIA CEO: We Have the Most Energy Efficient Architecture in the World",
-      "url": "https://www.cnbc.com/video/2026/03/17/nvidia-ceo-we-have-the-most-energy-efficient-architecture-in-world.html",
-      "publishedAt": null,
-      "detectedDates": [
-        "2026-03-17"
-      ],
+      "id": "5835a6f049a1",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳女兒結婚了！李在鎔意外曝喜訊 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOOXlrVWhBZmNod1hSYWhJQ25jMFJWQWh0Unl1Vmp1SWYwQ2Y3LUluaFB2d0NtdndodDFFTTIwZE5fQ0ZNWGstMVgtcHdlMlVKWE5XLVVaZjlaZVRfM3dJanBqc1hpOGlKcGoyXzBhRnpEdHJFZE9sT0lOS0RpTTQ0SWdlalU3MFFJZllOT1RUUnRaeTFWNXNIX2RpQV9UeWhtSUpldUJyV2dqRzdITk96Mlk3OGVDcVR5MGJERzFnNDljVmFaNEw2RWVsRXRHRzFWb3ZrbmdWVU83WmFVM0pmaHhsQkktc0dPUlZ4d3g0VzdJdUVSd2pzQXVNcy1saWxzRXQ4dGNqUkhPajY5aF96aU9PZkM?oc=5",
+      "publishedAt": "2026-10-03T23:56:53+00:00",
+      "detectedDates": [],
       "matchedKeywords": [
-        "NVIDIA CEO",
-        "Nvidia CEO"
+        "黃仁勳"
       ],
-      "matchedEventKeywords": [],
+      "matchedEventKeywords": [
+        "GTC"
+      ],
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "NVIDIA CEO: We Have the Most Energy Efficient Architecture in the World NVIDIA CEO: We Have the Most Energy Efficient Architecture in the World https://www.cnbc.com/video/2026/03/17/nvidia-c",
-      "capturedAt": "2026-10-04T22:13:24.758979+00:00"
+      "summary": "黃仁勳女兒結婚了！李在鎔意外曝喜訊 - Yahoo新聞 黃仁勳女兒結婚了！李在鎔意外曝喜訊 Yahoo新聞",
+      "capturedAt": "2026-10-05T00:19:40.391610+00:00"
     },
     {
-      "id": "f43bd1f49e4b",
-      "status": "source-only",
-      "category": "官方公開提及",
-      "confidence": 72,
-      "sourceName": "NVIDIA Newsroom",
-      "sourceType": "官方",
-      "title": "IEEE Medal of Honor Recipient Is NVIDIA's CEO Jensen Huang",
-      "url": "https://spectrum.ieee.org/2026-ieee-medal-of-honor",
-      "publishedAt": null,
+      "id": "db5e383e085b",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Nvidia's Jensen Huang, Other CEOs Privately Confront Anthropic's Dario Amodei Over AI Doomsday Warnings Amid Trump's Tech Summit: Report - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVm1HckNWcGppajhJRHZBMjRwTk8yRVB1QnZnUm1XTXZpUW9TWDNRWWJWcTYzWElTWjIybWNzWWlseWZoekQxSVl4QlRxcE1zTWpSdEs2aldnTnMySVBHMGJyal8yRjVxSjM1bVR1cF9fQWpoTnRpT09uTUJZa29sMDQ5NTR3a1EtVktqdmhocHBuWUp5S09QaUxSQQ?oc=5",
+      "publishedAt": "2026-10-02T21:30:19+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "Jensen Huang"
       ],
-      "matchedEventKeywords": [],
+      "matchedEventKeywords": [
+        "summit"
+      ],
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "IEEE Medal of Honor Recipient Is NVIDIA's CEO Jensen Huang IEEE Medal of Honor Recipient Is NVIDIA's CEO Jensen Huang https://spectrum.ieee.org/2026-ieee-medal-of-honor",
-      "capturedAt": "2026-10-04T22:13:24.758979+00:00"
+      "summary": "Nvidia's Jensen Huang, Other CEOs Privately Confront Anthropic's Dario Amodei Over AI Doomsday Warnings Amid Trump's Tech Summit: Report - Yahoo Finance Nvidia's Jensen Huang, Other CEOs Privately Conf",
+      "capturedAt": "2026-10-05T00:19:40.391610+00:00"
     },
     {
-      "id": "c703603047de",
-      "status": "source-only",
-      "category": "官方公開提及",
-      "confidence": 72,
-      "sourceName": "NVIDIA Newsroom",
-      "sourceType": "官方",
-      "title": "An Interview with NVIDIA CEO Jensen Huang About Accelerated Computing",
-      "url": "https://stratechery.com/2026/an-interview-with-nvidia-ceo-jensen-huang-about-accelerated-computing/",
-      "publishedAt": null,
+      "id": "20e5dae94e78",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Jensen Huang wins Van Fleet Award as Korea-US tech ties deepen - CHOSUNBIZ - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9odWxpOWoxeGNuZ2VuRlFUOGxaZDlZdG40XzhJNlFOVERDOFpFdVZpUVRScUFFZ083NS1JTEN3SElkbFVuNE1YdkdkbWpkVGFVUkpQTC1XU3dhb0FsbVJISW1DZHBocXJSOEttN2phZkdVVWZPZ3JQSlVn0gGOAUFVX3lxTFByYU5hVHBKUE5qd3RqSDRTTDMwUDR2NFJrN1hIeV9BRWpaT2xkMVBJZEJreEtlTkpHS2dHTlQ3Q0dTQ3dKaFc0akU5b2l3QXVaTHp4MTFKcEsyd3l5R0ZwTGZSLWZqcDkyRC0zZzRHbDZFbWlqYTkybXZzYUZSSmVnZ2JzLTFEOE9ZMl9Yd2c?oc=5",
+      "publishedAt": "2026-09-29T01:10:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [
+        "CES"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Jensen Huang wins Van Fleet Award as Korea-US tech ties deepen - CHOSUNBIZ - Chosunbiz Jensen Huang wins Van Fleet Award as Korea-US tech ties deepen - CHOSUNBIZ Chosunbiz",
+      "capturedAt": "2026-10-05T00:19:40.391610+00:00"
+    },
+    {
+      "id": "c60084fba2c8",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Jensen Huang Holds Private Meetings with Samsung and SK Leaders in New York; 8th-Generation HBM and AI Factories Take Center Stage - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90SHhTb3h5c1Z1ZzRaWFY3czhuczF5NW5jTEZ4aWdCSDJMWmZnNmFmZ29vN2wtUXhpcFNjUG9TWFFTSFRqVkRzWmk3LWFrMXJjamRIWlBQX3JEMS14ZjBwLWo4bU5GTjZiRy1MR3dKbXZJdWdNVEE?oc=5",
+      "publishedAt": "2026-09-28T21:35:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [
+        "meeting",
+        "meetings"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Jensen Huang Holds Private Meetings with Samsung and SK Leaders in New York; 8th-Generation HBM and AI Factories Take Center Stage - finance.biggo.com Jensen Huang Holds Private Meetings with",
+      "capturedAt": "2026-10-05T00:19:40.391610+00:00"
+    },
+    {
+      "id": "6bedca920f8a",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 55,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Nvidia CEO to attend Trump dinner for Xi, source says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdDNGcU9fWlg4SmVTNzN2UUF1dUduZHFPVXFESnRBbDV3d081endTWHFQd2hNZUx6UThibVBxWHdycmFmUlBWcUZmY0NZdlVLdFhETHk3bGZJaURIb3lSVzdHcjFjZEhSTi1qTzJEWGpyYmpXODdTWVRJX3c2dmpVQXBWWEN6dlZFUFhNTnctbFVwYjk4WFFuSjg0RVlMZDFOUkE?oc=5",
+      "publishedAt": "2026-09-15T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "NVIDIA CEO",
+        "Nvidia CEO"
+      ],
+      "matchedEventKeywords": [
+        "attend"
+      ],
+      "privacyReviewFlags": [
+        "dinner"
+      ],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [
+        "dinner"
+      ],
+      "summary": "Nvidia CEO to attend Trump dinner for Xi, source says - Reuters Nvidia CEO to attend Trump dinner for Xi, source says Reuters",
+      "capturedAt": "2026-10-05T00:19:40.391610+00:00"
+    },
+    {
+      "id": "fa82b2bbe3fe",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Trump calls Nvidia CEO to talk AI — and gets put on speakerphone during industry summit - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQkF6Q0JLVjMyRkRmX2YxS3J3MlRGX2xGdzhDWTF2alBnQ19vSmhxNGJpTTZrcDZlOTV3VTJnN3BCOXkzYzduOGo0bmpIc09CZ1lGbzdmdkc1eVlrYUEwN1RDV1NWUGdqYzBTWlZqYUVHWjFMSEpoMnplbDhkYTkyeHhRb0tFU3V2MXVkLXc2alVVUGlXRnctRFpkTzNDLXhOWWJOYXpVM09vNF94UEFFbVBxeFE?oc=5",
+      "publishedAt": "2026-09-14T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "NVIDIA CEO",
+        "Nvidia CEO"
+      ],
+      "matchedEventKeywords": [
+        "summit"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Trump calls Nvidia CEO to talk AI — and gets put on speakerphone during industry summit - NBC News Trump calls Nvidia CEO to talk AI — and gets put on speakerphone during industry summit NBC News",
+      "capturedAt": "2026-10-05T00:19:40.391610+00:00"
+    },
+    {
+      "id": "55d7e79531e5",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Jensen Huang Spotted Using Galaxy Z Fold 8 in Public — Was It Another Gift from Lee Jae-yong? - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pejN5d0F2QXNzTzVSVkZ6Umd3bkhXbkRXRkVic1ZTZVhqUzRkOUw3aEhYTmVQc05xdFBlY1FUYTdPU0J6dG13Z21wSnhlRWtPTjl0N2E0Z3JSRXgtcnNSamg5SW9XNUxJYjNVNUQyNWZRY0NKVEE?oc=5",
+      "publishedAt": "2026-09-14T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [
+        "GTC"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Jensen Huang Spotted Using Galaxy Z Fold 8 in Public — Was It Another Gift from Lee Jae-yong? - finance.biggo.com Jensen Huang Spotted Using Galaxy Z Fold 8 in Public — Was It Another Gift fro",
+      "capturedAt": "2026-10-05T00:19:40.391610+00:00"
+    },
+    {
+      "id": "cfad36273460",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Jensen Huang Declares “AGI Has Arrived” — Powered by 100,000+ Nvidia Grace Blackwell GPUs - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOVVkWkxDUEF0RjIwMW45ZUQyTjR0N1U5M2RIcGNlaG80a09KdG85X0NqdjhxTjVOY1dGOTVveW0wMW5jdWtkcFNUTVdaUWpDTG9POHlqLUpTcnBNN3Q4MTFJY2E4OTRhX0FuU25mMWZTd241MUotVXlfLUVuWTZ1TnhITmhvaktEdm5uNW80UXYycWJiSEhWc0QtYTdtZw?oc=5",
+      "publishedAt": "2026-09-07T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [
+        "arrived"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Jensen Huang Declares “AGI Has Arrived” — Powered by 100,000+ Nvidia Grace Blackwell GPUs - Yahoo Finance Jensen Huang Declares “AGI Has Arrived” — Powered by 100,000+ Nvidia Grace Blackwell G",
+      "capturedAt": "2026-10-05T00:19:40.391610+00:00"
+    },
+    {
+      "id": "a2169fc1d2fb",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Nvidia CEO Jensen Huang Says AGI Has Arrived With OpenAI's GPT-6 Astra - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOUZMYTliejlKS1dfSmZCRmZZUko2WjJHa2RvSW03UVh6V0wwY3VJUnJrSXBDaGczVEJnWTkxR204QzEzUE0tRk15TGlIbm9sQkNGNkVTQ3VUWlVLV1AyRkU5ZVVlaGctSGloX0dRWGdQYUppZEVFNnpnbWE3Y3ZVZ2c2ZXc3SUtLRWZtVlRJUlNyNXFhSy1GTA?oc=5",
+      "publishedAt": "2026-09-06T07:00:00+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "Jensen Huang",
         "NVIDIA CEO",
         "Nvidia CEO"
       ],
+      "matchedEventKeywords": [
+        "arrived"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Nvidia CEO Jensen Huang Says AGI Has Arrived With OpenAI's GPT-6 Astra - Yahoo Finance Nvidia CEO Jensen Huang Says AGI Has Arrived With OpenAI's GPT-6 Astra Yahoo Finance",
+      "capturedAt": "2026-10-05T00:19:40.391610+00:00"
+    },
+    {
+      "id": "a48348f2b4eb",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳女兒閃婚了？李在鎔1句意外爆喜訊「驚人內幕曝光」 - 民視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EeTRKbmg5bXQ0XzE3NXBvRG9tWXEtUE94aGdTRzNBLUJDWDZqQUJ2VWZmamVwSUF5ZVlOZUxiemRJd0FudEQ4LXI4VHBBRFQ4NmFqbXFwOFBQNmtyMnZTYw?oc=5",
+      "publishedAt": "2026-10-04T08:18:16+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
       "matchedEventKeywords": [],
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "An Interview with NVIDIA CEO Jensen Huang About Accelerated Computing An Interview with NVIDIA CEO Jensen Huang About Accelerated Computing https://stratechery.com/2026/an-interview-with-nvidia-ceo-jensen-huang-about-acce",
-      "capturedAt": "2026-10-04T22:13:24.758979+00:00"
+      "summary": "黃仁勳女兒閃婚了？李在鎔1句意外爆喜訊「驚人內幕曝光」 - 民視新聞網 黃仁勳女兒閃婚了？李在鎔1句意外爆喜訊「驚人內幕曝光」 民視新聞網",
+      "capturedAt": "2026-10-05T00:19:40.391610+00:00"
     },
     {
-      "id": "ef422150c76e",
+      "id": "804bf1b62334",
       "status": "source-only",
-      "category": "官方公開提及",
-      "confidence": 72,
-      "sourceName": "NVIDIA Blog",
-      "sourceType": "官方",
-      "title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
-      "url": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
-      "publishedAt": null,
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳愛女傳婚訊！三星李在鎔致詞「說溜嘴」曝喜訊| 國際 - Newtalk新聞",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85Vk9SWl9DLURLSmUzMEhLaWw3NzdIZXpDU3NGQUVjLW9BTGduSUY0RTVocjVySzNRa3dZYkV5UFJwal9EUlp2VS1FU2NIdndDUnhOUk1TYmQ5Q1k?oc=5",
+      "publishedAt": "2026-10-04T03:22:44+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳愛女傳婚訊！三星李在鎔致詞「說溜嘴」曝喜訊| 國際 - Newtalk新聞 黃仁勳愛女傳婚訊！三星李在鎔致詞「說溜嘴」曝喜訊| 國際 Newtalk新聞",
+      "capturedAt": "2026-10-05T00:19:40.391610+00:00"
+    },
+    {
+      "id": "d2e794e99c62",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳嫁女兒了三星李在鎔曝喜訊：剛完婚| 產經 - 非凡新聞台",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WekExdHlUV0NZZ0wtYllDb2UzYWl6Z0JrT00tTzVBQmRndTVLcDBWQVR5ZnhqVzdJM3B6WURTMGZUWWxody03Nm5IX1EwTGxzY2FJTnVMOXhkSFU?oc=5",
+      "publishedAt": "2026-10-04T02:29:03+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳嫁女兒了三星李在鎔曝喜訊：剛完婚| 產經 - 非凡新聞台 黃仁勳嫁女兒了三星李在鎔曝喜訊：剛完婚| 產經 非凡新聞台",
+      "capturedAt": "2026-10-05T00:19:40.391610+00:00"
+    },
+    {
+      "id": "09c293d7ec50",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳嫁女兒了！李在鎔致詞意外說溜嘴 還揭1巧合 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RTkNlRWQ0NVBpQ0ZhMHQxcjVqaVVVQ0ktWEdJNllCLURYM1RUSmlNRm82SnZRTHplS2lWRFYzUk9MeEVWTkdjNk1aUWZHWFIt0gFWQVVfeXFMTTZFdXVhbHBTQ2hSTGFueklQWnBqRVdXN1VHRnJfaFNZZ1lXUktGa3FidS1mLVpkSVBUQURtdFhDdGVSbk83cHBHV1hRbFV6SWF6RjVmeHc?oc=5",
+      "publishedAt": "2026-10-04T01:22:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳嫁女兒了！李在鎔致詞意外說溜嘴 還揭1巧合 - UDN 黃仁勳嫁女兒了！李在鎔致詞意外說溜嘴 還揭1巧合 UDN",
+      "capturedAt": "2026-10-05T00:19:40.391610+00:00"
+    },
+    {
+      "id": "412fde440c71",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳愛女嫁了？ 三星會長意外洩黃敏珊完婚- 國際 - 華視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41NlA1QkR4Qmd2dzVUS0wwM2l4MVpiaEFSRnM2Z2ctMFUyVVRhbFFpTktwOGVFbVNsTEpvYmZXcVhUWXk1V2xxYjNtQkhURVJISnNvOTNQajFvcUZYVi14ZkozT3JyZXVPZTR0a2JSZ0s3ZDc0aGRLUA?oc=5",
+      "publishedAt": "2026-10-04T00:25:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳愛女嫁了？ 三星會長意外洩黃敏珊完婚- 國際 - 華視新聞網 黃仁勳愛女嫁了？ 三星會長意外洩黃敏珊完婚- 國際 華視新聞網",
+      "capturedAt": "2026-10-05T00:19:40.391610+00:00"
+    },
+    {
+      "id": "111249378cb4",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Jensen Huang says AI isn't alive, contain it - StartupHub.ai",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdHVxeHVnSl80RnBmMFljWmhHVm0xVVJoR280YmwyZXUyOFJNRDhnSkJYem9tUzRRSjhDOEsyUFE1OWJIb3UxWTJFX1BiV2h1WUlaNkdrZk1pekxWTnZHTTdQUHJtWDBfOVZOQU9KV3lwc1FhMnNENjFNazZfNE5NS1FtWUNTLXF5UkcyX0hWSWNxZXNUTU5oLXZ1M25lQXpfNWU2S2ZCVmUxdw?oc=5",
+      "publishedAt": "2026-10-03T16:35:24+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "Jensen Huang"
@@ -90,57 +343,200 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce ‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
-      "capturedAt": "2026-10-04T22:13:24.758979+00:00"
+      "summary": "Jensen Huang says AI isn't alive, contain it - StartupHub.ai Jensen Huang says AI isn't alive, contain it StartupHub.ai",
+      "capturedAt": "2026-10-05T00:19:40.391610+00:00"
     },
     {
-      "id": "16341400b63f",
+      "id": "7f6eb04b6758",
       "status": "source-only",
-      "category": "官方公開提及",
-      "confidence": 72,
-      "sourceName": "NVIDIA Blog",
-      "sourceType": "官方",
-      "title": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs",
-      "url": "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/",
-      "publishedAt": null,
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳女兒嫁了！黃敏珊傳完婚 三星會長李在鎔致詞意外洩喜訊 - finance.ettoday.net",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DRUhqc0lvY1YxVmN6a184SUpRVlZkdHhZczRNSXc2U21pOVNaTDBDRnBXRHQwdkx2S1daejZBWmtDbUdobmV4ZGR3VlA4Z2U0WFHSAVBBVV95cUxPOHJpQUpRa2lCZG85V2x6T1lNdnMzOU9JZFk5dDB6VDZHVnNUOUZBcUZvRWJIbHh1U3p0X1dqRzRaTGtZWTlseS1rVjVnMVM3bA?oc=5",
+      "publishedAt": "2026-10-03T15:17:00+00:00",
       "detectedDates": [],
       "matchedKeywords": [
-        "NVIDIA CEO",
-        "Nvidia CEO"
+        "黃仁勳"
       ],
       "matchedEventKeywords": [],
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/",
-      "capturedAt": "2026-10-04T22:13:24.758979+00:00"
+      "summary": "黃仁勳女兒嫁了！黃敏珊傳完婚 三星會長李在鎔致詞意外洩喜訊 - finance.ettoday.net 黃仁勳女兒嫁了！黃敏珊傳完婚 三星會長李在鎔致詞意外洩喜訊 finance.ettoday.net",
+      "capturedAt": "2026-10-05T00:19:40.391610+00:00"
+    },
+    {
+      "id": "5f29f1e21b3c",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳紐約領獎三星電子李在鎔曝輝達千金嫁人喜訊- 國際 - 中時新聞網",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nMks0ZE9ob3NOUFBKaVByTnZGX1pYZDNtWXgxQlpwU194N3Y0STBSWnNTRF8tRFZYMHNmVjVQc1pDTktnQUo2ZGxCRjZTSkpENHNLR25zTkxNMEtfdGxSNGlNazNTMGVXclF0dFFB?oc=5",
+      "publishedAt": "2026-10-03T14:51:29+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳紐約領獎三星電子李在鎔曝輝達千金嫁人喜訊- 國際 - 中時新聞網 黃仁勳紐約領獎三星電子李在鎔曝輝達千金嫁人喜訊- 國際 中時新聞網",
+      "capturedAt": "2026-10-05T00:19:40.391610+00:00"
+    },
+    {
+      "id": "951295061021",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳嫁愛女？輝達千金黃敏珊傳已完婚 三星李在鎔親曝喜訊 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNbUQ3bnB5VE80b1lUMExNenEydjJ3Z3lDOEo0QWlMV09LbmF5WHpONXM5d0JzRlNXdjhMVWZ4V1dvdmpCU29ON29oRmd0Z3FoNlBVV3BEbHJZX0xHYlVwWDREVEREcHFRLVVNMHd1M3p2ZjY3bS1nQ2ZFX3NLdjFaRTlCRkRWR0Y5TGUtVUF3N3NWXzUtWEgteTZhYnhLQzNBblNEZjhaWkg5empmbi1uWWUwcjhpSDMyQnk0d2RWX3dQVDVFTHVsTjRrVVFrS1ZFbXM0T2YzWjllSU11aFBmZDZSLVR4eFpqb0NvcDFwQ3BERGdDWklEV2Y2NW9KVmtjN2xfdXdwcEZnM1lYZ0lDS043VF9VZmQwdHhxb0s4elhFWXZfTWxmTVBLSUFTZm1JVzRTYk9aTEVIWEVOcGhMTGw5UG1ldFpRSGdBRHNsdkwtdi1kcDR4MW0wUUJXNUhVa1VCbms3YWtpWk9ndGRWRkZKS05RbTFMaFNHekZEMXFCU2x1eVJHYlkzdmdOZw?oc=5",
+      "publishedAt": "2026-10-03T12:18:10+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳嫁愛女？輝達千金黃敏珊傳已完婚 三星李在鎔親曝喜訊 - Yahoo新聞 黃仁勳嫁愛女？輝達千金黃敏珊傳已完婚 三星李在鎔親曝喜訊 Yahoo新聞",
+      "capturedAt": "2026-10-05T00:19:40.391610+00:00"
+    },
+    {
+      "id": "9a53cbc39143",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳愛女黃敏珊驚傳新婚 三星會長李在鎔紐約晚宴親揭：2天前才嫁人 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOUTdQUmdoTV9raHFlZklsR0xtZXIwd0QwZ1dGNjV1bUtydmtWbENJYmlEY2ZRWHBNbTAxb25lUmtZMXliNUloOWNhclZfY0l5TTdWQ1ZaamhhT3paSjE4WWxwbHY1aHBHbnpTaExpZEtkU2ZLbDNVdXdMYkJXU0R6RVczMmJLM3VGN0w2NTRPQnJQMlpJbExES0hBbnlCbUN5R0NPSkZ3blJkZDFLNVdWYy1pTFo1TTJhZm5mQ19paUhnTk8tVV82WVJYNTY4d2ROdHVxWl9IM3BZbW9tcklabUFqUVBmR2UzY3gtR3NDUFNHLUcwMllyRWRUYklDZlFuRHB3RnhDZlJDaE5ONE9sY1JIOWFnX0JfaDN2UUR4M2o1YUJSaUI4Qi1Wb3pqcVpyZXJJQ1RZSUxlVktuUEpGOGJLQ2VYWjhZSUhDR0tyMXhNQnhOQU5sNlVrMjBtNVRnTXZPYjdId2hLZjduNnFFWVY4ZHVjaGhiU2d5MDY3ZHUwbEhjdmR5aEx0NjBKLVlHOTZSbmhSTVYwNi1hRzhlanJvaXhlNUhud2ZvdWxBNXdZLUZGSnVJSXI1NlNyZEk?oc=5",
+      "publishedAt": "2026-10-03T10:53:53+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳愛女黃敏珊驚傳新婚 三星會長李在鎔紐約晚宴親揭：2天前才嫁人 - Yahoo新聞 黃仁勳愛女黃敏珊驚傳新婚 三星會長李在鎔紐約晚宴親揭：2天前才嫁人 Yahoo新聞",
+      "capturedAt": "2026-10-05T00:19:40.391610+00:00"
+    },
+    {
+      "id": "a014d7d50d0e",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳愛女黃敏珊驚傳新婚 三星會長李在鎔紐約晚宴親揭：2天前才嫁人 | 財經 | CTWANT - CTWANT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vNmNNNW1VMGJSLXdYUlFpZi1iYVJwV3RIS0pFeUg0d2ZYbTVtTV9ZZlVodHBDNHFramtwajljR3V6REFsNE43Yi1vR0ZTWDTSAVRBVV95cUxPNTBNVm5TZ2YzbV8xZS01ZjZpNmFKZkxYLUtxbkFhZFlGZmtiRG5Mck1nek9KNU9aV2Y3bC0zNTVrRG1ZNjFMeHRqT2FMbWl2MU5waGY?oc=5",
+      "publishedAt": "2026-10-03T10:53:53+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳愛女黃敏珊驚傳新婚 三星會長李在鎔紐約晚宴親揭：2天前才嫁人 | 財經 | CTWANT - CTWANT 黃仁勳愛女黃敏珊驚傳新婚 三星會長李在鎔紐約晚宴親揭：2天前才嫁人 | 財經 | CTWANT CTWANT",
+      "capturedAt": "2026-10-05T00:19:40.391610+00:00"
+    },
+    {
+      "id": "77f15fa16926",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "傳黃仁勳女兒已出嫁 三星會長李在鎔曝：不久前剛完婚 - 三立新聞網SETN.com",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1xd2Y0Unh4ZFV4MFFTVEs5V3pyOFJJTXZwdy1Hd3dNeVQwTjNDdmthTENybWtVZzI2S0t4ZExCaUduNFBrN0N6Y3VWVQ?oc=5",
+      "publishedAt": "2026-10-03T09:58:52+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "傳黃仁勳女兒已出嫁 三星會長李在鎔曝：不久前剛完婚 - 三立新聞網SETN.com 傳黃仁勳女兒已出嫁 三星會長李在鎔曝：不久前剛完婚 三立新聞網SETN.com",
+      "capturedAt": "2026-10-05T00:19:40.391610+00:00"
+    },
+    {
+      "id": "888712d83c44",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "傳黃仁勳女兒已出嫁 三星會長李在鎔曝：不久前剛完婚 - 三立新聞網SETN.com",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1rSmE0bmtnYjB4UEFmc24xME1yYV9IaXBvdjNBVV82bkhVSGt4UkZxQ0lqZXhKTDNpZklnYmg2QW1XS0hjOFRhRNIBTEFVX3lxTE4wVHl4enZXUFJqMXozWVU2S3laOG9YRnpnM2pBQUw4S0daZU1kdWJ2bmVGWnNJREZnZVByOFRKMnRZVU9hSmI5bExPRy0?oc=5",
+      "publishedAt": "2026-10-03T09:55:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "傳黃仁勳女兒已出嫁 三星會長李在鎔曝：不久前剛完婚 - 三立新聞網SETN.com 傳黃仁勳女兒已出嫁 三星會長李在鎔曝：不久前剛完婚 三立新聞網SETN.com",
+      "capturedAt": "2026-10-05T00:19:40.391610+00:00"
+    },
+    {
+      "id": "ab3cfc5f67f9",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳嫁女兒了？三星李在鎔意外洩喜訊 傳黃敏珊已完婚 - 自由財經",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vcDRsNHI0b3FDblJrY25IQjdlTEJaZzF2cFBxWkRTR0FrQldScnFiRGtoYnhQRlJPTTBZZ3FuaUtZRHBiai13OEFPaGpIbGt6YjNtdVR1NU5VVjY0R1hJ0gFkQVVfeXFMTlBmZmVVTENzVjQyU3drc3AwSlFMT1lxbXVnNWpuRkJoLU1KRlM2X0Racm5OamZfNEs2Qk9xSTVyRE9oWjNqWF95RHRpTzZmcWMyTTVrMUNFSEpwVmZmYy0tZ1ZISw?oc=5",
+      "publishedAt": "2026-10-03T08:29:44+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳嫁女兒了？三星李在鎔意外洩喜訊 傳黃敏珊已完婚 - 自由財經 黃仁勳嫁女兒了？三星李在鎔意外洩喜訊 傳黃敏珊已完婚 自由財經",
+      "capturedAt": "2026-10-05T00:19:40.391610+00:00"
+    },
+    {
+      "id": "b9fb59622887",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "輝達、三星、SK集團掌門人齊聚紐約 李在鎔自曝和黃仁勳有3個共通點「1句話」逗笑全場 - 財訊",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Nc0pnSFA2eGxNTWhPSXJScVlNWXFSeEFRSmJyME1lR1I1cHMtOXBvZERvdkRBWmx0U09BTWZWLVFTNDJCaTVQNzNwLVFDb3FpX2dZWlVRd3dSaGVkdWRSYXF1SDF3TVhmeWZRLTg2SFdxck1kMUE1WDVWQQ?oc=5",
+      "publishedAt": "2026-10-02T04:18:44+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "輝達、三星、SK集團掌門人齊聚紐約 李在鎔自曝和黃仁勳有3個共通點「1句話」逗笑全場 - 財訊 輝達、三星、SK集團掌門人齊聚紐約 李在鎔自曝和黃仁勳有3個共通點「1句話」逗笑全場 財訊",
+      "capturedAt": "2026-10-05T00:19:40.391610+00:00"
     }
   ],
   "errors": [
-    {
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "url": "https://news.google.com/rss/search?q=%E9%BB%83%E4%BB%81%E5%8B%B3%20when%3A30d&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
-      "error": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "url": "https://news.google.com/rss/search?q=%22Jensen%20Huang%22%20NVIDIA%20when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
-      "error": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "url": "https://news.google.com/rss/search?q=%22Jensen%20Huang%22%20%28Korea%20OR%20Seoul%20OR%20Samsung%20OR%20Hyundai%20OR%20LG%20OR%20%22SK%20Hynix%22%29%20when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
-      "error": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "url": "https://news.google.com/rss/search?q=%E9%BB%83%E4%BB%81%E5%8B%B3%20%28%E9%9F%93%E5%9C%8B%20OR%20%E5%8D%97%E9%9F%93%20OR%20%E9%A6%96%E7%88%BE%20OR%20%E4%B8%89%E6%98%9F%20OR%20%E7%8F%BE%E4%BB%A3%20OR%20LG%20OR%20%E6%B5%B7%E5%8A%9B%E5%A3%AB%29%20when%3A30d&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
-      "error": "HTTP Error 503: Service Unavailable"
-    },
     {
       "sourceName": "COMPUTEX",
       "sourceType": "主辦方",
