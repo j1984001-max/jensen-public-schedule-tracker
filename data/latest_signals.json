@@ -1,9 +1,34 @@
 {
-  "generatedAt": "2026-10-08T15:17:46.587816+00:00",
+  "generatedAt": "2026-10-08T23:40:05.319486+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
-  "publishedToTimeline": 7,
+  "publishedToTimeline": 8,
   "signals": [
+    {
+      "id": "9db4ef3da845",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Nvidia CEO Jensen Huang says if you want to be successful, be prepared to suffer - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbHJPRFVJMzN2Y190RFF5S1AyTmk5aHAtSVdiQ2k4N0czekpDN25MMzhaa3l3TnBFTFU2TnhFTVI5SEl2TEplS3d5VDJyanc0bTRxaXA5cEFNeW5IVnNGZ1JFVkx3MlB0Zy12aWtQTExfTHZpRXNIcS13M0hGaUN4cnRMNXpMT1hWZWdXeG4wV09NOEhsdXduRk02YVJ6SHhmdTZpVjRBYnllVTdYRjFLRmxvODh2Znc5V013OGlOVmFsQQ?oc=5",
+      "publishedAt": "2026-10-08T14:47:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang",
+        "NVIDIA CEO",
+        "Nvidia CEO"
+      ],
+      "matchedEventKeywords": [
+        "CES"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Nvidia CEO Jensen Huang says if you want to be successful, be prepared to suffer - Fortune Nvidia CEO Jensen Huang says if you want to be successful, be prepared to suffer Fortune",
+      "capturedAt": "2026-10-08T23:40:05.319499+00:00"
+    },
     {
       "id": "8e06331513be",
       "status": "low-confidence",
@@ -25,7 +50,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "AI女王快閃2》蘇姿丰全面開戰黃仁勳 唯一公開行程揭AMD下一步 - 民報 AI女王快閃2》蘇姿丰全面開戰黃仁勳 唯一公開行程揭AMD下一步 民報",
-      "capturedAt": "2026-10-08T15:17:46.587829+00:00"
+      "capturedAt": "2026-10-08T23:40:05.319499+00:00"
     },
     {
       "id": "5835a6f049a1",
@@ -48,7 +73,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳女兒結婚了！李在鎔意外曝喜訊 - Yahoo新聞 黃仁勳女兒結婚了！李在鎔意外曝喜訊 Yahoo新聞",
-      "capturedAt": "2026-10-08T15:17:46.587829+00:00"
+      "capturedAt": "2026-10-08T23:40:05.319499+00:00"
     },
     {
       "id": "0b450dcc713c",
@@ -71,7 +96,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳將出席站台！微軟下周舉辦Surface發表會 聚焦在地AI重塑下一代PC - Yahoo股市 黃仁勳將出席站台！微軟下周舉辦Surface發表會 聚焦在地AI重塑下一代PC Yahoo股市",
-      "capturedAt": "2026-10-08T15:17:46.587829+00:00"
+      "capturedAt": "2026-10-08T23:40:05.319499+00:00"
     },
     {
       "id": "20e5dae94e78",
@@ -94,7 +119,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang wins Van Fleet Award as Korea-US tech ties deepen - CHOSUNBIZ - Chosunbiz Jensen Huang wins Van Fleet Award as Korea-US tech ties deepen - CHOSUNBIZ Chosunbiz",
-      "capturedAt": "2026-10-08T15:17:46.587829+00:00"
+      "capturedAt": "2026-10-08T23:40:05.319499+00:00"
     },
     {
       "id": "c2a6ce43eea6",
@@ -118,7 +143,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Holds Private Meetings with Samsung and SK Leaders in New York; 8th-Generation HBM and AI Factories Take Center Stage - BigGo Finance Jensen Huang Holds Private Meetings with Sams",
-      "capturedAt": "2026-10-08T15:17:46.587829+00:00"
+      "capturedAt": "2026-10-08T23:40:05.319499+00:00"
     },
     {
       "id": "fa82b2bbe3fe",
@@ -142,7 +167,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Trump calls Nvidia CEO to talk AI — and gets put on speakerphone during industry summit - NBC News Trump calls Nvidia CEO to talk AI — and gets put on speakerphone during industry summit NBC News",
-      "capturedAt": "2026-10-08T15:17:46.587829+00:00"
+      "capturedAt": "2026-10-08T23:40:05.319499+00:00"
     },
     {
       "id": "57ff92a73db9",
@@ -165,7 +190,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Spotted Using Galaxy Z Fold 8 in Public — Was It Another Gift from Lee Jae-yong? - BigGo Finance Jensen Huang Spotted Using Galaxy Z Fold 8 in Public — Was It Another Gift from Le",
-      "capturedAt": "2026-10-08T15:17:46.587829+00:00"
+      "capturedAt": "2026-10-08T23:40:05.319499+00:00"
     },
     {
       "id": "5e99e076d897",
@@ -186,7 +211,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Says Humanoid Robots Are 'Very Very Close' To Industrial Reality As Nvidia, Hyundai Deepen Alliance - Stocktwits Jensen Huang Says Humanoid Robots Are 'Very Very Close' To Industr",
-      "capturedAt": "2026-10-08T15:17:46.587829+00:00"
+      "capturedAt": "2026-10-08T23:40:05.319499+00:00"
     },
     {
       "id": "c1ff1f90b473",
@@ -207,7 +232,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "AI惡搞黃仁勳「世界巡演」！ 馬斯克神補刀網友全笑翻- 財經 - 中時新聞網 AI惡搞黃仁勳「世界巡演」！ 馬斯克神補刀網友全笑翻- 財經 中時新聞網",
-      "capturedAt": "2026-10-08T15:17:46.587829+00:00"
+      "capturedAt": "2026-10-08T23:40:05.319499+00:00"
     },
     {
       "id": "2e18c13da13e",
@@ -228,7 +253,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳女婿何許人也？不到2年直升輝達權力核心業界：善抓問題本質| 全球財經| 全球 - UDN 黃仁勳女婿何許人也？不到2年直升輝達權力核心業界：善抓問題本質| 全球財經| 全球 UDN",
-      "capturedAt": "2026-10-08T15:17:46.587829+00:00"
+      "capturedAt": "2026-10-08T23:40:05.319499+00:00"
     },
     {
       "id": "a7fb36d9a18c",
@@ -249,7 +274,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳AI影片瘋傳 馬斯克笑翻：這就是記憶體那麼貴的原因 - 自由財經 黃仁勳AI影片瘋傳 馬斯克笑翻：這就是記憶體那麼貴的原因 自由財經",
-      "capturedAt": "2026-10-08T15:17:46.587829+00:00"
+      "capturedAt": "2026-10-08T23:40:05.319499+00:00"
     },
     {
       "id": "a4e3325699f3",
@@ -270,7 +295,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳女婿從滑雪選手到御用「軍師」！不到2年升輝達副總裁 外媒揭超狂背景 - 自由財經 黃仁勳女婿從滑雪選手到御用「軍師」！不到2年升輝達副總裁 外媒揭超狂背景 自由財經",
-      "capturedAt": "2026-10-08T15:17:46.587829+00:00"
+      "capturedAt": "2026-10-08T23:40:05.319499+00:00"
     },
     {
       "id": "4f7d82bdb132",
@@ -291,7 +316,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "美國移民富豪榜出爐！台灣11人上榜 黃仁勳排全球第3奪台灣之首 - Yahoo股市 美國移民富豪榜出爐！台灣11人上榜 黃仁勳排全球第3奪台灣之首 Yahoo股市",
-      "capturedAt": "2026-10-08T15:17:46.587829+00:00"
+      "capturedAt": "2026-10-08T23:40:05.319499+00:00"
     },
     {
       "id": "57e4cc9cfeb1",
@@ -312,7 +337,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳只排第三！「美國移民富豪」榜首曝 台灣11人上榜 - ETtoday財經雲 黃仁勳只排第三！「美國移民富豪」榜首曝 台灣11人上榜 ETtoday財經雲",
-      "capturedAt": "2026-10-08T15:17:46.587829+00:00"
+      "capturedAt": "2026-10-08T23:40:05.319499+00:00"
     },
     {
       "id": "483e4b15a7ae",
@@ -333,7 +358,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "AI女王快閃3》輝達、超微來台專機撞牌 黃仁勳搭7500、蘇姿丰坐6000 - Yahoo新聞 AI女王快閃3》輝達、超微來台專機撞牌 黃仁勳搭7500、蘇姿丰坐6000 Yahoo新聞",
-      "capturedAt": "2026-10-08T15:17:46.587829+00:00"
+      "capturedAt": "2026-10-08T23:40:05.319499+00:00"
     },
     {
       "id": "3643acd38b95",
@@ -354,7 +379,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳三度訪台後蘇姿丰也來了！超微拿下OpenAI大單台灣供應鏈一字排開- 日報 - 工商時報 黃仁勳三度訪台後蘇姿丰也來了！超微拿下OpenAI大單台灣供應鏈一字排開- 日報 工商時報",
-      "capturedAt": "2026-10-08T15:17:46.587829+00:00"
+      "capturedAt": "2026-10-08T23:40:05.319499+00:00"
     },
     {
       "id": "ccaa1c491c4d",
@@ -375,7 +400,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳自爆「親過男人」！對象竟是三星員工 全場笑翻 - Yahoo新聞 黃仁勳自爆「親過男人」！對象竟是三星員工 全場笑翻 Yahoo新聞",
-      "capturedAt": "2026-10-08T15:17:46.587829+00:00"
+      "capturedAt": "2026-10-08T23:40:05.319499+00:00"
     },
     {
       "id": "01efa055de41",
@@ -396,7 +421,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳突自爆「親過Jay」！對方身分曝光 - 東森新聞 黃仁勳突自爆「親過Jay」！對方身分曝光 東森新聞",
-      "capturedAt": "2026-10-08T15:17:46.587829+00:00"
+      "capturedAt": "2026-10-08T23:40:05.319499+00:00"
     },
     {
       "id": "62b203afb2d7",
@@ -421,7 +446,7 @@
       ],
       "publicContextFlags": [],
       "summary": "【美股盤前】黃仁勳拋出「3年後驚人預測」！外媒直呼：趁現在買輝達 - Yahoo新聞 【美股盤前】黃仁勳拋出「3年後驚人預測」！外媒直呼：趁現在買輝達 Yahoo新聞",
-      "capturedAt": "2026-10-08T15:17:46.587829+00:00"
+      "capturedAt": "2026-10-08T23:40:05.319499+00:00"
     },
     {
       "id": "22a9e5006ac1",
@@ -442,7 +467,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "大爆料！ 黃仁勳自曝唯一「男人親嘴」經驗自稱直男笑揭對象身分- 財經 - 中時新聞網 大爆料！ 黃仁勳自曝唯一「男人親嘴」經驗自稱直男笑揭對象身分- 財經 中時新聞網",
-      "capturedAt": "2026-10-08T15:17:46.587829+00:00"
+      "capturedAt": "2026-10-08T23:40:05.319499+00:00"
     },
     {
       "id": "0820d2733a2f",
@@ -463,7 +488,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "「我只在韓國被男人親過」！黃仁勳語出驚人 自曝對方來自三星 - NOWnews今日新聞 「我只在韓國被男人親過」！黃仁勳語出驚人 自曝對方來自三星 NOWnews今日新聞",
-      "capturedAt": "2026-10-08T15:17:46.587829+00:00"
+      "capturedAt": "2026-10-08T23:40:05.319499+00:00"
     },
     {
       "id": "d8d909f19965",
@@ -484,7 +509,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "影/黃仁勳自曝曾和男生「玩親親」！對方身分曝光是三星員工 - 中天新聞網 影/黃仁勳自曝曾和男生「玩親親」！對方身分曝光是三星員工 中天新聞網",
-      "capturedAt": "2026-10-08T15:17:46.587829+00:00"
+      "capturedAt": "2026-10-08T23:40:05.319499+00:00"
     },
     {
       "id": "51e869ad33ff",
@@ -505,28 +530,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳受訪突自爆！認曾「嘴對嘴親吻」三星男員工 始作俑者曝 - TVBS新聞網 黃仁勳受訪突自爆！認曾「嘴對嘴親吻」三星男員工 始作俑者曝 TVBS新聞網",
-      "capturedAt": "2026-10-08T15:17:46.587829+00:00"
-    },
-    {
-      "id": "f5d701cec043",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳自爆曾「與男人親嘴」！罪魁禍首曝光 - 三立新聞",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16bGszOTM3ZVJFSU1KbGlaVVVfUkdrUW1nei1zY0E0UU9pV1ZzVGpieHVIRU1BSE1oakJ3akpZWXZtem9TZnlyUHBNYw?oc=5",
-      "publishedAt": "2026-10-05T07:17:23+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳自爆曾「與男人親嘴」！罪魁禍首曝光 - 三立新聞 黃仁勳自爆曾「與男人親嘴」！罪魁禍首曝光 三立新聞",
-      "capturedAt": "2026-10-08T15:17:46.587829+00:00"
+      "capturedAt": "2026-10-08T23:40:05.319499+00:00"
     }
   ],
   "errors": [
