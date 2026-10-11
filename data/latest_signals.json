@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T07:57:09.567991+00:00",
+  "generatedAt": "2026-10-11T14:43:22.111783+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
   "publishedToTimeline": 8,
@@ -27,7 +27,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang says if you want to be successful, be prepared to suffer - Fortune Nvidia CEO Jensen Huang says if you want to be successful, be prepared to suffer Fortune",
-      "capturedAt": "2026-10-11T07:57:09.568014+00:00"
+      "capturedAt": "2026-10-11T14:43:22.111796+00:00"
     },
     {
       "id": "5835a6f049a1",
@@ -38,7 +38,7 @@
       "sourceType": "新聞彙整",
       "title": "黃仁勳女兒結婚了！李在鎔意外曝喜訊 - Yahoo新聞",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOOXlrVWhBZmNod1hSYWhJQ25jMFJWQWh0Unl1Vmp1SWYwQ2Y3LUluaFB2d0NtdndodDFFTTIwZE5fQ0ZNWGstMVgtcHdlMlVKWE5XLVVaZjlaZVRfM3dJanBqc1hpOGlKcGoyXzBhRnpEdHJFZE9sT0lOS0RpTTQ0SWdlalU3MFFJZllOT1RUUnRaeTFWNXNIX2RpQV9UeWhtSUpldUJyV2dqRzdITk96Mlk3OGVDcVR5MGJERzFnNDljVmFaNEw2RWVsRXRHRzFWb3ZrbmdWVU83WmFVM0pmaHhsQkktc0dPUlZ4d3g0VzdJdUVSd2pzQXVNcy1saWxzRXQ4dGNqUkhPajY5aF96aU9PZkM?oc=5",
-      "publishedAt": "2026-10-04T00:30:57+00:00",
+      "publishedAt": "2026-10-03T07:00:00+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -50,7 +50,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳女兒結婚了！李在鎔意外曝喜訊 - Yahoo新聞 黃仁勳女兒結婚了！李在鎔意外曝喜訊 Yahoo新聞",
-      "capturedAt": "2026-10-11T07:57:09.568014+00:00"
+      "capturedAt": "2026-10-11T14:43:22.111796+00:00"
     },
     {
       "id": "0b450dcc713c",
@@ -73,7 +73,30 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳將出席站台！微軟下周舉辦Surface發表會 聚焦在地AI重塑下一代PC - Yahoo股市 黃仁勳將出席站台！微軟下周舉辦Surface發表會 聚焦在地AI重塑下一代PC Yahoo股市",
-      "capturedAt": "2026-10-11T07:57:09.568014+00:00"
+      "capturedAt": "2026-10-11T14:43:22.111796+00:00"
+    },
+    {
+      "id": "20e5dae94e78",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Jensen Huang wins Van Fleet Award as Korea-US tech ties deepen - CHOSUNBIZ - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9odWxpOWoxeGNuZ2VuRlFUOGxaZDlZdG40XzhJNlFOVERDOFpFdVZpUVRScUFFZ083NS1JTEN3SElkbFVuNE1YdkdkbWpkVGFVUkpQTC1XU3dhb0FsbVJISW1DZHBocXJSOEttN2phZkdVVWZPZ3JQSlVn0gGOAUFVX3lxTFByYU5hVHBKUE5qd3RqSDRTTDMwUDR2NFJrN1hIeV9BRWpaT2xkMVBJZEJreEtlTkpHS2dHTlQ3Q0dTQ3dKaFc0akU5b2l3QXVaTHp4MTFKcEsyd3l5R0ZwTGZSLWZqcDkyRC0zZzRHbDZFbWlqYTkybXZzYUZSSmVnZ2JzLTFEOE9ZMl9Yd2c?oc=5",
+      "publishedAt": "2026-09-29T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [
+        "CES"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Jensen Huang wins Van Fleet Award as Korea-US tech ties deepen - CHOSUNBIZ - Chosunbiz Jensen Huang wins Van Fleet Award as Korea-US tech ties deepen - CHOSUNBIZ Chosunbiz",
+      "capturedAt": "2026-10-11T14:43:22.111796+00:00"
     },
     {
       "id": "c2a6ce43eea6",
@@ -97,7 +120,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Holds Private Meetings with Samsung and SK Leaders in New York; 8th-Generation HBM and AI Factories Take Center Stage - BigGo Finance Jensen Huang Holds Private Meetings with Sams",
-      "capturedAt": "2026-10-11T07:57:09.568014+00:00"
+      "capturedAt": "2026-10-11T14:43:22.111796+00:00"
     },
     {
       "id": "6bedca920f8a",
@@ -125,35 +148,7 @@
         "dinner"
       ],
       "summary": "Nvidia CEO to attend Trump dinner for Xi, source says - Reuters Nvidia CEO to attend Trump dinner for Xi, source says Reuters",
-      "capturedAt": "2026-10-11T07:57:09.568014+00:00"
-    },
-    {
-      "id": "035ca964007c",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 55,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CeVJxT3M5b0dfbDBxdzJBNTZtTGdyc2h1V2wtSG5VUkZQQVMxRExYRm51U2NWWmpFYmNfVnZDaVF5TkdjZjZib3c2b1FkcUNOZVBidXRYQnU5UGd2TXl1bjY1bTZjbVYtbzRUbUVuY0lFRE3SAXhBVV95cUxOWUdvSkVyRmFDOHkzZ3VKU0kyeVN5SmxuZkdqVE9mRjdocWhhZzA3Q0VwQkVGOUl2dVlIV3cyQl9ua2dGTDcxZTlfOWpadkZVeWxaRHBHSVM1S1hsM3ZXMlVIbDFRcWRRbmF2UlltNl9RTEpTMVFUWjI?oc=5",
-      "publishedAt": "2026-09-15T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "NVIDIA CEO",
-        "Nvidia CEO"
-      ],
-      "matchedEventKeywords": [
-        "attend"
-      ],
-      "privacyReviewFlags": [
-        "dinner"
-      ],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [
-        "dinner"
-      ],
-      "summary": "Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source - CNBC Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source CNBC",
-      "capturedAt": "2026-10-11T07:57:09.568014+00:00"
+      "capturedAt": "2026-10-11T14:43:22.111796+00:00"
     },
     {
       "id": "fa82b2bbe3fe",
@@ -177,7 +172,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Trump calls Nvidia CEO to talk AI — and gets put on speakerphone during industry summit - NBC News Trump calls Nvidia CEO to talk AI — and gets put on speakerphone during industry summit NBC News",
-      "capturedAt": "2026-10-11T07:57:09.568014+00:00"
+      "capturedAt": "2026-10-11T14:43:22.111796+00:00"
     },
     {
       "id": "57ff92a73db9",
@@ -200,7 +195,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Spotted Using Galaxy Z Fold 8 in Public — Was It Another Gift from Lee Jae-yong? - BigGo Finance Jensen Huang Spotted Using Galaxy Z Fold 8 in Public — Was It Another Gift from Le",
-      "capturedAt": "2026-10-11T07:57:09.568014+00:00"
+      "capturedAt": "2026-10-11T14:43:22.111796+00:00"
     },
     {
       "id": "2eda461a70c8",
@@ -221,7 +216,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳、蘇姿丰與馬斯克同獲殊榮，川普頒發美國國家科學獎章 - TechNews 科技新報 黃仁勳、蘇姿丰與馬斯克同獲殊榮，川普頒發美國國家科學獎章 TechNews 科技新報",
-      "capturedAt": "2026-10-11T07:57:09.568014+00:00"
+      "capturedAt": "2026-10-11T14:43:22.111796+00:00"
     },
     {
       "id": "2fd56018adfa",
@@ -242,7 +237,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang, Larry Ellison Lose Combined $15 Billion In A Day - Forbes Jensen Huang, Larry Ellison Lose Combined $15 Billion In A Day Forbes",
-      "capturedAt": "2026-10-11T07:57:09.568014+00:00"
+      "capturedAt": "2026-10-11T14:43:22.111796+00:00"
     },
     {
       "id": "db7c37b474d4",
@@ -263,7 +258,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang: 'Nvidia was founded because of Windows' - Yahoo Finance Jensen Huang: 'Nvidia was founded because of Windows' Yahoo Finance",
-      "capturedAt": "2026-10-11T07:57:09.568014+00:00"
+      "capturedAt": "2026-10-11T14:43:22.111796+00:00"
     },
     {
       "id": "cddbab7bd956",
@@ -284,7 +279,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳AI變身「麥可傑克森」狂跳月球漫步 馬斯克：難怪RAM這麼貴 - ETtoday財經雲 黃仁勳AI變身「麥可傑克森」狂跳月球漫步 馬斯克：難怪RAM這麼貴 ETtoday財經雲",
-      "capturedAt": "2026-10-11T07:57:09.568014+00:00"
+      "capturedAt": "2026-10-11T14:43:22.111796+00:00"
     },
     {
       "id": "1b1a4281ff44",
@@ -305,7 +300,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳女婿Nico Caprez是誰？35歲升輝達副總裁，黃家三人都負責關鍵業務 - 數位時代 黃仁勳女婿Nico Caprez是誰？35歲升輝達副總裁，黃家三人都負責關鍵業務 數位時代",
-      "capturedAt": "2026-10-11T07:57:09.568014+00:00"
+      "capturedAt": "2026-10-11T14:43:22.111796+00:00"
     },
     {
       "id": "02c798d8247d",
@@ -326,7 +321,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳萬人前「大跳月球漫步」影片瘋傳！科技大佬反應超真實 馬斯克7字回應笑翻網友 - Yahoo新聞 黃仁勳萬人前「大跳月球漫步」影片瘋傳！科技大佬反應超真實 馬斯克7字回應笑翻網友 Yahoo新聞",
-      "capturedAt": "2026-10-11T07:57:09.568014+00:00"
+      "capturedAt": "2026-10-11T14:43:22.111796+00:00"
     },
     {
       "id": "a8b3d1575414",
@@ -348,28 +343,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "NVIDIA CEO's Son-in-law Promoted Amid Nepotism Criticism - 조선일보 NVIDIA CEO's Son-in-law Promoted Amid Nepotism Criticism 조선일보",
-      "capturedAt": "2026-10-11T07:57:09.568014+00:00"
-    },
-    {
-      "id": "5e99e076d897",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Jensen Huang Says Humanoid Robots Are 'Very Very Close' To Industrial Reality As Nvidia, Hyundai Deepen Alliance - Stocktwits",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc3hUdXFYUERYaUpqZHVqejVRSGVpVWI1ZEdEVGVoOVV1TENyc21HNWotSkw3V1hEckE1czNxbHVmYzkycTBGZ2NMN1F5bDdPNHVVOHNJSVY0OWVfZTVYMDdfQkkzTjZHaDRlNnRjbHF4bGktbk90cDRDOXR4cURYel9NNzAwelZkMzRoS3FJS0g0cHRtRHVObVdiU09PZC1wbnV6NXZBTC1EWEx5TURsc0F4Qy1lQUxKUHB0Y1Q1QXJrRVJBWHVadmNsdkpwZw?oc=5",
-      "publishedAt": "2026-10-06T23:39:13+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Jensen Huang Says Humanoid Robots Are 'Very Very Close' To Industrial Reality As Nvidia, Hyundai Deepen Alliance - Stocktwits Jensen Huang Says Humanoid Robots Are 'Very Very Close' To Industr",
-      "capturedAt": "2026-10-11T07:57:09.568014+00:00"
+      "capturedAt": "2026-10-11T14:43:22.111796+00:00"
     },
     {
       "id": "c1ff1f90b473",
@@ -390,7 +364,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "AI惡搞黃仁勳「世界巡演」！ 馬斯克神補刀網友全笑翻- 財經 - 中時新聞網 AI惡搞黃仁勳「世界巡演」！ 馬斯克神補刀網友全笑翻- 財經 中時新聞網",
-      "capturedAt": "2026-10-11T07:57:09.568014+00:00"
+      "capturedAt": "2026-10-11T14:43:22.111796+00:00"
     },
     {
       "id": "2e18c13da13e",
@@ -411,7 +385,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳女婿何許人也？不到2年直升輝達權力核心業界：善抓問題本質| 全球財經| 全球 - UDN 黃仁勳女婿何許人也？不到2年直升輝達權力核心業界：善抓問題本質| 全球財經| 全球 UDN",
-      "capturedAt": "2026-10-11T07:57:09.568014+00:00"
+      "capturedAt": "2026-10-11T14:43:22.111796+00:00"
     },
     {
       "id": "a7fb36d9a18c",
@@ -432,7 +406,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳AI影片瘋傳 馬斯克笑翻：這就是記憶體那麼貴的原因 - 自由財經 黃仁勳AI影片瘋傳 馬斯克笑翻：這就是記憶體那麼貴的原因 自由財經",
-      "capturedAt": "2026-10-11T07:57:09.568014+00:00"
+      "capturedAt": "2026-10-11T14:43:22.111796+00:00"
     },
     {
       "id": "a4e3325699f3",
@@ -453,7 +427,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳女婿從滑雪選手到御用「軍師」！不到2年升輝達副總裁 外媒揭超狂背景 - 自由財經 黃仁勳女婿從滑雪選手到御用「軍師」！不到2年升輝達副總裁 外媒揭超狂背景 自由財經",
-      "capturedAt": "2026-10-11T07:57:09.568014+00:00"
+      "capturedAt": "2026-10-11T14:43:22.111796+00:00"
     },
     {
       "id": "4f7d82bdb132",
@@ -474,7 +448,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "美國移民富豪榜出爐！台灣11人上榜 黃仁勳排全球第3奪台灣之首 - Yahoo股市 美國移民富豪榜出爐！台灣11人上榜 黃仁勳排全球第3奪台灣之首 Yahoo股市",
-      "capturedAt": "2026-10-11T07:57:09.568014+00:00"
+      "capturedAt": "2026-10-11T14:43:22.111796+00:00"
     },
     {
       "id": "3ad286960284",
@@ -495,7 +469,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳再度駁斥 AI 末日論，推「全堆疊」安全平台防堵 AI 代理失控 - TechNews 科技新報 黃仁勳再度駁斥 AI 末日論，推「全堆疊」安全平台防堵 AI 代理失控 TechNews 科技新報",
-      "capturedAt": "2026-10-11T07:57:09.568014+00:00"
+      "capturedAt": "2026-10-11T14:43:22.111796+00:00"
     },
     {
       "id": "57e4cc9cfeb1",
@@ -516,18 +490,18 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳只排第三！「美國移民富豪」榜首曝 台灣11人上榜 - ETtoday財經雲 黃仁勳只排第三！「美國移民富豪」榜首曝 台灣11人上榜 ETtoday財經雲",
-      "capturedAt": "2026-10-11T07:57:09.568014+00:00"
+      "capturedAt": "2026-10-11T14:43:22.111796+00:00"
     },
     {
-      "id": "483e4b15a7ae",
+      "id": "3643acd38b95",
       "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
-      "title": "AI女王快閃3》輝達、超微來台專機撞牌 黃仁勳搭7500、蘇姿丰坐6000 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPRHVlckQxNlpwNmtxOEFSZkVpbm9CTGlfMUFPR1VmWkJ1akxtbTNwNUV5LTFCaWFFMktXNFByell6dHBDZE4tekQydS01cUdWVDBNSUFHTGpBOGtGaEhITXdJLUVZRkJueWRNUXM0MGx2Z1U5aHlRd3RBZXNZdktYeE9UX1VyME9JejFjcFBjRkJCTHp1MUxxV0g0YXpvcDFBV19YdG5mNXpaeXlZNFNfVlBvTXZoNmQzbHQ3N2JseGNxcm1mOUhhOGN0RzJxb3VQLU54OFc1b1V3Q3h6c1Bvc0Y1b3R6NW55N0xhR0JxbmxYZFFpMjR0REhEZzFzZkEyX3p1QjZLNVBPSmFXUk9YU1NMUGVHZUNUTjNUTzlheG81bk8zQldvRU1UX3NoY2l6NnpwSkl3NjR3V1pkZmRsWW53eUxaYTZIX2w2bXhGemh2bElEb3BtWWVQcThoUUttd2stdHkwelNhM056Wkdz?oc=5",
-      "publishedAt": "2026-10-05T22:02:00+00:00",
+      "title": "黃仁勳三度訪台後蘇姿丰也來了！超微拿下OpenAI大單台灣供應鏈一字排開- 日報 - 工商時報",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iZTJyaHBaajA3TWwyYWMxNWp6TVBwS0pDOVhjNlk3Tlo5akdPRkFvcjgwRFlfdkgya1lpX0p5clFjMTJoeEF4cjRCNVJwLVMtemNmNEpGc1AyNDQ4V1c4?oc=5",
+      "publishedAt": "2026-10-05T19:00:00+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -536,8 +510,29 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "AI女王快閃3》輝達、超微來台專機撞牌 黃仁勳搭7500、蘇姿丰坐6000 - Yahoo新聞 AI女王快閃3》輝達、超微來台專機撞牌 黃仁勳搭7500、蘇姿丰坐6000 Yahoo新聞",
-      "capturedAt": "2026-10-11T07:57:09.568014+00:00"
+      "summary": "黃仁勳三度訪台後蘇姿丰也來了！超微拿下OpenAI大單台灣供應鏈一字排開- 日報 - 工商時報 黃仁勳三度訪台後蘇姿丰也來了！超微拿下OpenAI大單台灣供應鏈一字排開- 日報 工商時報",
+      "capturedAt": "2026-10-11T14:43:22.111796+00:00"
+    },
+    {
+      "id": "ccaa1c491c4d",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳自爆「親過男人」！對象竟是三星員工 全場笑翻 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPVnB2NGw4UDlON3dwb3E4N2hESFVXRXlEV3ZSNG9wS2FpZy1VRWtxUUFpdHhtUmJ5d2tsZzAwMlZvVy01WGdXOU5rOWcxRFo3Qll4U0x1Z05wdHdOQTB2OGpVUk43RHV1ZTFOejF6WVIyQjlOOU8tZi1rTU12VS1Da3dxT2R3djlkYUpheUYta1VPX21DSkxUNV9BNzJ0Nm5OYXBNaHRLSlRYM2ZEMmx4T21Dc0U1aUpGZjVxZEVENHdCUVhOX0pvNl9OZFJUaXZnSm55dTM1OHRVdkJ1aVFXSUNmZ1czQWU2NjJscm4zOG9WQnM4X1MzaVFyZWdqN29wOU90ZEVVTVJ5T1lDOXo0ZnBCU1RtcTUyRUktNGEwaVltRERjOElsUV92aEpuVXMzYTVwbHRadnZ2MzlJQXZvUzAyT2VGeVdZT0d2Zm5ENXNpRkU?oc=5",
+      "publishedAt": "2026-10-05T14:38:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳自爆「親過男人」！對象竟是三星員工 全場笑翻 - Yahoo新聞 黃仁勳自爆「親過男人」！對象竟是三星員工 全場笑翻 Yahoo新聞",
+      "capturedAt": "2026-10-11T14:43:22.111796+00:00"
     }
   ],
   "errors": [
