@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-14T13:23:37.556936+00:00",
+  "generatedAt": "2026-10-14T22:05:58.247979+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
-  "publishedToTimeline": 9,
+  "publishedToTimeline": 10,
   "signals": [
     {
       "id": "9db4ef3da845",
@@ -27,7 +27,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang says if you want to be successful, be prepared to suffer - Fortune Nvidia CEO Jensen Huang says if you want to be successful, be prepared to suffer Fortune",
-      "capturedAt": "2026-10-14T13:23:37.556951+00:00"
+      "capturedAt": "2026-10-14T22:05:58.247994+00:00"
     },
     {
       "id": "8e06331513be",
@@ -50,7 +50,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "AI女王快閃2》蘇姿丰全面開戰黃仁勳 唯一公開行程揭AMD下一步 - 民報 AI女王快閃2》蘇姿丰全面開戰黃仁勳 唯一公開行程揭AMD下一步 民報",
-      "capturedAt": "2026-10-14T13:23:37.556951+00:00"
+      "capturedAt": "2026-10-14T22:05:58.247994+00:00"
     },
     {
       "id": "5835a6f049a1",
@@ -73,7 +73,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳女兒結婚了！李在鎔意外曝喜訊 - Yahoo新聞 黃仁勳女兒結婚了！李在鎔意外曝喜訊 Yahoo新聞",
-      "capturedAt": "2026-10-14T13:23:37.556951+00:00"
+      "capturedAt": "2026-10-14T22:05:58.247994+00:00"
     },
     {
       "id": "db5e383e085b",
@@ -96,7 +96,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia's Jensen Huang, Other CEOs Privately Confront Anthropic's Dario Amodei Over AI Doomsday Warnings Amid Trump's Tech Summit: Report - Yahoo Finance Nvidia's Jensen Huang, Other CEOs Privately Conf",
-      "capturedAt": "2026-10-14T13:23:37.556951+00:00"
+      "capturedAt": "2026-10-14T22:05:58.247994+00:00"
     },
     {
       "id": "0b450dcc713c",
@@ -119,7 +119,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳將出席站台！微軟下周舉辦Surface發表會 聚焦在地AI重塑下一代PC - Yahoo股市 黃仁勳將出席站台！微軟下周舉辦Surface發表會 聚焦在地AI重塑下一代PC Yahoo股市",
-      "capturedAt": "2026-10-14T13:23:37.556951+00:00"
+      "capturedAt": "2026-10-14T22:05:58.247994+00:00"
     },
     {
       "id": "fe517ac00d12",
@@ -144,7 +144,30 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang was everywhere in Q3. The AI giant's stock proves it. - Yahoo Finance Nvidia CEO Jensen Huang was everywhere in Q3. The AI giant's stock proves it. Yahoo Finance",
-      "capturedAt": "2026-10-14T13:23:37.556951+00:00"
+      "capturedAt": "2026-10-14T22:05:58.247994+00:00"
+    },
+    {
+      "id": "20e5dae94e78",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Jensen Huang wins Van Fleet Award as Korea-US tech ties deepen - CHOSUNBIZ - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9odWxpOWoxeGNuZ2VuRlFUOGxaZDlZdG40XzhJNlFOVERDOFpFdVZpUVRScUFFZ083NS1JTEN3SElkbFVuNE1YdkdkbWpkVGFVUkpQTC1XU3dhb0FsbVJISW1DZHBocXJSOEttN2phZkdVVWZPZ3JQSlVn0gGOAUFVX3lxTFByYU5hVHBKUE5qd3RqSDRTTDMwUDR2NFJrN1hIeV9BRWpaT2xkMVBJZEJreEtlTkpHS2dHTlQ3Q0dTQ3dKaFc0akU5b2l3QXVaTHp4MTFKcEsyd3l5R0ZwTGZSLWZqcDkyRC0zZzRHbDZFbWlqYTkybXZzYUZSSmVnZ2JzLTFEOE9ZMl9Yd2c?oc=5",
+      "publishedAt": "2026-09-29T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [
+        "CES"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Jensen Huang wins Van Fleet Award as Korea-US tech ties deepen - CHOSUNBIZ - Chosunbiz Jensen Huang wins Van Fleet Award as Korea-US tech ties deepen - CHOSUNBIZ Chosunbiz",
+      "capturedAt": "2026-10-14T22:05:58.247994+00:00"
     },
     {
       "id": "c2a6ce43eea6",
@@ -168,7 +191,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Holds Private Meetings with Samsung and SK Leaders in New York; 8th-Generation HBM and AI Factories Take Center Stage - BigGo Finance Jensen Huang Holds Private Meetings with Sams",
-      "capturedAt": "2026-10-14T13:23:37.556951+00:00"
+      "capturedAt": "2026-10-14T22:05:58.247994+00:00"
     },
     {
       "id": "6bedca920f8a",
@@ -196,7 +219,7 @@
         "dinner"
       ],
       "summary": "Nvidia CEO to attend Trump dinner for Xi, source says - Reuters Nvidia CEO to attend Trump dinner for Xi, source says Reuters",
-      "capturedAt": "2026-10-14T13:23:37.556951+00:00"
+      "capturedAt": "2026-10-14T22:05:58.247994+00:00"
     },
     {
       "id": "035ca964007c",
@@ -224,7 +247,7 @@
         "dinner"
       ],
       "summary": "Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source - CNBC Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source CNBC",
-      "capturedAt": "2026-10-14T13:23:37.556951+00:00"
+      "capturedAt": "2026-10-14T22:05:58.247994+00:00"
     },
     {
       "id": "fe396487a569",
@@ -245,7 +268,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "利多不漲？黃仁勳捧450億元幫建廠 京元電照跌3%失守300元 - Yahoo股市 利多不漲？黃仁勳捧450億元幫建廠 京元電照跌3%失守300元 Yahoo股市",
-      "capturedAt": "2026-10-14T13:23:37.556951+00:00"
+      "capturedAt": "2026-10-14T22:05:58.247994+00:00"
     },
     {
       "id": "184849a2c7a7",
@@ -266,7 +289,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳宣布輝達追加投資歐洲20億美元！催歐洲加入 AI 競賽 - 經濟日報 黃仁勳宣布輝達追加投資歐洲20億美元！催歐洲加入 AI 競賽 經濟日報",
-      "capturedAt": "2026-10-14T13:23:37.556951+00:00"
+      "capturedAt": "2026-10-14T22:05:58.247994+00:00"
     },
     {
       "id": "92c048e53472",
@@ -287,7 +310,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳助攻發威 北投「爛尾案」竟奇蹟重生… - 自由時報 黃仁勳助攻發威 北投「爛尾案」竟奇蹟重生… 自由時報",
-      "capturedAt": "2026-10-14T13:23:37.556951+00:00"
+      "capturedAt": "2026-10-14T22:05:58.247994+00:00"
     },
     {
       "id": "686bb881873c",
@@ -310,7 +333,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang flaunts his Galaxy Z Fold 8 - SamMobile Nvidia CEO Jensen Huang flaunts his Galaxy Z Fold 8 SamMobile",
-      "capturedAt": "2026-10-14T13:23:37.556951+00:00"
+      "capturedAt": "2026-10-14T22:05:58.247994+00:00"
     },
     {
       "id": "24141d052f8a",
@@ -335,7 +358,28 @@
       ],
       "publicContextFlags": [],
       "summary": "松山機場遷離 黃仁勳的兆元宴將移師桃園 航空城將成為第一個國際AI園區 - Yahoo新聞 松山機場遷離 黃仁勳的兆元宴將移師桃園 航空城將成為第一個國際AI園區 Yahoo新聞",
-      "capturedAt": "2026-10-14T13:23:37.556951+00:00"
+      "capturedAt": "2026-10-14T22:05:58.247994+00:00"
+    },
+    {
+      "id": "b8207e8c94ba",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "FORTUNE雜誌─三星掌門人爆料，黃仁勳女兒低調完婚，“駙馬”直升副總裁 - 鉅亨號",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45alpCS0hCY2NvSURFSTU1SU9oWTlCd2habm9pM0RFM1ViaF9ueFBjLXhyaXJNRTJTbGJCS1FmdWpBeWJfY1RsbA?oc=5",
+      "publishedAt": "2026-10-11T08:45:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "FORTUNE雜誌─三星掌門人爆料，黃仁勳女兒低調完婚，“駙馬”直升副總裁 - 鉅亨號 FORTUNE雜誌─三星掌門人爆料，黃仁勳女兒低調完婚，“駙馬”直升副總裁 鉅亨號",
+      "capturedAt": "2026-10-14T22:05:58.247994+00:00"
     },
     {
       "id": "2eda461a70c8",
@@ -356,7 +400,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳、蘇姿丰與馬斯克同獲殊榮，川普頒發美國國家科學獎章 - TechNews 科技新報 黃仁勳、蘇姿丰與馬斯克同獲殊榮，川普頒發美國國家科學獎章 TechNews 科技新報",
-      "capturedAt": "2026-10-14T13:23:37.556951+00:00"
+      "capturedAt": "2026-10-14T22:05:58.247994+00:00"
     },
     {
       "id": "2fd56018adfa",
@@ -377,7 +421,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang, Larry Ellison Lose Combined $15 Billion In A Day - Forbes Jensen Huang, Larry Ellison Lose Combined $15 Billion In A Day Forbes",
-      "capturedAt": "2026-10-14T13:23:37.556951+00:00"
+      "capturedAt": "2026-10-14T22:05:58.247994+00:00"
     },
     {
       "id": "db7c37b474d4",
@@ -398,7 +442,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang: 'Nvidia was founded because of Windows' - Yahoo Finance Jensen Huang: 'Nvidia was founded because of Windows' Yahoo Finance",
-      "capturedAt": "2026-10-14T13:23:37.556951+00:00"
+      "capturedAt": "2026-10-14T22:05:58.247994+00:00"
     },
     {
       "id": "cddbab7bd956",
@@ -419,7 +463,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳AI變身「麥可傑克森」狂跳月球漫步 馬斯克：難怪RAM這麼貴 - ETtoday財經雲 黃仁勳AI變身「麥可傑克森」狂跳月球漫步 馬斯克：難怪RAM這麼貴 ETtoday財經雲",
-      "capturedAt": "2026-10-14T13:23:37.556951+00:00"
+      "capturedAt": "2026-10-14T22:05:58.247994+00:00"
     },
     {
       "id": "74c0672b9a49",
@@ -440,28 +484,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳女婿Nico Caprez是誰？35歲升輝達副總裁，黃家三人都負責關鍵業務 - 數位時代 黃仁勳女婿Nico Caprez是誰？35歲升輝達副總裁，黃家三人都負責關鍵業務 數位時代",
-      "capturedAt": "2026-10-14T13:23:37.556951+00:00"
-    },
-    {
-      "id": "02c798d8247d",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳萬人前「大跳月球漫步」影片瘋傳！科技大佬反應超真實 馬斯克7字回應笑翻網友 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxPWm0xekJkZ0Z4OEZHMEdEQnZaNy1xT2ZYZVhpQ2pKOC12Qll1NWdaeWdnZ0ZPTTlsb2NMMEdleXBTR2k0RHZGYVNJemhwV1ZKcHlMdFRkUzhKUm5CeWJpR0RGV2VsWmhua2xOM05nOXB6cmRReDFsOFRyakRRR2ctSlAtbkdjZWdfb3c4OGpTTGtFMWZPRmpfdzNBdk1LSVlUdGlUckNhOTFCSnBIeWZMTHNkNThDUV84OVk0SDlMdEV4NlFycGxmb0gtNlphaGxMdjBiRTdsNERYeXA5VFJPSWpEUlBCVEhLbkdRTm9pdVVOWnoyazlyOGxRTFV2OEVKcWZCczM0UXZac0p0WnZBdlBLczJHRGlCR2lWbEhGXzFTS1N0QUNXakVUMGw0NVZiQmZXSWhOclkzVHMzb1ZfREhUNGMzZTJQZElmWm9hcldubk5OSXNRLVNQNzNvUFVzTHhDc0plMFEtSUMxelY3NDlqRUM3OGZONUxtOHdBdFhEa3oxNGIyWXVNdUtDU3AxSjRPbFpfOF9PMHA1UXQyZWMtVGFiM1M5VkM3OFR6WkR3OW92RWprajc5VVd6YW5rOUtLazAtZW1pTjQwXy02dWI1V09rc1AtS3NOTWdBOUtxTkZheVFyUThsb1Z1b0dqOE9jM0xOeG1hTko3QXc?oc=5",
-      "publishedAt": "2026-10-07T04:04:57+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳萬人前「大跳月球漫步」影片瘋傳！科技大佬反應超真實 馬斯克7字回應笑翻網友 - Yahoo新聞 黃仁勳萬人前「大跳月球漫步」影片瘋傳！科技大佬反應超真實 馬斯克7字回應笑翻網友 Yahoo新聞",
-      "capturedAt": "2026-10-14T13:23:37.556951+00:00"
+      "capturedAt": "2026-10-14T22:05:58.247994+00:00"
     },
     {
       "id": "a8b3d1575414",
@@ -483,7 +506,28 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "NVIDIA CEO's Son-in-law Promoted Amid Nepotism Criticism - 조선일보 NVIDIA CEO's Son-in-law Promoted Amid Nepotism Criticism 조선일보",
-      "capturedAt": "2026-10-14T13:23:37.556951+00:00"
+      "capturedAt": "2026-10-14T22:05:58.247994+00:00"
+    },
+    {
+      "id": "781e43ef40e6",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳自爆「親過男人」！對象竟是三星員工 全場笑翻 | 財經 | CTWANT - CTWANT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hNXNINkE5di1BT1prc2NvYVQ0a0dwU1ZRelhOZWIwcjNQaEdCXzN4dGZwclQyMFJMMXFkd21ucEVkakF0bTNRY1hfQWdWUTDSAVRBVV95cUxPZnljVXBmaXZCcXdaanVENERmaGdsNDV6ZUd0YUpmSm5DdkZ5cHRoM0U0VGExYl9UazZMVlZlS0ZqTWhmc21EdjU2SWtfbnRlaUxzQjI?oc=5",
+      "publishedAt": "2026-10-06T11:45:20+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳自爆「親過男人」！對象竟是三星員工 全場笑翻 | 財經 | CTWANT - CTWANT 黃仁勳自爆「親過男人」！對象竟是三星員工 全場笑翻 | 財經 | CTWANT CTWANT",
+      "capturedAt": "2026-10-14T22:05:58.247994+00:00"
     },
     {
       "id": "1ad2f262d7c1",
@@ -504,49 +548,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳女婿何許人也？不到兩年直升輝達權力核心 業界：善抓問題本質 - 經濟日報 黃仁勳女婿何許人也？不到兩年直升輝達權力核心 業界：善抓問題本質 經濟日報",
-      "capturedAt": "2026-10-14T13:23:37.556951+00:00"
-    },
-    {
-      "id": "a7fb36d9a18c",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳AI影片瘋傳 馬斯克笑翻：這就是記憶體那麼貴的原因 - 自由財經",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Jb2w1QnR2WnZiaTlMblVRSmN3VDB1UG9iQ3NRSktRdllvZHR0dl83ZFd0VTZaMlp3VkFJejVtTmlranRRZFNDWld4eENINVdaT0RFZ3lFRXVaTXh6RjBR0gFkQVVfeXFMT3F3WXpRaUJzV0NrOUZ4YWlqcW1hSEZSc2toV3lCNkJySDVfaDZKT0RpSll4TlBWV0ZUNy1wZG8xREhZNlZsVVNITXlBX1BPYXV4TDhVcWE0U21DdWlsVEhLY1hHWA?oc=5",
-      "publishedAt": "2026-10-06T08:07:15+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳AI影片瘋傳 馬斯克笑翻：這就是記憶體那麼貴的原因 - 自由財經 黃仁勳AI影片瘋傳 馬斯克笑翻：這就是記憶體那麼貴的原因 自由財經",
-      "capturedAt": "2026-10-14T13:23:37.556951+00:00"
-    },
-    {
-      "id": "a4e3325699f3",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳女婿從滑雪選手到御用「軍師」！不到2年升輝達副總裁 外媒揭超狂背景 - 自由財經",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TeVdwWHpTbE1iX1A0bGhOcDBocGRyWDBKY1NRMVRyUFd2VFpJTnc3U3M2QlJtUlhyRXFTRUl3dktGOTY0d2lkQlpxbGpFWW1Ga1RqVU9PSVNRSUNOMV9n0gFkQVVfeXFMTlpVRTBZdmdqRnJLRzdKbEx1MFZqS1l5c0hkakFLVW1PWkZrNE53NTQ4cjNXQWV0a2Q5N2k5bS04QmhaRGVZcE1pVG1BX0hvb3VjVTFPcEU2eXVPdzNJTVoyRkFhbw?oc=5",
-      "publishedAt": "2026-10-06T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳女婿從滑雪選手到御用「軍師」！不到2年升輝達副總裁 外媒揭超狂背景 - 自由財經 黃仁勳女婿從滑雪選手到御用「軍師」！不到2年升輝達副總裁 外媒揭超狂背景 自由財經",
-      "capturedAt": "2026-10-14T13:23:37.556951+00:00"
+      "capturedAt": "2026-10-14T22:05:58.247994+00:00"
     }
   ],
   "errors": [
