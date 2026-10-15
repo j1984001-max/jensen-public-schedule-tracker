@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T21:58:50.023427+00:00",
+  "generatedAt": "2026-10-15T23:58:20.902258+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
   "publishedToTimeline": 9,
@@ -27,7 +27,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Why Nvidia CEO Jensen Huang Believes Suffering Is Part of Success - Inc.com Why Nvidia CEO Jensen Huang Believes Suffering Is Part of Success Inc.com",
-      "capturedAt": "2026-10-15T21:58:50.023439+00:00"
+      "capturedAt": "2026-10-15T23:58:20.902275+00:00"
     },
     {
       "id": "9db4ef3da845",
@@ -52,7 +52,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang says if you want to be successful, be prepared to suffer - Fortune Nvidia CEO Jensen Huang says if you want to be successful, be prepared to suffer Fortune",
-      "capturedAt": "2026-10-15T21:58:50.023439+00:00"
+      "capturedAt": "2026-10-15T23:58:20.902275+00:00"
     },
     {
       "id": "8e06331513be",
@@ -75,7 +75,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "AI女王快閃2》蘇姿丰全面開戰黃仁勳 唯一公開行程揭AMD下一步 - 民報 AI女王快閃2》蘇姿丰全面開戰黃仁勳 唯一公開行程揭AMD下一步 民報",
-      "capturedAt": "2026-10-15T21:58:50.023439+00:00"
+      "capturedAt": "2026-10-15T23:58:20.902275+00:00"
     },
     {
       "id": "5835a6f049a1",
@@ -98,7 +98,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳女兒結婚了！李在鎔意外曝喜訊 - Yahoo新聞 黃仁勳女兒結婚了！李在鎔意外曝喜訊 Yahoo新聞",
-      "capturedAt": "2026-10-15T21:58:50.023439+00:00"
+      "capturedAt": "2026-10-15T23:58:20.902275+00:00"
     },
     {
       "id": "db5e383e085b",
@@ -121,7 +121,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia's Jensen Huang, Other CEOs Privately Confront Anthropic's Dario Amodei Over AI Doomsday Warnings Amid Trump's Tech Summit: Report - Yahoo Finance Nvidia's Jensen Huang, Other CEOs Privately Conf",
-      "capturedAt": "2026-10-15T21:58:50.023439+00:00"
+      "capturedAt": "2026-10-15T23:58:20.902275+00:00"
     },
     {
       "id": "0b450dcc713c",
@@ -144,7 +144,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳將出席站台！微軟下周舉辦Surface發表會 聚焦在地AI重塑下一代PC - Yahoo股市 黃仁勳將出席站台！微軟下周舉辦Surface發表會 聚焦在地AI重塑下一代PC Yahoo股市",
-      "capturedAt": "2026-10-15T21:58:50.023439+00:00"
+      "capturedAt": "2026-10-15T23:58:20.902275+00:00"
     },
     {
       "id": "d65d9b575ee4",
@@ -169,7 +169,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang was everywhere in Q3. The AI giant's stock proves it. - Yahoo Finance Nvidia CEO Jensen Huang was everywhere in Q3. The AI giant's stock proves it. Yahoo Finance",
-      "capturedAt": "2026-10-15T21:58:50.023439+00:00"
+      "capturedAt": "2026-10-15T23:58:20.902275+00:00"
     },
     {
       "id": "20e5dae94e78",
@@ -192,7 +192,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang wins Van Fleet Award as Korea-US tech ties deepen - CHOSUNBIZ - Chosunbiz Jensen Huang wins Van Fleet Award as Korea-US tech ties deepen - CHOSUNBIZ Chosunbiz",
-      "capturedAt": "2026-10-15T21:58:50.023439+00:00"
+      "capturedAt": "2026-10-15T23:58:20.902275+00:00"
     },
     {
       "id": "c2a6ce43eea6",
@@ -216,7 +216,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Holds Private Meetings with Samsung and SK Leaders in New York; 8th-Generation HBM and AI Factories Take Center Stage - BigGo Finance Jensen Huang Holds Private Meetings with Sams",
-      "capturedAt": "2026-10-15T21:58:50.023439+00:00"
+      "capturedAt": "2026-10-15T23:58:20.902275+00:00"
     },
     {
       "id": "871b13d1d039",
@@ -239,7 +239,28 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang addresses CoreWeave stock plunge: 'I'm optimistic' - Yahoo Finance Nvidia CEO Jensen Huang addresses CoreWeave stock plunge: 'I'm optimistic' Yahoo Finance",
-      "capturedAt": "2026-10-15T21:58:50.023439+00:00"
+      "capturedAt": "2026-10-15T23:58:20.902275+00:00"
+    },
+    {
+      "id": "6e732292c450",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳：若開發不安全AI 將斷供晶片 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5NGVEdmZoTjB4LVNQN2VnUHBNT2M5UTV5bmtLZm9LREsySm83RTlIbC0tR09temNtQldWR2dqdHUwMVhsY0FtaWlxNXZTMk1C0gFWQVVfeXFMUE9IN0NVNS1jY1R4OXItTFJPOTZoWGJ2cmRSQVFyZ1FtVkNJOHlLWld0b1V6S3UwaW94NnV4V3JtUkdrTW56dHlSR1lVRFFDQVhPYl9kS2c?oc=5",
+      "publishedAt": "2026-10-15T16:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳：若開發不安全AI 將斷供晶片 - UDN 黃仁勳：若開發不安全AI 將斷供晶片 UDN",
+      "capturedAt": "2026-10-15T23:58:20.902275+00:00"
     },
     {
       "id": "062bc8fc8820",
@@ -260,7 +281,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "先拜訪聯電但張忠謀理念令人折服！黃仁勳親揭當初為何選擇台積電| 全球財經| 全球 - UDN 先拜訪聯電但張忠謀理念令人折服！黃仁勳親揭當初為何選擇台積電| 全球財經| 全球 UDN",
-      "capturedAt": "2026-10-15T21:58:50.023439+00:00"
+      "capturedAt": "2026-10-15T23:58:20.902275+00:00"
     },
     {
       "id": "671c7032c32f",
@@ -283,7 +304,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI - CNBC Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI CNBC",
-      "capturedAt": "2026-10-15T21:58:50.023439+00:00"
+      "capturedAt": "2026-10-15T23:58:20.902275+00:00"
     },
     {
       "id": "e8d774fda774",
@@ -304,7 +325,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "輝達加碼投資歐洲AI，黃仁勳籲建自主運算基礎設施 - 台視全球資訊網 輝達加碼投資歐洲AI，黃仁勳籲建自主運算基礎設施 台視全球資訊網",
-      "capturedAt": "2026-10-15T21:58:50.023439+00:00"
+      "capturedAt": "2026-10-15T23:58:20.902275+00:00"
     },
     {
       "id": "12421ac941de",
@@ -325,7 +346,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳談AI威脅：客戶不安全就斷供晶片 - Yahoo新聞 黃仁勳談AI威脅：客戶不安全就斷供晶片 Yahoo新聞",
-      "capturedAt": "2026-10-15T21:58:50.023439+00:00"
+      "capturedAt": "2026-10-15T23:58:20.902275+00:00"
     },
     {
       "id": "301d09c2333c",
@@ -346,7 +367,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳：若客戶開發不安全 AI 將斷供晶片！但強調擔憂程度過頭了 - 經濟日報 黃仁勳：若客戶開發不安全 AI 將斷供晶片！但強調擔憂程度過頭了 經濟日報",
-      "capturedAt": "2026-10-15T21:58:50.023439+00:00"
+      "capturedAt": "2026-10-15T23:58:20.902275+00:00"
     },
     {
       "id": "deaffd62a160",
@@ -368,7 +389,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Says He Would Cut Off Buyers Who Build Unsafe AI - Bloomberg.com Nvidia CEO Says He Would Cut Off Buyers Who Build Unsafe AI Bloomberg.com",
-      "capturedAt": "2026-10-15T21:58:50.023439+00:00"
+      "capturedAt": "2026-10-15T23:58:20.902275+00:00"
     },
     {
       "id": "c85fbcc95abc",
@@ -389,7 +410,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia’s Jensen Huang responds to Pope Leo’s AI safety criticism: ‘We all care about the same thing’ - Fortune Nvidia’s Jensen Huang responds to Pope Leo’s AI safety criticism: ‘We all care about the s",
-      "capturedAt": "2026-10-15T21:58:50.023439+00:00"
+      "capturedAt": "2026-10-15T23:58:20.902275+00:00"
     },
     {
       "id": "3612206919f2",
@@ -411,7 +432,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Huang says society shouldn’t tolerate AI cyber incidents, says AI doomers ‘ought to stop working on’ the technology - Fortune Nvidia CEO Huang says society shouldn’t tolerate AI c",
-      "capturedAt": "2026-10-15T21:58:50.023439+00:00"
+      "capturedAt": "2026-10-15T23:58:20.902275+00:00"
     },
     {
       "id": "e00ccfbe2992",
@@ -436,7 +457,7 @@
         "吃"
       ],
       "summary": "暢談中國行「一片混亂」！黃仁勳笑了：吃過的店秒變代言人 - Yahoo新聞 暢談中國行「一片混亂」！黃仁勳笑了：吃過的店秒變代言人 Yahoo新聞",
-      "capturedAt": "2026-10-15T21:58:50.023439+00:00"
+      "capturedAt": "2026-10-15T23:58:20.902275+00:00"
     },
     {
       "id": "fe396487a569",
@@ -457,7 +478,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "利多不漲？黃仁勳捧450億元幫建廠 京元電照跌3%失守300元 - Yahoo股市 利多不漲？黃仁勳捧450億元幫建廠 京元電照跌3%失守300元 Yahoo股市",
-      "capturedAt": "2026-10-15T21:58:50.023439+00:00"
+      "capturedAt": "2026-10-15T23:58:20.902275+00:00"
     },
     {
       "id": "184849a2c7a7",
@@ -478,7 +499,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳宣布輝達追加投資歐洲20億美元！催歐洲加入 AI 競賽 - 經濟日報 黃仁勳宣布輝達追加投資歐洲20億美元！催歐洲加入 AI 競賽 經濟日報",
-      "capturedAt": "2026-10-15T21:58:50.023439+00:00"
+      "capturedAt": "2026-10-15T23:58:20.902275+00:00"
     },
     {
       "id": "92c048e53472",
@@ -499,7 +520,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳助攻發威 北投「爛尾案」竟奇蹟重生… - 自由時報 黃仁勳助攻發威 北投「爛尾案」竟奇蹟重生… 自由時報",
-      "capturedAt": "2026-10-15T21:58:50.023439+00:00"
+      "capturedAt": "2026-10-15T23:58:20.902275+00:00"
     },
     {
       "id": "686bb881873c",
@@ -522,28 +543,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang flaunts his Galaxy Z Fold 8 - SamMobile Nvidia CEO Jensen Huang flaunts his Galaxy Z Fold 8 SamMobile",
-      "capturedAt": "2026-10-15T21:58:50.023439+00:00"
-    },
-    {
-      "id": "b8207e8c94ba",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "FORTUNE雜誌─三星掌門人爆料，黃仁勳女兒低調完婚，“駙馬”直升副總裁 - 鉅亨號",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45alpCS0hCY2NvSURFSTU1SU9oWTlCd2habm9pM0RFM1ViaF9ueFBjLXhyaXJNRTJTbGJCS1FmdWpBeWJfY1RsbA?oc=5",
-      "publishedAt": "2026-10-11T08:45:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "FORTUNE雜誌─三星掌門人爆料，黃仁勳女兒低調完婚，“駙馬”直升副總裁 - 鉅亨號 FORTUNE雜誌─三星掌門人爆料，黃仁勳女兒低調完婚，“駙馬”直升副總裁 鉅亨號",
-      "capturedAt": "2026-10-15T21:58:50.023439+00:00"
+      "capturedAt": "2026-10-15T23:58:20.902275+00:00"
     }
   ],
   "errors": [
