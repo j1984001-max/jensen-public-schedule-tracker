@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T15:20:19.711579+00:00",
+  "generatedAt": "2026-10-19T22:48:52.679181+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
   "publishedToTimeline": 5,
@@ -27,7 +27,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang says if you want to be successful, be prepared to suffer - Fortune Nvidia CEO Jensen Huang says if you want to be successful, be prepared to suffer Fortune",
-      "capturedAt": "2026-10-19T15:20:19.711600+00:00"
+      "capturedAt": "2026-10-19T22:48:52.679195+00:00"
     },
     {
       "id": "3b3469fc1c53",
@@ -50,7 +50,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳女兒結婚了！李在鎔意外曝喜訊 - Yahoo新聞 黃仁勳女兒結婚了！李在鎔意外曝喜訊 Yahoo新聞",
-      "capturedAt": "2026-10-19T15:20:19.711600+00:00"
+      "capturedAt": "2026-10-19T22:48:52.679195+00:00"
     },
     {
       "id": "fe517ac00d12",
@@ -75,7 +75,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang was everywhere in Q3. The AI giant's stock proves it. - Yahoo Finance Nvidia CEO Jensen Huang was everywhere in Q3. The AI giant's stock proves it. Yahoo Finance",
-      "capturedAt": "2026-10-19T15:20:19.711600+00:00"
+      "capturedAt": "2026-10-19T22:48:52.679195+00:00"
     },
     {
       "id": "20e5dae94e78",
@@ -98,7 +98,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang wins Van Fleet Award as Korea-US tech ties deepen - CHOSUNBIZ - Chosunbiz Jensen Huang wins Van Fleet Award as Korea-US tech ties deepen - CHOSUNBIZ Chosunbiz",
-      "capturedAt": "2026-10-19T15:20:19.711600+00:00"
+      "capturedAt": "2026-10-19T22:48:52.679195+00:00"
     },
     {
       "id": "c2a6ce43eea6",
@@ -122,7 +122,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Holds Private Meetings with Samsung and SK Leaders in New York; 8th-Generation HBM and AI Factories Take Center Stage - BigGo Finance Jensen Huang Holds Private Meetings with Sams",
-      "capturedAt": "2026-10-19T15:20:19.711600+00:00"
+      "capturedAt": "2026-10-19T22:48:52.679195+00:00"
     },
     {
       "id": "2e36031a7135",
@@ -143,7 +143,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "輝達與台積電合作30年不靠鐵約，黃仁勳為何說「合約訂愈細，關係反而愈脆弱？」...馬斯克轉發說什麼？ - Yahoo新聞 輝達與台積電合作30年不靠鐵約，黃仁勳為何說「合約訂愈細，關係反而愈脆弱？」...馬斯克轉發說什麼？ Yahoo新聞",
-      "capturedAt": "2026-10-19T15:20:19.711600+00:00"
+      "capturedAt": "2026-10-19T22:48:52.679195+00:00"
     },
     {
       "id": "8a7d8349a9f2",
@@ -164,7 +164,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳最擔心的發生了！輝達中國AI晶片市佔率降至34% 華為28%居次、阿里平頭哥第三 - 鉅亨網 黃仁勳最擔心的發生了！輝達中國AI晶片市佔率降至34% 華為28%居次、阿里平頭哥第三 鉅亨網",
-      "capturedAt": "2026-10-19T15:20:19.711600+00:00"
+      "capturedAt": "2026-10-19T22:48:52.679195+00:00"
     },
     {
       "id": "262647505373",
@@ -185,7 +185,28 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳釋定心丸：AI市場波動「一切都會過去」 - 東森新聞 黃仁勳釋定心丸：AI市場波動「一切都會過去」 東森新聞",
-      "capturedAt": "2026-10-19T15:20:19.711600+00:00"
+      "capturedAt": "2026-10-19T22:48:52.679195+00:00"
+    },
+    {
+      "id": "66f7d82ae166",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳飛桃園…蔣萬安稱到台北僅36分 沈伯洋驚：他這樣講？ - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfblgyN0xOSzB4OE1pdTB1YjVBYjNaTDJVNXcydS1scWhKb1c2UVFGaDNJVm91MHJwcjJPQ1R3WHFrcUwzZ19NVGppUlJUZDYyVWdn0gFYQVVfeXFMUGFtRzlFTXFEYUhyS1lvWDExRTVSRlhHSnBXTE50Z1ljdnBMbXQxQ2lURFJvb1paVTFOZnRpTGloTkdra3RwV2hRay1jMTdKWk80aEFCaVo0Yw?oc=5",
+      "publishedAt": "2026-10-18T07:11:43+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳飛桃園…蔣萬安稱到台北僅36分 沈伯洋驚：他這樣講？ - UDN 黃仁勳飛桃園…蔣萬安稱到台北僅36分 沈伯洋驚：他這樣講？ UDN",
+      "capturedAt": "2026-10-19T22:48:52.679195+00:00"
     },
     {
       "id": "7716757b7331",
@@ -210,7 +231,7 @@
       ],
       "publicContextFlags": [],
       "summary": "遷松機「要黃仁勳搭機捷36分鐘」 蔣萬安：產業發展比機場重要 - Facebook 遷松機「要黃仁勳搭機捷36分鐘」 蔣萬安：產業發展比機場重要 Facebook",
-      "capturedAt": "2026-10-19T15:20:19.711600+00:00"
+      "capturedAt": "2026-10-19T22:48:52.679195+00:00"
     },
     {
       "id": "0bb6442cf6d5",
@@ -231,7 +252,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳喊話失靈！CoreWeave單週暴跌25% 阮慕驊示警：高負債AI企業別只聽故事 - Yahoo股市 黃仁勳喊話失靈！CoreWeave單週暴跌25% 阮慕驊示警：高負債AI企業別只聽故事 Yahoo股市",
-      "capturedAt": "2026-10-19T15:20:19.711600+00:00"
+      "capturedAt": "2026-10-19T22:48:52.679195+00:00"
     },
     {
       "id": "e5f463bf04f2",
@@ -252,7 +273,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "最賺錢的時候押注下一步，黃仁勳帶領輝達再一次歷史性轉型 - TechNews 科技新報 最賺錢的時候押注下一步，黃仁勳帶領輝達再一次歷史性轉型 TechNews 科技新報",
-      "capturedAt": "2026-10-19T15:20:19.711600+00:00"
+      "capturedAt": "2026-10-19T22:48:52.679195+00:00"
     },
     {
       "id": "ed766eda372d",
@@ -273,7 +294,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "老黃信心喊話了！AI股殺聲隆隆 黃仁勳1句話穩軍心 - 自由財經 老黃信心喊話了！AI股殺聲隆隆 黃仁勳1句話穩軍心 自由財經",
-      "capturedAt": "2026-10-19T15:20:19.711600+00:00"
+      "capturedAt": "2026-10-19T22:48:52.679195+00:00"
     },
     {
       "id": "39b7e81191f4",
@@ -294,7 +315,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "費半連8黑20年最慘 空頭大賺1.03兆、黃仁勳信心喊話「一切都會過去」 - Yahoo股市 費半連8黑20年最慘 空頭大賺1.03兆、黃仁勳信心喊話「一切都會過去」 Yahoo股市",
-      "capturedAt": "2026-10-19T15:20:19.711600+00:00"
+      "capturedAt": "2026-10-19T22:48:52.679195+00:00"
     },
     {
       "id": "fc513a34afc4",
@@ -315,7 +336,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "費半連跌八日 黃仁勳：動盪終將過去 AI變革才剛開始 - 鉅亨網 費半連跌八日 黃仁勳：動盪終將過去 AI變革才剛開始 鉅亨網",
-      "capturedAt": "2026-10-19T15:20:19.711600+00:00"
+      "capturedAt": "2026-10-19T22:48:52.679195+00:00"
     },
     {
       "id": "78e1c43c4227",
@@ -336,29 +357,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "費半創18年最長連跌！黃仁勳釋定心丸：AI市場波動「一切都會過去」 - 鉅亨網 費半創18年最長連跌！黃仁勳釋定心丸：AI市場波動「一切都會過去」 鉅亨網",
-      "capturedAt": "2026-10-19T15:20:19.711600+00:00"
-    },
-    {
-      "id": "be9276229267",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "Nvidia CEO on AI Market Turmoil: ‘All of This Is Going to Pass’ - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUnVUc280UUFsc3NKaDM5VU5Bbng3WXA4bGhETWY4RE1NVTY5Yk5qVmhsN2VFdHE2M1pIUTRrTTk3QjZsYUMxWTQ3QmRacGhiUzdMM1VwQnh3c0c0Tk5zandkMjhhdnUxb0tMZzZDc3dIOUZhT2ZGSlRnVG5qdGp2RUplaWFxU1NiSXZGZHhBZTZjekdLSU1WZUhvZXMzUzd4YXRmMS0yYnNkTkp1cndfNQ?oc=5",
-      "publishedAt": "2026-10-16T20:33:15+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "NVIDIA CEO",
-        "Nvidia CEO"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Nvidia CEO on AI Market Turmoil: ‘All of This Is Going to Pass’ - Bloomberg.com Nvidia CEO on AI Market Turmoil: ‘All of This Is Going to Pass’ Bloomberg.com",
-      "capturedAt": "2026-10-19T15:20:19.711600+00:00"
+      "capturedAt": "2026-10-19T22:48:52.679195+00:00"
     },
     {
       "id": "6f1ee1a6be05",
@@ -379,28 +378,30 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "I watched Nvidia's Jensen Huang work the room in London. He brought big checks — and a blunt message - CNBC I watched Nvidia's Jensen Huang work the room in London. He brought big checks — and a blunt message CN",
-      "capturedAt": "2026-10-19T15:20:19.711600+00:00"
+      "capturedAt": "2026-10-19T22:48:52.679195+00:00"
     },
     {
-      "id": "2552b9d65fca",
+      "id": "871b13d1d039",
       "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
+      "sourceName": "Google News: Jensen Huang",
       "sourceType": "新聞彙整",
-      "title": "大國為何難成功？英國處於驚人有利位置但黃仁勳一語點破劣勢| 全球財經| 全球 - UDN",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwX0Y5bUJMUTBaZVFsR3VuNkpIdEQxODNlR0N6SjhjTHNoVDc0SzVXZHVLaV9ZV1VSYnV1Ym9icFJLc0EwbnFwQnJialgzamlr?oc=5",
-      "publishedAt": "2026-10-16T09:26:31+00:00",
+      "title": "Nvidia CEO Jensen Huang addresses CoreWeave stock plunge: 'I'm optimistic' - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3RweTh1THdrck1qLURYMnJEVW03ZzdxNTIwZTVRVjV3MS1YM0E1V2VOblNmdzIzdUU2RXRVSGx3WGV2XzhudDVWeHo3REtZaHRyWk94ZDBrSzhoTy1RRWROaUxIcXZnQmdkRW5OWVVOdEJzQjN1U3pQZmdkVElaWEwxbkxDbndxalNabnV4MHYxSGYtTVdIN3VjZ2ZYVExQc2gyLXlxV0ZfamNMWWJCQkhaSFhqemhZeUJxOGxNYWYxYi1Rb2c?oc=5",
+      "publishedAt": "2026-10-16T09:58:05+00:00",
       "detectedDates": [],
       "matchedKeywords": [
-        "黃仁勳"
+        "Jensen Huang",
+        "NVIDIA CEO",
+        "Nvidia CEO"
       ],
       "matchedEventKeywords": [],
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "大國為何難成功？英國處於驚人有利位置但黃仁勳一語點破劣勢| 全球財經| 全球 - UDN 大國為何難成功？英國處於驚人有利位置但黃仁勳一語點破劣勢| 全球財經| 全球 UDN",
-      "capturedAt": "2026-10-19T15:20:19.711600+00:00"
+      "summary": "Nvidia CEO Jensen Huang addresses CoreWeave stock plunge: 'I'm optimistic' - Yahoo Finance Nvidia CEO Jensen Huang addresses CoreWeave stock plunge: 'I'm optimistic' Yahoo Finance",
+      "capturedAt": "2026-10-19T22:48:52.679195+00:00"
     },
     {
       "id": "8ba5760d391f",
@@ -421,28 +422,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "AI 讓孩子考試退步，黃仁勳卻說「不重要」？給父母的 4 個解答 - 翻轉教育 AI 讓孩子考試退步，黃仁勳卻說「不重要」？給父母的 4 個解答 翻轉教育",
-      "capturedAt": "2026-10-19T15:20:19.711600+00:00"
-    },
-    {
-      "id": "3cc346ea4dcf",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Jensen Huang's CoreWeave Endorsement Sparks Asia-Pacific Rebound; Japan, South Korea Lead Gains as Indonesia Plunges 11%, Triggering Circuit Breaker - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zaVVBaE9BeEZtQXBPTWRlWDRBM1dpaW1mMTFkcHhVbUVpVVRrOXJnWk52SzA1R21DNVoySVpablRZd25iUFpqVVlrdWhkUVFyR0dTYmtSZzFGZG9pRjFYOEt3X25oOER1THJEc2NUcTRfVlZvMnc?oc=5",
-      "publishedAt": "2026-10-16T03:55:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Jensen Huang's CoreWeave Endorsement Sparks Asia-Pacific Rebound; Japan, South Korea Lead Gains as Indonesia Plunges 11%, Triggering Circuit Breaker - BigGo Finance Jensen Huang's CoreWeave En",
-      "capturedAt": "2026-10-19T15:20:19.711600+00:00"
+      "capturedAt": "2026-10-19T22:48:52.679195+00:00"
     },
     {
       "id": "46b3b40a2e15",
@@ -463,7 +443,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳一句話救AI股？日韓股市報復性反彈 日經盤中飆逾1200點 - TVBS新聞網 黃仁勳一句話救AI股？日韓股市報復性反彈 日經盤中飆逾1200點 TVBS新聞網",
-      "capturedAt": "2026-10-19T15:20:19.711600+00:00"
+      "capturedAt": "2026-10-19T22:48:52.679195+00:00"
     },
     {
       "id": "38b845996ca3",
@@ -484,7 +464,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "輝達「親兒子」違約率飆升！ 黃仁勳1句話 逆轉收紅強彈6% - Yahoo股市 輝達「親兒子」違約率飆升！ 黃仁勳1句話 逆轉收紅強彈6% Yahoo股市",
-      "capturedAt": "2026-10-19T15:20:19.711600+00:00"
+      "capturedAt": "2026-10-19T22:48:52.679195+00:00"
     },
     {
       "id": "94b3204befd6",
@@ -505,7 +485,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "輝達黃仁勳：AI晶片供應不求 訂單幾乎天天不斷湧入 - Yahoo股市 輝達黃仁勳：AI晶片供應不求 訂單幾乎天天不斷湧入 Yahoo股市",
-      "capturedAt": "2026-10-19T15:20:19.711600+00:00"
+      "capturedAt": "2026-10-19T22:48:52.679195+00:00"
     },
     {
       "id": "10b1d40f99da",
@@ -526,7 +506,28 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "AI版次貸危機浮現？CoreWeave信用風險亮紅燈 黃仁勳卻說「不用救」 - 自由財經 AI版次貸危機浮現？CoreWeave信用風險亮紅燈 黃仁勳卻說「不用救」 自由財經",
-      "capturedAt": "2026-10-19T15:20:19.711600+00:00"
+      "capturedAt": "2026-10-19T22:48:52.679195+00:00"
+    },
+    {
+      "id": "e52ec0a24847",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳力挺 CoreWeave 逆轉漲5.9% 市場仍估五年違約機率逾六成 - 經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SOUZzYlNOTldlLS1GaDk0cWRjc3JQS0JLTzNfd0ZxVmpJU2pVal92Si1fZmprb3Jma08ybHQydDZKWDQ5c2lDYXRBaGt3RE5DWFJ4dWFHSnNvXzZz0gFiQVVfeXFMUGtlazZKbThWSFY0MTZVZkVfejNpTjNDTVhVSW5XZEw4RDBtTUlrNmlOOGtMSG9zZ2JSMTlzRkJmNVFrVVd1OEVBRk9fa1g1TlRnc1FFV2tFdG5PNVlaMFl3dnc?oc=5",
+      "publishedAt": "2026-10-15T23:58:18+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳力挺 CoreWeave 逆轉漲5.9% 市場仍估五年違約機率逾六成 - 經濟日報 黃仁勳力挺 CoreWeave 逆轉漲5.9% 市場仍估五年違約機率逾六成 經濟日報",
+      "capturedAt": "2026-10-19T22:48:52.679195+00:00"
     }
   ],
   "errors": [
