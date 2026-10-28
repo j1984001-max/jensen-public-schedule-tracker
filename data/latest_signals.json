@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-27T22:52:15.733741+00:00",
+  "generatedAt": "2026-10-28T00:50:02.093169+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
-  "publishedToTimeline": 11,
+  "publishedToTimeline": 9,
   "signals": [
     {
       "id": "45e5abf99035",
@@ -25,7 +25,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "抗議者鬧場、機器鴨罷工，黃仁勳柏林演講靠幽默化解插曲 - TechNews 科技新報 抗議者鬧場、機器鴨罷工，黃仁勳柏林演講靠幽默化解插曲 TechNews 科技新報",
-      "capturedAt": "2026-10-27T22:52:15.733758+00:00"
+      "capturedAt": "2026-10-28T00:50:02.093181+00:00"
     },
     {
       "id": "485d1dd5e63f",
@@ -48,7 +48,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳GTC大會報明牌！6台廠入列「新武器」供應鏈 - Yahoo股市 黃仁勳GTC大會報明牌！6台廠入列「新武器」供應鏈 Yahoo股市",
-      "capturedAt": "2026-10-27T22:52:15.733758+00:00"
+      "capturedAt": "2026-10-28T00:50:02.093181+00:00"
     },
     {
       "id": "a0d4aaae6e9f",
@@ -71,7 +71,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳再報明牌！ 6台廠入列「GTC新武器」供應鏈 - ETtoday財經雲 黃仁勳再報明牌！ 6台廠入列「GTC新武器」供應鏈 ETtoday財經雲",
-      "capturedAt": "2026-10-27T22:52:15.733758+00:00"
+      "capturedAt": "2026-10-28T00:50:02.093181+00:00"
     },
     {
       "id": "a6524f4d5ffb",
@@ -98,54 +98,7 @@
       ],
       "publicContextFlags": [],
       "summary": "輝達 GTC 大戲登場 黃仁勳：現在正處於新工業革命開端 所有人獲利能力將提升 - 經濟日報 輝達 GTC 大戲登場 黃仁勳：現在正處於新工業革命開端 所有人獲利能力將提升 經濟日報",
-      "capturedAt": "2026-10-27T22:52:15.733758+00:00"
-    },
-    {
-      "id": "fcc65dbc9a23",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "A protester and a robot duck hiccup: 2 moments from Jensen Huang's keynote didn't go to plan - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbVRXcHhTVlZScWxZZ2JLVXRxX1JlNndzU2lfd1gzZmxFVTRCbVFWUXBDODB5bU41RTFuRVlDWjRrVXRiZmh4WWR0SHhFNGJkYktPMkhjamx0ZHByTVZrSTZLTWlRN05FZ2RXSUhNckpqQXlXUXViUW1lbFRlb2F2STA4d09ITkNQaFVNQ2lsa29oaEVrazhyYlBNaVFJZFNV?oc=5",
-      "publishedAt": "2026-10-21T13:17:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [
-        "keynote"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "A protester and a robot duck hiccup: 2 moments from Jensen Huang's keynote didn't go to plan - Business Insider A protester and a robot duck hiccup: 2 moments from Jensen Huang's keynote didn't go to plan Business Insider",
-      "capturedAt": "2026-10-27T22:52:15.733758+00:00"
-    },
-    {
-      "id": "95ee10547e27",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "Nvidia GTC Berlin Keynote: Jensen Huang Puts $50 Billion Price Tag On 1GW AI Factory Amid DSX POD Launch - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY1hhUHFwOVQ5VnpadnNwWDBqa3duNWt4WElIdUk0elZfSTh0NXZsdWViUFZjd2c4LURrRi12RlphaHp6S1pBNUlmNDRFLWVWdEQxTGN6SkVCcFd1dkpRM3RKaXQ0R0piM0ZHS3NpaS15TC1pME9aQTFrRkt0b2NobmI4Z0k5ZGVsblpsRm14N2FfQlRDX1otU0Q0LWo?oc=5",
-      "publishedAt": "2026-10-21T11:42:37+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [
-        "keynote",
-        "GTC"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Nvidia GTC Berlin Keynote: Jensen Huang Puts $50 Billion Price Tag On 1GW AI Factory Amid DSX POD Launch - Yahoo Finance Nvidia GTC Berlin Keynote: Jensen Huang Puts $50 Billion Price Tag On 1GW AI Factory Amid DSX POD",
-      "capturedAt": "2026-10-27T22:52:15.733758+00:00"
+      "capturedAt": "2026-10-28T00:50:02.093181+00:00"
     },
     {
       "id": "300e13488688",
@@ -168,7 +121,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Fireside Chat with Jensen Huang - The Korea Society Fireside Chat with Jensen Huang The Korea Society",
-      "capturedAt": "2026-10-27T22:52:15.733758+00:00"
+      "capturedAt": "2026-10-28T00:50:02.093181+00:00"
     },
     {
       "id": "9db4ef3da845",
@@ -193,7 +146,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang says if you want to be successful, be prepared to suffer - Fortune Nvidia CEO Jensen Huang says if you want to be successful, be prepared to suffer Fortune",
-      "capturedAt": "2026-10-27T22:52:15.733758+00:00"
+      "capturedAt": "2026-10-28T00:50:02.093181+00:00"
     },
     {
       "id": "3b3469fc1c53",
@@ -216,14 +169,14 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳女兒結婚了！李在鎔意外曝喜訊 - Yahoo新聞 黃仁勳女兒結婚了！李在鎔意外曝喜訊 Yahoo新聞",
-      "capturedAt": "2026-10-27T22:52:15.733758+00:00"
+      "capturedAt": "2026-10-28T00:50:02.093181+00:00"
     },
     {
-      "id": "fe517ac00d12",
+      "id": "d65d9b575ee4",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
-      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceName": "Google News: Jensen Huang",
       "sourceType": "新聞彙整",
       "title": "Nvidia CEO Jensen Huang was everywhere in Q3. The AI giant's stock proves it. - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaHV5TDVmT2tDX2Z3a19vSGZiZ2FYSG5MbEd5V0ZUejRLM21TaEY1ck1uQlNGNXZiUW4teWhONEt4dEk3bmJTQXJGQUtZdWs1OUlvVGVKRTVHMkNQTU45QXBFRTZGbnVOZG52aEFyaEcxSU1IVHU2Ry1Bd09oa1BNeXN0SWlhVjE2ZnBkWXQ3WG5HSGNTTEJLZ19Zd1FTTnJFTGtCM2U5bHBKSWVIQklKM1drTDlTZzhjYkNkUV9ob0RpRmV1TEM5M3Q0SnpfRmRVTVo0Yg?oc=5",
@@ -241,7 +194,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang was everywhere in Q3. The AI giant's stock proves it. - Yahoo Finance Nvidia CEO Jensen Huang was everywhere in Q3. The AI giant's stock proves it. Yahoo Finance",
-      "capturedAt": "2026-10-27T22:52:15.733758+00:00"
+      "capturedAt": "2026-10-28T00:50:02.093181+00:00"
     },
     {
       "id": "d5e5dff9f615",
@@ -264,7 +217,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang wins Van Fleet Award as Korea-US tech ties deepen - Chosunbiz Jensen Huang wins Van Fleet Award as Korea-US tech ties deepen Chosunbiz",
-      "capturedAt": "2026-10-27T22:52:15.733758+00:00"
+      "capturedAt": "2026-10-28T00:50:02.093181+00:00"
     },
     {
       "id": "c2a6ce43eea6",
@@ -288,18 +241,18 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang Holds Private Meetings with Samsung and SK Leaders in New York; 8th-Generation HBM and AI Factories Take Center Stage - BigGo Finance Jensen Huang Holds Private Meetings with Sams",
-      "capturedAt": "2026-10-27T22:52:15.733758+00:00"
+      "capturedAt": "2026-10-28T00:50:02.093181+00:00"
     },
     {
-      "id": "e431be2bd796",
+      "id": "17ff5862c9f9",
       "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: Jensen Huang",
       "sourceType": "新聞彙整",
-      "title": "Jensen Huang Says Nvidia's Next-Gen Vera Rubin Chips Will Generate $40 Billion in Revenue per Gigawatt, Up From $25 Billion for Grace Blackwell. What That Means for NVDA's Growth Runway. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVFlZWE12Y1JWbDkyUGxfVjZpUkJSTTBQaE9mbWVqdG9wZ1lWVms1dXZaS3ZZdmFMWW11alAyUmZ0WFNkYUt3VHp5M3E1WlpEQ1IyWXZqN3ZwLU5aS2czdUFOZzBkT3A0ZlRvT0lDWjhKUVlka19ZTG9aS2ZPNFFYTWFKQXctNDF2WmVQTDBCR3FZN3gxb00ycw?oc=5",
-      "publishedAt": "2026-10-26T05:00:00+00:00",
+      "title": "Does Jensen Huang Know Something Wall Street Doesn't? Nvidia's CEO Sees No Signs of Memory Demand Fading by 2029 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT0RSTTlqRklFU2dIemxnQ2dFQV9JWm9xR2ZBRTBfZWdudUZaWHNGdHFnMWlaMEN0VV94ZUNjdTBZVURVYktBZnpRaDZjZ0N5LUlKZ0tPd3lobkgtS2htdUN1TUx2ckI4RFJmYjVyMEV5SDhQTjYycFJIOVhHU1VKT2FNWU0zdk1pSmh5LVhkVFRpU1hzakVQQmNGTHpNUQ?oc=5",
+      "publishedAt": "2026-10-27T07:51:00+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "Jensen Huang"
@@ -308,8 +261,29 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "Jensen Huang Says Nvidia's Next-Gen Vera Rubin Chips Will Generate $40 Billion in Revenue per Gigawatt, Up From $25 Billion for Grace Blackwell. What That Means for NVDA's Growth Runway. - The",
-      "capturedAt": "2026-10-27T22:52:15.733758+00:00"
+      "summary": "Does Jensen Huang Know Something Wall Street Doesn't? Nvidia's CEO Sees No Signs of Memory Demand Fading by 2029 - Yahoo Finance Does Jensen Huang Know Something Wall Street Doesn't? Nvidia's CEO S",
+      "capturedAt": "2026-10-28T00:50:02.093181+00:00"
+    },
+    {
+      "id": "07ae3d66d652",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Nvidia's Jensen Huang Demo Sparks 'MicroDuck' Duck Robot Craze — South Korea's Robotis Shares Surge 13% - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vbTRnNFZDNzRJRmpoR0dwLU5uOTNEVEF6OWY4VFFzRVBDY2RYVS0zaDNlSXpsc0x2ZHFxWGUwdEVhWV94T2I5Qmo3OE45b2J1RktmdWlwaml1X3hSdEhkazhldE1sdXRDMUZ4YWk5LTB0aV92VEE?oc=5",
+      "publishedAt": "2026-10-26T06:05:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Nvidia's Jensen Huang Demo Sparks 'MicroDuck' Duck Robot Craze — South Korea's Robotis Shares Surge 13% - BigGo Finance Nvidia's Jensen Huang Demo Sparks 'MicroDuck' Duck Robot Craze — South Korea's Ro",
+      "capturedAt": "2026-10-28T00:50:02.093181+00:00"
     },
     {
       "id": "7fcf61496459",
@@ -330,30 +304,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "打臉韓國專家「記憶體產能過剩說」 黃仁勳表態對採用中國長鑫存儲產品持開放態度 - udn科技玩家 打臉韓國專家「記憶體產能過剩說」 黃仁勳表態對採用中國長鑫存儲產品持開放態度 udn科技玩家",
-      "capturedAt": "2026-10-27T22:52:15.733758+00:00"
-    },
-    {
-      "id": "5d8d854a48c4",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "Nvidia CEO Jensen Huang Reaffirms His $4 Trillion Projection for AI Spending. Here's Why That Makes Nvidia a Screaming Buy Now. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc21RM056MHhoNnhjM1ZlSHh5OXU1TEd1SEFMSlMxdzQtdVFWc0dTQ19KRHdfQk9Ra2syTDJtOVlYNFVWRTZ2cHNnaUtRbU5wcFJTQ0F6MmFMRWR4TkVDOWloOW5vSThrMXFFOWlnQS1tRVN6X3BDNkNKdUlhdnUxa1NESVZCUElHdWpkVF9zbWJHWV82LWhieQ?oc=5",
-      "publishedAt": "2026-10-25T18:28:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang",
-        "NVIDIA CEO",
-        "Nvidia CEO"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Nvidia CEO Jensen Huang Reaffirms His $4 Trillion Projection for AI Spending. Here's Why That Makes Nvidia a Screaming Buy Now. - The Motley Fool Nvidia CEO Jensen Huang Reaffirms His $4 Trillion Project",
-      "capturedAt": "2026-10-27T22:52:15.733758+00:00"
+      "capturedAt": "2026-10-28T00:50:02.093181+00:00"
     },
     {
       "id": "9df62aee1af1",
@@ -374,7 +325,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "海力士Solidigm赴美上市喊卡！記憶體股倒地 黃仁勳卻說「看空者錯了」 - 三立新聞網SETN.com 海力士Solidigm赴美上市喊卡！記憶體股倒地 黃仁勳卻說「看空者錯了」 三立新聞網SETN.com",
-      "capturedAt": "2026-10-27T22:52:15.733758+00:00"
+      "capturedAt": "2026-10-28T00:50:02.093181+00:00"
     },
     {
       "id": "6f95c961b9fe",
@@ -395,7 +346,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "AI bear slams Nvidia's GPU pitch: 'There's not scarcity other than that which is created by Jensen Huang' - Yahoo Finance AI bear slams Nvidia's GPU pitch: 'There's not scarcity other than that which is created by Jensen Huang' Yahoo Finance",
-      "capturedAt": "2026-10-27T22:52:15.733758+00:00"
+      "capturedAt": "2026-10-28T00:50:02.093181+00:00"
     },
     {
       "id": "9f7571d688a3",
@@ -416,7 +367,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "記憶體2029年恐變紅海？黃仁勳親自回應：供過於求機率不大 - Yahoo股市 記憶體2029年恐變紅海？黃仁勳親自回應：供過於求機率不大 Yahoo股市",
-      "capturedAt": "2026-10-27T22:52:15.733758+00:00"
+      "capturedAt": "2026-10-28T00:50:02.093181+00:00"
     },
     {
       "id": "f9fd23a8ceba",
@@ -437,7 +388,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "記憶體超級周期告終？黃仁勳反駁：輝達將大量採用LPDDR、HBM 不排除攜手長鑫- 兩岸 - 工商時報 記憶體超級周期告終？黃仁勳反駁：輝達將大量採用LPDDR、HBM 不排除攜手長鑫- 兩岸 工商時報",
-      "capturedAt": "2026-10-27T22:52:15.733758+00:00"
+      "capturedAt": "2026-10-28T00:50:02.093181+00:00"
     },
     {
       "id": "a89f427424b9",
@@ -458,7 +409,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "從「晶片荒」到「紅海」？ 輝達黃仁勳：2029年記憶體市場過剩可能性不大 - 鉅亨網 從「晶片荒」到「紅海」？ 輝達黃仁勳：2029年記憶體市場過剩可能性不大 鉅亨網",
-      "capturedAt": "2026-10-27T22:52:15.733758+00:00"
+      "capturedAt": "2026-10-28T00:50:02.093181+00:00"
     },
     {
       "id": "1015d0d7074f",
@@ -479,28 +430,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "費半為何重摔6.7%、黃仁勳說了什麼？六重點一次看| 全球財經| 全球 - UDN 費半為何重摔6.7%、黃仁勳說了什麼？六重點一次看| 全球財經| 全球 UDN",
-      "capturedAt": "2026-10-27T22:52:15.733758+00:00"
-    },
-    {
-      "id": "3d664e0f3abb",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "不止6檔老AI股！ 輝達黃仁勳喊「產能瓶頸」欽點3台廠擴產 - ETtoday財經雲",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fcEFkbHI2SUdUMkpRQzFnNnlwS3dfYzZuTUdfWld0TVJBeC0tOTZKbFRhQWtQOFN3WXBpZmhPdk5VcE1qbEk2SFBoSWJiRzhJZnfSAVBBVV95cUxQYmZqOUNPQW9rdmVUbElneHo0OEx3TDBCTHNlWGJtVmhxZ1BJT0pyenNlaEJvMDVSeUtlc2V1T1kxNWJDOXMxQktmUlpxUVJKMA?oc=5",
-      "publishedAt": "2026-10-22T22:38:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "不止6檔老AI股！ 輝達黃仁勳喊「產能瓶頸」欽點3台廠擴產 - ETtoday財經雲 不止6檔老AI股！ 輝達黃仁勳喊「產能瓶頸」欽點3台廠擴產 ETtoday財經雲",
-      "capturedAt": "2026-10-27T22:52:15.733758+00:00"
+      "capturedAt": "2026-10-28T00:50:02.093181+00:00"
     },
     {
       "id": "2a880ba961bf",
@@ -521,7 +451,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Report: Elon Musk Chases Jensen Huang As Tesla Bankrolls $830 Million Of Samsung’s Substrate Plant To Lock 5 Years Of Supply For Its Humanoid Robots And Self-Driving Cars - Wccftech Report: Elon Musk Chases Jensen Hua",
-      "capturedAt": "2026-10-27T22:52:15.733758+00:00"
+      "capturedAt": "2026-10-28T00:50:02.093181+00:00"
     },
     {
       "id": "54cb6038dae4",
@@ -542,7 +472,74 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang pushed back on 2029 memory glut fears amid stock selloff - Quartz Jensen Huang pushed back on 2029 memory glut fears amid stock selloff Quartz",
-      "capturedAt": "2026-10-27T22:52:15.733758+00:00"
+      "capturedAt": "2026-10-28T00:50:02.093181+00:00"
+    },
+    {
+      "id": "b70c89419897",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Nvidia's Jensen Huang says he sees no sign of a 2029 memory glut: 'You can always use more' - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT2F6ekhMbjE1SFdLRUhlWE5xVnlBVE80VmVCaldMMXhhQzB3dGxuTDdGbXNhakQ3cUhCWFpidWdkdUFxcDE2WDlwVlFlWFpOOUY1Vk5OMDdFRGdNbTM4NkhSRm93bE9rQW1RVEQzSXB6LVRMM0QtdmJxWDhxVFVqV0Zkay1EMFXSAYwBQVVfeXFMT2ZPbWM0aDdnNUxPTFRhSGxBTkFCQlI1c3R2MGtlQWdCdWRvTEZ4amw3MW40NTVIQU5JRVRGSDlsbTRTaW1wc1dZQWgwLUl4MVd4THZxTVk5Z1Zzd1lhbFFtSjYzbXF6RzEyTkxVRV9mTzQ4LUlsbDJnQ0E5dFJHMW1mNVZWc1VMeWJTT1Y?oc=5",
+      "publishedAt": "2026-10-22T13:12:38+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Nvidia's Jensen Huang says he sees no sign of a 2029 memory glut: 'You can always use more' - CNBC Nvidia's Jensen Huang says he sees no sign of a 2029 memory glut: 'You can always use more' CNBC",
+      "capturedAt": "2026-10-28T00:50:02.093181+00:00"
+    },
+    {
+      "id": "92da063c85c7",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Watch CNBC's full interview with Nvidia CEO Jensen Huang - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX2gzeXI2MmhQLWgtY0ZUZURCUXNOckJGQUxuZ0ZMZGFLOFIzUVJWbk9OX3FJVEJSYi1FRGR3TzFEeFk2bURudjZBWmZvNjcyUHgxcXBVTHdpTE55ZmlvWjA4dm9DQlJqRVRTc3lESVRkdFJoM3VfTXQwNG1pNVM3RXV3?oc=5",
+      "publishedAt": "2026-10-22T10:24:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang",
+        "NVIDIA CEO",
+        "Nvidia CEO"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Watch CNBC's full interview with Nvidia CEO Jensen Huang - CNBC Watch CNBC's full interview with Nvidia CEO Jensen Huang CNBC",
+      "capturedAt": "2026-10-28T00:50:02.093181+00:00"
+    },
+    {
+      "id": "46296e66b131",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeFpCR0VMTzFlRUJkdkNibEY3eFhBT1lxSkVFckRzUkFsRE1lcFRHNjVqWnB6TnYzcFROUDNLUnRCOWFLM01WbEdDRV9sN1B6cDZuSXFqT3FiSEpVLWhWMzlrYTNPTFhHU054bC1oM1FKRmY3QUtEOEFmNGZCTWxlVVR1S0g2NGfSAYwBQVVfeXFMTmlvdTlxcGJUOS1aTDdYbzRvSU8wTHZZTERSTXRaZFA3VDVfSkoxN3JBRFA5aVkwSFFkS1dLZW1pdlJWRzRldy1FN1IyT0xxVW9jRTh5ZVhyaFRSYWZYNzZ5d1hicGhKVC1wWHFwdFItOHlpeGZGLTVJcXZoWHFoRUJOWjNTZXI0dGVwNWk?oc=5",
+      "publishedAt": "2026-10-22T10:01:29+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang",
+        "NVIDIA CEO",
+        "Nvidia CEO"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce - CNBC Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce CNBC",
+      "capturedAt": "2026-10-28T00:50:02.093181+00:00"
     }
   ],
   "errors": [
