@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-28T22:57:20.468984+00:00",
+  "generatedAt": "2026-10-29T01:25:12.007023+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
-  "publishedToTimeline": 12,
+  "publishedToTimeline": 9,
   "signals": [
     {
       "id": "558de97e92fe",
@@ -26,7 +26,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang's Eldest Daughter Madison Huang to Visit Seoul Next Month — Her Fourth South Korea Trip This Year - BigGo Finance Jensen Huang's Eldest Daughter Madison Huang to Visit Seoul Next",
-      "capturedAt": "2026-10-28T22:57:20.468997+00:00"
+      "capturedAt": "2026-10-29T01:25:12.007036+00:00"
     },
     {
       "id": "406ebd94dad4",
@@ -49,7 +49,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳長女Madison Huang下月訪首爾，今年第四度訪韓 - BigGo 財經 黃仁勳長女Madison Huang下月訪首爾，今年第四度訪韓 BigGo 財經",
-      "capturedAt": "2026-10-28T22:57:20.468997+00:00"
+      "capturedAt": "2026-10-29T01:25:12.007036+00:00"
     },
     {
       "id": "45e5abf99035",
@@ -72,7 +72,30 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "抗議者鬧場、機器鴨罷工，黃仁勳柏林演講靠幽默化解插曲 - TechNews 科技新報 抗議者鬧場、機器鴨罷工，黃仁勳柏林演講靠幽默化解插曲 TechNews 科技新報",
-      "capturedAt": "2026-10-28T22:57:20.468997+00:00"
+      "capturedAt": "2026-10-29T01:25:12.007036+00:00"
+    },
+    {
+      "id": "485d1dd5e63f",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳GTC大會報明牌！6台廠入列「新武器」供應鏈 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNcFNnc1Bsd2M4MkJoOGo4UWZoRF92TDBKeFRMZEZTZGZxUFA3bkJlWkdsSjdINWtVb3ZqeVV4cHcxNU5RY0J4d1NuNzVQWm9VMllQelZNam1ZYjd5aW04VkZmbkhYOFoyY2VFamVWdW9VMWVWMFc3QVVyZy1wMGc0MFV6NDBoZlJaQXliZWI1UGZpal83UFh2dktxdHQ5MXVyTGlJRnlqX2w4YWpOODgzZmFDRXVja3NaMG1MenFjN3BKT240R1gxY0Jzd1BQY0t1VnkxNEF1YmR2Wlc1U05QWjJtcFM5OVMtQ2kzc0pzYlFCZDJCM2tTZzBNUXk2SmZrR1RrRkJ2eHp3dEN4ZGw0ZHlpWU1CaDQtRld2VmRVbGEyMnNjQmlCU1JZMWhZUWc2MDBtTjRaWkRndlBp?oc=5",
+      "publishedAt": "2026-10-22T00:14:41+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "GTC"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳GTC大會報明牌！6台廠入列「新武器」供應鏈 - Yahoo股市 黃仁勳GTC大會報明牌！6台廠入列「新武器」供應鏈 Yahoo股市",
+      "capturedAt": "2026-10-29T01:25:12.007036+00:00"
     },
     {
       "id": "a6524f4d5ffb",
@@ -99,76 +122,7 @@
       ],
       "publicContextFlags": [],
       "summary": "輝達 GTC 大戲登場 黃仁勳：現在正處於新工業革命開端 所有人獲利能力將提升 - 經濟日報 輝達 GTC 大戲登場 黃仁勳：現在正處於新工業革命開端 所有人獲利能力將提升 經濟日報",
-      "capturedAt": "2026-10-28T22:57:20.468997+00:00"
-    },
-    {
-      "id": "f05c799d502a",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳GTC大會點名台廠三強！輝達砸預付款擴產 欣興、京元電、矽品全面卡位AI供應鏈 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNY0M0TVcwWEZ2TDVaSEdnMmFrdXI5OG8zZDJxTGNpUGpWT2lsaXZ3aHNURkZVQTU4OEZ6Tzd4Tzh2U0pvWV85V0FObG4yc1o2X01YNlRuQkZRbS1MTmd1Yl9XbVg0RHNTdlBuZkRkcDRBS2xneG4wMzUyTzNwaldBeTNaX2llMWNHeGFXanRHR0hvQWhkUWYzVE5ycEZsY2wxWjBJd01LMWpidDVzcVA2RVBjV21sUjdHbWNVV043SjNOVmlSbFRzck00cDhBajdiM1VCWHJNWU1nUUVEdURLQVFoSXhIWXNhUVlRS2dIWTFhSTR0RUYzbjNWVmZuRDlzOEpyZjFVMjRyb2NBdXNpRkQySlVybnY0VGJ3OHJLT21PdjcyYzJNRlJOT21PR3c2RlJNUkpJOFlrTUZPMFBCYmo5cGNFZUpwYTBPZlQ4SWFJbUg5MEpvcFZMZUxELWVvczIzOVZKWThjdF9vQU9zOWxPTWhFN1h0bzJ1RERpNTlYLTJuRkpaT2hyOV85Q0s5bllJaDJZVUZ0OGxyZXc4ejFVMGp5cWpuTTZLTXlHZHNNZWV3allJX3BnRzFZcllyRU1XeHJkZkQ0Tjk5NVptNUJqU2tDMEQ1TkZld2lNdThKRk03NE5uRXBxVQ?oc=5",
-      "publishedAt": "2026-10-21T16:02:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "GTC"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳GTC大會點名台廠三強！輝達砸預付款擴產 欣興、京元電、矽品全面卡位AI供應鏈 - Yahoo新聞 黃仁勳GTC大會點名台廠三強！輝達砸預付款擴產 欣興、京元電、矽品全面卡位AI供應鏈 Yahoo新聞",
-      "capturedAt": "2026-10-28T22:57:20.468997+00:00"
-    },
-    {
-      "id": "34b0cc6258e3",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "影》AI工廠不用等半年？黃仁勳GTC祭新武器 台廠6雄同步入列 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOSURULXFJNW95X2R1VlhjcVk4bHhSVGhlUXo0QmNsRG9pSHJMTWpXV25CTldQM18zY2dBTVM2Q2RQQXBTZzdObWktSWxJZWxOTnU4QmRRcW85ajlTX09SVnB5WWRLRXltbkU4aGRwd2V2bWlsbGs5TktDRnJlQ2p4akE5U1dhLWNJX2EyUU00MWk1cGZqUWc3c0JJRzAzT0NoaU15eFJSZ1lUcklGa0ZhLXF0SHNUejlTWTZPSHFSUFM0aFNVNURsVy0wcGxXUVRTZnoyMWpaQWxSa1M3bi1Qa05iN0RDbDZ6d0xmUGsyQ1VMc3otdk5TLUdmdGtWYjZrZkdHTlptZ1h5TnFxajdLcm5fSmVkSFozZTlNa3pqbUc1MmpsWkdXX2MwaXo3ajFpSTBXcmpGcE9PWlBibU1LNzFVclZ3WjctdzEtdk5sUDdfck1SRURFVFhRajM0QkV5MEhGeVhiandTclJYNklN?oc=5",
-      "publishedAt": "2026-10-21T14:20:56+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "GTC"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "影》AI工廠不用等半年？黃仁勳GTC祭新武器 台廠6雄同步入列 - Yahoo股市 影》AI工廠不用等半年？黃仁勳GTC祭新武器 台廠6雄同步入列 Yahoo股市",
-      "capturedAt": "2026-10-28T22:57:20.468997+00:00"
-    },
-    {
-      "id": "c0e706e9fb85",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳GTC演說暢談AI布局與願景五大重點一次看- 國際 - 工商時報",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2ZmtZcHR1dU1Gak9zMDFlRGI5TklOaG9nTWRLUERKS3BtYmZSbWY0Z3lfOU9KWDRvRV84ZHZSRWNJaE9XM0MyNFZEclhVRFNmdG52ZURsRUNUNkVJTmxz?oc=5",
-      "publishedAt": "2026-10-21T13:34:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "GTC"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳GTC演說暢談AI布局與願景五大重點一次看- 國際 - 工商時報 黃仁勳GTC演說暢談AI布局與願景五大重點一次看- 國際 工商時報",
-      "capturedAt": "2026-10-28T22:57:20.468997+00:00"
+      "capturedAt": "2026-10-29T01:25:12.007036+00:00"
     },
     {
       "id": "fcc65dbc9a23",
@@ -191,7 +145,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "A protester and a robot duck hiccup: 2 moments from Jensen Huang's keynote didn't go to plan - Business Insider A protester and a robot duck hiccup: 2 moments from Jensen Huang's keynote didn't go to plan Business Insider",
-      "capturedAt": "2026-10-28T22:57:20.468997+00:00"
+      "capturedAt": "2026-10-29T01:25:12.007036+00:00"
     },
     {
       "id": "95ee10547e27",
@@ -215,30 +169,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia GTC Berlin Keynote: Jensen Huang Puts $50 Billion Price Tag On 1GW AI Factory Amid DSX POD Launch - Yahoo Finance Nvidia GTC Berlin Keynote: Jensen Huang Puts $50 Billion Price Tag On 1GW AI Factory Amid DSX POD",
-      "capturedAt": "2026-10-28T22:57:20.468997+00:00"
-    },
-    {
-      "id": "2498b495a9ad",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳GTC Berlin今晚登場！德國工業AI合作、20億元投資與輝達財報成焦點｜美股觀察｜豐雲學堂2026 年 10 月 - 永豐金證券",
-      "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxQUTZ1em5Ib1hnbHJtZVpyZmJHTENpcGZGajlIZVYxWU5qaGVQeGljMmF6bk1KYVlMYjBOc1U5Z1B4ZGptRDZZZ3hDYkZkRFktMjlYUG94SzVOVGh5SlVndDFQaEU4QjV3TVllWXoxZS0wSjZXazdrX2hpUkpsVnpIVkEwNVJKb3VlSUdyM2dTRWFDdllwcWJhamduMWRwZ184NlVFeWhFblpjOWFsUVJnNHdHVDlUZThPQ2t0UFNYSUo3UWFKM0lhR3RHbnFBLUlKTHlaRFRKOU5KelhnT016NWlMbXlQOUZjQTd4cTJROExKbHFrYzBVUE15dnVvMjlhdHZzSGpXNVo0RXJJYllCNkhaekg0YXh2enI3UGNYXzVSODdRQ2dXbWpyRTRtLUJNY1BPMGRldlhocXVGS2VSOE0ycDZaOW9DMGNTaEFNNUxXY3YwSzkxUmY1NGlVOUw0Qk9EOEhhblRBX3hNV0dYaWt5OVdTN2d4NUhzVTU3SE44WlFrekdvUVpESnFFT3lObEQyTnpsZ1NHd2lqcjJNaXJET3V3bkxOR2tDdlROR3VwcEpHeDhyUDJDQWc0ZXA0cVNhcVdJZU1QQThNOFZuNVV2X2xHNmh5SV9pQmMzRlNkbFNNcHdGMjlISTRSUVk?oc=5",
-      "publishedAt": "2026-10-21T06:53:58+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "GTC"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳GTC Berlin今晚登場！德國工業AI合作、20億元投資與輝達財報成焦點｜美股觀察｜豐雲學堂2026 年 10 月 - 永豐金證券 黃仁勳GTC Berlin今晚登場！德國工業AI合作、20億元投資與輝達財報成焦點｜美股觀察｜豐雲學堂2026 年 10 月 永豐金證券",
-      "capturedAt": "2026-10-28T22:57:20.468997+00:00"
+      "capturedAt": "2026-10-29T01:25:12.007036+00:00"
     },
     {
       "id": "9db4ef3da845",
@@ -263,7 +194,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang says if you want to be successful, be prepared to suffer - Fortune Nvidia CEO Jensen Huang says if you want to be successful, be prepared to suffer Fortune",
-      "capturedAt": "2026-10-28T22:57:20.468997+00:00"
+      "capturedAt": "2026-10-29T01:25:12.007036+00:00"
     },
     {
       "id": "fe517ac00d12",
@@ -288,7 +219,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang was everywhere in Q3. The AI giant's stock proves it. - Yahoo Finance Nvidia CEO Jensen Huang was everywhere in Q3. The AI giant's stock proves it. Yahoo Finance",
-      "capturedAt": "2026-10-28T22:57:20.468997+00:00"
+      "capturedAt": "2026-10-29T01:25:12.007036+00:00"
     },
     {
       "id": "d5e5dff9f615",
@@ -311,11 +242,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang wins Van Fleet Award as Korea-US tech ties deepen - Chosunbiz Jensen Huang wins Van Fleet Award as Korea-US tech ties deepen Chosunbiz",
-      "capturedAt": "2026-10-28T22:57:20.468997+00:00"
+      "capturedAt": "2026-10-29T01:25:12.007036+00:00"
     },
     {
       "id": "17ff5862c9f9",
-      "status": "needs-review",
+      "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: Jensen Huang",
@@ -332,11 +263,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Does Jensen Huang Know Something Wall Street Doesn't? Nvidia's CEO Sees No Signs of Memory Demand Fading by 2029 - Yahoo Finance Does Jensen Huang Know Something Wall Street Doesn't? Nvidia's CEO S",
-      "capturedAt": "2026-10-28T22:57:20.468997+00:00"
+      "capturedAt": "2026-10-29T01:25:12.007036+00:00"
     },
     {
       "id": "07ae3d66d652",
-      "status": "needs-review",
+      "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: Jensen Huang Korea",
@@ -353,11 +284,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia's Jensen Huang Demo Sparks 'MicroDuck' Duck Robot Craze — South Korea's Robotis Shares Surge 13% - BigGo Finance Nvidia's Jensen Huang Demo Sparks 'MicroDuck' Duck Robot Craze — South Korea's Ro",
-      "capturedAt": "2026-10-28T22:57:20.468997+00:00"
+      "capturedAt": "2026-10-29T01:25:12.007036+00:00"
     },
     {
       "id": "7fcf61496459",
-      "status": "needs-review",
+      "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳 韓國",
@@ -374,11 +305,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "打臉韓國專家「記憶體產能過剩說」 黃仁勳表態對採用中國長鑫存儲產品持開放態度 - udn科技玩家 打臉韓國專家「記憶體產能過剩說」 黃仁勳表態對採用中國長鑫存儲產品持開放態度 udn科技玩家",
-      "capturedAt": "2026-10-28T22:57:20.468997+00:00"
+      "capturedAt": "2026-10-29T01:25:12.007036+00:00"
     },
     {
       "id": "5d8d854a48c4",
-      "status": "needs-review",
+      "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: Jensen Huang",
@@ -397,11 +328,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang Reaffirms His $4 Trillion Projection for AI Spending. Here's Why That Makes Nvidia a Screaming Buy Now. - The Motley Fool Nvidia CEO Jensen Huang Reaffirms His $4 Trillion Project",
-      "capturedAt": "2026-10-28T22:57:20.468997+00:00"
+      "capturedAt": "2026-10-29T01:25:12.007036+00:00"
     },
     {
       "id": "9df62aee1af1",
-      "status": "needs-review",
+      "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳 韓國",
@@ -418,11 +349,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "海力士Solidigm赴美上市喊卡！記憶體股倒地 黃仁勳卻說「看空者錯了」 - 三立新聞網SETN.com 海力士Solidigm赴美上市喊卡！記憶體股倒地 黃仁勳卻說「看空者錯了」 三立新聞網SETN.com",
-      "capturedAt": "2026-10-28T22:57:20.468997+00:00"
+      "capturedAt": "2026-10-29T01:25:12.007036+00:00"
     },
     {
       "id": "6f95c961b9fe",
-      "status": "needs-review",
+      "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: Jensen Huang",
@@ -439,32 +370,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "AI bear slams Nvidia's GPU pitch: 'There's not scarcity other than that which is created by Jensen Huang' - Yahoo Finance AI bear slams Nvidia's GPU pitch: 'There's not scarcity other than that which is created by Jensen Huang' Yahoo Finance",
-      "capturedAt": "2026-10-28T22:57:20.468997+00:00"
-    },
-    {
-      "id": "cf53844e9785",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳警告德國：沒有第二次機會！ 謝金河評：歐洲「再工業化」台灣是最佳夥伴 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOTVltbkpXUEJzbEYyancyTm94YlZrNXNRd0t3cUVYOGZ1dWtIVkV6bl91MmxNZW4tNVBUVTBqZTkyZmhOVUNEazdxcmFSNWJYQmhvd0lwZG5QeUJIdmNQM2NsYUp4ajlSTXZiNmlDMk5XYzhWb21wUmkxLWdnZ0ZqbnlDenBzbjVxS2VUSVloY25CMGVReEZJblZsRkQ2ZkpMSDNRVzB4UjJLZUp5Q0tQWVo5RHBwWkxTSHBTQ0FTTHhZVXBKakY0ZnlfMTg0Z2t0aEZUdHc2aDBYS0wzSFB5TlI2Ylh6MWprcE9QQVladkdNVnNwQU5VNlVvdEFqSDJnVHM5N0xCLXlLOEl1VVliNFdXME9UdHYzNVFmTEtROW4yTUQtSThfeDVkdlpfNEVpd0dwZU1GdEYzekpsOHRhbUFjTlAydS1aNUJNRW1Ga3FGUDJ0eXZFMGR6bUo0ZWFQeDltczlycDBTbFdOd1RBbGcwbE1lRjht?oc=5",
-      "publishedAt": "2026-10-24T08:35:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳警告德國：沒有第二次機會！ 謝金河評：歐洲「再工業化」台灣是最佳夥伴 - Yahoo新聞 黃仁勳警告德國：沒有第二次機會！ 謝金河評：歐洲「再工業化」台灣是最佳夥伴 Yahoo新聞",
-      "capturedAt": "2026-10-28T22:57:20.468997+00:00"
+      "capturedAt": "2026-10-29T01:25:12.007036+00:00"
     },
     {
       "id": "7f37f874c71e",
-      "status": "needs-review",
+      "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
@@ -481,11 +391,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳：AI 產業資金短缺 需求爆表 但籌資挑戰大 - 經濟日報 黃仁勳：AI 產業資金短缺 需求爆表 但籌資挑戰大 經濟日報",
-      "capturedAt": "2026-10-28T22:57:20.468997+00:00"
+      "capturedAt": "2026-10-29T01:25:12.007036+00:00"
     },
     {
       "id": "685bf1de7f4f",
-      "status": "needs-review",
+      "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳 韓國",
@@ -502,11 +412,32 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "不妙！黃仁勳信心喊話也擋不住記憶體股災- 生活新聞 - PChome Online 新聞 不妙！黃仁勳信心喊話也擋不住記憶體股災- 生活新聞 PChome Online 新聞",
-      "capturedAt": "2026-10-28T22:57:20.468997+00:00"
+      "capturedAt": "2026-10-29T01:25:12.007036+00:00"
+    },
+    {
+      "id": "2028ba97a34e",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳一句話引爆賣壓？陳重銘揭3大利空：台股要小心 - 三立新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCWUtxX0FxZWEwbUdreWxYbGxtbE9JbWl4UUhXeVY5VzBtOGk5cFBPWnZYWU50R3FuZjJyTnpxVnYyMmpxSFh4c9IBTEFVX3lxTE1Pa2lIdEZfUThlR25EUEdFX1NnSzlMWnlRcF9HQWozM3kyTVg2SmdLZ2xVak9DQTNaaEVMQ2lPOXF1SWY0Z0lpTTRXbV8?oc=5",
+      "publishedAt": "2026-10-23T08:49:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳一句話引爆賣壓？陳重銘揭3大利空：台股要小心 - 三立新聞 黃仁勳一句話引爆賣壓？陳重銘揭3大利空：台股要小心 三立新聞",
+      "capturedAt": "2026-10-29T01:25:12.007036+00:00"
     },
     {
       "id": "1db9a118da68",
-      "status": "needs-review",
+      "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
@@ -523,11 +454,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "AI訂單不缺 缺的是錢！黃仁勳揭新雲端業者擴張困境 - 鉅亨網 AI訂單不缺 缺的是錢！黃仁勳揭新雲端業者擴張困境 鉅亨網",
-      "capturedAt": "2026-10-28T22:57:20.468997+00:00"
+      "capturedAt": "2026-10-29T01:25:12.007036+00:00"
     },
     {
       "id": "9f7571d688a3",
-      "status": "needs-review",
+      "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
@@ -544,7 +475,70 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "記憶體2029年恐變紅海？黃仁勳親自回應：供過於求機率不大 - Yahoo股市 記憶體2029年恐變紅海？黃仁勳親自回應：供過於求機率不大 Yahoo股市",
-      "capturedAt": "2026-10-28T22:57:20.468997+00:00"
+      "capturedAt": "2026-10-29T01:25:12.007036+00:00"
+    },
+    {
+      "id": "ab6ab5beedb5",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "記憶體市場從「缺晶片」變「紅海」？黃仁勳：2029年供應過剩可能性不大 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83ODUwZFVxSjYxQ0VMSkxJbkJZeFI2Q0xhNmIwUjRTaHpzMXZQaExVZHNhd3I1dGpXUmJ1bmRJLTkyRmt6S3NYNEZsbUx6V00?oc=5",
+      "publishedAt": "2026-10-23T03:30:02+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "記憶體市場從「缺晶片」變「紅海」？黃仁勳：2029年供應過剩可能性不大 - 鉅亨網 記憶體市場從「缺晶片」變「紅海」？黃仁勳：2029年供應過剩可能性不大 鉅亨網",
+      "capturedAt": "2026-10-29T01:25:12.007036+00:00"
+    },
+    {
+      "id": "b1cfcfea190b",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "記憶體超級周期告終？黃仁勳反駁：輝達將大量採用LPDDR、HBM 不排除攜手長鑫- 兩岸 - 工商時報",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGczNrR0o4bWFZcnN6S1dDUV9RR1c5NGhQMHRfdjQyUGRLQWhfWThxbnhiaXVhVTBBV29BNnNUTjdWajhEREJFLUpvcUtLLTlnT3Z2SGE3b2gzR0F3eU1v?oc=5",
+      "publishedAt": "2026-10-23T03:26:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "記憶體超級周期告終？黃仁勳反駁：輝達將大量採用LPDDR、HBM 不排除攜手長鑫- 兩岸 - 工商時報 記憶體超級周期告終？黃仁勳反駁：輝達將大量採用LPDDR、HBM 不排除攜手長鑫- 兩岸 工商時報",
+      "capturedAt": "2026-10-29T01:25:12.007036+00:00"
+    },
+    {
+      "id": "1015d0d7074f",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "費半為何重摔6.7%、黃仁勳說了什麼？六重點一次看| 全球財經| 全球 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HZGw1Tmx4emptdDhpVHZyc0w5djA2MHBGb2IwWm1FVk9BWHFqXzFGUklqc3BKT1QtWDVlQVk1RVlPTDNlN2hjNWJUSld1d1lN?oc=5",
+      "publishedAt": "2026-10-23T00:57:19+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "費半為何重摔6.7%、黃仁勳說了什麼？六重點一次看| 全球財經| 全球 - UDN 費半為何重摔6.7%、黃仁勳說了什麼？六重點一次看| 全球財經| 全球 UDN",
+      "capturedAt": "2026-10-29T01:25:12.007036+00:00"
     }
   ],
   "errors": [
