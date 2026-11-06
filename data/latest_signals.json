@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-05T23:57:09.561157+00:00",
+  "generatedAt": "2026-11-06T01:55:47.182493+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
-  "publishedToTimeline": 8,
+  "publishedToTimeline": 9,
   "signals": [
     {
       "id": "6f1fb0785ec5",
@@ -26,7 +26,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Trump voices uncertainty about Nvidia CEO, a close tech adviser - The Washington Post Trump voices uncertainty about Nvidia CEO, a close tech adviser The Washington Post",
-      "capturedAt": "2026-11-05T23:57:09.561174+00:00"
+      "capturedAt": "2026-11-06T01:55:47.182509+00:00"
     },
     {
       "id": "e8217098aca3",
@@ -49,7 +49,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "NVIDIA深化南韓機器人版圖 黃仁勳長女年內四度訪韓 - DIGITIMES NVIDIA深化南韓機器人版圖 黃仁勳長女年內四度訪韓 DIGITIMES",
-      "capturedAt": "2026-11-05T23:57:09.561174+00:00"
+      "capturedAt": "2026-11-06T01:55:47.182509+00:00"
     },
     {
       "id": "406ebd94dad4",
@@ -72,7 +72,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳長女Madison Huang下月訪首爾，今年第四度訪韓 - BigGo 財經 黃仁勳長女Madison Huang下月訪首爾，今年第四度訪韓 BigGo 財經",
-      "capturedAt": "2026-11-05T23:57:09.561174+00:00"
+      "capturedAt": "2026-11-06T01:55:47.182509+00:00"
     },
     {
       "id": "558de97e92fe",
@@ -96,7 +96,30 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang's Eldest Daughter Madison Huang to Visit Seoul Next Month — Her Fourth South Korea Trip This Year - BigGo Finance Jensen Huang's Eldest Daughter Madison Huang to Visit Seoul Next",
-      "capturedAt": "2026-11-05T23:57:09.561174+00:00"
+      "capturedAt": "2026-11-06T01:55:47.182509+00:00"
+    },
+    {
+      "id": "45e5abf99035",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "抗議者鬧場、機器鴨罷工，黃仁勳柏林演講靠幽默化解插曲 - TechNews 科技新報",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zVmxHQUEyX1BpM3Vfd3ZkVTVGMUlMRHBZZzNZMWZ6UTB5SUthZUN1dndUMDlYRHlSRVIxbWF5TGxNTUlNamxmeF9idUxkcWtCelRNcEZvdXJid1o4dDNJWFdES3JPQzBZa1BSd1ZrUjUySjNKQnc?oc=5",
+      "publishedAt": "2026-10-22T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "演講"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "抗議者鬧場、機器鴨罷工，黃仁勳柏林演講靠幽默化解插曲 - TechNews 科技新報 抗議者鬧場、機器鴨罷工，黃仁勳柏林演講靠幽默化解插曲 TechNews 科技新報",
+      "capturedAt": "2026-11-06T01:55:47.182509+00:00"
     },
     {
       "id": "38acc8e45f26",
@@ -119,7 +142,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳GTC Berlin今晚登場！德國工業AI合作、20億元投資與輝達財報成焦點｜美股觀察｜豐雲學堂2026 年 11 月 - 永豐金證券 黃仁勳GTC Berlin今晚登場！德國工業AI合作、20億元投資與輝達財報成焦點｜美股觀察｜豐雲學堂2026 年 11 月 永豐金證券",
-      "capturedAt": "2026-11-05T23:57:09.561174+00:00"
+      "capturedAt": "2026-11-06T01:55:47.182509+00:00"
     },
     {
       "id": "485d1dd5e63f",
@@ -142,7 +165,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳GTC大會報明牌！6台廠入列「新武器」供應鏈 - Yahoo股市 黃仁勳GTC大會報明牌！6台廠入列「新武器」供應鏈 Yahoo股市",
-      "capturedAt": "2026-11-05T23:57:09.561174+00:00"
+      "capturedAt": "2026-11-06T01:55:47.182509+00:00"
     },
     {
       "id": "36f0cf410b9e",
@@ -167,7 +190,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Why Nvidia CEO Jensen Huang Believes Suffering Is Part of Success - Inc.com Why Nvidia CEO Jensen Huang Believes Suffering Is Part of Success Inc.com",
-      "capturedAt": "2026-11-05T23:57:09.561174+00:00"
+      "capturedAt": "2026-11-06T01:55:47.182509+00:00"
     },
     {
       "id": "9db4ef3da845",
@@ -192,7 +215,70 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang says if you want to be successful, be prepared to suffer - Fortune Nvidia CEO Jensen Huang says if you want to be successful, be prepared to suffer Fortune",
-      "capturedAt": "2026-11-05T23:57:09.561174+00:00"
+      "capturedAt": "2026-11-06T01:55:47.182509+00:00"
+    },
+    {
+      "id": "1b06f99a0a8f",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "AI股重挫輝達跌9%！黃仁勳身價蒸發近5000億 跌出10大富豪榜 - TVBS新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MRU8zOTJ3MG9BSWNIRTdpX0xPTkJOYWFOanhSV29kVENTUWFQRGg0SktnM3dyM2Fsa1ZRcUJIVHotNkRocEM3QmNqZUM4TVk?oc=5",
+      "publishedAt": "2026-11-06T01:41:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "AI股重挫輝達跌9%！黃仁勳身價蒸發近5000億 跌出10大富豪榜 - TVBS新聞網 AI股重挫輝達跌9%！黃仁勳身價蒸發近5000億 跌出10大富豪榜 TVBS新聞網",
+      "capturedAt": "2026-11-06T01:55:47.182509+00:00"
+    },
+    {
+      "id": "029f4fe2bafd",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳淨值蒸發151億美元「掉出十大首富」美眾院員要求閉門說明間諜風波| 全球財經| 全球 - UDN",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OQmNfemVhdWIweXo1cDRRSFQ3TjRTSGw1Vm1GRzY4dk04TTJuSlh0OWNjTGVQQkYwODF4WF9jYm5OMWR4T2FwR1ptZGxqbDR1?oc=5",
+      "publishedAt": "2026-11-06T01:25:15+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳淨值蒸發151億美元「掉出十大首富」美眾院員要求閉門說明間諜風波| 全球財經| 全球 - UDN 黃仁勳淨值蒸發151億美元「掉出十大首富」美眾院員要求閉門說明間諜風波| 全球財經| 全球 UDN",
+      "capturedAt": "2026-11-06T01:55:47.182509+00:00"
+    },
+    {
+      "id": "5ab254bbee30",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "政治變天掀AI股崩盤！富豪榜洗牌：輝達黃仁勳掉出前十、全球500大單日蒸發1850億美元 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjdFpOZ0VKcmNXZlBEUm9Ga1FFRW1zeGJITGJIel9FbWd1Mkt3ZzJzd3BIQUd5anAwcmp1TWdfcjVDNHgtQkNEX3pqSTNqNEU?oc=5",
+      "publishedAt": "2026-11-06T00:20:54+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "政治變天掀AI股崩盤！富豪榜洗牌：輝達黃仁勳掉出前十、全球500大單日蒸發1850億美元 - 鉅亨網 政治變天掀AI股崩盤！富豪榜洗牌：輝達黃仁勳掉出前十、全球500大單日蒸發1850億美元 鉅亨網",
+      "capturedAt": "2026-11-06T01:55:47.182509+00:00"
     },
     {
       "id": "d6a3a3b6d66d",
@@ -214,7 +300,28 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Key Republicans seek briefing from Nvidia CEO over Chinese spy allegations-document - Reuters Key Republicans seek briefing from Nvidia CEO over Chinese spy allegations-document Reuters",
-      "capturedAt": "2026-11-05T23:57:09.561174+00:00"
+      "capturedAt": "2026-11-06T01:55:47.182509+00:00"
+    },
+    {
+      "id": "9ea925a85339",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "私廚聚會影片流出！貼身黃仁勳的『神祕女諜』謎團越滾越大！48億晶片暗網直通北京，川普回應意味深長！ - 希望之聲電台",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xVElENFNCMFprd19yRWdRSEh2NmpWWDJQVEZrVFZuTjc3dlp3dFRaZS1uaGlFelNmclZiODA4WFJPZlRQend6QndvejBVYkRqWFB4OHE4bGMtWFU?oc=5",
+      "publishedAt": "2026-11-05T13:20:44+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "私廚聚會影片流出！貼身黃仁勳的『神祕女諜』謎團越滾越大！48億晶片暗網直通北京，川普回應意味深長！ - 希望之聲電台 私廚聚會影片流出！貼身黃仁勳的『神祕女諜』謎團越滾越大！48億晶片暗網直通北京，川普回應意味深長！ 希望之聲電台",
+      "capturedAt": "2026-11-06T01:55:47.182509+00:00"
     },
     {
       "id": "80b63f950eed",
@@ -235,7 +342,28 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "《TIME》百大AI人物名單不見黃仁勳魏哲家，梁孟松低調神隱4年仍入選…「影響力」的定義曝光 - 今周刊 《TIME》百大AI人物名單不見黃仁勳魏哲家，梁孟松低調神隱4年仍入選…「影響力」的定義曝光 今周刊",
-      "capturedAt": "2026-11-05T23:57:09.561174+00:00"
+      "capturedAt": "2026-11-06T01:55:47.182509+00:00"
+    },
+    {
+      "id": "2e6483c23846",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳捲｢中國女間諜｣疑雲 ｢科技鐵幕｣時代下將受到更嚴密審視？ - 香港01",
+      "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxNVUlyQi12S2dKVktjNE4tU2pacmxzSHhCcjVjemdGQlN4NnhCNXUydEFSY3RUZ295bXZnaEtxV01MX0Vja0dJcmQ5a1FoVWhJRGliT3dRZUd1ZGpvMjZVTVBKTS1sVWJuTW5Nbk5qekxMWGtzVHd1WklrUmpLRlJZdVdHTkdHczFaVzR3NEpFNWd3VS1XRmgxay1wUzU3MlhqbG1Qb25jUG1FaWNyTjlDaENBM3dxSGxGb3I1ZVl4NDhVWGlIQkFRSXVySXlUXzRfNEdCbzdvVVZaWFUtMXFfdXpmYmc2TGFCeGR0VC1wSWsxZ1hHT0xRY2FEckRJcU1jTk1sTHlIbGxBclhmdjE1MHRSeDBsc2NnRTdtV19KYW93ZGN4U2hYSFdtRVkyVDlWRXg0cERpdFNQTnVHVWF0VWJFckhNSUxuc2txaDVuRzNldHk2NHlBTHNHNk1ndmZPajVrbEpiUDlwcEtuYTBIMmFRQXpBaUVTYTZmYzdiV3FmWWIxbUxVWTJ2YlpwczV0aU96RE8xVEVwb0JseERIS2I5OHVqRTRacTRjMVgyWHNWOUk?oc=5",
+      "publishedAt": "2026-11-04T02:58:53+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳捲｢中國女間諜｣疑雲 ｢科技鐵幕｣時代下將受到更嚴密審視？ - 香港01 黃仁勳捲｢中國女間諜｣疑雲 ｢科技鐵幕｣時代下將受到更嚴密審視？ 香港01",
+      "capturedAt": "2026-11-06T01:55:47.182509+00:00"
     },
     {
       "id": "e9d757ba5c3e",
@@ -256,7 +384,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳女婿背景超狂！滑雪國手「日爆肝15hrs」 入職2年直升輝達副總裁 - 三立新聞 黃仁勳女婿背景超狂！滑雪國手「日爆肝15hrs」 入職2年直升輝達副總裁 三立新聞",
-      "capturedAt": "2026-11-05T23:57:09.561174+00:00"
+      "capturedAt": "2026-11-06T01:55:47.182509+00:00"
     },
     {
       "id": "b312ea5a63da",
@@ -277,7 +405,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "蔣萬安直接聯繫黃仁勳留住輝達？ 黃仁勳一句話曝真相 - Yahoo新聞 蔣萬安直接聯繫黃仁勳留住輝達？ 黃仁勳一句話曝真相 Yahoo新聞",
-      "capturedAt": "2026-11-05T23:57:09.561174+00:00"
+      "capturedAt": "2026-11-06T01:55:47.182509+00:00"
     },
     {
       "id": "5ffeb11fa29a",
@@ -298,7 +426,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "【AI+併購】Marvell斥逾千億併購Lumentum 據報公布前兩間公司CEO曾尋求「教父」黃仁勳祝福 - 香港經濟日報HKET 【AI+併購】Marvell斥逾千億併購Lumentum 據報公布前兩間公司CEO曾尋求「教父」黃仁勳祝福 香港經濟日報HKET",
-      "capturedAt": "2026-11-05T23:57:09.561174+00:00"
+      "capturedAt": "2026-11-06T01:55:47.182509+00:00"
     },
     {
       "id": "f758cb27be71",
@@ -320,28 +448,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "US concerned by close ties between Nvidia CEO and Chinese Businesswoman - CNN US concerned by close ties between Nvidia CEO and Chinese Businesswoman CNN",
-      "capturedAt": "2026-11-05T23:57:09.561174+00:00"
-    },
-    {
-      "id": "3538e6508e39",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "紐時：黃仁勳疑遭北京女特務滲透，川普知情不處理 - 天下雜誌",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fUkJldkpPeGxERXpaNl8tSDRjbzV4allCWDBuUE1Vd212WnR0ZDlzdmtQN3c4TE5qNDYya1RiRHJVdDRpY1BwdkxvV0I2Zw?oc=5",
-      "publishedAt": "2026-11-02T08:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "紐時：黃仁勳疑遭北京女特務滲透，川普知情不處理 - 天下雜誌 紐時：黃仁勳疑遭北京女特務滲透，川普知情不處理 天下雜誌",
-      "capturedAt": "2026-11-05T23:57:09.561174+00:00"
+      "capturedAt": "2026-11-06T01:55:47.182509+00:00"
     },
     {
       "id": "c5fbeda8bcdc",
@@ -362,28 +469,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "輝達陷「女間諜案」痛失市值一哥！黃仁勳身價一個月暴跌近9600億元 - Yahoo股市 輝達陷「女間諜案」痛失市值一哥！黃仁勳身價一個月暴跌近9600億元 Yahoo股市",
-      "capturedAt": "2026-11-05T23:57:09.561174+00:00"
-    },
-    {
-      "id": "a4738a782bae",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳身邊爆中國女間諜疑雲！晶片疑被偷賣給中國 郭正亮：在警告他這件事 | 林子靖 | 新聞 - 風傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFaExMOWh4aVZETDRvTFhOMjRWSWk5bndJalZ1QUVsVkxPQlVmc2J6b1JwSHVsdE85TkdNbXd0SWZObGo3M1Y2TWxJcEdLQQ?oc=5",
-      "publishedAt": "2026-11-01T13:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳身邊爆中國女間諜疑雲！晶片疑被偷賣給中國 郭正亮：在警告他這件事 | 林子靖 | 新聞 - 風傳媒 黃仁勳身邊爆中國女間諜疑雲！晶片疑被偷賣給中國 郭正亮：在警告他這件事 | 林子靖 | 新聞 風傳媒",
-      "capturedAt": "2026-11-05T23:57:09.561174+00:00"
+      "capturedAt": "2026-11-06T01:55:47.182509+00:00"
     },
     {
       "id": "e2fa467a5ada",
@@ -404,7 +490,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "老黃反對嚴格監管AI！黃仁勳：應建立安全標準而非盲目踩煞車，將投2.5 億美元助英研究安全機制 - T客邦 老黃反對嚴格監管AI！黃仁勳：應建立安全標準而非盲目踩煞車，將投2.5 億美元助英研究安全機制 T客邦",
-      "capturedAt": "2026-11-05T23:57:09.561174+00:00"
+      "capturedAt": "2026-11-06T01:55:47.182509+00:00"
     },
     {
       "id": "6eb372d205e8",
@@ -425,7 +511,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "假如黃仁勳是中國間諜…… - 香港01 假如黃仁勳是中國間諜…… 香港01",
-      "capturedAt": "2026-11-05T23:57:09.561174+00:00"
+      "capturedAt": "2026-11-06T01:55:47.182509+00:00"
     },
     {
       "id": "93f392da5bd2",
@@ -446,91 +532,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia (NVDA) CEO Jensen Huang Reportedly Targeted In Chinese Espionage Plot - Yahoo Finance Nvidia (NVDA) CEO Jensen Huang Reportedly Targeted In Chinese Espionage Plot Yahoo Finance",
-      "capturedAt": "2026-11-05T23:57:09.561174+00:00"
-    },
-    {
-      "id": "c8ed5c043444",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "金鍾國大讚台灣美食！踩點黃仁勳愛店嗑豬腳 - 東森電視",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4SVVtY01qMHFPM1E2cFZTSjhUY3B6Z21VUUk0N0tOSXVfZVpXSHVKa01jWHQxWkdOZHNGWDhQWVQ1cmdiWUpObkFGaw?oc=5",
-      "publishedAt": "2026-10-31T08:02:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "金鍾國大讚台灣美食！踩點黃仁勳愛店嗑豬腳 - 東森電視 金鍾國大讚台灣美食！踩點黃仁勳愛店嗑豬腳 東森電視",
-      "capturedAt": "2026-11-05T23:57:09.561174+00:00"
-    },
-    {
-      "id": "2851bcabc28f",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "中國籍高層與黃仁勳關係密切 疑已被吸收為間諜向北京洩密 - 上報Up Media",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MTmdOcnVjYjFDb3lzdF9seGJra3d4SUdneGY5MG4wclY2eGc5UWdHNS1kdFc4ZlBsZWFsRmk4STRMeFRiSGxpMUpjQUZTWWZXcERsaHVYVkZNUThSUFVJNTl2UmtFT1E?oc=5",
-      "publishedAt": "2026-10-31T03:06:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "中國籍高層與黃仁勳關係密切 疑已被吸收為間諜向北京洩密 - 上報Up Media 中國籍高層與黃仁勳關係密切 疑已被吸收為間諜向北京洩密 上報Up Media",
-      "capturedAt": "2026-11-05T23:57:09.561174+00:00"
-    },
-    {
-      "id": "1cc75465e6c9",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳被爆身邊有中國女間諜？學者3點曝「為何留人」：不大可能不知道 - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPb0l5eEJlUVBLN0VPWnlDblM0VmhsY0NLdGdFREFqTU9fbjhheWhIb25JVkVkSXV6OEVCb1J2TnJVdTBfM3dCck9IbW9GQ19ZSlFjU1JmbXRsb0V4VHNOVDFNdzd1Y2p1MXoyVnNHOTYtSmk1R2lXNDd2OE51QlhwY1c4bHZjY3l5T0M3cnhKalBLYWtOMHZqSDhsWm1saFVHLWk5S2FUR2t4WFkzMlRrdFc2a2hRdG9SdG4yZ0dWTDR4SGUxVkNQLTB1T2RQN05NR2o5SUxaOElEWkJFZU9BdXo3ZjJPcmpvOHNBZlY0SlRXSVhCSU9lR1I2MzNnbmtlQjNPbHdSd0tkVS1ISFRJc3gwSmJfb2dsaHBOQmFDMHowV0dVcDhIcXpGS1huTmtETUNjLVd5eWNtSlBldTY2QkdIYzVmWEo0dGdEc0NPa2t5aFgyOG9YTm56SHJIeFhMdVBEeUM3YTRUeFJDUFpJZ3dScTdub28wR2VHV28tWWJIUlNrRkZZUkhub29US3prZ1RveWdMaFZRSVN4NjNOMzJGVEJBcXND?oc=5",
-      "publishedAt": "2026-10-30T23:35:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳被爆身邊有中國女間諜？學者3點曝「為何留人」：不大可能不知道 - Yahoo新聞 黃仁勳被爆身邊有中國女間諜？學者3點曝「為何留人」：不大可能不知道 Yahoo新聞",
-      "capturedAt": "2026-11-05T23:57:09.561174+00:00"
-    },
-    {
-      "id": "8d877f5c8f58",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "女共諜接近黃仁勳！美媒：台灣曾調查及派員監控 - 自由財經",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FMl9UOExSLU4ycHdFMURVWGVXanIwMml3WXFSN3RGMUZiaGlvTkxvdlZmNTVkeXZSdFdMbWNKZGR3T01LYzEzSi11QjFuUlJXeEF2cGx2XzFVWkJyTk1B0gFkQVVfeXFMTUMtUXBfaVh5bS1uQVhISTRBYzVDcjQycEU1WjZBRmNadjN5bzNWNzZzcm1LQ3BwbzlCbFZZNDVyNFdXdkx2bFRzSG1ERlJYNHRLYUpjMnhGUV9xVVFaV0JaeXdDdQ?oc=5",
-      "publishedAt": "2026-10-30T23:31:13+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "女共諜接近黃仁勳！美媒：台灣曾調查及派員監控 - 自由財經 女共諜接近黃仁勳！美媒：台灣曾調查及派員監控 自由財經",
-      "capturedAt": "2026-11-05T23:57:09.561174+00:00"
+      "capturedAt": "2026-11-06T01:55:47.182509+00:00"
     }
   ],
   "errors": [
