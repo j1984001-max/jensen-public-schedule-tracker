@@ -1,9 +1,78 @@
 {
-  "generatedAt": "2026-11-06T08:39:33.520841+00:00",
+  "generatedAt": "2026-11-06T15:44:20.224004+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
-  "publishedToTimeline": 8,
+  "publishedToTimeline": 11,
   "signals": [
+    {
+      "id": "a66eaaf2f75b",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Nvidia's Jensen Huang Loses $15 Billion in a Day, Faces House Inquiry - Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNy0wd2MtaG5jeEZrR3A0b1hybEdNV2o5SE52VDBqSk11S2I0aFc1QTFoSGt1VTlkMFJXZHJlUWc4S0plS2RVaE84WDlzOVpWTEE5RFBPX0RScE4tYmpZOXpVa2Y5U2NMOFNGclotVFVmN1NZMUZGZ1FldnN6OHAtUUJ6VENnS09LUDJOeUQ4TlJra1RqbWpXazZZNUZXSHI5OWhRTUdSM3RFQQ?oc=5",
+      "publishedAt": "2026-11-06T10:33:12+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [
+        "CES"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Nvidia's Jensen Huang Loses $15 Billion in a Day, Faces House Inquiry - Seoul Economic Daily Nvidia's Jensen Huang Loses $15 Billion in a Day, Faces House Inquiry Seoul Economic Daily",
+      "capturedAt": "2026-11-06T15:44:20.224014+00:00"
+    },
+    {
+      "id": "7c9b9d6a3367",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Nvidia’s Jensen Huang Drops To No. 9 In Billionaire Rankings Amid Chipmaker Selloff - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVGpfdkk1Mlc2Y1JkV0RBS05HYzR0U3dYY1o4OGNrQV9GTFh4c2hYQjYxNVJRZklkdmc2NUxpMW82dmJSQXlmS3RzR2YyU3otMmhia01DSFhhTFZiT3NIc2E3aEI3U0VxdU5Cb29pNGtCU2UxM3VqU3BiRnFla2FMeWQxbHROQVY5RVZIbjBMNnA3cmk2V3NEamV3bFJiN1hyRXJSS3NiREFiazQ2MDRmQjNQQlFHTF9YOE1QVF9BNjFqQ0hSckQ4TXRNTF9PYnJsTmlkWGdCVFBKVHo4LUE?oc=5",
+      "publishedAt": "2026-11-05T17:21:56+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [
+        "GTC"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Nvidia’s Jensen Huang Drops To No. 9 In Billionaire Rankings Amid Chipmaker Selloff - Forbes Nvidia’s Jensen Huang Drops To No. 9 In Billionaire Rankings Amid Chipmaker Selloff Forbes",
+      "capturedAt": "2026-11-06T15:44:20.224014+00:00"
+    },
+    {
+      "id": "a937416d68d6",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "蔣萬安牽線輝達？網挖黃仁勳昔演講狂酸：跨時空打臉拚攬功 - Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOZ01sbXkxQVlIUG1mMjVrVFVtcm5DVXVfTE4zU2o1QW9XVWhOZzQzNGQ4ZE0weV9xSVk1NXp6VEJLQXNRczdfN0U1VlBmcURGSHI4ZElKTEg3cVlKRlhPcVRZOHdPUUw2THl2bTdsa1dUYWJINnd6NU96b1JIT3I2Vl9tNTJaQjdZNWVXRHlyZW05VDVDMzdHcUlFaVl4dHYtWTQzQ2dFUjZiZHY3cndQYlFGUlNUVjNnT2tBUjhsQy1EWm5lN3YyVXluRkw4UHRaUlZWcHQ2Z09CYWN0aUJNa25tTEZWWU5BTktpd213TzhMU3RQVDNzdjMyVHppcFU0V2JUTjAzM3dJTktiNHBIRk9jZVVjaUgxSHZQa2RFRHduT2pHamVqYmFGN0xibTBEcWVkck02WHpJc25LYUotekRDczRBdjVWMUpHM3QxcHNqeEtvV3NZZE40Zi1DUnhhWnQ4NTljX2NNSWRaSXZLUnl0cDVMUUFlUGlIUXVMMFV3dw?oc=5",
+      "publishedAt": "2026-11-02T19:58:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "演講"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "蔣萬安牽線輝達？網挖黃仁勳昔演講狂酸：跨時空打臉拚攬功 - Yahoo新聞 蔣萬安牽線輝達？網挖黃仁勳昔演講狂酸：跨時空打臉拚攬功 Yahoo新聞",
+      "capturedAt": "2026-11-06T15:44:20.224014+00:00"
+    },
     {
       "id": "e8217098aca3",
       "status": "low-confidence",
@@ -25,7 +94,32 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "NVIDIA深化南韓機器人版圖 黃仁勳長女年內四度訪韓 - DIGITIMES NVIDIA深化南韓機器人版圖 黃仁勳長女年內四度訪韓 DIGITIMES",
-      "capturedAt": "2026-11-06T08:39:33.520878+00:00"
+      "capturedAt": "2026-11-06T15:44:20.224014+00:00"
+    },
+    {
+      "id": "8eb23364bab8",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Suspected Chinese intelligence asset gained access to Nvidia CEO Jensen Huang: report - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZjJYcEFfUXotZWtSNlA4eWxEbDkwQ0RqU0cyS0hEb1RqazdiZC1kLTFjdGx6TkR4M09ERHRYZFFzT250VDFqWEF6UEZUQ216dDdwY0oxVkFUc0pibUlEbWZkTHhDaGNfUjNZMjlUb2VXaTU0aFJVU3FLaDhJUHR3NG1BaVg0OVNlQXVBZElqdzVzTWE3a3B1VXpnRnNYZkZZZklfMjNGd2lBeVdkNW55QUdJc3V6NnRwTGxpWEE1Ui1jMnNE0gHKAUFVX3lxTE1VNmdkVl9QWEF5bDhqVE01OFl2MGtQQ2x5UXQ0cDJkallsbWd2MlhuanVuVW11c0QwUWpXVUpxZDVJT3dJZ216VlNIclc5TGpOendBWFpYTThXVlp4OE81MmpNeUwzTXZQenAyRjNVTThHVjdrU1hwYkVBallWbzZBLXJvVXZuaEM2UHRrRi1Uc3NrTkh5eVFRNFJNb0llYVlqU2hwN1lVSldoT043dmtXOU5PeVBndVRUaXhKUTNyWGNYenA5MlhWYVE?oc=5",
+      "publishedAt": "2026-10-29T18:03:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang",
+        "NVIDIA CEO",
+        "Nvidia CEO"
+      ],
+      "matchedEventKeywords": [
+        "CES"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Suspected Chinese intelligence asset gained access to Nvidia CEO Jensen Huang: report - Fox Business Suspected Chinese intelligence asset gained access to Nvidia CEO Jensen Huang: report Fox Business",
+      "capturedAt": "2026-11-06T15:44:20.224014+00:00"
     },
     {
       "id": "406ebd94dad4",
@@ -48,7 +142,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳長女Madison Huang下月訪首爾，今年第四度訪韓 - BigGo 財經 黃仁勳長女Madison Huang下月訪首爾，今年第四度訪韓 BigGo 財經",
-      "capturedAt": "2026-11-06T08:39:33.520878+00:00"
+      "capturedAt": "2026-11-06T15:44:20.224014+00:00"
     },
     {
       "id": "558de97e92fe",
@@ -72,30 +166,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang's Eldest Daughter Madison Huang to Visit Seoul Next Month — Her Fourth South Korea Trip This Year - BigGo Finance Jensen Huang's Eldest Daughter Madison Huang to Visit Seoul Next",
-      "capturedAt": "2026-11-06T08:39:33.520878+00:00"
-    },
-    {
-      "id": "45e5abf99035",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "抗議者鬧場、機器鴨罷工，黃仁勳柏林演講靠幽默化解插曲 - TechNews 科技新報",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zVmxHQUEyX1BpM3Vfd3ZkVTVGMUlMRHBZZzNZMWZ6UTB5SUthZUN1dndUMDlYRHlSRVIxbWF5TGxNTUlNamxmeF9idUxkcWtCelRNcEZvdXJid1o4dDNJWFdES3JPQzBZa1BSd1ZrUjUySjNKQnc?oc=5",
-      "publishedAt": "2026-10-22T07:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "演講"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "抗議者鬧場、機器鴨罷工，黃仁勳柏林演講靠幽默化解插曲 - TechNews 科技新報 抗議者鬧場、機器鴨罷工，黃仁勳柏林演講靠幽默化解插曲 TechNews 科技新報",
-      "capturedAt": "2026-11-06T08:39:33.520878+00:00"
+      "capturedAt": "2026-11-06T15:44:20.224014+00:00"
     },
     {
       "id": "38acc8e45f26",
@@ -118,7 +189,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳GTC Berlin今晚登場！德國工業AI合作、20億元投資與輝達財報成焦點｜美股觀察｜豐雲學堂2026 年 11 月 - 永豐金證券 黃仁勳GTC Berlin今晚登場！德國工業AI合作、20億元投資與輝達財報成焦點｜美股觀察｜豐雲學堂2026 年 11 月 永豐金證券",
-      "capturedAt": "2026-11-06T08:39:33.520878+00:00"
+      "capturedAt": "2026-11-06T15:44:20.224014+00:00"
     },
     {
       "id": "485d1dd5e63f",
@@ -141,7 +212,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳GTC大會報明牌！6台廠入列「新武器」供應鏈 - Yahoo股市 黃仁勳GTC大會報明牌！6台廠入列「新武器」供應鏈 Yahoo股市",
-      "capturedAt": "2026-11-06T08:39:33.520878+00:00"
+      "capturedAt": "2026-11-06T15:44:20.224014+00:00"
     },
     {
       "id": "36f0cf410b9e",
@@ -166,7 +237,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Why Nvidia CEO Jensen Huang Believes Suffering Is Part of Success - Inc.com Why Nvidia CEO Jensen Huang Believes Suffering Is Part of Success Inc.com",
-      "capturedAt": "2026-11-06T08:39:33.520878+00:00"
+      "capturedAt": "2026-11-06T15:44:20.224014+00:00"
     },
     {
       "id": "9db4ef3da845",
@@ -191,7 +262,49 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang says if you want to be successful, be prepared to suffer - Fortune Nvidia CEO Jensen Huang says if you want to be successful, be prepared to suffer Fortune",
-      "capturedAt": "2026-11-06T08:39:33.520878+00:00"
+      "capturedAt": "2026-11-06T15:44:20.224014+00:00"
+    },
+    {
+      "id": "64bec5f0ae8e",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "U.S. Lawmakers Summon Jensen Huang Over Alleged Chinese Spy Ties - Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQWV1aTZxYVA1ZzBBUWo1RWxrRmtTVmR1aE5aZUxDTUk5S2NpOV9Nc3R3U0MydjFfYXNBNjNocy0xREpRdFJVYXcxcVM2dVp3X0ZrSEpldFl5UzRXLV92dEZwa002SXRnYU42b3pjcUVMUlZiUF9NdDJSQ2psdkhCSHpBakRIMHNmX29EXy1LWGM1d0xRMDRhVkp4RmVQVTlQUE96blBMQjk?oc=5",
+      "publishedAt": "2026-11-06T09:19:40+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "U.S. Lawmakers Summon Jensen Huang Over Alleged Chinese Spy Ties - Seoul Economic Daily U.S. Lawmakers Summon Jensen Huang Over Alleged Chinese Spy Ties Seoul Economic Daily",
+      "capturedAt": "2026-11-06T15:44:20.224014+00:00"
+    },
+    {
+      "id": "6809dcccbbe9",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "全球股災爆發AI拋售潮黃仁勳身家蒸發151億美元馬斯克兩日少千億美元- 生活新聞 - PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOREd6QUFWVW5PVExYNk1jWjlRYkQxdjNub3hWTWtVZmg3SjA2eC1OaW1XcHNsSU5zRkxqTVZTSEVMT3RzLS1sbHNrbXRiRkRDM1FsNW9oUWdyd1dUeENhbHUwMmVqSHpVVWZ0U05yTzdZb1c5R095M0VFZjkwQThTM1lHaVFIQjV3?oc=5",
+      "publishedAt": "2026-11-06T08:51:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "全球股災爆發AI拋售潮黃仁勳身家蒸發151億美元馬斯克兩日少千億美元- 生活新聞 - PChome Online 新聞 全球股災爆發AI拋售潮黃仁勳身家蒸發151億美元馬斯克兩日少千億美元- 生活新聞 PChome Online 新聞",
+      "capturedAt": "2026-11-06T15:44:20.224014+00:00"
     },
     {
       "id": "5383d1a2fb5d",
@@ -214,18 +327,18 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang — US Congress Demands Briefing on Chinese Spy Allegations - The Korea Daily Nvidia CEO Jensen Huang — US Congress Demands Briefing on Chinese Spy Allegations The Korea Daily",
-      "capturedAt": "2026-11-06T08:39:33.520878+00:00"
+      "capturedAt": "2026-11-06T15:44:20.224014+00:00"
     },
     {
-      "id": "0044a9ad45a4",
+      "id": "2c887d49e3a3",
       "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
-      "title": "AI股災｜政治風暴重創科技巨頭：民主黨勝選引發AI數據中心監管憂慮馬斯克身家單日蒸發797億美元黃仁勳跌出富豪十大 - 香港經濟日報HKET",
-      "url": "https://news.google.com/rss/articles/CBMi1wVBVV95cUxPRVZ5UFJXN3I3MFVxcnB4cWdueEZQdUJDQWxwVFhNSWpCS3lTWnFOckVMem9HX2lwLUdKTGo1MzE5bmRvc3ZYei1VQUJKcGt6QVFJTC1mRk1LSVE1Z3d1eDU2R2Y1dnlob1FQeUFVWTFSWmt0RklTLWxPa1lVUnM1MG5YeGs2V2FkMWpVWGtsTEZnZml2eHZ0bnhaN2pMRmtRb0ZRaGg4VlF4a1FxRjlkOU8zcmJQSnl5X1NvX1pqa3RQTEJqWnlCOUt3Slp6ZWNHMll0Zy1Rc1UxbG43UGs2YlIyWFlHVmFkSG5RYkI4VEJKLTJXUVljampqSDhQbTNwRHR0V2JzbWxuUVd5RjRJRFVIajd4ZEg0WGRVX1VZVDZZNTNFanczR2UxeU9acjNVZFFQOXJvU1JBY0dISDh3RWYzU2tRV1JyamZlVFZpb1hkR0VsdE1JZUp3bXF6NHhYdXFFS19RaWg1ektwa3JTeG1lbmx1c1B5VnFJVHdfbUgwTGwwaklOSjZYczVmczdWcWxPZ2Q4QkI2cm9XWTNaRmxEY0VwWnVWMGZEdDI0WG5LMXpLRW5lc3psSTlJTDRUZGRValh6RUhDNXBTcklwTTViTFoydHl6WVJSci1EVS1RVHJDM29jN203Y1gyd3p3cG9KZGpNQ2NlWDVhUmVHTFdDN3FGWWVMTDZlSnRkc3B0bm9GTDFHWl9MVFJyV040cVRxWUtxRGg5YWMtZV9ZVFZrOWE4Y0NsUFBSR0VQUzZuY0F4M1FQRVE3WWtwWFpNblhHa0JWWGNPR1NqWWw5Yk5XVW9BM2ZvRnlFS2EyWjQzTWdzeFRIV1NTWFpDZ3kzQmFTRG05eVJXZHpFZUY1c2ltY0x1UE5uNVNRY0k1QkNUeUZzakVpM2ZLaHJYYzJvRHlOalF1N3Y5YndXNURUQ3RWMTk5ckJhTEJOUk42SUlreTlSTDBN?oc=5",
-      "publishedAt": "2026-11-06T02:05:23+00:00",
+      "title": "輝達股價單日暴跌9.3%！黃仁勳身家蒸發逾5000億 跌出全球前10大富豪榜 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxONjNPTkp3bWE5djhOQ0o3cXZhZUV0eVdYTEFJLUp5TERxTW56VGNvOXVxMUVHbmJ1Tm9BUmpDY2pRUU9KTjN6UmdEVUlCZUFqMFlTQXNWZk00TnVmdjhuYVh0dlJ4N2NmNVRrZGNjYnU3dWtyems2UFJ4R1JxaVk3bk5rZ2NOMUFPMnYxYzNWUF9ISndRM0lRNjBtYkNQblJYZkt4NmxIbTcxWHc2cnhUd0M2YmI2bTd4QjNJbG1rdkZCMHZxOWFsS1JyejBSeGJWTVVmdlpwUkhqc253d2c3YVVkakw5M3p3cGwxUElHQUN6SkNLNXdxcERiTWlVc2tucjZhZTlDdU51dkVSRXNVVGlHX09pM3JhUmc5aW8xUnE2VWo1VGtuUXl0WWlqNFdINWlBMV9lYzZSekV4LTlkeFp0YzRUd2JNVVZtd2MxWURrc19lZHpad29McXZnSUdYSm0yakJUYTBNWnZFeU03ZERnNW5mX0RxbS1KbWo4cUlCVXFNZE10b3ctTnAtbGRYWFNJNG9IMmNkMVhUcnRIbmlB?oc=5",
+      "publishedAt": "2026-11-06T04:22:58+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -234,19 +347,19 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "AI股災｜政治風暴重創科技巨頭：民主黨勝選引發AI數據中心監管憂慮馬斯克身家單日蒸發797億美元黃仁勳跌出富豪十大 - 香港經濟日報HKET AI股災｜政治風暴重創科技巨頭：民主黨勝選引發AI數據中心監管憂慮馬斯克身家單日蒸發797億美元黃仁勳跌出富豪十大 香港經濟日報HKET",
-      "capturedAt": "2026-11-06T08:39:33.520878+00:00"
+      "summary": "輝達股價單日暴跌9.3%！黃仁勳身家蒸發逾5000億 跌出全球前10大富豪榜 - Yahoo股市 輝達股價單日暴跌9.3%！黃仁勳身家蒸發逾5000億 跌出全球前10大富豪榜 Yahoo股市",
+      "capturedAt": "2026-11-06T15:44:20.224014+00:00"
     },
     {
-      "id": "1b06f99a0a8f",
+      "id": "5c4d9a05e954",
       "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "AI股重挫輝達跌9%！黃仁勳身價蒸發近5000億 跌出10大富豪榜 - TVBS新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MRU8zOTJ3MG9BSWNIRTdpX0xPTkJOYWFOanhSV29kVENTUWFQRGg0SktnM3dyM2Fsa1ZRcUJIVHotNkRocEM3QmNqZUM4TVk?oc=5",
-      "publishedAt": "2026-11-06T01:41:00+00:00",
+      "title": "黃仁勳女婿背景超狂！滑雪國手「日爆肝15hrs」 入職2年直升輝達副總裁 - 三立新聞網SETN.com",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GVjlDNHpfSnI2dFdYYXlCM1lITUNma2t6VGRocVhGUG1UVWE0S2UwbFJNdUgweHdPajFORmk1Vzhad1lhTklXVNIBTEFVX3lxTE1BLTN0bnU4Y0pNbUZHZDFRTWZ3Q1V2ZmVQNWV0ZmZmT2xvd2dobldFV1JqakJic2V6WktpMmpHeldEekY3OERUOW5PdkM?oc=5",
+      "publishedAt": "2026-11-06T02:53:07+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -255,8 +368,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "AI股重挫輝達跌9%！黃仁勳身價蒸發近5000億 跌出10大富豪榜 - TVBS新聞網 AI股重挫輝達跌9%！黃仁勳身價蒸發近5000億 跌出10大富豪榜 TVBS新聞網",
-      "capturedAt": "2026-11-06T08:39:33.520878+00:00"
+      "summary": "黃仁勳女婿背景超狂！滑雪國手「日爆肝15hrs」 入職2年直升輝達副總裁 - 三立新聞網SETN.com 黃仁勳女婿背景超狂！滑雪國手「日爆肝15hrs」 入職2年直升輝達副總裁 三立新聞網SETN.com",
+      "capturedAt": "2026-11-06T15:44:20.224014+00:00"
     },
     {
       "id": "ef547c76168a",
@@ -267,7 +380,7 @@
       "sourceType": "新聞彙整",
       "title": "Nvidia CEO called in by lawmakers over ties to alleged Chinese spy - Axios",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SOWNrNmRhZ1c5Zkt2SDdyRGptdWUzZGVwbXVMQjI3WWJvdVFFcWh0WGozU2lZVm5sc1l2OVlQWmdBYUV3Qml1R3hiQUtPQXRhR3YyX2ZKSU44MHlsa2hkZE5YRWNnSHRiX00wRkE2TmppeVY3Q2c?oc=5",
-      "publishedAt": "2026-11-06T01:05:11+00:00",
+      "publishedAt": "2026-11-06T01:05:16+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "NVIDIA CEO",
@@ -278,7 +391,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO called in by lawmakers over ties to alleged Chinese spy - Axios Nvidia CEO called in by lawmakers over ties to alleged Chinese spy Axios",
-      "capturedAt": "2026-11-06T08:39:33.520878+00:00"
+      "capturedAt": "2026-11-06T15:44:20.224014+00:00"
     },
     {
       "id": "44d8936c6863",
@@ -299,7 +412,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "中國間諜案人心惶惶！共和黨3議員要求黃仁勳18日赴國會說明 - Yahoo股市 中國間諜案人心惶惶！共和黨3議員要求黃仁勳18日赴國會說明 Yahoo股市",
-      "capturedAt": "2026-11-06T08:39:33.520878+00:00"
+      "capturedAt": "2026-11-06T15:44:20.224014+00:00"
     },
     {
       "id": "a4caafb4d727",
@@ -320,28 +433,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳麻煩來了？美國國會發函 要求他親自交代與女共諜關係 - 自由財經 黃仁勳麻煩來了？美國國會發函 要求他親自交代與女共諜關係 自由財經",
-      "capturedAt": "2026-11-06T08:39:33.520878+00:00"
-    },
-    {
-      "id": "5ab254bbee30",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "政治變天掀AI股崩盤！富豪榜洗牌：輝達黃仁勳掉出前十、全球500大單日蒸發1850億美元 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjdFpOZ0VKcmNXZlBEUm9Ga1FFRW1zeGJITGJIel9FbWd1Mkt3ZzJzd3BIQUd5anAwcmp1TWdfcjVDNHgtQkNEX3pqSTNqNEU?oc=5",
-      "publishedAt": "2026-11-06T00:20:54+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "政治變天掀AI股崩盤！富豪榜洗牌：輝達黃仁勳掉出前十、全球500大單日蒸發1850億美元 - 鉅亨網 政治變天掀AI股崩盤！富豪榜洗牌：輝達黃仁勳掉出前十、全球500大單日蒸發1850億美元 鉅亨網",
-      "capturedAt": "2026-11-06T08:39:33.520878+00:00"
+      "capturedAt": "2026-11-06T15:44:20.224014+00:00"
     },
     {
       "id": "029f4fe2bafd",
@@ -362,7 +454,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳淨值蒸發151億美元「掉出十大首富」美眾院員要求閉門說明間諜風波| 全球財經| 全球 - UDN 黃仁勳淨值蒸發151億美元「掉出十大首富」美眾院員要求閉門說明間諜風波| 全球財經| 全球 UDN",
-      "capturedAt": "2026-11-06T08:39:33.520878+00:00"
+      "capturedAt": "2026-11-06T15:44:20.224014+00:00"
     },
     {
       "id": "d6a3a3b6d66d",
@@ -384,91 +476,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Key Republicans seek briefing from Nvidia CEO over Chinese spy allegations-document - Reuters Key Republicans seek briefing from Nvidia CEO over Chinese spy allegations-document Reuters",
-      "capturedAt": "2026-11-06T08:39:33.520878+00:00"
-    },
-    {
-      "id": "9ea925a85339",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "私廚聚會影片流出！貼身黃仁勳的『神祕女諜』謎團越滾越大！48億晶片暗網直通北京，川普回應意味深長！ - 希望之聲電台",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xVElENFNCMFprd19yRWdRSEh2NmpWWDJQVEZrVFZuTjc3dlp3dFRaZS1uaGlFelNmclZiODA4WFJPZlRQend6QndvejBVYkRqWFB4OHE4bGMtWFU?oc=5",
-      "publishedAt": "2026-11-05T13:20:44+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "私廚聚會影片流出！貼身黃仁勳的『神祕女諜』謎團越滾越大！48億晶片暗網直通北京，川普回應意味深長！ - 希望之聲電台 私廚聚會影片流出！貼身黃仁勳的『神祕女諜』謎團越滾越大！48億晶片暗網直通北京，川普回應意味深長！ 希望之聲電台",
-      "capturedAt": "2026-11-06T08:39:33.520878+00:00"
-    },
-    {
-      "id": "80b63f950eed",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "《TIME》百大AI人物名單不見黃仁勳魏哲家，梁孟松低調神隱4年仍入選…「影響力」的定義曝光 - 今周刊",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTHAtNkhQb1ZYd1FxZ1RiYjRsa0FWc1hYb181OVU0eEVXMTk2cGxDdFV0eTUzRndoa0RVVi1KM0dsQTRFVkMyMFBCRHpaUGs0RktIUjdBNWJKa2JmU2xjNUloLXFnak16WXRFSkhYRmpYS3BhR0dla05HbER4RjBJYg?oc=5",
-      "publishedAt": "2026-11-05T10:12:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "《TIME》百大AI人物名單不見黃仁勳魏哲家，梁孟松低調神隱4年仍入選…「影響力」的定義曝光 - 今周刊 《TIME》百大AI人物名單不見黃仁勳魏哲家，梁孟松低調神隱4年仍入選…「影響力」的定義曝光 今周刊",
-      "capturedAt": "2026-11-06T08:39:33.520878+00:00"
-    },
-    {
-      "id": "2e6483c23846",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳捲｢中國女間諜｣疑雲 ｢科技鐵幕｣時代下將受到更嚴密審視？ - 香港01",
-      "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxNVUlyQi12S2dKVktjNE4tU2pacmxzSHhCcjVjemdGQlN4NnhCNXUydEFSY3RUZ295bXZnaEtxV01MX0Vja0dJcmQ5a1FoVWhJRGliT3dRZUd1ZGpvMjZVTVBKTS1sVWJuTW5Nbk5qekxMWGtzVHd1WklrUmpLRlJZdVdHTkdHczFaVzR3NEpFNWd3VS1XRmgxay1wUzU3MlhqbG1Qb25jUG1FaWNyTjlDaENBM3dxSGxGb3I1ZVl4NDhVWGlIQkFRSXVySXlUXzRfNEdCbzdvVVZaWFUtMXFfdXpmYmc2TGFCeGR0VC1wSWsxZ1hHT0xRY2FEckRJcU1jTk1sTHlIbGxBclhmdjE1MHRSeDBsc2NnRTdtV19KYW93ZGN4U2hYSFdtRVkyVDlWRXg0cERpdFNQTnVHVWF0VWJFckhNSUxuc2txaDVuRzNldHk2NHlBTHNHNk1ndmZPajVrbEpiUDlwcEtuYTBIMmFRQXpBaUVTYTZmYzdiV3FmWWIxbUxVWTJ2YlpwczV0aU96RE8xVEVwb0JseERIS2I5OHVqRTRacTRjMVgyWHNWOUk?oc=5",
-      "publishedAt": "2026-11-04T02:58:53+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳捲｢中國女間諜｣疑雲 ｢科技鐵幕｣時代下將受到更嚴密審視？ - 香港01 黃仁勳捲｢中國女間諜｣疑雲 ｢科技鐵幕｣時代下將受到更嚴密審視？ 香港01",
-      "capturedAt": "2026-11-06T08:39:33.520878+00:00"
-    },
-    {
-      "id": "e9d757ba5c3e",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳女婿背景超狂！滑雪國手「日爆肝15hrs」 入職2年直升輝達副總裁 - 三立新聞",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GVjlDNHpfSnI2dFdYYXlCM1lITUNma2t6VGRocVhGUG1UVWE0S2UwbFJNdUgweHdPajFORmk1Vzhad1lhTklXVNIBTEFVX3lxTE1BLTN0bnU4Y0pNbUZHZDFRTWZ3Q1V2ZmVQNWV0ZmZmT2xvd2dobldFV1JqakJic2V6WktpMmpHeldEekY3OERUOW5PdkM?oc=5",
-      "publishedAt": "2026-11-03T19:37:42+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳女婿背景超狂！滑雪國手「日爆肝15hrs」 入職2年直升輝達副總裁 - 三立新聞 黃仁勳女婿背景超狂！滑雪國手「日爆肝15hrs」 入職2年直升輝達副總裁 三立新聞",
-      "capturedAt": "2026-11-06T08:39:33.520878+00:00"
+      "capturedAt": "2026-11-06T15:44:20.224014+00:00"
     },
     {
       "id": "b312ea5a63da",
@@ -489,28 +497,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "蔣萬安直接聯繫黃仁勳留住輝達？ 黃仁勳一句話曝真相 - Yahoo新聞 蔣萬安直接聯繫黃仁勳留住輝達？ 黃仁勳一句話曝真相 Yahoo新聞",
-      "capturedAt": "2026-11-06T08:39:33.520878+00:00"
-    },
-    {
-      "id": "5ffeb11fa29a",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "【AI+併購】Marvell斥逾千億併購Lumentum 據報公布前兩間公司CEO曾尋求「教父」黃仁勳祝福 - 香港經濟日報HKET",
-      "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQMDZXcVRTYV91NW92cy1fbmt5Q084aDVNQU93TnFjVmJnQXpjc1FoOS10anZWbjhyc2ZaTlZCSm5yLVE5dGlQMHFtSVhLTS1SWDJZTmtkMGUtOXJpcmg1aUk3WU5SeE5hVkpORGxMeFE1N0FDOV9ENnI5ZDlzdm9DNlBNQ0NkRzcyTHJndlp0YnZTSGZrN1l3cF9DWXJmSVVLRy1EcnVNZDVVWFVrZDBWamJXdzJORVczY290M3ZjbWtNZVBGUjFXcVZmR0ZJNG5sQTQ0RWNhOE5QRUw3a3ZLT3ByV05aWDYwVk1kYkhQOE9iRTV6NTNGMzJkSzFLRXpWX0EtUXRNY2xXaGxDRlR2bEl4RTgwMWFlNUlBVXVTWjVzX3FlQ1FGaXAzNWVjWUpGVkZIbVQ1YUJEZnd0d3FPcmZ6LVZLNzJXM05ZUWtmS0Z2cVpXZ2F5MTJrb1c1REp0ZEJGRk5PeXRwVzZ1RDY4dGhRcUJOb3c4NG8wV2JKdXh1RWZ3dHpKNjhSRGE1U0tRVUxpWWdkNW5PNGxzZHZzUXdoQ0lIS0VaN1E1RE93d1pXaVFkZ1c1dHY3X3E4elBHdzl2b19JejFvWmR4WTVLQzUtRGMwYThCeWpyTGNFX3VXQXZDeWZza3hBcVc?oc=5",
-      "publishedAt": "2026-11-03T05:11:27+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "【AI+併購】Marvell斥逾千億併購Lumentum 據報公布前兩間公司CEO曾尋求「教父」黃仁勳祝福 - 香港經濟日報HKET 【AI+併購】Marvell斥逾千億併購Lumentum 據報公布前兩間公司CEO曾尋求「教父」黃仁勳祝福 香港經濟日報HKET",
-      "capturedAt": "2026-11-06T08:39:33.520878+00:00"
+      "capturedAt": "2026-11-06T15:44:20.224014+00:00"
     },
     {
       "id": "f758cb27be71",
@@ -532,7 +519,28 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "US concerned by close ties between Nvidia CEO and Chinese Businesswoman - CNN US concerned by close ties between Nvidia CEO and Chinese Businesswoman CNN",
-      "capturedAt": "2026-11-06T08:39:33.520878+00:00"
+      "capturedAt": "2026-11-06T15:44:20.224014+00:00"
+    },
+    {
+      "id": "c5fbeda8bcdc",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "輝達陷「女間諜案」痛失市值一哥！黃仁勳身價一個月暴跌近9600億元 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxPUEdkUnh5YWtIalVyOW41TlBYZFZOYnlqYzVrb1ROOC1keFM3azBqeGh1c0FWQUd5VmJ0ZXNGb1BBbEhTMmkxaUg4SHJ5dEZiVHpQNTNSVFVMZjZUVWUtQXB0NXRFVm9VWUlNNFFlUy1YWnJObk81bWhlZW9rOVF6TUFjNkxOLTlFVEJYd204M0VHSTZGSEtRNFNGbTNmT0lZT1p4bmdiM2dZbW1XeU9tLTlzcVd1RDJGelVoMXhaaGtrZGJvZk15Y3E2OTVwcllhMHRQNjVTMWc0clowM0thWnRFTTM2MUhxWjhuSzFYZ1JxdnJCanNtVHpOZTdNWnQxM2RYRi1xOGJ0aEI3MUdLZkpMQUtNQmViRHRkZE96OXNCdHUybV9HWnV1bmZ2cS1hbVF4aE1Kc2t6SjR4UzFJU3FLN0pzLW13aU9tYTJtVHJJd3lPcGhnVkZtZTNtUGdSQzNiWW03cTZ0ZEswSTJhaHBkTjB5anNDWFp6a3d2M2xDY05PUzZCN193VnFqY2NYSWc3UzVCX2cyd01EaTBVUThPYXhJcnNMQUhkYUpPNHdEV21zMGZXaUxhZGc?oc=5",
+      "publishedAt": "2026-11-02T02:39:46+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "輝達陷「女間諜案」痛失市值一哥！黃仁勳身價一個月暴跌近9600億元 - Yahoo股市 輝達陷「女間諜案」痛失市值一哥！黃仁勳身價一個月暴跌近9600億元 Yahoo股市",
+      "capturedAt": "2026-11-06T15:44:20.224014+00:00"
     }
   ],
   "errors": [
