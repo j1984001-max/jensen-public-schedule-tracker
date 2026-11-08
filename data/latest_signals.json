@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-08T08:11:42.442961+00:00",
+  "generatedAt": "2026-11-08T14:49:53.967581+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
   "publishedToTimeline": 12,
   "signals": [
     {
-      "id": "48234206e665",
+      "id": "2f15abe0505a",
       "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "【黃仁勳陷「中國女間諜」醜聞！女兒黃敏珊原定訪韓 緊急喊卡】 不去韓國了 （#嘴邊肉） - Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNM3NSSEFUVXYyVi1FWllKZnhOYkZQT2N5MXFGeHJaZTY4TmtQamRrOHFrMGh4Wjlydm9rTUFremthYzJaRFFGLWNwN21IR1h4RWIxc3VRUTJJbG4yZW1rQTFlc2ZhUHFrdDBvTzR4STFHYlhhaGJNT0J0MVVpUFUxNkdYY09mcVQtOUlMeDJYcV9neEtCVnFhdlBzY2QzWjUxek82T1A1NDdvbENxUGVKV1ZRSWdfOWlSYlFfaWlBMTZRaHphUS10QmxnajMzLWZlT0lHUVJRWFpHZUdHZnNGdUJzb0ZVVVA5ajZlXzZZZFg3NUozWTlHZjE1VjhRNTVyd1ItOFdVQ1AxbmNwN2tZWHViRm92Y092azJzejlhOENsS29nTTRiRmdUQ1U3cHBqVVdhUFRfdjZGU1pUNVpwSXRhb0s1TmluZnZ6dXc5cXlSVmhZcnl2SHVyb0pya2p4M1ZHRnJDVFJyY0RYQ1kxR2RGbENHRTREU2RtdHZCM3pWamk0ckIxVDhkQXU1UXlLaTh3N1psVXpwWW12R0kxb3NqVnp0TDd5clpQeGhEanpwMW9oenZ4YXl0aGJQZTNhOFdueU1URERCTHFCVnBuQnZ2Q1JOSkY3R3JNMW1faWlaZFJrel9ESVRqZw?oc=5",
-      "publishedAt": "2026-11-08T07:54:44+00:00",
+      "title": "黃仁勳之女突然取消訪韓 理由是「家庭因素」 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvVENFVkF3NDI0eFdLbHgtUnVTNWhOMDgxczhfb0RiWF9oamZCakRHci05TTBWSnZkclcxSkZaQmt0clpIcG9Gd2dzUVFVdGM?oc=5",
+      "publishedAt": "2026-11-08T13:15:40+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -24,8 +24,32 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "【黃仁勳陷「中國女間諜」醜聞！女兒黃敏珊原定訪韓 緊急喊卡】 不去韓國了 （#嘴邊肉） - Facebook 【黃仁勳陷「中國女間諜」醜聞！女兒黃敏珊原定訪韓 緊急喊卡】 不去韓國了 （#嘴邊肉） Facebook",
-      "capturedAt": "2026-11-08T08:11:42.442973+00:00"
+      "summary": "黃仁勳之女突然取消訪韓 理由是「家庭因素」 - 鉅亨網 黃仁勳之女突然取消訪韓 理由是「家庭因素」 鉅亨網",
+      "capturedAt": "2026-11-08T14:49:53.967596+00:00"
+    },
+    {
+      "id": "e1c805a411c3",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Jensen Huang's Daughter Cancels Korea Visit Day Before Arrival Amid Spy Allegations - news.sbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uUHFIbGV4Yk13cHNoLVV4Tl90U1dFQjZsZE9fc0liUms2V1BWODB5MGxjN2hxcmtmaC1wcFFuNW5tYks3VkZoRnktM0plWFpwdW55X3lHbXlKY0JXMldTekNrNlhFZENjX3VnMU5R?oc=5",
+      "publishedAt": "2026-11-08T11:38:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [
+        "visit",
+        "arrival"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Jensen Huang's Daughter Cancels Korea Visit Day Before Arrival Amid Spy Allegations - news.sbs.co.kr Jensen Huang's Daughter Cancels Korea Visit Day Before Arrival Amid Spy Allegations news.sb",
+      "capturedAt": "2026-11-08T14:49:53.967596+00:00"
     },
     {
       "id": "06a5b3aea47a",
@@ -49,53 +73,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO's Eldest Daughter Abruptly Cancels Korea Visit... Due to Father's Controversy? - SBS 뉴스 Nvidia CEO's Eldest Daughter Abruptly Cancels Korea Visit... Due to Father's Controversy? S",
-      "capturedAt": "2026-11-08T08:11:42.442973+00:00"
-    },
-    {
-      "id": "5a78aee8eadb",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳捲入女共諜風波後 女兒突取消訪韓 - 自由財經",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkMjNJeUQ0bWdJZndyck40cTBYNWozU1dIN0tUUWlIMnBmdm5uYnZKNkZrRXJYYTRZQjFOZWRGeExLNnJBLV9pZ1c2VzFBOGxXZTZvNDlGR3lVN0RFc2hn0gFkQVVfeXFMUHBDN2tfT2s5VDJLbmt6dGx5SmljRzlQSGp2LVk4SGp4WWxzb29jMmJhMUlyNWg1UjlpVTI0WDdyOUxDZ0ZKOU9saG1JNGt0enVsXzJKZ1RuY3hCcGxJY1Y5NlIxRQ?oc=5",
-      "publishedAt": "2026-11-08T06:58:16+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "訪韓"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳捲入女共諜風波後 女兒突取消訪韓 - 自由財經 黃仁勳捲入女共諜風波後 女兒突取消訪韓 自由財經",
-      "capturedAt": "2026-11-08T08:11:42.442973+00:00"
-    },
-    {
-      "id": "28340434f02b",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳捲中國女間諜風波！美國國會要求說明 長女黃敏珊臨時喊卡訪韓 - 鏡週刊Mirror Media",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PWjV5T2MtdVVCQ3BUb2NSalZDN2hETnZHOTNGcnp1MXhFVzIyLWVVWDlGV2NXUHdoU29MMDNMS3UxbFV2QXFxVkJqR2lId0ZheF9yOENrckRLT0FIT3lHeVA4N1pibknSAWtBVV95cUxPQVc3TDZNTXVOT29mY2dibUpuWU00UlJ0MTE3bmNnOVVBMm5NckxwMXZxSmp6WWhMT0hoM21BSFBBZ1RNMW9EczhSSXhiZHZwSFBDa2pGQ2pRN2x3X3BCZjRWd2VLZmFRQVZ6aw?oc=5",
-      "publishedAt": "2026-11-08T05:52:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "訪韓"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳捲中國女間諜風波！美國國會要求說明 長女黃敏珊臨時喊卡訪韓 - 鏡週刊Mirror Media 黃仁勳捲中國女間諜風波！美國國會要求說明 長女黃敏珊臨時喊卡訪韓 鏡週刊Mirror Media",
-      "capturedAt": "2026-11-08T08:11:42.442973+00:00"
+      "capturedAt": "2026-11-08T14:49:53.967596+00:00"
     },
     {
       "id": "b46177e66061",
@@ -118,7 +96,30 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳捲中國女間諜風波！美國國會要求說明 長女黃敏珊臨時喊卡訪韓 - 鏡新聞 黃仁勳捲中國女間諜風波！美國國會要求說明 長女黃敏珊臨時喊卡訪韓 鏡新聞",
-      "capturedAt": "2026-11-08T08:11:42.442973+00:00"
+      "capturedAt": "2026-11-08T14:49:53.967596+00:00"
+    },
+    {
+      "id": "28340434f02b",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳捲中國女間諜風波！美國國會要求說明 長女黃敏珊臨時喊卡訪韓 - 鏡週刊Mirror Media",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PWjV5T2MtdVVCQ3BUb2NSalZDN2hETnZHOTNGcnp1MXhFVzIyLWVVWDlGV2NXUHdoU29MMDNMS3UxbFV2QXFxVkJqR2lId0ZheF9yOENrckRLT0FIT3lHeVA4N1pibknSAWtBVV95cUxPQVc3TDZNTXVOT29mY2dibUpuWU00UlJ0MTE3bmNnOVVBMm5NckxwMXZxSmp6WWhMT0hoM21BSFBBZ1RNMW9EczhSSXhiZHZwSFBDa2pGQ2pRN2x3X3BCZjRWd2VLZmFRQVZ6aw?oc=5",
+      "publishedAt": "2026-11-08T05:52:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "訪韓"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳捲中國女間諜風波！美國國會要求說明 長女黃敏珊臨時喊卡訪韓 - 鏡週刊Mirror Media 黃仁勳捲中國女間諜風波！美國國會要求說明 長女黃敏珊臨時喊卡訪韓 鏡週刊Mirror Media",
+      "capturedAt": "2026-11-08T14:49:53.967596+00:00"
     },
     {
       "id": "08ee31fc6084",
@@ -142,7 +143,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳捲女共諜疑雲長女突然因「家庭因素」取消訪韓！多項合作行程喊卡| 財經 - Newtalk新聞 黃仁勳捲女共諜疑雲長女突然因「家庭因素」取消訪韓！多項合作行程喊卡| 財經 Newtalk新聞",
-      "capturedAt": "2026-11-08T08:11:42.442973+00:00"
+      "capturedAt": "2026-11-08T14:49:53.967596+00:00"
     },
     {
       "id": "f4b33db5a6e8",
@@ -166,30 +167,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "傳輝達涉間諜疑雲！黃仁勳長女「1原因」取消訪韓 多項合作行程喊卡 - 三立新聞網SETN.com 傳輝達涉間諜疑雲！黃仁勳長女「1原因」取消訪韓 多項合作行程喊卡 三立新聞網SETN.com",
-      "capturedAt": "2026-11-08T08:11:42.442973+00:00"
-    },
-    {
-      "id": "e5ac5e0c2011",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳捲入女共諜風波後 女兒突取消訪韓 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KQl8zbjNzQWVFUWtuSU9vTWtIZ3Q3a0Y0d2tVVUh1aWoyZVFrTTZZQ2JOTFV0dmZ3S3BNZTUxb1ZzVm9iNy1KTkNFZHpRc3VEMVN5VkZ2ejc?oc=5",
-      "publishedAt": "2026-11-08T03:52:04+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "訪韓"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳捲入女共諜風波後 女兒突取消訪韓 - 自由時報 黃仁勳捲入女共諜風波後 女兒突取消訪韓 自由時報",
-      "capturedAt": "2026-11-08T08:11:42.442973+00:00"
+      "capturedAt": "2026-11-08T14:49:53.967596+00:00"
     },
     {
       "id": "4af31b68f02c",
@@ -212,7 +190,53 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳捲女共諜桃色風波！女兒黃敏珊突以「家庭因素」取消訪韓 - 知新聞 黃仁勳捲女共諜桃色風波！女兒黃敏珊突以「家庭因素」取消訪韓 知新聞",
-      "capturedAt": "2026-11-08T08:11:42.442973+00:00"
+      "capturedAt": "2026-11-08T14:49:53.967596+00:00"
+    },
+    {
+      "id": "5a78aee8eadb",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳捲入女共諜風波後 女兒突取消訪韓 - 自由財經",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkMjNJeUQ0bWdJZndyck40cTBYNWozU1dIN0tUUWlIMnBmdm5uYnZKNkZrRXJYYTRZQjFOZWRGeExLNnJBLV9pZ1c2VzFBOGxXZTZvNDlGR3lVN0RFc2hn0gFkQVVfeXFMUHBDN2tfT2s5VDJLbmt6dGx5SmljRzlQSGp2LVk4SGp4WWxzb29jMmJhMUlyNWg1UjlpVTI0WDdyOUxDZ0ZKOU9saG1JNGt0enVsXzJKZ1RuY3hCcGxJY1Y5NlIxRQ?oc=5",
+      "publishedAt": "2026-11-08T03:50:32+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "訪韓"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳捲入女共諜風波後 女兒突取消訪韓 - 自由財經 黃仁勳捲入女共諜風波後 女兒突取消訪韓 自由財經",
+      "capturedAt": "2026-11-08T14:49:53.967596+00:00"
+    },
+    {
+      "id": "e5ac5e0c2011",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳捲入女共諜風波後 女兒突取消訪韓 - 自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KQl8zbjNzQWVFUWtuSU9vTWtIZ3Q3a0Y0d2tVVUh1aWoyZVFrTTZZQ2JOTFV0dmZ3S3BNZTUxb1ZzVm9iNy1KTkNFZHpRc3VEMVN5VkZ2ejc?oc=5",
+      "publishedAt": "2026-11-08T03:50:32+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "訪韓"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳捲入女共諜風波後 女兒突取消訪韓 - 自由時報 黃仁勳捲入女共諜風波後 女兒突取消訪韓 自由時報",
+      "capturedAt": "2026-11-08T14:49:53.967596+00:00"
     },
     {
       "id": "56b74d1a16a8",
@@ -236,31 +260,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang's Eldest Daughter Cancels Korea Visit... Meeting with Science Minister Falls Through - SBS 뉴스 Jensen Huang's Eldest Daughter Cancels Korea Visit... Meeting with Science Minister F",
-      "capturedAt": "2026-11-08T08:11:42.442973+00:00"
-    },
-    {
-      "id": "9517a58ed70c",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Visit to South Korea by Jensen Huang’s eldest daughter Madison Huang canceled; meeting with Deputy Prime Minister Bae Kyung-hoon falls through - 파이낸셜뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxeDd1MXl5S2ZKcGo5b3pyT0dIbW1BMGF4Z1hpUjBwWVdDZXl6dFNlMFBZMDRJbk5jRW1XOERzWlV5M2JFRjFxblNZaHowanFMR3Y5Zl9KWVU?oc=5",
-      "publishedAt": "2026-11-08T03:28:36+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [
-        "visit",
-        "meeting"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Visit to South Korea by Jensen Huang’s eldest daughter Madison Huang canceled; meeting with Deputy Prime Minister Bae Kyung-hoon falls through - 파이낸셜뉴스 Visit to South Korea by Jensen Huang’s eldest daughter Madison H",
-      "capturedAt": "2026-11-08T08:11:42.442973+00:00"
+      "capturedAt": "2026-11-08T14:49:53.967596+00:00"
     },
     {
       "id": "d939655e6087",
@@ -285,32 +285,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang's daughter cancels planned Korea visit - Korea JoongAng Daily Nvidia CEO Jensen Huang's daughter cancels planned Korea visit Korea JoongAng Daily",
-      "capturedAt": "2026-11-08T08:11:42.442973+00:00"
-    },
-    {
-      "id": "703c3a0603d2",
-      "status": "needs-review",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "\"Congress will investigate\": Nvidia CEO Jensen Huang faces probe over alleged Chinese spy ties - Axios",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKV2RwaGVtbm1QcXExZkhNUTl4cUM2NmZ6QTVHOFM4RjBBdnRPUXMzLTNENEhhRDBzcnF0TW80Zk5iRW5lMTZlNlgxT0R0V1BOaTh1OEdtdmh3NGxjVzFERXk5TmZmUjZyUUNoRmdYZWZEWjJUMlc5ZUhxSQ?oc=5",
-      "publishedAt": "2026-11-08T03:23:09+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang",
-        "NVIDIA CEO",
-        "Nvidia CEO"
-      ],
-      "matchedEventKeywords": [
-        "CES"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "\"Congress will investigate\": Nvidia CEO Jensen Huang faces probe over alleged Chinese spy ties - Axios \"Congress will investigate\": Nvidia CEO Jensen Huang faces probe over alleged Chinese spy ties Axios",
-      "capturedAt": "2026-11-08T08:11:42.442973+00:00"
+      "capturedAt": "2026-11-08T14:49:53.967596+00:00"
     },
     {
       "id": "afd9a1f12edc",
@@ -333,30 +308,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳捲共諜風暴！女兒黃敏珊突喊卡訪韓 美國國會要求說明 - TVBS新聞網 黃仁勳捲共諜風暴！女兒黃敏珊突喊卡訪韓 美國國會要求說明 TVBS新聞網",
-      "capturedAt": "2026-11-08T08:11:42.442973+00:00"
-    },
-    {
-      "id": "785fdbe5c614",
-      "status": "needs-review",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳捲女間諜緋聞疑雲！長女訪韓突喊卡 美參議員批關係「瘋狂」 | 太報 - LINE TODAY",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RZk5XMWEyVHhraXZWTE9TZTczdEZBY2pKS2R6b3RLeWdzdzZaaXhBaW1ZZ09IV2thSTNjdnZmS19nRmlTRlhpUVl5N2NXQ1FlTDVMWGRTRmd4MHJ5OFhUU3ZNbDZuWWgydjhDV0xsZkM?oc=5",
-      "publishedAt": "2026-11-08T02:24:41+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "訪韓"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳捲女間諜緋聞疑雲！長女訪韓突喊卡 美參議員批關係「瘋狂」 | 太報 - LINE TODAY 黃仁勳捲女間諜緋聞疑雲！長女訪韓突喊卡 美參議員批關係「瘋狂」 | 太報 LINE TODAY",
-      "capturedAt": "2026-11-08T08:11:42.442973+00:00"
+      "capturedAt": "2026-11-08T14:49:53.967596+00:00"
     },
     {
       "id": "d392db102824",
@@ -379,7 +331,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳與黃樂往來疑雲引發美國會追查！民主黨議員加入調查聲浪，長女黃敏珊取消訪韓 - 放言Fount Media 黃仁勳與黃樂往來疑雲引發美國會追查！民主黨議員加入調查聲浪，長女黃敏珊取消訪韓 放言Fount Media",
-      "capturedAt": "2026-11-08T08:11:42.442973+00:00"
+      "capturedAt": "2026-11-08T14:49:53.967596+00:00"
     },
     {
       "id": "4a0530ca9d68",
@@ -403,17 +355,63 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳長女「家庭因素」取消訪韓行程 外界猜測恐與間諜案有關 - 中天新聞網 黃仁勳長女「家庭因素」取消訪韓行程 外界猜測恐與間諜案有關 中天新聞網",
-      "capturedAt": "2026-11-08T08:11:42.442973+00:00"
+      "capturedAt": "2026-11-08T14:49:53.967596+00:00"
     },
     {
-      "id": "d9011e9d84ce",
+      "id": "f1adb66d0791",
+      "status": "needs-review",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳捲女間諜緋聞疑雲！長女訪韓突喊卡 美參議員批關係「瘋狂」 - 太報 TaiSounds",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KZF9hSWZJUm9CelptOEg0ZkZ4SHJRZ0xtZEhTN2g0Z1k5SUhKOTFudE41bUFQYmQzcEJuZkpjM2tjbWxLSnloV1JYN0RvMWFWdC1mQmRuRUJtNUFj?oc=5",
+      "publishedAt": "2026-11-08T02:09:57+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "訪韓"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳捲女間諜緋聞疑雲！長女訪韓突喊卡 美參議員批關係「瘋狂」 - 太報 TaiSounds 黃仁勳捲女間諜緋聞疑雲！長女訪韓突喊卡 美參議員批關係「瘋狂」 太報 TaiSounds",
+      "capturedAt": "2026-11-08T14:49:53.967596+00:00"
+    },
+    {
+      "id": "b8203b507859",
+      "status": "needs-review",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳捲中國女商人間諜疑雲！長女黃敏珊突取消韓國行程- 財經新聞 - PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaHBkbXJ4LTU0eDJsY2dFeF9wUnp6WG5ici1TRjgyQ0tsaDdMcjVoNFJNSjFWRXRqZ2M0NFhCaUdkcTB5WVh3NW4wVUc4X0tqa0FLUDc0cTkyak9KMWJueDZtczZQTzZjanZFSjhMcjhJWHYzM0UwZ3dMZklqS18tbWhWLUhBZ2tkMEE?oc=5",
+      "publishedAt": "2026-11-08T02:09:46+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "行程"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳捲中國女商人間諜疑雲！長女黃敏珊突取消韓國行程- 財經新聞 - PChome Online 新聞 黃仁勳捲中國女商人間諜疑雲！長女黃敏珊突取消韓國行程- 財經新聞 PChome Online 新聞",
+      "capturedAt": "2026-11-08T14:49:53.967596+00:00"
+    },
+    {
+      "id": "6403aaa2433a",
       "status": "needs-review",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
       "title": "黃仁勳捲中國女商人間諜疑雲！長女黃敏珊突取消韓國行程 | 財經 | CTWANT - CTWANT",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xSjJXcUtSaWN1SnJYQUN5M1FtM1FUc3YxSEdWNFBwUWlBdXYwb3lxUTlLMkZ0TGJ2LWhhNnppR3ZlTmxOVFU0cjRCMFJIX0XSAVRBVV95cUxOajBLcy1kYll6bmJKMFBxNzYzQ3Vpc1BRZklkYVN3VVNETDVxb01oVmdDWVZ6OVRMVmgxWkVHZkpLNWhvWWRBYl9EOVQyRU1WSV93TTk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qMEtzLWRiWXpuYkowUHE3NjNDdWlzUFFmSWRhU3dVU0RMNXFvTWhWZ0NZVno5VExWaDFaRUdmSks1aG9ZZEFiX0Q5VDJFTVZJX3dNOdIBVEFVX3lxTE5qMEtzLWRiWXpuYkowUHE3NjNDdWlzUFFmSWRhU3dVU0RMNXFvTWhWZ0NZVno5VExWaDFaRUdmSks1aG9ZZEFiX0Q5VDJFTVZJX3dNOQ?oc=5",
       "publishedAt": "2026-11-08T02:09:12+00:00",
       "detectedDates": [],
       "matchedKeywords": [
@@ -426,7 +424,30 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳捲中國女商人間諜疑雲！長女黃敏珊突取消韓國行程 | 財經 | CTWANT - CTWANT 黃仁勳捲中國女商人間諜疑雲！長女黃敏珊突取消韓國行程 | 財經 | CTWANT CTWANT",
-      "capturedAt": "2026-11-08T08:11:42.442973+00:00"
+      "capturedAt": "2026-11-08T14:49:53.967596+00:00"
+    },
+    {
+      "id": "48234206e665",
+      "status": "needs-review",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "【黃仁勳陷「中國女間諜」醜聞！女兒黃敏珊原定訪韓 緊急喊卡】 不去韓國了 （#嘴邊肉） - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNM3NSSEFUVXYyVi1FWllKZnhOYkZQT2N5MXFGeHJaZTY4TmtQamRrOHFrMGh4Wjlydm9rTUFremthYzJaRFFGLWNwN21IR1h4RWIxc3VRUTJJbG4yZW1rQTFlc2ZhUHFrdDBvTzR4STFHYlhhaGJNT0J0MVVpUFUxNkdYY09mcVQtOUlMeDJYcV9neEtCVnFhdlBzY2QzWjUxek82T1A1NDdvbENxUGVKV1ZRSWdfOWlSYlFfaWlBMTZRaHphUS10QmxnajMzLWZlT0lHUVJRWFpHZUdHZnNGdUJzb0ZVVVA5ajZlXzZZZFg3NUozWTlHZjE1VjhRNTVyd1ItOFdVQ1AxbmNwN2tZWHViRm92Y092azJzejlhOENsS29nTTRiRmdUQ1U3cHBqVVdhUFRfdjZGU1pUNVpwSXRhb0s1TmluZnZ6dXc5cXlSVmhZcnl2SHVyb0pya2p4M1ZHRnJDVFJyY0RYQ1kxR2RGbENHRTREU2RtdHZCM3pWamk0ckIxVDhkQXU1UXlLaTh3N1psVXpwWW12R0kxb3NqVnp0TDd5clpQeGhEanpwMW9oenZ4YXl0aGJQZTNhOFdueU1URERCTHFCVnBuQnZ2Q1JOSkY3R3JNMW1faWlaZFJrel9ESVRqZw?oc=5",
+      "publishedAt": "2026-11-08T02:00:20+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "訪韓"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "【黃仁勳陷「中國女間諜」醜聞！女兒黃敏珊原定訪韓 緊急喊卡】 不去韓國了 （#嘴邊肉） - Facebook 【黃仁勳陷「中國女間諜」醜聞！女兒黃敏珊原定訪韓 緊急喊卡】 不去韓國了 （#嘴邊肉） Facebook",
+      "capturedAt": "2026-11-08T14:49:53.967596+00:00"
     },
     {
       "id": "ba9228d8ba47",
@@ -449,39 +470,16 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "\"Jensen Huang's Eldest Daughter\" Madison Huang Abruptly Cancels South Korea Visit... \"Family Reasons\"? - 아시아경제 \"Jensen Huang's Eldest Daughter\" Madison Huang Abruptly Cancels South Korea Visit.",
-      "capturedAt": "2026-11-08T08:11:42.442973+00:00"
+      "capturedAt": "2026-11-08T14:49:53.967596+00:00"
     },
     {
-      "id": "a5e1ea16dcf4",
-      "status": "needs-review",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "“Romantically involved with a Chinese spy?” ... Elder daughter cancels South Korea trip amid allegations involving Jensen Huang - 파이낸셜뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sQ29HNDFJU21Yb19LZEdVYkFXVEUwNlhVTlN5aTVsWjZvQWVvTkZibXFlNXVKT0ZaZkwwSXJRTHA5QjdCQkdhUEhlNnhBVEFaSHMtdXkxdHc?oc=5",
-      "publishedAt": "2026-11-08T00:46:59+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [
-        "trip"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "“Romantically involved with a Chinese spy?” ... Elder daughter cancels South Korea trip amid allegations involving Jensen Huang - 파이낸셜뉴스 “Romantically involved with a Chinese spy?” ... Elder daughter cancels South Korea trip amid allegations involving Jensen Huang 파이낸셜뉴스",
-      "capturedAt": "2026-11-08T08:11:42.442973+00:00"
-    },
-    {
-      "id": "b87ad192164a",
+      "id": "e5107989fa23",
       "status": "needs-review",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "黃仁勳捲「美女共諜」風波害的？黃敏珊突砍訪韓行 - 壹蘋新聞網",
+      "title": "黃仁勳捲「美女共諜」風暴延燒！長女黃敏珊突取消訪韓行程 - 壹蘋新聞網",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeTQ3dnpnemV3QVRnYmM2LTR2S09xR01Uc1JDUG9rNFVQbHktZVd4UFZvUk0tRHd2WnpCblc2cWRuanlMT1hMZWpTOHRTSXk4Y2FxblRlWkZBaTYwa3FYU2E0dHU2ZFZCOE5RczZvNkloVkp0eTJuUVFpN00yUHVlRXZsWDZYS2V3bUE?oc=5",
       "publishedAt": "2026-11-07T23:39:00+00:00",
       "detectedDates": [],
@@ -489,13 +487,39 @@
         "黃仁勳"
       ],
       "matchedEventKeywords": [
-        "訪韓"
+        "訪韓",
+        "行程"
       ],
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "黃仁勳捲「美女共諜」風波害的？黃敏珊突砍訪韓行 - 壹蘋新聞網 黃仁勳捲「美女共諜」風波害的？黃敏珊突砍訪韓行 壹蘋新聞網",
-      "capturedAt": "2026-11-08T08:11:42.442973+00:00"
+      "summary": "黃仁勳捲「美女共諜」風暴延燒！長女黃敏珊突取消訪韓行程 - 壹蘋新聞網 黃仁勳捲「美女共諜」風暴延燒！長女黃敏珊突取消訪韓行程 壹蘋新聞網",
+      "capturedAt": "2026-11-08T14:49:53.967596+00:00"
+    },
+    {
+      "id": "703c3a0603d2",
+      "status": "needs-review",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "\"Congress will investigate\": Nvidia CEO Jensen Huang faces probe over alleged Chinese spy ties - Axios",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKV2RwaGVtbm1QcXExZkhNUTl4cUM2NmZ6QTVHOFM4RjBBdnRPUXMzLTNENEhhRDBzcnF0TW80Zk5iRW5lMTZlNlgxT0R0V1BOaTh1OEdtdmh3NGxjVzFERXk5TmZmUjZyUUNoRmdYZWZEWjJUMlc5ZUhxSQ?oc=5",
+      "publishedAt": "2026-11-07T21:46:40+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang",
+        "NVIDIA CEO",
+        "Nvidia CEO"
+      ],
+      "matchedEventKeywords": [
+        "CES"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "\"Congress will investigate\": Nvidia CEO Jensen Huang faces probe over alleged Chinese spy ties - Axios \"Congress will investigate\": Nvidia CEO Jensen Huang faces probe over alleged Chinese spy ties Axios",
+      "capturedAt": "2026-11-08T14:49:53.967596+00:00"
     },
     {
       "id": "7996a9505480",
@@ -519,7 +543,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳之女黃敏珊“因家庭原因”突然取消訪韓行程 - RFI 黃仁勳之女黃敏珊“因家庭原因”突然取消訪韓行程 RFI",
-      "capturedAt": "2026-11-08T08:11:42.442973+00:00"
+      "capturedAt": "2026-11-08T14:49:53.967596+00:00"
     },
     {
       "id": "e07ad30969d1",
@@ -544,32 +568,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang's daughter Madison cancels South Korea visit, citing family reasons - 헤럴드경제 Nvidia CEO Jensen Huang's daughter Madison cancels South Korea visit, citing family reasons 헤럴드경제",
-      "capturedAt": "2026-11-08T08:11:42.442973+00:00"
-    },
-    {
-      "id": "b03f8e4d422f",
-      "status": "needs-review",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Nvidia CEO's daughter cancels planned visit to Korea: sources - The Korea Times",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWW1DSmxha0RSRUk1d1FrNjhjbS1lbUpDNGZFcElFaTlxaERTc3VoNmFienc3Mnd3LXI3MHphQUtiUmZ2WlhyQms2WUE1TjZ2emFGQS1ILXNHaVpudl8wWlJnQmJVQlhSS0gwTHpJbjlONzNaWjgxdjZrbk84aG12b1hwMVJLNDBHSjN2azg3N3dMWHlZenlvMmdYSkZTdEVhUE5JUjJ0X2ZYT3FORWVqU1RHQUphS2JzdGFCeNIBvAFBVV95cUxOWW1DSmxha0RSRUk1d1FrNjhjbS1lbUpDNGZFcElFaTlxaERTc3VoNmFienc3Mnd3LXI3MHphQUtiUmZ2WlhyQms2WUE1TjZ2emFGQS1ILXNHaVpudl8wWlJnQmJVQlhSS0gwTHpJbjlONzNaWjgxdjZrbk84aG12b1hwMVJLNDBHSjN2azg3N3dMWHlZenlvMmdYSkZTdEVhUE5JUjJ0X2ZYT3FORWVqU1RHQUphS2JzdGFCeA?oc=5",
-      "publishedAt": "2026-11-07T14:00:03+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "NVIDIA CEO",
-        "Nvidia CEO"
-      ],
-      "matchedEventKeywords": [
-        "CES",
-        "visit"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Nvidia CEO's daughter cancels planned visit to Korea: sources - The Korea Times Nvidia CEO's daughter cancels planned visit to Korea: sources The Korea Times",
-      "capturedAt": "2026-11-08T08:11:42.442973+00:00"
+      "capturedAt": "2026-11-08T14:49:53.967596+00:00"
     }
   ],
   "errors": [
