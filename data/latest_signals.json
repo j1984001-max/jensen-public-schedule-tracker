@@ -1,32 +1,9 @@
 {
-  "generatedAt": "2026-11-11T15:54:39.288290+00:00",
+  "generatedAt": "2026-11-12T01:20:04.150044+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
   "publishedToTimeline": 12,
   "signals": [
-    {
-      "id": "016e87a94dfe",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "不只黃樂勾搭黃仁勳！美媒爆姐妹花聯手「走私24萬顆輝達晶片」進中國 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNNkFpaVZtSlE2NHNfc0FMeWR3NkNtMElDU09RMWVXYmw4RGtCdXlNaXp2dmgzdzd5YlhlbHNkeDR2dHJXd3lKTlhwdFdEUU1qNDQ0aHY2MlNlOUdnRzVRSVM1WHUxSkpaZFd0LUJjb3B3VzI3RHRDaWU3bGFlNWZLUUQxUVJlM1NhUWZnQVRKTDZZeEZRNWQzcnYxa0VKZkl6S1ZSOENHUjFEQnZ4NXMtZWVaZXVMQkxpelFnRmdZSnJPVDNwaWpNM0szSjZORlFqamtmOXpsYk01Tlc5VDZxc196RzRaY2xoZ2lrRklVVjBEYjZuX0ZnYVVxNGM1TEdBVGViemZiMkdleEc1c2J4VV9adG5UcnlQU3VMUTEzWWhLZUs5ZjZlMWlOaWVtb1JNcWxuV1g4R21rMGVNVXJBVnVWMWtoNmpkOFJxSmcyajc4T1RiakhTVGVCWjY5NjZmVWxQckhZMEIzdWVBRVVQbjY4cDZzRnlBek5TVE1FdG45a3R0d0VORm55WmdRX1k0T2E5bm9zTW9fZkRVcnZOc2tkN2lMV3E2aGdNbUdwc2FUUQ?oc=5",
-      "publishedAt": "2026-11-11T02:15:12+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "GTC"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "不只黃樂勾搭黃仁勳！美媒爆姐妹花聯手「走私24萬顆輝達晶片」進中國 - Yahoo股市 不只黃樂勾搭黃仁勳！美媒爆姐妹花聯手「走私24萬顆輝達晶片」進中國 Yahoo股市",
-      "capturedAt": "2026-11-11T15:54:39.288303+00:00"
-    },
     {
       "id": "1859fd6dd01e",
       "status": "low-confidence",
@@ -48,7 +25,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Despite Denial, Trump Was Told on Trip to China About Spying on Nvidia’s Jensen Huang - The New York Times Despite Denial, Trump Was Told on Trip to China About Spying on Nvidia’s Jensen Huang The New York Times",
-      "capturedAt": "2026-11-11T15:54:39.288303+00:00"
+      "capturedAt": "2026-11-12T01:20:04.150055+00:00"
     },
     {
       "id": "1a6433178878",
@@ -71,30 +48,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia’s Jensen Huang scandal casts shadow over South Korea’s chip ‘bromance’ - South China Morning Post Nvidia’s Jensen Huang scandal casts shadow over South Korea’s chip ‘bromance’ South China Mornin",
-      "capturedAt": "2026-11-11T15:54:39.288303+00:00"
-    },
-    {
-      "id": "bfc69de2d079",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳出軌女共諜韓媒震驚 沈伯洋發出示警 - 新唐人電視台",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PTThhTnZjS1dVNm5Va0RrRFV3YVJsdTJUYUFvVnM4cU9fNDVyamJMSXNJVEE5OGNoSjhfVHQzVW9SYlV1WFBlLTBoNV9xYUdSLU04aDRDS1BDNDgtcDdLctIBZkFVX3lxTE5wZTI1SUI1OHJMZmt0UF9BcFB0RlhZZUhQSGZnT0ozTGpDU09GQlZka1Bkc2VVVmZTZVo0ODRwWG1JYWJkbWFnU2wxaFpPZzNTWjhtU1BlQzBBd3RmcjdzQzZrdTFMQQ?oc=5",
-      "publishedAt": "2026-11-10T08:58:19+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "GTC"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳出軌女共諜韓媒震驚 沈伯洋發出示警 - 新唐人電視台 黃仁勳出軌女共諜韓媒震驚 沈伯洋發出示警 新唐人電視台",
-      "capturedAt": "2026-11-11T15:54:39.288303+00:00"
+      "capturedAt": "2026-11-12T01:20:04.150055+00:00"
     },
     {
       "id": "d2ef70497c52",
@@ -117,7 +71,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO - CNBC Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned C",
-      "capturedAt": "2026-11-11T15:54:39.288303+00:00"
+      "capturedAt": "2026-11-12T01:20:04.150055+00:00"
     },
     {
       "id": "44e7be1352f2",
@@ -140,7 +94,34 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang's Daughter Cancels Seoul Trip Amid The Scandal. Here's Why - NDTV Profit Jensen Huang's Daughter Cancels Seoul Trip Amid The Scandal. Here's Why NDTV Profit",
-      "capturedAt": "2026-11-11T15:54:39.288303+00:00"
+      "capturedAt": "2026-11-12T01:20:04.150055+00:00"
+    },
+    {
+      "id": "406f7189a3ce",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 55,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳驚爆偷吃女間諜！中國外交部回應了 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNaGpMU196em04cFh2azRXa3lpSU9haEtxYnMtVUxHYktwVHFfbDctWlNlWjlpak14ZUVIRm40YVloX1FKWDlOSkRaTnpPbUlJUFJ6TVQxdlFyOVNiR21YSUlHSG56T3RQSGZpSTR2YW9KU0l0cGZQRzJ3c3JzNHlPR0lnejhzSkhzMkQ4TWN1bENQcE12Wk40MlJYTDU5NzhoMXROS3NDaG82Wm0yTHc0STBQWVVOTXhQVFBFYW4tVDZrRmtGTC1jMktDS3h0VTltTVRiZTlwdGxlYms5TFJyRlJOYWpTUEJsUGhsSmswYmNUbzA2RThTLVdtdFlqTlRZbEdqWjJKVGNXdTVhamI5MzFVNVI3ZDRlWWVucTgxTmI3MjkxSlBVZG1FWnFMMFhBcGJ2dA?oc=5",
+      "publishedAt": "2026-11-09T08:25:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "GTC"
+      ],
+      "privacyReviewFlags": [
+        "吃"
+      ],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [
+        "吃"
+      ],
+      "summary": "黃仁勳驚爆偷吃女間諜！中國外交部回應了 - Yahoo股市 黃仁勳驚爆偷吃女間諜！中國外交部回應了 Yahoo股市",
+      "capturedAt": "2026-11-12T01:20:04.150055+00:00"
     },
     {
       "id": "93da4c8ac02e",
@@ -165,7 +146,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang's daughter cancels South Korea trip amid father's affair revelations - VnExpress International Nvidia CEO Jensen Huang's daughter cancels South Korea trip amid father's affair rev",
-      "capturedAt": "2026-11-11T15:54:39.288303+00:00"
+      "capturedAt": "2026-11-12T01:20:04.150055+00:00"
     },
     {
       "id": "ad78f352e441",
@@ -188,30 +169,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang's Korean TV appearance with wife resurfaces amid affair scandal - The Korea Times Jensen Huang's Korean TV appearance with wife resurfaces amid affair scandal The Korea Times",
-      "capturedAt": "2026-11-11T15:54:39.288303+00:00"
-    },
-    {
-      "id": "90b61391aab4",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Nvidia cancels South Korea trip of Jensen Huang's daughter over family reasons - digitimes",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaXNMbDVzQ0stQWpYVER5aVhKbDI0REJuVF9vYzhoVUNjN2lRN3hmajJEZmZScnNKZDU0U0JNTm1mMUlDaWthXzVZbHAtZTBpRmd5VExDU3lIaERyZTNDa0pyLTRPQ3ZZdjRIY21QVGQ3N0Jnam5oVlZ0Q0R3OEhEUlNObDZRcEUtZXFKblM2enU5MmFo?oc=5",
-      "publishedAt": "2026-11-09T01:58:01+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [
-        "trip"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Nvidia cancels South Korea trip of Jensen Huang's daughter over family reasons - digitimes Nvidia cancels South Korea trip of Jensen Huang's daughter over family reasons digitimes",
-      "capturedAt": "2026-11-11T15:54:39.288303+00:00"
+      "capturedAt": "2026-11-12T01:20:04.150055+00:00"
     },
     {
       "id": "afd688a1eaf3",
@@ -234,7 +192,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳陷風波長女取消訪韓- 國際 - 旺得富理財網 黃仁勳陷風波長女取消訪韓- 國際 旺得富理財網",
-      "capturedAt": "2026-11-11T15:54:39.288303+00:00"
+      "capturedAt": "2026-11-12T01:20:04.150055+00:00"
     },
     {
       "id": "c1b0b4ab2ed4",
@@ -259,7 +217,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link - CNBC Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link CNBC",
-      "capturedAt": "2026-11-11T15:54:39.288303+00:00"
+      "capturedAt": "2026-11-12T01:20:04.150055+00:00"
     },
     {
       "id": "2f15abe0505a",
@@ -282,11 +240,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳之女突然取消訪韓 理由是「家庭因素」 - 鉅亨網 黃仁勳之女突然取消訪韓 理由是「家庭因素」 鉅亨網",
-      "capturedAt": "2026-11-11T15:54:39.288303+00:00"
+      "capturedAt": "2026-11-12T01:20:04.150055+00:00"
     },
     {
       "id": "5ea458db2187",
-      "status": "needs-review",
+      "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: 黃仁勳 韓國",
@@ -305,34 +263,11 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳捲中國女商人間諜疑雲！長女黃敏珊突取消韓國行程 | CTWANT - LINE TODAY 黃仁勳捲中國女商人間諜疑雲！長女黃敏珊突取消韓國行程 | CTWANT LINE TODAY",
-      "capturedAt": "2026-11-11T15:54:39.288303+00:00"
-    },
-    {
-      "id": "b8203b507859",
-      "status": "needs-review",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳捲中國女商人間諜疑雲！長女黃敏珊突取消韓國行程- 財經新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaHBkbXJ4LTU0eDJsY2dFeF9wUnp6WG5ici1TRjgyQ0tsaDdMcjVoNFJNSjFWRXRqZ2M0NFhCaUdkcTB5WVh3NW4wVUc4X0tqa0FLUDc0cTkyak9KMWJueDZtczZQTzZjanZFSjhMcjhJWHYzM0UwZ3dMZklqS18tbWhWLUhBZ2tkMEE?oc=5",
-      "publishedAt": "2026-11-08T02:09:46+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "行程"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳捲中國女商人間諜疑雲！長女黃敏珊突取消韓國行程- 財經新聞 - PChome Online 新聞 黃仁勳捲中國女商人間諜疑雲！長女黃敏珊突取消韓國行程- 財經新聞 PChome Online 新聞",
-      "capturedAt": "2026-11-11T15:54:39.288303+00:00"
+      "capturedAt": "2026-11-12T01:20:04.150055+00:00"
     },
     {
       "id": "99f61e09885a",
-      "status": "needs-review",
+      "status": "low-confidence",
       "category": "媒體公開行程候選",
       "confidence": 64,
       "sourceName": "Google News: Jensen Huang Korea",
@@ -352,7 +287,55 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang's Eldest Daughter Madison Huang Cancels South Korea Trip One Day Before Arrival; Nvidia AI Day to Proceed as Planned - BigGo Finance Jensen Huang's Eldest Daughter Madison Huang C",
-      "capturedAt": "2026-11-11T15:54:39.288303+00:00"
+      "capturedAt": "2026-11-12T01:20:04.150055+00:00"
+    },
+    {
+      "id": "cba261ebd0cb",
+      "status": "needs-review",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Jensen Huang's daughter cancels Korea visit amid rumors linking Nvidia CEO to woman suspected of China ties - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHTE5MNzBlVVNEaW9qdnZ6UzRyNDliZjlkTDlJUWNibThrREt3Wmp2TTlkc3U2RnJtZF9FVDRBaHRLU2trUWJ4UlZ4YzdZQS1VNUJOQnpPaVU4a0VTT0hsT3lGcjlrUFB4RHlz?oc=5",
+      "publishedAt": "2026-11-07T11:23:18+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang",
+        "NVIDIA CEO",
+        "Nvidia CEO"
+      ],
+      "matchedEventKeywords": [
+        "visit"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Jensen Huang's daughter cancels Korea visit amid rumors linking Nvidia CEO to woman suspected of China ties - 머니투데이 Jensen Huang's daughter cancels Korea visit amid rumors linking Nvidia CEO t",
+      "capturedAt": "2026-11-12T01:20:04.150055+00:00"
+    },
+    {
+      "id": "e8217098aca3",
+      "status": "needs-review",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "NVIDIA深化南韓機器人版圖 黃仁勳長女年內四度訪韓 - DIGITIMES",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMkQyZU1hN3VjMUM0ZnFmNXU3VUE2RTJNQlNXbURJcmVyZWIwOW9GazNValZjNmdLWjNjQkJ6bVBaT3RJaXA1RWxiSnBrcGIwVDRwNlBVRHU5ZGs4cmhRMnVPSHJjTFJZUHNob2RfV2poNFVsRWsyZDhsLUI2ZTc3R2gweDkzZTRGUDc2YnFR?oc=5",
+      "publishedAt": "2026-10-30T07:00:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "訪韓"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "NVIDIA深化南韓機器人版圖 黃仁勳長女年內四度訪韓 - DIGITIMES NVIDIA深化南韓機器人版圖 黃仁勳長女年內四度訪韓 DIGITIMES",
+      "capturedAt": "2026-11-12T01:20:04.150055+00:00"
     },
     {
       "id": "406ebd94dad4",
@@ -375,18 +358,64 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳長女Madison Huang下月訪首爾，今年第四度訪韓 - BigGo 財經 黃仁勳長女Madison Huang下月訪首爾，今年第四度訪韓 BigGo 財經",
-      "capturedAt": "2026-11-11T15:54:39.288303+00:00"
+      "capturedAt": "2026-11-12T01:20:04.150055+00:00"
     },
     {
-      "id": "c6f63e63bf76",
+      "id": "137012438321",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV0NCNjVPR0M2THpMdkhiTW5jZUlmVXJzNHk4YjZYeWtGZHc3Vk81V3czUXBBVjktcXlSLWs3MFdyWkRtcmRpV1BmY1hKckhyU3RYWEdsTWlGcnhFVFVNakRLLWZvREpURHJnRVVSdmZEcHJWU2p5YWJZX1pEWGRWRDB1aw?oc=5",
+      "publishedAt": "2026-11-12T01:07:58+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him - The New York Times Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him The",
+      "capturedAt": "2026-11-12T01:20:04.150055+00:00"
+    },
+    {
+      "id": "4ffb39dad3a5",
       "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "黃仁勳「間諜外遇」：韓國曾經歷過的「美人計」事件 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZNmduVTZORmluVDlJSmdubUNoSnhnUU9FXzVsMFVoaHNuVXJkaHdzemZoajI1RDlFYW51dzZDQnFaazNSclFCSUNLNHF0SFlUY1pmVVpMQWJON3BkWDBwQWRtMTkwVDTSAWxBVV95cUxNVEswdkxGN1hKM2diRE5QVEs0T1B0bUJnSXAtVkZ1WGZYdnJQcjN0WUM5R2twR3gwRW9ud21GM3FIZHU5THRDNGp2bDdyT0FZWURDb01yQ0RFdVh6dy1XRXJyek1XQ0xSQ1h0aFM?oc=5",
-      "publishedAt": "2026-11-11T13:16:11+00:00",
+      "title": "輝達盤後暴跌10%！黃仁勳再傳偷吃恐遭解職日韓晶片股走勢分化SK海力士死裡逃生翻紅揖斐電跌近8% - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12ODVkT3hPTk9NbXZmRzByczJVcHdVbTEwZGtTbkV1QkxZR3FSMXZkRHhNQjlXanNtNGpnR0hNTTEwdXdXVnk4Um1QTFlhRXc?oc=5",
+      "publishedAt": "2026-11-12T01:05:27+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [
+        "吃"
+      ],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [
+        "吃"
+      ],
+      "summary": "輝達盤後暴跌10%！黃仁勳再傳偷吃恐遭解職日韓晶片股走勢分化SK海力士死裡逃生翻紅揖斐電跌近8% - 鉅亨網 輝達盤後暴跌10%！黃仁勳再傳偷吃恐遭解職日韓晶片股走勢分化SK海力士死裡逃生翻紅揖斐電跌近8% 鉅亨網",
+      "capturedAt": "2026-11-12T01:20:04.150055+00:00"
+    },
+    {
+      "id": "4c9f0d328aaf",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳婚外情再爆一樁 紐時稱對象是輝達副總裁 - udn",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pNjQtalVZWGlqWkpIWDVyNllXOVE5Y004d3dmbklSc2ROOVJnNWFIbklLT1Zpb1MyYTQxNWtiUDVUSThWaHBzZVZzaDlRWXFDSEtF?oc=5",
+      "publishedAt": "2026-11-12T00:31:09+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -395,19 +424,19 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "黃仁勳「間諜外遇」：韓國曾經歷過的「美人計」事件 - BBC 黃仁勳「間諜外遇」：韓國曾經歷過的「美人計」事件 BBC",
-      "capturedAt": "2026-11-11T15:54:39.288303+00:00"
+      "summary": "黃仁勳婚外情再爆一樁 紐時稱對象是輝達副總裁 - udn 黃仁勳婚外情再爆一樁 紐時稱對象是輝達副總裁 udn",
+      "capturedAt": "2026-11-12T01:20:04.150055+00:00"
     },
     {
-      "id": "113b7a6aa4cf",
+      "id": "6420864287e3",
       "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: Jensen Huang Korea",
       "sourceType": "新聞彙整",
-      "title": "Jensen Huang's Espionage Investigation Raises a New Concern for Nvidia Retirement Investors - KFOX",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUlZ0U3g5d0c5S3VVTVVFMzBvZWFaLS1YbV95U0lxU1ZjVHA3NTIxSzRITHJtbGhaY1pIWms0b1M3NHZ0N1g2MGdUV1hlVzVGLVpoY0p2dmhxQ3dfa0U1T0daWE41SUQzRlpUZUFrVjZZSTd1SGlKbVZhXzVrcHhGMkFHRlZ0Z0dmWU5yQWNXdVc?oc=5",
-      "publishedAt": "2026-11-11T11:48:02+00:00",
+      "title": "More Bad News for NVIDIA. With Board Planning to Boot Jensen Huang, Sam Altman Reveals Master Plan to Stop Buying Their Chips - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQVN2czdCd2tGdy05RkFfUF9JbWVEdTh2WFo0cHUxNE5Yckw4Y3JJOUtydlZ3VVk2SjFDcjZwVDFXLVRiOXRVOXlES0p3WWY2dlEyQW5vZVd2UWVReFhzclU0UzdBdWdPWmdqdi1tV0doU3dpdHZDdE9WLWxna2tXNkZsRGx5UkJ4RnBubW5sbmRNTlZQYWNVY1hFX3RvWW1QUG9kTVg1cjIzaEJTbGxvZU4zTEw4WFRlU2ExVWstR1l3SG9ZTmJ1MTh2NnVsb1l0c2NfY2wwN3AzanlwaVZnS3puc1YxemowRnhtUkt1N0JDRFJpeGxqcFVSNA?oc=5",
+      "publishedAt": "2026-11-12T00:19:00+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "Jensen Huang"
@@ -416,61 +445,19 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "Jensen Huang's Espionage Investigation Raises a New Concern for Nvidia Retirement Investors - KFOX Jensen Huang's Espionage Investigation Raises a New Concern for Nvidia Retirement Investors K",
-      "capturedAt": "2026-11-11T15:54:39.288303+00:00"
+      "summary": "More Bad News for NVIDIA. With Board Planning to Boot Jensen Huang, Sam Altman Reveals Master Plan to Stop Buying Their Chips - 24/7 Wall St. More Bad News for NVIDIA. With Board Planning to Boot Jensen Huang, Sam Altman Reveals Master Plan to St",
+      "capturedAt": "2026-11-12T01:20:04.150055+00:00"
     },
     {
-      "id": "43d4f26f65bf",
+      "id": "360c663c7a33",
       "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
+      "sourceName": "Google News: Jensen Huang",
       "sourceType": "新聞彙整",
-      "title": "未爆彈瞞一年？黃仁勳爆「聘性醜聞公關」後 輝達高層去年10月起套現逾21億美元 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CS0FfbzdzRWRDd0h2U1gydm0tOTkxcHB0TU90c3JBNzJReWFhMmRsb0dkUVBrd1NpSnIxQmtSbkp5bVpwLXpwRWY3QUhzVWM?oc=5",
-      "publishedAt": "2026-11-11T11:13:19+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "未爆彈瞞一年？黃仁勳爆「聘性醜聞公關」後 輝達高層去年10月起套現逾21億美元 - 鉅亨網 未爆彈瞞一年？黃仁勳爆「聘性醜聞公關」後 輝達高層去年10月起套現逾21億美元 鉅亨網",
-      "capturedAt": "2026-11-11T15:54:39.288303+00:00"
-    },
-    {
-      "id": "4939606c8e4c",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳陷醜聞不單純？他驚曝背後恐藏「政治角力」或許有更大風暴 - 自由財經",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQOWxKcHBEV0s0WWZtRjJ1REc1b0F2LVBWdFBZTGJCTGxhZWpNWEVwU0k4NXhkZjJoSlZ3WGp5Z0phN3QyejJRMTJ5RGpZS2hOWGhXc0UtWVFOS1IwVUdB0gFkQVVfeXFMT1N3dk5aLUl5UFZCQ2dHODZ0aWpaRjZRTmx4T3FiRDc5akl3VUFrWGF4VHJWZEtkSXQ1dy1KcFlaNWoxSVk1a0pkekdEMXZIVXBvNDV6cDlKNkp4RjBMYUV5R3pjLQ?oc=5",
-      "publishedAt": "2026-11-11T10:23:52+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳陷醜聞不單純？他驚曝背後恐藏「政治角力」或許有更大風暴 - 自由財經 黃仁勳陷醜聞不單純？他驚曝背後恐藏「政治角力」或許有更大風暴 自由財經",
-      "capturedAt": "2026-11-11T15:54:39.288303+00:00"
-    },
-    {
-      "id": "95638a068b9c",
-      "status": "needs-review",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Jensen Huang scandal casts uncertainty over S. Korea's deepening AI ties with Nvidia - upi",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQXzBYTVE3S3JHTFd6TFpva1JFWXktODItSGpwd1lwc3VfcFg3LWRxRS1vdkhraERNbWtaX1dRZTdYTG05S21RT3E4MWEzcmhPcmdmZHVqMlk0YU9YSlB3MkZqQUxhRzAydzlyQklBcDNmUGhnUm5yQmdYX09aR21Uem1lb0MyQjRqaDN2RDhwc3UxM3RUNW50S2ZwcFQ1ZE1DNVJuWGdnUXNQdzdVMFlhRVJ2aDRwZ9IBtgFBVV95cUxQXzBYTVE3S3JHTFd6TFpva1JFWXktODItSGpwd1lwc3VfcFg3LWRxRS1vdkhraERNbWtaX1dRZTdYTG05S21RT3E4MWEzcmhPcmdmZHVqMlk0YU9YSlB3MkZqQUxhRzAydzlyQklBcDNmUGhnUm5yQmdYX09aR21Uem1lb0MyQjRqaDN2RDhwc3UxM3RUNW50S2ZwcFQ1ZE1DNVJuWGdnUXNQdzdVMFlhRVJ2aDRwZw?oc=5",
-      "publishedAt": "2026-11-11T09:20:00+00:00",
+      "title": "Exclusive | Nvidia Is Preparing to Oust CEO Jensen Huang - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON2VaZ01EcWdXc1ZGb3plNUNMM294WGZlT0tTbWw2SFNPOHZ3ZERtQlR6RkhLRWF2cHExRnNfWGZINm1NWVoxVjRSUDRTVXRFb1RaRGcyMXFUdEd0LWtlME5SVHJETVdzOHR6eHhyNXJLVXF6cldFbnhHMXcydFMzTGhzVnhWN2RQX2d0X1N4QVZvdUU?oc=5",
+      "publishedAt": "2026-11-12T00:17:00+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "Jensen Huang"
@@ -479,42 +466,61 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "Jensen Huang scandal casts uncertainty over S. Korea's deepening AI ties with Nvidia - upi Jensen Huang scandal casts uncertainty over S. Korea's deepening AI ties with Nvidia upi",
-      "capturedAt": "2026-11-11T15:54:39.288303+00:00"
+      "summary": "Exclusive | Nvidia Is Preparing to Oust CEO Jensen Huang - WSJ Exclusive | Nvidia Is Preparing to Oust CEO Jensen Huang WSJ",
+      "capturedAt": "2026-11-12T01:20:04.150055+00:00"
     },
     {
-      "id": "d4970a22f85b",
+      "id": "400056cc8a11",
       "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: Jensen Huang Korea",
       "sourceType": "新聞彙整",
-      "title": "How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington - The Korea Times",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZlBEMHlVUjd2azBIcW1DS1lmUy1yMzdNQW9LN3ZObzFWSkpka1JsRnFtb3MzVlpBMzlObW12Y0NxQXdxSkFDTFdkYWVBVUdOVFdDOW9tNGFWWHd1TFpUS0NuSGprMVlfbWFreks3TDNTY0RPWk5tZXZCQ0xILWRYSC1JWko2WUVzODFpZHZ1TFJiNF83NWZpa3BZcl80czljRHlXbmVFX1kzTVczZ0Ffb0VBZG1RaHhFaDJXU2F3alJnNjEyUVUtM3hNMkc2X1Y4QUdySF9XTdIB1wFBVV95cUxQZlBEMHlVUjd2azBIcW1DS1lmUy1yMzdNQW9LN3ZObzFWSkpka1JsRnFtb3MzVlpBMzlObW12Y0NxQXdxSkFDTFdkYWVBVUdOVFdDOW9tNGFWWHd1TFpUS0NuSGprMVlfbWFreks3TDNTY0RPWk5tZXZCQ0xILWRYSC1JWko2WUVzODFpZHZ1TFJiNF83NWZpa3BZcl80czljRHlXbmVFX1kzTVczZ0Ffb0VBZG1RaHhFaDJXU2F3alJnNjEyUVUtM3hNMkc2X1Y4QUdySF9XTQ?oc=5",
-      "publishedAt": "2026-11-11T08:14:03+00:00",
+      "title": "Nvidia board reportedly preparing to oust Jensen Huang amid affair, espionage allegations - Korea JoongAng Daily",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM3Z1ZGNtZUhHcHhJMEpQZ05CcUo5akY1T00wSmZIRTNBT0lkd3piOG85VWNhMERFSWJyWmNJQ2tpS21rbFhzeFROVzA0cVBodm1laWxQTFNUSUdyQ2s0WkQ4MmtfTkktQm1IX3Y5Q2RuSXNGLUhLdlJURVBKbUp2TEo3Z1lwZFlDb084cEpHMThNTkJUa3RvZEFXRVhubVNSZEFZSUw5ckFhMUhUTnBoQ1I3UFVQa0IyTFJPOUx2ZWpUcDRjcW91YmhsMFVuTnM3LTBaMw?oc=5",
+      "publishedAt": "2026-11-12T00:10:03+00:00",
       "detectedDates": [],
       "matchedKeywords": [
-        "Jensen Huang",
-        "NVIDIA CEO",
-        "Nvidia CEO"
+        "Jensen Huang"
       ],
       "matchedEventKeywords": [],
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington - The Korea Times How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington T",
-      "capturedAt": "2026-11-11T15:54:39.288303+00:00"
+      "summary": "Nvidia board reportedly preparing to oust Jensen Huang amid affair, espionage allegations - Korea JoongAng Daily Nvidia board reportedly preparing to oust Jensen Huang amid affair, espionage allegations Korea JoongAng Daily",
+      "capturedAt": "2026-11-12T01:20:04.150055+00:00"
     },
     {
-      "id": "56a5598f0b69",
+      "id": "da4bcbfad8ad",
+      "status": "needs-review",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "Nvidia is preparing to oust CEO Jensen Huang, WSJ reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTlA5REZDN0pJYkxyUXM4YjE1Q1BLN0tKNENxM3NsV3RKblNhbWpsdEFUUVRieUtNckY4S3YwdkFUdjhvZVk4Nm1Ga1JNUmZkRzMtaEhHazhHNmZDX3Z1WUNzZnJmdEpLeVRmcngzdEMwM2N3b1I1ckQ1Q2N2a2NRNWtfa0ZTTkhYaXlqc1NqbklwWUxIdktqdzZvS0M2cGhSYkE?oc=5",
+      "publishedAt": "2026-11-11T23:32:40+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Nvidia is preparing to oust CEO Jensen Huang, WSJ reports - Reuters Nvidia is preparing to oust CEO Jensen Huang, WSJ reports Reuters",
+      "capturedAt": "2026-11-12T01:20:04.150055+00:00"
+    },
+    {
+      "id": "8ac37f3de0f6",
       "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
-      "title": "黃仁勳醜聞威力有多強 ? 外媒曝「驚人數字」恐直擊台灣半導體核心 - 自由財經",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqXzJCTlVmOTFRQzZWYjk3M1o3d200bkZ0V3dYeVlrc3lwQ3dnX0RYTDlSWkNBV19PTloxdlN1V3MxMHZpdGc1R05UcE5TYXppYmVleC1iZ05OcEdJSFE40gFkQVVfeXFMT2kxMXltbGYtcGFvTks1eXhFbHpvcGQ5LVRtcENWcWtMb3RqMTVCbHpDNi1iUjYyb3hRLTF0NU9LcFU4ekZKTGQyOXR1Tk9hQlBKaF9QVU1KOHpseHJpWjRjbkt5bA?oc=5",
-      "publishedAt": "2026-11-11T07:18:28+00:00",
+      "title": "《巴隆》：驚爆多起婚外情 黃仁勳如今面臨「信譽」崩塌 - 鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zNjBWNU5NS0NIRjNuOUR1U0VGaWNmaEN1QjQ1Um9fOGdOcFR6VGpGMkJVQUxYeVNnVTRSNV9rVlpxUy1IcG55ZlVMckxfUzQ?oc=5",
+      "publishedAt": "2026-11-11T23:29:45+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -523,19 +529,19 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "黃仁勳醜聞威力有多強 ? 外媒曝「驚人數字」恐直擊台灣半導體核心 - 自由財經 黃仁勳醜聞威力有多強 ? 外媒曝「驚人數字」恐直擊台灣半導體核心 自由財經",
-      "capturedAt": "2026-11-11T15:54:39.288303+00:00"
+      "summary": "《巴隆》：驚爆多起婚外情 黃仁勳如今面臨「信譽」崩塌 - 鉅亨網 《巴隆》：驚爆多起婚外情 黃仁勳如今面臨「信譽」崩塌 鉅亨網",
+      "capturedAt": "2026-11-12T01:20:04.150055+00:00"
     },
     {
-      "id": "6c9ea926b779",
+      "id": "26837372ec98",
       "status": "needs-review",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
-      "title": "黃仁勳也淪陷！舊識爆黃樂特質 男生看到她「像被勾了魂」 - 自由財經",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RblIwYkY1XzQ1T1lxaDNlWUYwa2p6Q2NqSEwyWWxpcUZVVTYxOXhCeDFIdWRiQW1YejdwWk1CM0w2ZnZ5VmRIWm5XUmdDaU5pdDZ3ckhQUEdmYzJXOGpr0gFkQVVfeXFMT3N3UGV6a21rZnc1ZjlLeXc1U0lwVFdUR25hejVoZWtiLWE5NzBmR1IyTXVGTlVfZEdqMzBCV040SU9ZX2ZJY2d3dmFJYjJXM205WXlhNUZjakhKSTZHVlR6LW51Ng?oc=5",
-      "publishedAt": "2026-11-11T05:39:49+00:00",
+      "title": "黃仁勳不只外遇一人！外媒曝「女性身分」輝達再跌 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPSnJ2WGJGTVB4UzJ1eVQta284TURpZFIzMVNUZV9mZ3N6b2d4Z011dl9aMWZfalVXQUxDWHJnRTlZOFJFNmxEeGxNcC1zMnV6WDNzOS1SS19nSFY1MU9oVDVRSkhsT2JhQmZhVEhwa0hYTHBnbzBuSnVlZ1VJZGFMYmJUT1RDNnF1UlNDbkhieHotaHdlUS15YkJpM1JMbV93NVBMZHNwWHpVcmtSMXc3V1k3THlycm9kOVdDdVlnSV82QnNIUTlYeXFPMFBzNHdHU1NmV21OeTBBMHRhclJGT0xURjF6dndKbktHUmFTYTdUWjBPSzY1YkVoNnJkNTlkcldyTHFHQ0QtbDJPc0JiREFMOE1ha2F3Q0xUNmRHQ0x3Yk43c3I5OVJnQTEzelE4VXdybDRsanpzU3VfSk9YYjFFcU0?oc=5",
+      "publishedAt": "2026-11-11T23:20:07+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -544,8 +550,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "黃仁勳也淪陷！舊識爆黃樂特質 男生看到她「像被勾了魂」 - 自由財經 黃仁勳也淪陷！舊識爆黃樂特質 男生看到她「像被勾了魂」 自由財經",
-      "capturedAt": "2026-11-11T15:54:39.288303+00:00"
+      "summary": "黃仁勳不只外遇一人！外媒曝「女性身分」輝達再跌 - Yahoo股市 黃仁勳不只外遇一人！外媒曝「女性身分」輝達再跌 Yahoo股市",
+      "capturedAt": "2026-11-12T01:20:04.150055+00:00"
     }
   ],
   "errors": [
