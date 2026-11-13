@@ -1,9 +1,32 @@
 {
-  "generatedAt": "2026-11-13T08:51:16.150591+00:00",
+  "generatedAt": "2026-11-13T15:57:33.991361+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
-  "publishedToTimeline": 10,
+  "publishedToTimeline": 11,
   "signals": [
+    {
+      "id": "448983c0ae27",
+      "status": "low-confidence",
+      "category": "媒體公開行程候選",
+      "confidence": 64,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳在南韓人設全崩！昔炸雞高峰會、 帶老婆上綜藝放閃韓國人真實反應曝光 - 風傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkOHJuRXFjWnlUOFNjVy1pVy1rR0NVeVJyZ2ItUGJaRVFUXzNmblV2NDNOU2hFYVBDWTNORlhsbkJ1V2drZDhiV1EzMWZxNjVU?oc=5",
+      "publishedAt": "2026-11-13T09:39:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [
+        "峰會"
+      ],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳在南韓人設全崩！昔炸雞高峰會、 帶老婆上綜藝放閃韓國人真實反應曝光 - 風傳媒 黃仁勳在南韓人設全崩！昔炸雞高峰會、 帶老婆上綜藝放閃韓國人真實反應曝光 風傳媒",
+      "capturedAt": "2026-11-13T15:57:33.991377+00:00"
+    },
     {
       "id": "a851383a7da5",
       "status": "low-confidence",
@@ -26,7 +49,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say - Reuters EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say Reuters",
-      "capturedAt": "2026-11-13T08:51:16.150604+00:00"
+      "capturedAt": "2026-11-13T15:57:33.991377+00:00"
     },
     {
       "id": "b5d7da50fe90",
@@ -49,7 +72,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang's troubles threaten AI alliances built on personal ties with Korean tech titans - Korea JoongAng Daily Jensen Huang's troubles threaten AI alliances built on personal ties with Ko",
-      "capturedAt": "2026-11-13T08:51:16.150604+00:00"
+      "capturedAt": "2026-11-13T15:57:33.991377+00:00"
     },
     {
       "id": "542efdf7284b",
@@ -72,7 +95,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia board meeting to decide CEO Jensen Huang’s fate stretches into evening - CNBC Nvidia board meeting to decide CEO Jensen Huang’s fate stretches into evening CNBC",
-      "capturedAt": "2026-11-13T08:51:16.150604+00:00"
+      "capturedAt": "2026-11-13T15:57:33.991377+00:00"
     },
     {
       "id": "016e87a94dfe",
@@ -95,7 +118,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "不只黃樂勾搭黃仁勳！美媒爆姐妹花聯手「走私24萬顆輝達晶片」進中國 - Yahoo股市 不只黃樂勾搭黃仁勳！美媒爆姐妹花聯手「走私24萬顆輝達晶片」進中國 Yahoo股市",
-      "capturedAt": "2026-11-13T08:51:16.150604+00:00"
+      "capturedAt": "2026-11-13T15:57:33.991377+00:00"
     },
     {
       "id": "1a6433178878",
@@ -118,7 +141,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia’s Jensen Huang scandal casts shadow over South Korea’s chip ‘bromance’ - South China Morning Post Nvidia’s Jensen Huang scandal casts shadow over South Korea’s chip ‘bromance’ South China Mornin",
-      "capturedAt": "2026-11-13T08:51:16.150604+00:00"
+      "capturedAt": "2026-11-13T15:57:33.991377+00:00"
     },
     {
       "id": "93da4c8ac02e",
@@ -143,7 +166,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia CEO Jensen Huang's daughter cancels South Korea trip amid father's affair revelations - VnExpress International Nvidia CEO Jensen Huang's daughter cancels South Korea trip amid father's affair rev",
-      "capturedAt": "2026-11-13T08:51:16.150604+00:00"
+      "capturedAt": "2026-11-13T15:57:33.991377+00:00"
     },
     {
       "id": "ad78f352e441",
@@ -166,7 +189,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Jensen Huang's Korean TV appearance with wife resurfaces amid affair scandal - The Korea Times Jensen Huang's Korean TV appearance with wife resurfaces amid affair scandal The Korea Times",
-      "capturedAt": "2026-11-13T08:51:16.150604+00:00"
+      "capturedAt": "2026-11-13T15:57:33.991377+00:00"
     },
     {
       "id": "90b61391aab4",
@@ -189,7 +212,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "Nvidia cancels South Korea trip of Jensen Huang's daughter over family reasons - digitimes Nvidia cancels South Korea trip of Jensen Huang's daughter over family reasons digitimes",
-      "capturedAt": "2026-11-13T08:51:16.150604+00:00"
+      "capturedAt": "2026-11-13T15:57:33.991377+00:00"
     },
     {
       "id": "2f15abe0505a",
@@ -212,7 +235,7 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳之女突然取消訪韓 理由是「家庭因素」 - 鉅亨網 黃仁勳之女突然取消訪韓 理由是「家庭因素」 鉅亨網",
-      "capturedAt": "2026-11-13T08:51:16.150604+00:00"
+      "capturedAt": "2026-11-13T15:57:33.991377+00:00"
     },
     {
       "id": "b8203b507859",
@@ -235,18 +258,18 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "黃仁勳捲中國女商人間諜疑雲！長女黃敏珊突取消韓國行程- 財經新聞 - PChome Online 新聞 黃仁勳捲中國女商人間諜疑雲！長女黃敏珊突取消韓國行程- 財經新聞 PChome Online 新聞",
-      "capturedAt": "2026-11-13T08:51:16.150604+00:00"
+      "capturedAt": "2026-11-13T15:57:33.991377+00:00"
     },
     {
-      "id": "2a4b9ff9aac1",
+      "id": "6147b59406c8",
       "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
-      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceName": "Google News: Jensen Huang",
       "sourceType": "新聞彙整",
-      "title": "‘So disappointed’: Nvidia ex-CEO Jensen Huang’s fall sparks dismay in Asia - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU2MtQmp0UVFCam82NzNYeEplTUg2S09DOGVPODJDOFgyVjlLTHo1MVFIdXFWWXhUWVBBeVZXVy1oY3RIVC1xMDcwemR3TTNUdEtzZzFxM2MweXg2cTR2cHdjNzZybDVzeXl5ZmFPdTA5Rkp5d3NKVFdqX2M5czRiZkpoUnBEOTFKQkxjbmRmUFBsVFplLWdJeXEza3ZnTVcyZzZwS1AxNzlVQUdLSzhlajBEWEEyVHN4X0REb0ZncVdXVGZxX0FR?oc=5",
-      "publishedAt": "2026-11-13T08:28:53+00:00",
+      "title": "Jensen Huang’s Bad Week Leading To His Resignation, Explained - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTFJDSmUzd0JTcWpDNXB4bXJqZDRCUEliYjFoZl9OcHVIWTlEb195eXdlaTBlY2JWVWxkTmFua3RNck1QcTNQMWc3UWxPS3NJSFJmRzV3dXJnaUd2MDdDQml3QmNRQTg4MjZoanN6d1JWVU5xUGxUc25MekIzX0pLeDNtMDR5cUNkdWZTVjctX0txbGx4ZzZ6T3VTVkw4X04xLVpJdTdRNA?oc=5",
+      "publishedAt": "2026-11-13T15:06:00+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "Jensen Huang"
@@ -255,71 +278,8 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "‘So disappointed’: Nvidia ex-CEO Jensen Huang’s fall sparks dismay in Asia - South China Morning Post ‘So disappointed’: Nvidia ex-CEO Jensen Huang’s fall sparks dismay in Asia South China Morning Post",
-      "capturedAt": "2026-11-13T08:51:16.150604+00:00"
-    },
-    {
-      "id": "4676fa3ac91b",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳退位！ 輝達「2大技術王牌」全婉拒：寧死不當執行長 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNMUd4TzRGQWRHOFY4dF9XaHJWMWhjY011TnNFSFBPU0NFQmJPZDA2U2pVME1HRXd2d2w0SWJGUE0wVy1MVTV1RFJLTHVsSUp4Y3diUzNUYWV5VU50SVNPZ2RvWGx4RlN1SW9SS3M4RHJENG5qeW1Vb1FYdDFTbzUwblhZX2tLNEV0R09wYU9iYm9wSWlyZWp3cEhGOGpXM1BjSnhaeS0yUjRKQUdDVkh0LVJRVzBieVJjSTA4UXVEbGNpbDVpOFhJazNfcUdla0VENFdNNTFrY2U3dnl5dTdmRnM0Z2tKMzVvc0t5dlo0Vk0zQXNGajBTNzFSdFNuME5lemlvcDlLdzJRMm1XQWo2RkR5UmVhVFZNQ3lJSWxud0VFZ0NyM3o0Wk11YTZBaEFqWUVwNERBb0hFazRBcGVNdmpHTWhITFRlWTkxUFZFdzdWTmFzdGF6TXVLa0c4dWZ4MXFPVDhaNndEZw?oc=5",
-      "publishedAt": "2026-11-13T07:35:41+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳退位！ 輝達「2大技術王牌」全婉拒：寧死不當執行長 - Yahoo股市 黃仁勳退位！ 輝達「2大技術王牌」全婉拒：寧死不當執行長 Yahoo股市",
-      "capturedAt": "2026-11-13T08:51:16.150604+00:00"
-    },
-    {
-      "id": "a37c3147b171",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Nvidia without Jensen Huang. What lies ahead for Asian chipmakers? - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdDk2TnF0RXBEUE9lRmhULURySmpJQUFkTEwteWJrcTlGeU96SDJqYS1VSjZ6cGE2OUYzYW5EQmxBczNaU2VQWEpQeE83RG4zM1REZ2JQMjNLTXdLYm03NEo2WF9kaXE5WWRsU290X2ZvelpPT3oydmxlNktsQmE0cDBNc250SWE1eURROVA0NDM0dkRWeDktVTJHZTZlem14cm1Mb9IBqgFBVV95cUxNTmdqanoyVmdRc3hyWXFQQVh4eFBXSkFZbFJTZ1I5SGJGSVFlWVBvdWhobmU2X2FGR1UxZU01ZEcyekM4eHpTZmZFVEtaT042dW5uUE5fVWJCeWNMMy1lNUJoUW9LUUdncVhjMXZ1ZUZhT05LYkpSVV9QN29odGw4UEhQSFp0U3FfcDlWdkR0Z0ZBT05SSmc5VS1TUUFCMVRzODVwVW9walJkUQ?oc=5",
-      "publishedAt": "2026-11-13T07:29:15+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Nvidia without Jensen Huang. What lies ahead for Asian chipmakers? - CNBC Nvidia without Jensen Huang. What lies ahead for Asian chipmakers? CNBC",
-      "capturedAt": "2026-11-13T08:51:16.150604+00:00"
-    },
-    {
-      "id": "e5ef8ae669f8",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "輝達黃仁勳下台是好事？南韓半導體高層：對我們來說可能是利多 - 自由時報",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aTHg0Umx4dzlyaXJnUFowRHlRX3h6TjloUDgxbFpfOHpmclR2NWdHS3RzaW5wR2FubjN5aUlUS2dwRHVWWjhHTkVXR1h2a251dWdFVHBPUm8?oc=5",
-      "publishedAt": "2026-11-13T07:19:18+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "輝達黃仁勳下台是好事？南韓半導體高層：對我們來說可能是利多 - 自由時報 輝達黃仁勳下台是好事？南韓半導體高層：對我們來說可能是利多 自由時報",
-      "capturedAt": "2026-11-13T08:51:16.150604+00:00"
+      "summary": "Jensen Huang’s Bad Week Leading To His Resignation, Explained - Forbes Jensen Huang’s Bad Week Leading To His Resignation, Explained Forbes",
+      "capturedAt": "2026-11-13T15:57:33.991377+00:00"
     },
     {
       "id": "5729d1bc60b6",
@@ -330,7 +290,7 @@
       "sourceType": "新聞彙整",
       "title": "輝達韓國前代表談黃仁勳卸任，CUDA 優勢仍在短期影響有限 - TechNews 科技新報",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRnJWQ3Z4TGhtUnBKSWFKYUlpM29RNkdEUERjSmp4M1BnMTJ2MWJPNUJQTkJtR1FXQmJpQVdBWFZvSGFEU21rcm5KOEp5ZlJuZkg0VGdCdS1mN2FDdVNHaF90YzBZSW1NZ01pOVJYcmVrMzN3dGtZYTg2NTB3R2VlYW1uZjltbERvTTNFOXMxV1ZlRl84ZnowMGtvMm5RYmN3V0JDYXdWeENTb09nS01hVmh5dzBfWkRvWWtaQjR3anRVaWxqVUpMZGRJR2lBdldjZ0IwT0ZQRFdxTGJPclBqX2pB?oc=5",
-      "publishedAt": "2026-11-13T06:32:18+00:00",
+      "publishedAt": "2026-11-13T14:49:56+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -340,43 +300,83 @@
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
       "summary": "輝達韓國前代表談黃仁勳卸任，CUDA 優勢仍在短期影響有限 - TechNews 科技新報 輝達韓國前代表談黃仁勳卸任，CUDA 優勢仍在短期影響有限 TechNews 科技新報",
-      "capturedAt": "2026-11-13T08:51:16.150604+00:00"
+      "capturedAt": "2026-11-13T15:57:33.991377+00:00"
     },
     {
-      "id": "24b4d3ddf389",
+      "id": "23bec9b28906",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "title": "What's ahead for AI financing after Nvidia CEO Jensen Huang departs - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNmVPNWtoSGZwRHo4alI0Ql9LT1ZuN2ZmTFNDSkR0REg0M3FPYy1rLW05SGdCbHBOWV9FR0diZE1KVmVSUGFRNlZpN3BoNkRvWWJUa21WNE14bDBXTzJqWXY2T3B3YVFtRlJVdGM3SlBWTVB6ZHpleUlzT1hvUnpMYktobDJLUGNp0gGOAUFVX3lxTE10dDVweW9VX1NSdy1Md2JSWE5rbVRXOEo5N1FFVFVhaUJGakRfQ29scXdIOEh2QlJPQ29PcjhZN2JvNm1wWnlKdnpNRC1RQ1p3dG9rRjRvSHJQYkprODBoc2FhbDFlUFROS3Q1RkF0c3VReDJXY2Myd2pEa0VmRjlvYURzeFctaEQzWS10VGc?oc=5",
+      "publishedAt": "2026-11-13T12:54:43+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang",
+        "NVIDIA CEO",
+        "Nvidia CEO"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "What's ahead for AI financing after Nvidia CEO Jensen Huang departs - CNBC What's ahead for AI financing after Nvidia CEO Jensen Huang departs CNBC",
+      "capturedAt": "2026-11-13T15:57:33.991377+00:00"
+    },
+    {
+      "id": "92fe74164534",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Jensen Huang’s exit raises questions about Samsung, SK Hynix’s business relations with Nvidia - KED Global",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uVFpQd2FYR3ZhZEhoQWRPRVF5azJLbUZBMXZ2VGhiblQ5TUtwS3F6SGJXMkxHM0psVGJILVRLMUhySUJxNlBmcUtyNy1WUEprOThWRGpuYnhrTEF3MjBxRVVEY1I2WkFZUmxHNldLS3dLei04VXRV?oc=5",
+      "publishedAt": "2026-11-13T11:13:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Jensen Huang’s exit raises questions about Samsung, SK Hynix’s business relations with Nvidia - KED Global Jensen Huang’s exit raises questions about Samsung, SK Hynix’s business relations wit",
+      "capturedAt": "2026-11-13T15:57:33.991377+00:00"
+    },
+    {
+      "id": "4e447e43d7ea",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Nvidia’s supply chain clout tested after Jensen Huang’s exit - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSVlWWGhNcVJpbV90R0p0ZDU4RU54ekM5S2dDa2J0OGVBU2dyd1hpOEhFVkwwbk41eE9IWjZfZkFiZnZ4X3ZYMmhYYl81VGYxSUNFS0Nzam8ycFJmSVNBY1h4b3BmWG1ELVFfdU1JeEhkQkViSDRzMEZLb1FOXzVfaHpRRG5BNUtkdkIzNzkwRDBYR09Nc0FFcGxOYzdSTnhlQkpOT091LUp5eFl3RU45SThQLWFoSUM3Vkt6SFoyM1ZWaXdhMUliOFZVONIBywFBVV95cUxPanQ5eEszRkU2NmZ0UGd0UzZYLWItNWVOblhnRERuR09vOS1oa09jX1AzanRzaTI0TE14SkRiNFpqX2NWREtEemQ5ZHFMc1NHZHJBR2h1MFlJX1h3RFVVN1BVYXFGSm56VlRiUGdBR3FvVDJBOEs4bXJsV1lJRUFIc0N5UXd2amxMQjI3VlRTR3NqajUxWHliTDEzbmoteEREM09TTFhocWlFQTB0ak9xdXB4V1FIbDYycExEaEM3OVFpOWFkTTFsM2x1MA?oc=5",
+      "publishedAt": "2026-11-13T11:00:10+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Nvidia’s supply chain clout tested after Jensen Huang’s exit - South China Morning Post Nvidia’s supply chain clout tested after Jensen Huang’s exit South China Morning Post",
+      "capturedAt": "2026-11-13T15:57:33.991377+00:00"
+    },
+    {
+      "id": "637dd0359c92",
       "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
-      "title": "再遭爆還有\"小五\" 黃仁勳請辭後LinkedIn改回餐廳服務生 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQNl9uS1RZeEZNdmtDS0VXbVdXa2E3cFZ1bnZoZV9BOTEzMFpaVDJsb3E5TDg0Y19ZQ1J1VXdQbHVFcUNWOU5RcEJMMHNrRThXZG16VmlWejVkeEd0bmdlVXBLSlB6N1RTcDhadWhYWnpGaUo5NGx4akM5cDYwdnJsU0ZFcDFlSWR6MUtLSlR0UDVnWXg1N3pOT1FpYW9BbVB6QWFaYkV5QVhrQm0zV1h3TXZGazI2SklLM0trWUNCNlhNMHpzMGNYVWJfVXJjSFFqbTM3RVZOeW5tODdpaHlWSUpHRTZhRnNQelBZOHdkc0VtWkpFWE9scEVmcGo5VGhqbXo2bEYybFczWl84Y1hlZDlMR0NjRGl0RUxSLUFTZ3FfRExBUXlOX0ttQ1VfNm54U2Nad2lJU29oc1Zpb2dpaTg3ZDdsV19jRERoRUhaRlQ4aHM0akNvZQ?oc=5",
-      "publishedAt": "2026-11-13T05:56:15+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [
-        "餐廳"
-      ],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [
-        "餐廳"
-      ],
-      "summary": "再遭爆還有\"小五\" 黃仁勳請辭後LinkedIn改回餐廳服務生 - Yahoo股市 再遭爆還有\"小五\" 黃仁勳請辭後LinkedIn改回餐廳服務生 Yahoo股市",
-      "capturedAt": "2026-11-13T08:51:16.150604+00:00"
-    },
-    {
-      "id": "51f254679c0a",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "炸雞兄弟情一年就散？黃仁勳下台韓媒憂三星、SK訂單變數 - NOWnews今日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGX1k3MDhoOWJfV0lvNDhqMDdOLU83eVd3MUVHQ05xYU8zd29RWnlLNkhQZ2FMOWNBZi0xQVpIVEpLOVl3cXMwY2EtUjFLc25ZLWfSAVJBVV95cUxQRl9ZNzA4aDliX1dJbzQ4ajA3Ti1PN3lXdzFFR0NOcWFPM3dvUVp5SzZIUGdhTDljQWYtMUFaSFRKSzlZd3FzMGNhLVIxS3NuWS1n?oc=5",
-      "publishedAt": "2026-11-13T05:35:50+00:00",
+      "title": "丈夫真的「獻祭黃樂」給黃仁勳？外媒證實了 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPRTVSbGhKSk80UDcxNllLWEctRFRxaWJXUDVzYlhValFic2tVWDdiV1d6OW02OFpreWdzWWhUVzdhTHBjV0ZuaW5CejdGUjJmTTJucFVfcnJ4SmF1V29mTWJleS1FYXRqcm1lX3lMb19BekE3dEcybU1ZcU14dkpRdmdaUk0wSzBBcnU5WWtQOXRXSmV5MHVKZmM4UDJBemhxVHpwZzd1SmliUmJIaGg3THpYYlZtTVlJaDI3QnVQQWFsT2gxTW5YU0dNd2xxVmlBWkdzaUh2Tk5lSTB4Zmx1cnRNOWNkaVVlR2w1SkhnYUF2azlTSFRsLVc0WjNoZEVCTDRxVFJDZ242ckhoZ0U1cEtSdlZzV2owR1VyMkFBXzJVdlBiX0dNZzNZZw?oc=5",
+      "publishedAt": "2026-11-13T10:33:49+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -385,19 +385,19 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "炸雞兄弟情一年就散？黃仁勳下台韓媒憂三星、SK訂單變數 - NOWnews今日新聞 炸雞兄弟情一年就散？黃仁勳下台韓媒憂三星、SK訂單變數 NOWnews今日新聞",
-      "capturedAt": "2026-11-13T08:51:16.150604+00:00"
+      "summary": "丈夫真的「獻祭黃樂」給黃仁勳？外媒證實了 - Yahoo股市 丈夫真的「獻祭黃樂」給黃仁勳？外媒證實了 Yahoo股市",
+      "capturedAt": "2026-11-13T15:57:33.991377+00:00"
     },
     {
-      "id": "b7d92134e703",
+      "id": "4ef314fae2eb",
       "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
-      "title": "黃仁勳退位只因桃色風暴？ 專家直指「5疑點」 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOUFNENURMMzBGX2ZmcnJfQjBmNUtMMi1XTnNsZnNJYzNmdzN2cmhIdnV5cnJRcWxCR1JFeFczVDN1bEJWMW40RGF2c0U5eE4wV2M5Qzg4OURzdzZjQWo5dVJ1WEJFWkVfM2lsU202OXEzZUxHNVJKSG13ekUwc3hsaGdXOENYRmhHemZCSUtDMW9jY0hNemNybzNCZFc0Q1JHZ0xhMXprQ3dlczNRQWNIejlUdmE4cjdEeXN6ZDNXR05BVFNDQ1hCWG55WHZvTUxFQ1J3RUw4OEtEWG5KVFpYWG5MNk1INFh5RklLa3d2Ty1kSTVoMU9VaU5yaGJEVkF2VEJKX3oxT19Kc1pKV203czlZUm5YUmNUOG9vWjQzcE9kRnkxUU9fVVBCYw?oc=5",
-      "publishedAt": "2026-11-13T05:34:06+00:00",
+      "title": "「台灣乾爹」光環崩塌：黃仁勳事件如何震動台灣產業、政治與社會？ - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44cVNSelR0Y3NEQy1XQUd2ZGtZX3JuMExnNzdRdFR5Y2pTVTNXeEl3ZWRoMW40MGhvdjl3dkJaYmluZWFONExLSnRwUDBRRUZjVTZST0hjd1ZPUDV6TlBhMW15aTdBV3PSAWxBVV95cUxOX1FpVW9EOUVVS3E4UjBsT1haQnFibTVlY3hXUGwtV3FqQ01IbnJCX1RZdHVCTWNSSEd2V0E5endXVmFsRXFXUUZiMFY1V2tHR21JYXItb2hvcGVtSGl4MWNHQmtGdm83SVdzQ1I?oc=5",
+      "publishedAt": "2026-11-13T10:12:03+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -406,61 +406,19 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "黃仁勳退位只因桃色風暴？ 專家直指「5疑點」 - Yahoo股市 黃仁勳退位只因桃色風暴？ 專家直指「5疑點」 Yahoo股市",
-      "capturedAt": "2026-11-13T08:51:16.150604+00:00"
+      "summary": "「台灣乾爹」光環崩塌：黃仁勳事件如何震動台灣產業、政治與社會？ - BBC 「台灣乾爹」光環崩塌：黃仁勳事件如何震動台灣產業、政治與社會？ BBC",
+      "capturedAt": "2026-11-13T15:57:33.991377+00:00"
     },
     {
-      "id": "8cb0f96882b2",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳請辭波及記憶體股 美光、SK海力士走低 分析師示警先進記憶體需求 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ITEw1Q1g0ZlN3OHVBU185Qi0wT2NLcWtwZXFxcVA4aEpiUnVXNE9BLUdWd2lPckM2dWpveWJPUVBGdDFDQXdWdkpvUDJPQkU?oc=5",
-      "publishedAt": "2026-11-13T05:21:42+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳請辭波及記憶體股 美光、SK海力士走低 分析師示警先進記憶體需求 - 鉅亨網 黃仁勳請辭波及記憶體股 美光、SK海力士走低 分析師示警先進記憶體需求 鉅亨網",
-      "capturedAt": "2026-11-13T08:51:16.150604+00:00"
-    },
-    {
-      "id": "cc96835d91a5",
+      "id": "544196bf2477",
       "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
-      "title": "黃仁勳辭職！華爾街14家投行急評輝達 他驚嘆：哪來的時間 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNWDkzZ0V3WVNweFpwLXY2NXlPY05jM0xxbnBSZm1ET3FVSGg1Njg2QW1hLVpxN3otZU9ULXVPNU5ENDYwOFQwMzRhMUJqOHhsMGlaVW9leVVIYi1MRi1JV090alZGeDdYMENiQ0dXeTd5WWNSRVpmanJpeHNaWXZTTE14M1dlZExQdXM5cFVLdGJBenFSX3gxcHhFRi1tQ3lOQkc0RGppcDBmU1dXdFc2ZzNTdmJEWnFpVFRHTm5kUVRjOWRld0xMYVFnMm9yZ2xBS2VBZ3E5MXRfOVpmY2NiZGV0VEtwMExyZFZCc2hWSGZ0Q3BCeHFaNlVCN1dud0dtTzY1bDRfUmpzZjVTY2psVkU2UGpycDlWY2ZVckQ2UFREbENBcVg3NVVyQzJVSlNpSlRiMnVqV3JYRC1ZTjB2MkhLdWJZVVJ4eUZONFFPeWhFZW0zaURTcFBPYVRvRDJaRnRiODJmVGp5SEtOa3VZVEZsVWpYdw?oc=5",
-      "publishedAt": "2026-11-13T04:44:31+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳辭職！華爾街14家投行急評輝達 他驚嘆：哪來的時間 - Yahoo股市 黃仁勳辭職！華爾街14家投行急評輝達 他驚嘆：哪來的時間 Yahoo股市",
-      "capturedAt": "2026-11-13T08:51:16.150604+00:00"
-    },
-    {
-      "id": "7299cd072cbf",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳爆婚外情後不忍了？遭高層當面對質後認了 竟吐「我就是垃圾」 - Yahoo股市",
+      "title": "黃仁勳婚外情風暴延燒！傳私下吐心聲「我是垃圾」身邊人揭他「失控近況」 - Yahoo股市",
       "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOTHhoV0NtejQ3dmVNVzA3V05GZmI2ZXhpUjl6UEZUV1Q4TC05VzQwYlhqdVZZbjF6aDZhd28wRE1oR0c2TnZvY052TE5tVXBpZHVGOE43STdzOGlaMjQzdlJuVXA0R2FLczBBUEZRdkJ0VXV5bHhEbzVmZTVtZFQyYVdaUFVRbHpzSXhrakl5YjRmNUFaN29vQTZKdkFiYWZIblNyc1NWamNWX0pRWC1sOElUYjdtYmd1R2hBT0F2M3FGRjQxal9lTWYtenZXUkNrTVI3M0h6ZUtaNGFlT1RSUGo4NVpmYTE3X2F6TWFfTHhJVUlsNTBQcWtQMmRYR0F0RFl0dUpDZUFMTnVWeE5yN0dXZVUzS1F6SlZadjF3dEdwd1pmMUVvVHc2eUhFMW9TUWxFQ0hKaENSWXhVRkFXV09hbjIxai0yYUlqNnNlNGNaZ08tVWswNjZ2azBWdDZDYjh5REI1elpyRldIeWE0WkxKQkNSdmUzbkNxTGJNSFkzdUVNQ3hpTzZhSXctMUdvcGRwREFkT1B3azVHeFp3QUd2Ry15UHljal9yZ0RGTQ?oc=5",
-      "publishedAt": "2026-11-13T04:12:33+00:00",
+      "publishedAt": "2026-11-13T10:11:14+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -469,19 +427,19 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "黃仁勳爆婚外情後不忍了？遭高層當面對質後認了 竟吐「我就是垃圾」 - Yahoo股市 黃仁勳爆婚外情後不忍了？遭高層當面對質後認了 竟吐「我就是垃圾」 Yahoo股市",
-      "capturedAt": "2026-11-13T08:51:16.150604+00:00"
+      "summary": "黃仁勳婚外情風暴延燒！傳私下吐心聲「我是垃圾」身邊人揭他「失控近況」 - Yahoo股市 黃仁勳婚外情風暴延燒！傳私下吐心聲「我是垃圾」身邊人揭他「失控近況」 Yahoo股市",
+      "capturedAt": "2026-11-13T15:57:33.991377+00:00"
     },
     {
-      "id": "1336e4b582e9",
+      "id": "5ca6467d5e28",
       "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "黃仁勳緋聞案掀連鎖效應，三星、SK 海力士急升資安防護網 - TechNews 科技新報",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdmg1X1N3eHhkakxjTVd6Y0sxRU90SWlIblVTdVQ1eVExajd1SGhQZHRpU1Q3NEZIQlV4ZFZDakl2bG5Vc09ZZlRBdW1QQURJY2VpNXFjUHVXZHhqQnJQQ1JScXF6Vl90MlBXb3NpNmxyeHdPM2pLS0RsVlpwMzhkQUtOWkl1d0xWM1huU3c4ZjdneE0?oc=5",
-      "publishedAt": "2026-11-13T03:16:54+00:00",
+      "title": "【黃仁勳牽動亞洲晶片鏈！分析師揭1隱憂 台積電、三星合作料不變】 （#嘴邊肉） - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxPQ2IzWHV3dG5fTVJLVFZrNHVJLXNtRUhVZTNxeEpLLXRnZFpNRC1ic3NOa2FpR25Mc3o5TlpDNmxEWnRLd3ZLV0tSSGhDYkRRcFNkUGVqa2FaUVlHRXZwR0VMSHlpNjVvY3pXRzNFTGNyOWI3VzhBRUZNdjc1Q09CSjhPc244eVVHSEU4U3V2UGlMLWpXMmFnNWVPbU1qbFZkVzZZRVVKM1ZabDd1Y2NvQzVlTFJaMjlZTHNiSVlrZ3dPbVpDYVZsY3FpWkxMcWFFVnZKMDZER0plVkNVZ1JxUlRwV3pwcWVTcVZoN1NwRHl1dVVQbGdiWjNkcFV3TGlVdXBYcHVFMnRpT0VCQVRkdlFCTDVfYzlrYVdVZTJFajdBMXBpVkFzYVZ6VzBGNGhkamNyclNYeDlrRF9xaWtWS21UY3R5RjNqZjJOSGhUd1hTMXl5cWVCYmxwQWVwdmZkNC15MTc2ejBxVUI3MXR3bFUteXZQajhWbm5VYjY2bDdFTVlpQk5XZ05HUnRRQWRvVktzcGVmcFhPdkVSanRxekJrNy14OWtQVXFRV3pOcG5pejR2RE1MLVd6U19TdGJ2UWdkeGtkYw?oc=5",
+      "publishedAt": "2026-11-13T09:48:01+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -490,19 +448,19 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "黃仁勳緋聞案掀連鎖效應，三星、SK 海力士急升資安防護網 - TechNews 科技新報 黃仁勳緋聞案掀連鎖效應，三星、SK 海力士急升資安防護網 TechNews 科技新報",
-      "capturedAt": "2026-11-13T08:51:16.150604+00:00"
+      "summary": "【黃仁勳牽動亞洲晶片鏈！分析師揭1隱憂 台積電、三星合作料不變】 （#嘴邊肉） - Facebook 【黃仁勳牽動亞洲晶片鏈！分析師揭1隱憂 台積電、三星合作料不變】 （#嘴邊肉） Facebook",
+      "capturedAt": "2026-11-13T15:57:33.991377+00:00"
     },
     {
-      "id": "594e686bae68",
+      "id": "7213f92ca6f1",
       "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳",
       "sourceType": "新聞彙整",
-      "title": "下台前最後一刻！ 黃仁勳心力交瘁頻吐「我不在乎」痛罵自己是廢物 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxPWVpqVE5DRjRGWEtySEF2VmxoTGRLTElnSlNrZEpiMnYxSEliZm1fS0RiOTRTNkpicEFWc1hpQ1Y2Wk1za0tqUWRyS3JmQlBfQWhvX3VfMVFPOHp1b1pxQXUybzhNNFBsbWJMbE5UdWpxN0J3ZGdEVGpMUEZIcU5UTkE1T05Wcmc3ZUNoYXAzY0R0TmdxSVVhQ2JRb2F5RjA4T0FNSk9CWTdhMnJIZUdyX3hFbFVGRU5QNGRSU25uclhYbGYzel9ISXhqMlRfVS02eTA3NWRvT0E0VlEyOHB0WHNHSWlEaVhqWGRndDVjTE9hN0FhUlN4cGx4LVNjb0RqXzgyZ3JRZV83NFpsdDhjVDdSZ3JURmJnYnljYVhoYmdrazZTdXZROUprdl9pekx1bFNhOWhEYXE0TUxCNm1OSzBXSTdUZEtwdFVPcVlpVWJCMGtXQ1lIYWRXQ2Ruc0RBZkJmWjh5Q2JOakNobHRHTERFZXdTOUZIUjctVGRuUS1BaXc3eU1zMTk0d3pQMGktbVBwNHJjV3U?oc=5",
-      "publishedAt": "2026-11-13T03:13:49+00:00",
+      "title": "黃仁勳「連環爆原因」找到了？昔批美官員影片瘋傳 - Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOUXlIWkxXS2g4VFNEU2xJUWdaS2Rlc080TEhBUDNxR05RMVJWcW1UNnVQM1lFdF9NUFJjaU02a19DeVpsNk1vWXV0NjcwdnFZVWYzNkxvMEYwRGxucGNuU1N4V1Y1ck84MV95N0p5U3AtMWtJT1dfSUN3WnZTb3VTSmo5U0lvYk51ckNjWjZCTUNFTkJFbGpsUnpVSDh3ZjREN3BYU3A3RUZOVXktNXBreV9SUnMtSFJQWXlla0JwZ1lSZWV5dVdiM2twa3MwVGRhNk1pZU5CMUhEajNKRHRXTWVRN3IxZy15YVpjMExYX29YTDA3eHkyQ2ttbjdjdVJzQWZkRGJZRGxFN0MtbVZKZTNrbmlSak5OZGJmcVpnaXNmT0pFb0dVdXR3R1Y5dTJMdWh4bTNIYXhTNUlMRmZwWk9Ha1liY0dOMjVxZTBiOA?oc=5",
+      "publishedAt": "2026-11-13T09:43:42+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -511,19 +469,40 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "下台前最後一刻！ 黃仁勳心力交瘁頻吐「我不在乎」痛罵自己是廢物 - Yahoo股市 下台前最後一刻！ 黃仁勳心力交瘁頻吐「我不在乎」痛罵自己是廢物 Yahoo股市",
-      "capturedAt": "2026-11-13T08:51:16.150604+00:00"
+      "summary": "黃仁勳「連環爆原因」找到了？昔批美官員影片瘋傳 - Yahoo股市 黃仁勳「連環爆原因」找到了？昔批美官員影片瘋傳 Yahoo股市",
+      "capturedAt": "2026-11-13T15:57:33.991377+00:00"
     },
     {
-      "id": "deab2c959390",
+      "id": "0527f2a2d18c",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "title": "Nvidia Starts CEO Search After Ouster of Jensen Huang - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSzUyQVM2dG1nVDNrQnItWW9UTmxseUhQTzFYUlBreTNjd0pGTExYWmhvUGJwUUNrMWV5dFhNRm5weHprYVMxb2p1d1pRcU9uakZVQUM3R3NZT1RDRVNUUG02amw2ZTNsaTkyaklkMC1fNWhmTnlPYjktVWllNUZGZnR4YVVIZXR6cElxOUdrckdSSXNxU1Z2VU53b0RHWWpNN3dMMHlGN1RFZ2c?oc=5",
+      "publishedAt": "2026-11-13T09:32:28+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "Jensen Huang"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "Nvidia Starts CEO Search After Ouster of Jensen Huang - Bloomberg.com Nvidia Starts CEO Search After Ouster of Jensen Huang Bloomberg.com",
+      "capturedAt": "2026-11-13T15:57:33.991377+00:00"
+    },
+    {
+      "id": "ca4cfedebd99",
       "status": "source-only",
       "category": "公開提及",
       "confidence": 48,
       "sourceName": "Google News: 黃仁勳 韓國",
       "sourceType": "新聞彙整",
-      "title": "黃仁勳震撼卸任AI格局恐生變韓國企業有望受惠| 產經 - 中央社 CNA",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtYW5fWFV2VWJobTdpSldSd2ZzcFVLRFRJcWhjX1hLTTFMRmVRMVZwa1FmQ0VhcWFWNEpwNzZSVmZTUE5iUzA4WkpldUxoeFo4ck1meWxUeS1reTl1Ync?oc=5",
-      "publishedAt": "2026-11-13T03:11:00+00:00",
+      "title": "韓國表示黃仁勳辭職後，Nvidia仍將履行提供GPU的承諾 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvLXJ1SmNHVU1iVC1FdzlmSm5ZT2MtV2dISm1NN081VV9JUWFoU1ZYdEpORGZiSGFPZVRCcFFmUUVnb3VkYl9qWWUxbnFXYmx1U3pvcFM1cXBsY0E5LVFLX0gxUVRGTWlEcG9YZk4yTnNzd3pHYmY4?oc=5",
+      "publishedAt": "2026-11-13T09:22:43+00:00",
       "detectedDates": [],
       "matchedKeywords": [
         "黃仁勳"
@@ -532,8 +511,29 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "黃仁勳震撼卸任AI格局恐生變韓國企業有望受惠| 產經 - 中央社 CNA 黃仁勳震撼卸任AI格局恐生變韓國企業有望受惠| 產經 中央社 CNA",
-      "capturedAt": "2026-11-13T08:51:16.150604+00:00"
+      "summary": "韓國表示黃仁勳辭職後，Nvidia仍將履行提供GPU的承諾 - TradingView 韓國表示黃仁勳辭職後，Nvidia仍將履行提供GPU的承諾 TradingView",
+      "capturedAt": "2026-11-13T15:57:33.991377+00:00"
+    },
+    {
+      "id": "3666ba8c433f",
+      "status": "source-only",
+      "category": "公開提及",
+      "confidence": 48,
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "title": "黃仁勳牽動亞洲晶片鏈！分析師揭1隱憂 台積電、三星合作料不變 - ETtoday新聞雲",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hdkhjaHQyTWhScllJUzQwQXVoRkpQdlM2M19HNlY2Uml2Y0laaTlBeGEydHJfWnQxckZocFpBX0R6RjZrcUZ2b0VIQVg5QjNNb2Z5Q1lSdmI3RDJLNUHSAUtBVV95cUxPRG1LODVNM3JVNGNZQnZoeFlGVlJuQ1VmUi1INTBNSU9xVVdHV0JPNlF6b1RGTzItclU5QWNpY1I0TUItdXB6LVVaNzA?oc=5",
+      "publishedAt": "2026-11-13T08:49:00+00:00",
+      "detectedDates": [],
+      "matchedKeywords": [
+        "黃仁勳"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "黃仁勳牽動亞洲晶片鏈！分析師揭1隱憂 台積電、三星合作料不變 - ETtoday新聞雲 黃仁勳牽動亞洲晶片鏈！分析師揭1隱憂 台積電、三星合作料不變 ETtoday新聞雲",
+      "capturedAt": "2026-11-13T15:57:33.991377+00:00"
     }
   ],
   "errors": [
