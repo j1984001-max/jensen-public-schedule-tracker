@@ -1,277 +1,43 @@
 {
-  "generatedAt": "2026-11-15T23:19:24.150356+00:00",
+  "generatedAt": "2026-11-16T01:29:04.199533+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
-  "publishedToTimeline": 11,
+  "publishedToTimeline": 0,
   "signals": [
     {
-      "id": "524e479a2596",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳被召出席參議院聽證 商務部長盧特尼克受波及同須作證 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84TXZSOTJSdmtuNVdyLTVTWlZ3Q1ZnbG5JcjZTSmFKaDRwXzJuYkFXaUZ4ZVFwRlFlVGVRWDNwR2ViQVA3TnVEQ2lDeGU5NS1zeUZ1NTFqc2hpRUNVLWpNdnk0Tm5BMU3SAWxBVV95cUxPTTBLakVWRHVKb3dHLXIxbEhkT0U0ekx1YnJXVEtLaW50OUZraG5CcWlfOEFwT1RrUTd4WWFSWm1ITTJOalo3UWlBUzg3cmRHQS1vLXJGR0lpM05DNDFPV0hnOF9DcW9aNXhhTV8?oc=5",
-      "publishedAt": "2026-11-15T10:31:58+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "出席"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳被召出席參議院聽證 商務部長盧特尼克受波及同須作證 - BBC 黃仁勳被召出席參議院聽證 商務部長盧特尼克受波及同須作證 BBC",
-      "capturedAt": "2026-11-15T23:19:24.150376+00:00"
-    },
-    {
-      "id": "7c6959c4c540",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "Who should run Nvidia? Our picks for Jensen Huang's successor, whether the board likes it or not - GeekWire",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSVI2UWhIOVhMU0RDVVhvMkxmWVc2Zi1sSTdmNEc5NDN4MkRiQmxOSm8xdjhGT0lheEhsdFNGbDlOSnNxMGMzZ3hETm1vb1l4YWdEMjZBNndkdXNCaW9BRXZCSzBMY2o1R0VWMGxMRU1oRUtlcDFFbGlWZGVqTzhiREpvcDI2V0t3dFZqVnhYWEoyUGNaY2JoMXRLbmE5TG5lR010c1dQaW1NWFF4UDJfcGthN2VJRUYtT3hOSXVUaGttZw?oc=5",
-      "publishedAt": "2026-11-14T22:10:16+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [
-        "CES"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Who should run Nvidia? Our picks for Jensen Huang's successor, whether the board likes it or not - GeekWire Who should run Nvidia? Our picks for Jensen Huang's successor, whether the board likes it or not GeekWire",
-      "capturedAt": "2026-11-15T23:19:24.150376+00:00"
-    },
-    {
-      "id": "c8832fa3fab7",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa01uZk9qV2Rxd1NnaGlxbGpwNlRMMUJUMzZDXzJDcDhDQ1hidlFqOHo5Qm5ZTXBSUXdFQzJDd21LVmwzOTJOT20zUG9kVmRZS09LbkZ6RkxyUW9DVUJ1VE1aaWpZc1ZqdmVNUk1ORUI5dmVMZjhWS0dJaDAxN2NCQlp0Mmh3UHBueWRuOGc1UdIBlAFBVV95cUxOcHpRUE1XYktjaFk5RmZuVXpfeThGVVE2Y1N3cnZOenVXQkVYejdldFVubGtCMk5JZkU5SVhTcUt6Q0pBVnVrNExoY2p5Qk9kWUJ0eks4Wk4xMlNsb0RleEF1Qmo3VDlXSE8wTkg3Vk1CR3M5LWYtNTVsRmRzWFVPUVg1OVdhSVpaRXRpTXBBZXB6Ujhr?oc=5",
-      "publishedAt": "2026-11-14T17:35:51+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [
-        "GTC"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors - CNBC Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors CNBC",
-      "capturedAt": "2026-11-15T23:19:24.150376+00:00"
-    },
-    {
-      "id": "a851383a7da5",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS3otVnY4ZXphd1g5Q0REOVlqY3c1WXBMSmMtNThTbGlaRGVkVkZXZml1RHlEN3djZXRMT0pSTnJ6c3JiZ0tOdVRRekpJUlBfRV92ZEFEUU9GVU5XZHBYVmotRjFpcExuaER3S1BUaF90UWFaRnVBcFlHazgzOXBSWXJfN1RMSFNrcWY2TVRkQmVTYkNHUUhMeHAyM1huRXItSVhKZU95Q2wyTmg1MnlZcGduR01vdzFBcmpiVA?oc=5",
-      "publishedAt": "2026-11-14T05:13:48+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "NVIDIA CEO",
-        "Nvidia CEO"
-      ],
-      "matchedEventKeywords": [
-        "CES"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say - Reuters EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say Reuters",
-      "capturedAt": "2026-11-15T23:19:24.150376+00:00"
-    },
-    {
-      "id": "448983c0ae27",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳在南韓人設全崩！昔炸雞高峰會、 帶老婆上綜藝放閃韓國人真實反應曝光 - 風傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkOHJuRXFjWnlUOFNjVy1pVy1rR0NVeVJyZ2ItUGJaRVFUXzNmblV2NDNOU2hFYVBDWTNORlhsbkJ1V2drZDhiV1EzMWZxNjVU?oc=5",
-      "publishedAt": "2026-11-13T09:39:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "峰會"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳在南韓人設全崩！昔炸雞高峰會、 帶老婆上綜藝放閃韓國人真實反應曝光 - 風傳媒 黃仁勳在南韓人設全崩！昔炸雞高峰會、 帶老婆上綜藝放閃韓國人真實反應曝光 風傳媒",
-      "capturedAt": "2026-11-15T23:19:24.150376+00:00"
-    },
-    {
-      "id": "b5d7da50fe90",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Jensen Huang's troubles threaten AI alliances built on personal ties with Korean tech titans - Korea JoongAng Daily",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVkpfMmUxemRVbjFOcTZZdExvVnZHNzltX2JpSnRVcXNkYkFhVGhyb2pWRlhqaEtrcDZQMW1DelBpVTJmNW1uY2F3M3J2SUFmMURaUFlfQVdLbGVMVU42V0RiM25WalFtTFdSS3VtM3VNNFhNU2hfQTM5Qm92cDY2TVpzb2MyWDJxOHVLclRNb2h6eVFRbm40M1Y4ZjJQdEtBYUFrc21mSzJMMTBDLVR6WWpnTy0tMlMzZU90LUZqT3h0d3RnQi11UUFhS0h3R2tNeGd1RHVPd2pDMnVw?oc=5",
-      "publishedAt": "2026-11-12T07:48:26+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [
-        "CES"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Jensen Huang's troubles threaten AI alliances built on personal ties with Korean tech titans - Korea JoongAng Daily Jensen Huang's troubles threaten AI alliances built on personal ties with Ko",
-      "capturedAt": "2026-11-15T23:19:24.150376+00:00"
-    },
-    {
-      "id": "542efdf7284b",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "Nvidia board meeting to decide CEO Jensen Huang’s fate stretches into evening - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NaFFJVUxuMG1NR25FakxCNU9rUnpXUEl0UVE4ZTJUS0VUN2lEWjlsQVVJRTdMUWt1Vkd1RUsxcjZKa3JCaWFWN0JYbXk0TWpUM3M4SVQ1OGlJaTNQYWJsRnZVczF4NVpyeUZIQTVUQnRYVS0xX2RSQWhGWGvSAYIBQVVfeXFMTzlFMjBCWFNWS05SRVh6Vnd1NzRXX0RieS11V0Z2NlRPWTdibkdVLVhQNjVhS000cU44YXRGTXptbWdGT1NzbWhHQjdDbmtYZURqcy1IVlBIRG1ka1NmTElLZDY5ZGFUNWVzcWJJMERLczk2Mk9ZbDJjWGs3eTZERWt1dw?oc=5",
-      "publishedAt": "2026-11-11T22:06:48+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [
-        "meeting"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Nvidia board meeting to decide CEO Jensen Huang’s fate stretches into evening - CNBC Nvidia board meeting to decide CEO Jensen Huang’s fate stretches into evening CNBC",
-      "capturedAt": "2026-11-15T23:19:24.150376+00:00"
-    },
-    {
-      "id": "1a6433178878",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Nvidia’s Jensen Huang scandal casts shadow over South Korea’s chip ‘bromance’ - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVDF4d3dOUzNubHhMbXRaT19SVXo2dkNuUE5RQmdabE9rT3o3eVpyaFIwWkhrOENMV3NReGNnVktLTmRKYWk1MDlORjZHT3V1d1V2TnQ0ck5yQ0V3cnpZcHBvTEZhYzhqbVd0N3dwWDNheU5wQUdlUjN0WmhVa3VYV1VpV1lnRndpUkZ6MFRuQ1V3ellvSm4ybVdRQm9HYXJuZElVRjNKU044OFdNN2VPUXZNZlBxenZEYVVxdTJ5NFdycl8ybTRBatIByAFBVV95cUxONFU5bmZCVXVYYzh6VU4zcjFXNTNJUzZZWG9Bc2taSjNVMkNsUnJJYWFtbzkzU0gxeGhMU1hyc2JaaFRRS2g3Wm15QlUxZlVOVV94ZXJrUU9KUzVnOVpEQWdKQ1JUeUJJWDFRVUc0RFByeFQwTm9BbzVRZzV4cFkxUnNHRVptc1g1MFM0bGphVGtCcWhscmxaNXd3N3ptMkRkVUlUZ0RkdlBMSDhZaFpQVURhRnlxZUNHNGxpbGszZzB6REMtXzZoVw?oc=5",
-      "publishedAt": "2026-11-10T09:00:17+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [
-        "GTC"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Nvidia’s Jensen Huang scandal casts shadow over South Korea’s chip ‘bromance’ - South China Morning Post Nvidia’s Jensen Huang scandal casts shadow over South Korea’s chip ‘bromance’ South China Mornin",
-      "capturedAt": "2026-11-15T23:19:24.150376+00:00"
-    },
-    {
-      "id": "93da4c8ac02e",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Nvidia CEO Jensen Huang's daughter cancels South Korea trip amid father's affair revelations - VnExpress International",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbWNTSHBKbkw1Tm4xVy1EdEVaVU9rTkpzYkRSLUs1WXV0N0VSVzNBa3FqOWtwMHVpTWVLNmphTlVYTlN1NUpFUkdhenZ0QWFzbXJWdEd6V3VOYkM5Y3hPOHZvaF9mNEs4eGJPbUNrSHVES2ZxaGJNRjd1QmJDOEx1TEZjOVpramFtd0cySm94UE85S0tkcFVBSlE2cXU0TXlVdVJwS3VUWDVhVkNMbEZQTGxTS25pdkVoc3AxSUxranNrcHQ1RFNVMU1nX25yS25CaHRhZWN2S2llS1dFaTdWVDdOaHMtemlX?oc=5",
-      "publishedAt": "2026-11-09T07:13:53+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang",
-        "NVIDIA CEO",
-        "Nvidia CEO"
-      ],
-      "matchedEventKeywords": [
-        "trip"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Nvidia CEO Jensen Huang's daughter cancels South Korea trip amid father's affair revelations - VnExpress International Nvidia CEO Jensen Huang's daughter cancels South Korea trip amid father's affair rev",
-      "capturedAt": "2026-11-15T23:19:24.150376+00:00"
-    },
-    {
-      "id": "8fcbb2fa8640",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTlFBMTZ4RFd1bzZnam9ka1FLSTYwWFBVYmt2aHpxZlJ4YnlpWGJabUZMVEt1cENPOU84VnhRLVJWM3YyaFlMeFNxNWExLUNqWk8wQ1NoTmdUZVY0ckpyUlJlVHc5aHZ0V1RtUmFib1J2Rl8waXBiLVZyNzZoNWU5N9IBhgFBVV95cUxNU0FTQkJMQ0dGNEU3MnBtbnk4UmwxMU1WUmZhaER0aFYwbk83a3RLdWVSb21VX3YwR3JMMUVUSUlzaXNFVFAyZUdPYXJUTkpFdWhOSGd2bG1HTEZONHlxek5GZ0o4b2ZFUktQOTBlS0JqUzRBVlUtLWdfYWFMTXZXVVBkZTJVdw?oc=5",
-      "publishedAt": "2026-11-08T18:06:12+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang",
-        "NVIDIA CEO",
-        "Nvidia CEO"
-      ],
-      "matchedEventKeywords": [
-        "CES"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link - CNBC Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link CNBC",
-      "capturedAt": "2026-11-15T23:19:24.150376+00:00"
-    },
-    {
-      "id": "a74b75e31dd6",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "'Jensen Huang's Eldest Daughter' Cancels Korea Trip... Due to Chinese Spy Suspicions? - SBS 뉴스",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EcjJIeUFTanhSVkVMN2xUbFRReDc5UVhMNnlRem0xRmtrdDJIV3hrdHFGb1pHUW9qYzJsTldEX0lBZzZOR1ozSnlYbkthWUsxMktKdXdadlp6dnFvZWlRX1dBcmVsWUFDaXFXLUd30gFmQVVfeXFMUGl0RWJZdkZvcVNvYk5HdVM2YzJpcEY1aE1NeXdGeEZTVEZxYVR3ekdicHhuMVpPNmF4X0hUNjRGZ19UWGQ1cEZKT01YY0tQUjVQcDExWTUxZVIwRkpKMjdnOFRtV0R3?oc=5",
-      "publishedAt": "2026-11-08T11:07:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [
-        "trip"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "'Jensen Huang's Eldest Daughter' Cancels Korea Trip... Due to Chinese Spy Suspicions? - SBS 뉴스 'Jensen Huang's Eldest Daughter' Cancels Korea Trip... Due to Chinese Spy Suspicions? SBS 뉴스",
-      "capturedAt": "2026-11-15T23:19:24.150376+00:00"
-    },
-    {
-      "id": "f9df2b4dedf4",
+      "id": "2825717aa0fa",
       "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "Jensen Huang Is Already Considering Returning To Nvidia, Report Says - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa3E3cUNQYmpNNDRkbXlac1dOeC1qWWF3cjdUcnRPLWtONW5QM3FUVk1PVXBuamhCQzdZOHdMYUdxMHd0LTNkTFF3UVV2VzFFenAzaGtEYnFsY3BuOVU4VVp6YmRpSExBUm9PSjhaXzVzWE1mbmx2R2pKa2tGM2V0bDRrMlNJMEZqLWVGYXVvUlY1ek9lQm9UOFRBeUdrNkU4UVhuVlBTSlFJcWFtVzMwQ1VNM2RsaDlwcm10Vg?oc=5",
-      "publishedAt": "2026-11-15T20:11:50+00:00",
+      "category": "官方公開提及",
+      "confidence": 72,
+      "sourceName": "NVIDIA Newsroom",
+      "sourceType": "官方",
+      "title": "NVIDIA CEO: We Have the Most Energy Efficient Architecture in the World",
+      "url": "https://www.cnbc.com/video/2026/03/17/nvidia-ceo-we-have-the-most-energy-efficient-architecture-in-world.html",
+      "publishedAt": null,
+      "detectedDates": [
+        "2026-03-17"
+      ],
+      "matchedKeywords": [
+        "NVIDIA CEO",
+        "Nvidia CEO"
+      ],
+      "matchedEventKeywords": [],
+      "privacyReviewFlags": [],
+      "blockedPrivacyFlags": [],
+      "publicContextFlags": [],
+      "summary": "NVIDIA CEO: We Have the Most Energy Efficient Architecture in the World NVIDIA CEO: We Have the Most Energy Efficient Architecture in the World https://www.cnbc.com/video/2026/03/17/nvidia-c",
+      "capturedAt": "2026-11-16T01:29:04.199553+00:00"
+    },
+    {
+      "id": "f43bd1f49e4b",
+      "status": "source-only",
+      "category": "官方公開提及",
+      "confidence": 72,
+      "sourceName": "NVIDIA Newsroom",
+      "sourceType": "官方",
+      "title": "IEEE Medal of Honor Recipient Is NVIDIA's CEO Jensen Huang",
+      "url": "https://spectrum.ieee.org/2026-ieee-medal-of-honor",
+      "publishedAt": null,
       "detectedDates": [],
       "matchedKeywords": [
         "Jensen Huang"
@@ -280,19 +46,19 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "Jensen Huang Is Already Considering Returning To Nvidia, Report Says - Forbes Jensen Huang Is Already Considering Returning To Nvidia, Report Says Forbes",
-      "capturedAt": "2026-11-15T23:19:24.150376+00:00"
+      "summary": "IEEE Medal of Honor Recipient Is NVIDIA's CEO Jensen Huang IEEE Medal of Honor Recipient Is NVIDIA's CEO Jensen Huang https://spectrum.ieee.org/2026-ieee-medal-of-honor",
+      "capturedAt": "2026-11-16T01:29:04.199553+00:00"
     },
     {
-      "id": "0c67ff345a54",
+      "id": "c703603047de",
       "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "Jensen Huang discusses comeback as Nvidia CEO with allies - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWElqY2Q5cFBEQ1UtUklpRjRlZlVPLXBPSzNVcThPUTk2QktDc25fS1NlaWdrSURWdFFETlVxWnpNOWIyT1c1cGxwNXE0YTNoR1BOVVJMbHBRZy1kWWh2ZXRvdUh2Y2JMcEh5bDFnLWlrYnNFWDNFel9YVi1UbThMUmNnYzQ?oc=5",
-      "publishedAt": "2026-11-15T19:03:41+00:00",
+      "category": "官方公開提及",
+      "confidence": 72,
+      "sourceName": "NVIDIA Newsroom",
+      "sourceType": "官方",
+      "title": "An Interview with NVIDIA CEO Jensen Huang About Accelerated Computing",
+      "url": "https://stratechery.com/2026/an-interview-with-nvidia-ceo-jensen-huang-about-accelerated-computing/",
+      "publishedAt": null,
       "detectedDates": [],
       "matchedKeywords": [
         "Jensen Huang",
@@ -303,242 +69,57 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "Jensen Huang discusses comeback as Nvidia CEO with allies - Financial Times Jensen Huang discusses comeback as Nvidia CEO with allies Financial Times",
-      "capturedAt": "2026-11-15T23:19:24.150376+00:00"
+      "summary": "An Interview with NVIDIA CEO Jensen Huang About Accelerated Computing An Interview with NVIDIA CEO Jensen Huang About Accelerated Computing https://stratechery.com/2026/an-interview-with-nvidia-ceo-jensen-huang-about-acce",
+      "capturedAt": "2026-11-16T01:29:04.199553+00:00"
     },
     {
-      "id": "119e1d0c3c2d",
+      "id": "16341400b63f",
       "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "Jensen Huang’s Downfall - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXZDl3ZWFXbzYyNDZKMlV3Vk4ybU5ZclFSNmcwZDlPa09pUi1XRmV5ZDdJRlBMMGl2SThNY2dGY1Q4SExpdHVRR0NwUVExd2I2d0JVUndKOG1PYXYybGlIRGdGYUw3T3BtNTdR?oc=5",
-      "publishedAt": "2026-11-15T15:55:00+00:00",
+      "category": "官方公開提及",
+      "confidence": 72,
+      "sourceName": "NVIDIA Blog",
+      "sourceType": "官方",
+      "title": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs",
+      "url": "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/",
+      "publishedAt": null,
       "detectedDates": [],
       "matchedKeywords": [
-        "Jensen Huang"
+        "NVIDIA CEO",
+        "Nvidia CEO"
       ],
       "matchedEventKeywords": [],
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "Jensen Huang’s Downfall - WSJ Jensen Huang’s Downfall WSJ",
-      "capturedAt": "2026-11-15T23:19:24.150376+00:00"
-    },
-    {
-      "id": "9e9dc536109d",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "Megaspeed發佈聲明！證實黃樂去年8月離職 黃仁勳緋聞牽出國安疑慮 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95RUFrX3pvTFJUNlJybVNPTF80b2lfLVZOeVF5b1o2MzJxWFhSMHFYOGM5dExRZzhCMktMek14cEY4VndMX3dFQXVYRWIwM28?oc=5",
-      "publishedAt": "2026-11-15T14:10:02+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Megaspeed發佈聲明！證實黃樂去年8月離職 黃仁勳緋聞牽出國安疑慮 - 鉅亨網 Megaspeed發佈聲明！證實黃樂去年8月離職 黃仁勳緋聞牽出國安疑慮 鉅亨網",
-      "capturedAt": "2026-11-15T23:19:24.150376+00:00"
-    },
-    {
-      "id": "0cbf0b629e82",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "Jensen Huang leaves Nvidia with a $132 billion stake — here's when he can sell and why investors may not know when he does: Chart of the Day - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNVjJKRThIRnJiTkxmT2NTMlJKbjhMWXhOSlhVcWRDUFNwYXRwUUlwRzJYZ1lJWFpqOVk0RUFqTFRtdmY3cVNscUxMRDVyVFFnLUxfdFoxX29KeW1iODB1d0cwVlVObjlIU3RvaUdDMFpJUzd5OXhfZUZCWkhKZkFRMEl6M3o2S2tIbkVVdngzVE5wcDR2d0Q4eWFqVXZScGlPQmFTTTNsdExXNWNDZXlXdF9UQ3ZfX3lweU1aMU9FOWthV1pYNEJabUNvb0Fna2dnM000dUdJbEFTOWU4UHhtZTExU1VqSi00V2EzUWwyemk3R3FlN3pEeWo1Uy1nU0V5ODhSMlh0SG1pMXpZS2FYLUJ1V1FtLTZDSnFOS3RB?oc=5",
-      "publishedAt": "2026-11-15T13:07:32+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Jensen Huang leaves Nvidia with a $132 billion stake — here's when he can sell and why investors may not know when he does: Chart of the Day - Yahoo Finance Jensen Huang leaves Nvidia with a $",
-      "capturedAt": "2026-11-15T23:19:24.150376+00:00"
-    },
-    {
-      "id": "3a3d8251ef0a",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳卸任不影響輝達承諾韓政府確認26萬顆GPU照常供應- 國際 - 工商時報",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiOHBvY0xSWVlzMUNwWUM3UjhjOHluTVJtalVIUm5iVjdCelEwN2FzZThZRVY3WDlDVXNtMnRCYTdBcGg3QzRVTnlxbWRqRlY1X0RUR2NybHp0WTVfbUJ3?oc=5",
-      "publishedAt": "2026-11-15T12:02:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳卸任不影響輝達承諾韓政府確認26萬顆GPU照常供應- 國際 - 工商時報 黃仁勳卸任不影響輝達承諾韓政府確認26萬顆GPU照常供應- 國際 工商時報",
-      "capturedAt": "2026-11-15T23:19:24.150376+00:00"
-    },
-    {
-      "id": "4b4be0850236",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "Jensen Huang resigned in disgrace from Nvidia. Many in Silicon Valley are still showering him with support - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdmZKY1NndlFuaHMweHA1ZWpCb1NXc01LcmdNWkc1OHc2Y2ZxSEdzNVo5NzB6Vy15bVExTlpud3FiQmkweGFkRlc4cUhIeldyLUZCd0xXMlV3YThwNXI5djM0Smdkb2dJUVRQaHlFNEthLW5USjgtS2NqbzdjT1BPeFFn?oc=5",
-      "publishedAt": "2026-11-15T11:30:15+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Jensen Huang resigned in disgrace from Nvidia. Many in Silicon Valley are still showering him with support - CNN Jensen Huang resigned in disgrace from Nvidia. Many in Silicon Valley are still",
-      "capturedAt": "2026-11-15T23:19:24.150376+00:00"
-    },
-    {
-      "id": "308e0890bab3",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳辭任獲矽谷大咖聲援！馬斯克、Gavin Baker、Epic Games執行長批輝達董事會 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xcF9XVUd4MERXWW8zWnNmaFMxQ1p5cENxVy04a2V3M0sxYW5LYVh2b1FCYUF5TUI1TFByclppOHRyeTlMYm5mend0cVZKWVU?oc=5",
-      "publishedAt": "2026-11-15T11:10:13+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳辭任獲矽谷大咖聲援！馬斯克、Gavin Baker、Epic Games執行長批輝達董事會 - 鉅亨網 黃仁勳辭任獲矽谷大咖聲援！馬斯克、Gavin Baker、Epic Games執行長批輝達董事會 鉅亨網",
-      "capturedAt": "2026-11-15T23:19:24.150376+00:00"
-    },
-    {
-      "id": "20f8548b5a50",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "輝達反黃仁勳董事遭到警告！前Coinbase技術長喊話：員工、股東恐聯手施壓 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPSnpnQ1oyZkxUYVRfa2JyQjVsM0VOMkhfaWpDTV8xNlFiRHhEWG52MUM4UGFfRHk2T2hoa1BWemJmNU5BLXNDbjNPWjRiWjZMTTB5eTRnU3RuYXp4b3FpWlJqMnlOX2dTY1NmRHJUNEVyNGdiUHJKZUR4UWxocXVRUzV5dDM1TW13QjduUmJqaE9DUDRUYTQ5VEdZemI1TDY4MEtsblVTYVhiTVY1STh1dE1NZEpTcFlMNmp6M011bEVvazdoZ29VbmhkNFVLU1l5SU5GZkdkTHNQSkN6b1hsQTAwNkZGcVlqSTdhZlJKU0stVW1LTmtXRHppVkRwRFNKakg3YzliSGhJWjlmYXE1UzdfZjZwbk94Qi1ISmFyakkyb3VIa0k1ZjRjaHJBRXVESUNxb05MZm1lUzZLdU1vZ2dXajBucnZKSFRjbXg2ZHFwc01UUW5EbVdHcHNGdUg3M3Z2TG1CbHNRVkRwRlFDOU9RTUtUNVBMekRRRzYzTkxRZ3d6SmE5djdZUXdHdW9IQVYzVE5RNEJONlpMN1dsbVQ1VkFTNU9qeUxUWThn?oc=5",
-      "publishedAt": "2026-11-15T11:05:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "輝達反黃仁勳董事遭到警告！前Coinbase技術長喊話：員工、股東恐聯手施壓 - Yahoo股市 輝達反黃仁勳董事遭到警告！前Coinbase技術長喊話：員工、股東恐聯手施壓 Yahoo股市",
-      "capturedAt": "2026-11-15T23:19:24.150376+00:00"
-    },
-    {
-      "id": "c517a9e52430",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳下台科技圈不忍了！Shopify執行長喊「我的劍借你」 Airbnb創辦人也發聲 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPS1hwSkgwU2Z2UUNfRnZ2Q3R6UmZXZzlZcnNUVVM2VjA1Z0t4N3l3eUNPMk5iMFdreUU4NjlWbVNXRVFpWHhRZ0syb2JoQlU2QkdVenNnTHlkMmx4aXYwNktSdzc1RTQ4OEtBdmdTSUd6S2d5aE91QlotRGhqalhHaTJzWHNEcE9SNmp4TEZOQmkyU2hLZ3ZYLWpFSUQ2dmNoNDVOSTkzcW9WeGVCYkp0YUw1cWNwTmVjM3puX196VHRfb1BnOEg0WGx1VnJKNnlzUkVaMEExVzJyNnZSNTZ3ZElPUGJXVkZPVldmaFVMZmQ1OTB2azI1QV96MmhMbGRuRU90NVB6OVRHUnNSWlo4QWEyZXRrXzZXUHA3Q0pId3A4VG42Q1ZMZTJmSjRraUxyaTVuT3RtaXA4UXJqaXFpRFBfbHZSS3BjMEdGbzYwQ09UTlNOWmgyRUQwN1lBRkVEOVZ2Nmdyb1pJVzQzc0tlanBLaE1rNVJFc1NMbV9FdUgxQ1pjaV9YbzZEMW5ZNWFOdmE0cXhrU2xoQVJzYmhjQm91dFh2Sjhn?oc=5",
-      "publishedAt": "2026-11-15T10:46:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳下台科技圈不忍了！Shopify執行長喊「我的劍借你」 Airbnb創辦人也發聲 - Yahoo股市 黃仁勳下台科技圈不忍了！Shopify執行長喊「我的劍借你」 Airbnb創辦人也發聲 Yahoo股市",
-      "capturedAt": "2026-11-15T23:19:24.150376+00:00"
-    },
-    {
-      "id": "07cd99c26a74",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳下台惹怒矽谷大咖！Epic Games執行長批「跟開除賈伯斯一樣蠢」 科技圈炸鍋 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPTVQwdDVsQWdMYnNFV1JvNDdRZEVMcllWOUtEY0RTLWZiUElseE1BbDZqOV8tLWV3Ul9MN3I3N1R6cWJJUnlRbFdBUEN3OTFvckowVllqdUhQckdaVVpsOE5Ob0J2Y1dhejlCT1c2ZWNjNEtfdnUtSHhVNDQ3bUlZS0J1ZWkxWmpScVpicHZiVzZhVWpPS2tKQWhiYThFSDU4UUxhWXhDTmZuclZ0YlFHc3VkUGZ3VzhwQTNYdWVhUDM3RndyOUE3MHlDVjM5WHRsRmtaOGpYLUxKUEdLaWRHSFViTXhSOVV6bV9hc2phLWlZcEZUQkF3clVRY1ZGQ0NILVBSR2tqbGJSZUEwV1AyZFlMYWMtQ3g0Q2pXdlIyVjRhSkstYl9TbE5XcWE5UWVpQUxtbUZhN2xLRGxfY2xmZjFER2pIMURteEczb2lONGNvMW5pTXJJTmZ3SDFTRUo2cWw0MEdFTmhjWTZTSkxHNmhJMXdlcTNNYzNBd0pxdVE?oc=5",
-      "publishedAt": "2026-11-15T09:33:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳下台惹怒矽谷大咖！Epic Games執行長批「跟開除賈伯斯一樣蠢」 科技圈炸鍋 - Yahoo股市 黃仁勳下台惹怒矽谷大咖！Epic Games執行長批「跟開除賈伯斯一樣蠢」 科技圈炸鍋 Yahoo股市",
-      "capturedAt": "2026-11-15T23:19:24.150376+00:00"
-    },
-    {
-      "id": "1e8ac2d8ca71",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳回任有望？華爾街兩大股東聯名施壓輝達 持股逾21億美元喊「別急著換人」 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxQZzlPUFlhVGlJWUJIVlhUTTRGS0FrYTN4QURMWnZrYTJZc20yc0RQaVhRUjUzXzBNSGxGTTB3d0RWV1VhMkczMzAtTWQ1OWhUTmVQWVJsS1A5X2VZRTNqRzgweG1YT0w4bE5PWlpTSjVKaXQyYnpJUHVnc1RwVER3MU15ak1Vb0RZTU1lZEFHYW05XzBlVXZ3SE9FRmZHNTJxaGtWQVl3UnYzNkV3THJFWlNKR3ozS3pKLTd6RDN1MUx3Y1BWVXV3bk5iMVMwX005RXVKdGJQZHk5azhRdkxpWEdENHpzM0lFOUFyYW80OUd4c2tVOWluTjZxVjlxelFXQjZ0M2hEU2Y0OXNfQTdBTTN4RHhmeVhqNVZiZXcyTnFrb05fVXl2R0o4VG4yTXlCa2QxUXUwQ1kzR0ltemwtUmhfZDJCR19qd1pfX1JmSnhWTjVscV9WZlJUcXI5aFVxdk10WW4tNm84RHlZMjhoS0dPdGdtS1VYVFRoY24taUdLR1VBSnVvSWlOMDRidFp1OFhLZTR5dS1fQzFxWUV2SWxIY21YeGM0dmlOU3AxTUFnUktub2hCbGxabHRzODJZXzZQQXFRODRHMEpFUjh6ajhRc2t5eHlBcmNRVFdHQ1lDZw?oc=5",
-      "publishedAt": "2026-11-15T09:11:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳回任有望？華爾街兩大股東聯名施壓輝達 持股逾21億美元喊「別急著換人」 - Yahoo股市 黃仁勳回任有望？華爾街兩大股東聯名施壓輝達 持股逾21億美元喊「別急著換人」 Yahoo股市",
-      "capturedAt": "2026-11-15T23:19:24.150376+00:00"
-    },
-    {
-      "id": "5097a6fffa20",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "Nvidia黃仁勳醜聞如何令親商的新加坡大感頭疼 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DV3Q0bG54bHBDWTZKLXZpck9uUm5rSzFmVGFFUDEycklOcHUwOWR6Tm9mbmhJSC0wUEJHMmY4T21BdzJvcTdyMFM5Q1Q5Q3ZHOHNfczRMNmNYdVVrbmJXTmdZaG9xcGvSAWxBVV95cUxPeG01cnIxT1YtMjlFbVZmR1N0MG15M2dYenMzb2ZTOWpOYk5VaFBjS3FXOER1SndTbElOdFZaWFZFb1NwVV9NRHViQTVjT2phSDVQM3dCU1dPeXFOeXZKRHpVNzJHM21rVTBPZGc?oc=5",
-      "publishedAt": "2026-11-15T06:49:06+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Nvidia黃仁勳醜聞如何令親商的新加坡大感頭疼 - BBC Nvidia黃仁勳醜聞如何令親商的新加坡大感頭疼 BBC",
-      "capturedAt": "2026-11-15T23:19:24.150376+00:00"
+      "summary": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/",
+      "capturedAt": "2026-11-16T01:29:04.199553+00:00"
     }
   ],
   "errors": [
+    {
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "url": "https://news.google.com/rss/search?q=%E9%BB%83%E4%BB%81%E5%8B%B3%20when%3A30d&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "url": "https://news.google.com/rss/search?q=%22Jensen%20Huang%22%20NVIDIA%20when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "url": "https://news.google.com/rss/search?q=%22Jensen%20Huang%22%20%28Korea%20OR%20Seoul%20OR%20Samsung%20OR%20Hyundai%20OR%20LG%20OR%20%22SK%20Hynix%22%29%20when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "url": "https://news.google.com/rss/search?q=%E9%BB%83%E4%BB%81%E5%8B%B3%20%28%E9%9F%93%E5%9C%8B%20OR%20%E5%8D%97%E9%9F%93%20OR%20%E9%A6%96%E7%88%BE%20OR%20%E4%B8%89%E6%98%9F%20OR%20%E7%8F%BE%E4%BB%A3%20OR%20LG%20OR%20%E6%B5%B7%E5%8A%9B%E5%A3%AB%29%20when%3A30d&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
     {
       "sourceName": "COMPUTEX",
       "sourceType": "主辦方",
