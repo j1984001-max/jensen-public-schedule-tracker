@@ -1,177 +1,43 @@
 {
-  "generatedAt": "2026-11-24T19:23:31.302155+00:00",
+  "generatedAt": "2026-11-25T02:56:46.102841+00:00",
   "lookbackDays": 30,
   "notice": "自動抓取公開來源產生的訊號；高可信直接進正式時間線，低可信會標注，不代表即時位置。",
-  "publishedToTimeline": 5,
+  "publishedToTimeline": 0,
   "signals": [
     {
-      "id": "294f30ca5a72",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳回歸股民喊「凍蒜」！沈春華認「起貪念」帳面落差近八位數 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPUjNJcjRTcGNFOFRfZzFwS1pTUVRyMXZzb01yX0stcEhOVUNRbTJrYkp4NEtEODhGWHFUTHhnZ0hhSEd6ZXlHd19IekxndmFtX3EzMmZLemNQWGI5Y21SMjhmdlFhZ3VDdnB6b3h3bldJNk03YTNDc2xnVDRwQUgtTkhpaVMtYWFtWEVVOVNRX3VKOTEwVGFrQjdTTy1HLWx6a0NsdktDVlduN3BWdjlzc0RTOHZndjR6WGN5b2I5RDRuMEZnYS1WVUxzYnFhcmxmcU5yMTJFMTM0Uk1OZzlDbEFzY25PY0tTWjFUczh2RHN3OEYwUU1wcEsydGgxVjE2bzJ0MW9lMDhwSDhDMFdOMERVRUYyTE9ORHVFcGxVZzJVaXZyQmdVZ3dZV3VKLUlNR1JvNU4zdHk4Q1ZfWWRqdlFmdHowRDdSNlZPSGpWcGJNSWdHZUYybHA0ZnQxRDRaLWx3VW1QbE1FS21RTDhrbllNQ0NBN1RkS2ZPQ2hoZkpQQUtsbXNsYk5jV2U?oc=5",
-      "publishedAt": "2026-11-24T15:36:36+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "CES"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳回歸股民喊「凍蒜」！沈春華認「起貪念」帳面落差近八位數 - Yahoo股市 黃仁勳回歸股民喊「凍蒜」！沈春華認「起貪念」帳面落差近八位數 Yahoo股市",
-      "capturedAt": "2026-11-24T19:23:31.302167+00:00"
-    },
-    {
-      "id": "63b81ba4cfce",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Jensen Huang's daughter was on the rise inside Nvidia. Succession may have come too soon. - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR1FnUFpnSFYzM1dJN1lwemhNaFAwMktCWGhYR0wwMFBuVWtzSm1GQlNJTnp6cmxqQ04wOFhnMU1nb0xTYTB6Wm00TlZ4aFpyV0ZVTUNPYko2NXFWNWhKZWlib2lrS2tMd1BobTFQZm9GNWJGNWo5eS1KbjIwTllWeFpUWUJtSzhlZXR0SG9aY1FnU1BFaGxyRWpDcTdHUQ?oc=5",
-      "publishedAt": "2026-11-15T08:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [
-        "CES"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Jensen Huang's daughter was on the rise inside Nvidia. Succession may have come too soon. - Business Insider Jensen Huang's daughter was on the rise inside Nvidia. Succession may have come too",
-      "capturedAt": "2026-11-24T19:23:31.302167+00:00"
-    },
-    {
-      "id": "448983c0ae27",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳在南韓人設全崩！昔炸雞高峰會、 帶老婆上綜藝放閃韓國人真實反應曝光 - 風傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkOHJuRXFjWnlUOFNjVy1pVy1rR0NVeVJyZ2ItUGJaRVFUXzNmblV2NDNOU2hFYVBDWTNORlhsbkJ1V2drZDhiV1EzMWZxNjVU?oc=5",
-      "publishedAt": "2026-11-13T08:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "峰會"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳在南韓人設全崩！昔炸雞高峰會、 帶老婆上綜藝放閃韓國人真實反應曝光 - 風傳媒 黃仁勳在南韓人設全崩！昔炸雞高峰會、 帶老婆上綜藝放閃韓國人真實反應曝光 風傳媒",
-      "capturedAt": "2026-11-24T19:23:31.302167+00:00"
-    },
-    {
-      "id": "38198f1ccc28",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳長女訪韓因家庭因素突喊卡 取消會晤南韓副總理、主持 AI 論壇 - 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CM19ZcEljbGdWbDFUN2Y3M1dqbFRNZ1JSNUo2My1taXZxckE0TmtwVUltdGYydjlTUGFsU1dleWJwTTl1RG1vQWNkb2FTMXNBZUJLd2ZqYnJTUjhJ0gFiQVVfeXFMTkktb29tdEZpZEQtazF3dHl1Ymk1NHA2RDBMSjctZENiMGNOQ0JrY3RYRU1NbFlpa3A1WmFrNkRPMHRwbFk5YjNqcmtvSm44bnI3RzZXU2dRNXpXRUE5Y3dHd0E?oc=5",
-      "publishedAt": "2026-11-09T08:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "論壇",
-        "訪韓"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳長女訪韓因家庭因素突喊卡 取消會晤南韓副總理、主持 AI 論壇 - 經濟日報 黃仁勳長女訪韓因家庭因素突喊卡 取消會晤南韓副總理、主持 AI 論壇 經濟日報",
-      "capturedAt": "2026-11-24T19:23:31.302167+00:00"
-    },
-    {
-      "id": "2f15abe0505a",
-      "status": "low-confidence",
-      "category": "媒體公開行程候選",
-      "confidence": 64,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳之女突然取消訪韓 理由是「家庭因素」 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvVENFVkF3NDI0eFdLbHgtUnVTNWhOMDgxczhfb0RiWF9oamZCakRHci05TTBWSnZkclcxSkZaQmt0clpIcG9Gd2dzUVFVdGM?oc=5",
-      "publishedAt": "2026-11-08T08:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [
-        "訪韓"
-      ],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳之女突然取消訪韓 理由是「家庭因素」 - 鉅亨網 黃仁勳之女突然取消訪韓 理由是「家庭因素」 鉅亨網",
-      "capturedAt": "2026-11-24T19:23:31.302167+00:00"
-    },
-    {
-      "id": "e3319704e09e",
+      "id": "2825717aa0fa",
       "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳回歸暫鬆口氣 三星、SK海力士仍須擺脫NVIDIA依賴？ - DIGITIMES",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XTFYtY1ZIYXU1bFFOZlp0amEyQjhfNDJZbm1Kd0VMSlRHcjFBd2JjdHNiazJ3ckFpZjFJWHZqckhRMW90RDVvdzkxa0ZRQUtUbHJVcGVkd0ZFRTUwZUdES1J6Z0FlVE84TW5R?oc=5",
-      "publishedAt": "2026-11-24T16:30:00+00:00",
-      "detectedDates": [],
+      "category": "官方公開提及",
+      "confidence": 72,
+      "sourceName": "NVIDIA Newsroom",
+      "sourceType": "官方",
+      "title": "NVIDIA CEO: We Have the Most Energy Efficient Architecture in the World",
+      "url": "https://www.cnbc.com/video/2026/03/17/nvidia-ceo-we-have-the-most-energy-efficient-architecture-in-world.html",
+      "publishedAt": null,
+      "detectedDates": [
+        "2026-03-17"
+      ],
       "matchedKeywords": [
-        "黃仁勳"
+        "NVIDIA CEO",
+        "Nvidia CEO"
       ],
       "matchedEventKeywords": [],
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "黃仁勳回歸暫鬆口氣 三星、SK海力士仍須擺脫NVIDIA依賴？ - DIGITIMES 黃仁勳回歸暫鬆口氣 三星、SK海力士仍須擺脫NVIDIA依賴？ DIGITIMES",
-      "capturedAt": "2026-11-24T19:23:31.302167+00:00"
+      "summary": "NVIDIA CEO: We Have the Most Energy Efficient Architecture in the World NVIDIA CEO: We Have the Most Energy Efficient Architecture in the World https://www.cnbc.com/video/2026/03/17/nvidia-c",
+      "capturedAt": "2026-11-25T02:56:46.102856+00:00"
     },
     {
-      "id": "7099bdc10c28",
+      "id": "fed20b1f3112",
       "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳回鍋還不能安心？外媒示警「輝達風暴未歇」：若有變數恐再換CEO - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNMHBWYVZTb3l1ZFU0Yjk3aUVBUzhGVU5mSGR4Q3Zuc3RfeFBiYkw3VERNZUszTFV3cTctamR4em1FaUU0Z3NKbldmRW5WNmk4YnhBRWhTWnpiQmdob05SYmRQZlFBaThScTBTUG9YQ0RVN0FWTTF6eXRZM2JFRlNYOTVYOXM2d0laWEtfN0gtSVN5cW1DRDNNcldsbVZIUGtxTHZrQWNiYnVIN0V6Zm80aUpSa0x6a2ZGXzN5LXRqbW5HbGc5dnNtZk85ZW9PcHR2MHFpV0NCel8yeEdjcGh2ZmxOeHFtUnJ6cEhQRlJocndaUEpGSU1xelZ6V0RTdnlBQzJ5RTV1dG55QkVlTW9DQmJuRC1SdHhpNURmSUxiUWdBQkwwX0Jsbk9aazJJbXVfSUlyMnVXeVRMUy1xb2U4T0gyaFQ0Q1VnOTV3UTZiT1d5UVpwYndxTDFlMXd2N1FWNldDMTMtNzJiRVA1ZzlCTEV6QVJFQWt4eWtnWlVyMmNjalA0TXNZMlhacW9jRmxaTVlQbjNTdk5BV0QzUWY2X0JFT2VnTG8?oc=5",
-      "publishedAt": "2026-11-24T14:20:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳回鍋還不能安心？外媒示警「輝達風暴未歇」：若有變數恐再換CEO - Yahoo股市 黃仁勳回鍋還不能安心？外媒示警「輝達風暴未歇」：若有變數恐再換CEO Yahoo股市",
-      "capturedAt": "2026-11-24T19:23:31.302167+00:00"
-    },
-    {
-      "id": "90124dcae367",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang",
-      "sourceType": "新聞彙整",
-      "title": "Nvidia brought Jensen Huang back. But the investigations aren’t over - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OdXBDM2V4Mm1MN0RIZTZGRG1LdmxuUDNJcHNpamhmZFI5anJLX0JSTmJkbDh4TDdKQXhweUhaeFVHR0V3Ylg0R1FPakp1ZEd4aVlXTEFNOUFwa3VYSHFSaG02dHE0WkVlakxVYlJpRWZvMHpsTmfSAXtBVV95cUxPRlF5Vm1tV0pGTXRYRF9hMVlZZ0phemFNTUZfUTRvaVdTNF82clpMQ1NieGs0MzQ2RGpxdUtHdzhPckhFeTVwNW1PYVlpSlFvMUxJVDB1OFZsNVVVN1ZuQ210SEVWSVJXeW9RVmNxc0NEbk1RdXFGckJXR2M?oc=5",
-      "publishedAt": "2026-11-24T14:09:18+00:00",
+      "category": "官方公開提及",
+      "confidence": 72,
+      "sourceName": "NVIDIA Newsroom",
+      "sourceType": "官方",
+      "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+      "publishedAt": null,
       "detectedDates": [],
       "matchedKeywords": [
         "Jensen Huang"
@@ -180,19 +46,19 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "Nvidia brought Jensen Huang back. But the investigations aren’t over - CNBC Nvidia brought Jensen Huang back. But the investigations aren’t over CNBC",
-      "capturedAt": "2026-11-24T19:23:31.302167+00:00"
+      "summary": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-hu",
+      "capturedAt": "2026-11-25T02:56:46.102856+00:00"
     },
     {
-      "id": "85930f0a8cec",
+      "id": "f43bd1f49e4b",
       "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Jensen Huang told Nvidia board of additional affairs before his reinstatement as CEO, The Wall Street Journal reports - Korea JoongAng Daily",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZmdHT1FLLVFJU0NlLVh4WmdrQi1FSVZSTUF6OTJHclVQV0kzdWxlcXlyMFVzUHpmMmlKY1p1V3ZQRTA2N2Y3ZFlYRzBkaEVqSWg1dHVkS0wzYXdyenl6eWxkQm11VGtucjhwR0Z5X09oSGhlZ3BONTBLVXRjVW5lNnJQTjBieGM2SXdNd0JZaVZZekxKWEdQdUdyLTZaWFdBdmxtbE9LdzVCNThBY2toNkswVldpblVTYWZ2dk83alJPWEtrVVE3RHhTNzA3ZGN0amFVZTNCQ1FBaWtVOGJEWkxHel9lVkpqUVFlXzYwYW1qQjh6QWhXMl9jLVZTZw?oc=5",
-      "publishedAt": "2026-11-24T12:45:01+00:00",
+      "category": "官方公開提及",
+      "confidence": 72,
+      "sourceName": "NVIDIA Newsroom",
+      "sourceType": "官方",
+      "title": "IEEE Medal of Honor Recipient Is NVIDIA's CEO Jensen Huang",
+      "url": "https://spectrum.ieee.org/2026-ieee-medal-of-honor",
+      "publishedAt": null,
       "detectedDates": [],
       "matchedKeywords": [
         "Jensen Huang"
@@ -201,250 +67,19 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "Jensen Huang told Nvidia board of additional affairs before his reinstatement as CEO, The Wall Street Journal reports - Korea JoongAng Daily Jensen Huang told Nvidia board of additional affair",
-      "capturedAt": "2026-11-24T19:23:31.302167+00:00"
+      "summary": "IEEE Medal of Honor Recipient Is NVIDIA's CEO Jensen Huang IEEE Medal of Honor Recipient Is NVIDIA's CEO Jensen Huang https://spectrum.ieee.org/2026-ieee-medal-of-honor",
+      "capturedAt": "2026-11-25T02:56:46.102856+00:00"
     },
     {
-      "id": "395e104258cb",
+      "id": "c703603047de",
       "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳回歸就沒事？輝達調查未完 董事會先背書遭質疑 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zbmVvWTkwbDNveWYtUXhiUWY5RU5Pd2dDVFdfNlJDTHlnSWpfb1JLSVVGLVNMVnlWT0JBeUdhbUlOYldKTzFTemhfZlJQTFE?oc=5",
-      "publishedAt": "2026-11-24T12:40:04+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳回歸就沒事？輝達調查未完 董事會先背書遭質疑 - 鉅亨網 黃仁勳回歸就沒事？輝達調查未完 董事會先背書遭質疑 鉅亨網",
-      "capturedAt": "2026-11-24T19:23:31.302167+00:00"
-    },
-    {
-      "id": "c003800e71f8",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳效應 SK海力士盤中大漲逾11% - Yahoo新聞",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZ1E5d1JKbEpUSHpYTFRCTElKS195bDZzdmpsZjBBNk52VUF3Y0V5UkdUSWgyZUFoNWxRN2FhZktnY01JMGxPUFRVUGRNZEplaHk3MzN4UmlVSWRUZmczOFRxeklaMTF2U2tIcTAzX1NOeDRQSHZwVm5SV3hRSUxEcmVGMDlsYl9zWkxseGIzREYxWnhvYlM4N2lPVkQwZ2xFaW9TVkV0eW5aOEtiOHZOdm9TSC1wZVdMYTdYQXZ6dnBHZnBqR2tQYmdtN2tEaGNIS1VuSjhyWUxsVDk4RjE2R0ZmWXoyTmNCX2R2ZzRKWDhjd2huZ1E?oc=5",
-      "publishedAt": "2026-11-24T11:47:12+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳效應 SK海力士盤中大漲逾11% - Yahoo新聞 黃仁勳效應 SK海力士盤中大漲逾11% Yahoo新聞",
-      "capturedAt": "2026-11-24T19:23:31.302167+00:00"
-    },
-    {
-      "id": "85300f60cb33",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "For workplace culture champions, Jensen Huang's return is 'unfathomable' - NPR",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Ic00yc2J1a1NRMzFEa2NEYVNMVG1Ud2g0M2VkRkp0ZEgwZ2E1Njk4Ni1PZ2IzdzhGUDRlbkZVUEVuaEZJS1k4TmxhMElmTXNQM1V5SkFnTHc1NDZSNkttbjN1eTJYOUE2alUzTGMta2kxYzhHWHhCYTFKb1lMZw?oc=5",
-      "publishedAt": "2026-11-24T10:00:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "For workplace culture champions, Jensen Huang's return is 'unfathomable' - NPR For workplace culture champions, Jensen Huang's return is 'unfathomable' NPR",
-      "capturedAt": "2026-11-24T19:23:31.302167+00:00"
-    },
-    {
-      "id": "912b74722099",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Nvidia’s suppliers, AI startups welcome Jensen Huang’s return as CEO - Automotive News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNlFFdTUwVDF1dnhHSkxjN1Y3R2ZYVzBSU3NBLVJ4RVl2R0c3QXRQQnozcVJIUGJuWV9TLS1hM2VObEdTbmRnSFlvamtzaUVpakltS2MybmVTRGVDZHBTb1BpR2JPa2xnRkFoeVZ4RWNxQXRVSkRibVJsLXZlckV4VlBCOURwRDd3aVI2eFFHMzlrREFWbVpMM2Rn?oc=5",
-      "publishedAt": "2026-11-24T09:51:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Nvidia’s suppliers, AI startups welcome Jensen Huang’s return as CEO - Automotive News Nvidia’s suppliers, AI startups welcome Jensen Huang’s return as CEO Automotive News",
-      "capturedAt": "2026-11-24T19:23:31.302167+00:00"
-    },
-    {
-      "id": "29d7b923982f",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳回歸帶動韓股反彈，業者：AI 投資信心回升 - TechNews 科技新報",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRENkaDZIVF8xaE5va3FTbVEwMlhEUHZuVkt1eUNyM2g2Q3B6MmlLRHZsdGR0TGZFNWdVZXo1SzdHQnEtX2JlVmMwOWk1dUxZYlEyQTFxY1lPR2lYY2p4TFVYNm9IaXBWeThlcUI0TXJnRXNITFdJV0h4WW9DQkJIM0dYSkx4cVJVWUlFMEVkZXBvVDZDN0xURFhVdUlGenc4SGpkZmFxTklLRHBPcW5aUEdPX28?oc=5",
-      "publishedAt": "2026-11-24T09:11:39+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳回歸帶動韓股反彈，業者：AI 投資信心回升 - TechNews 科技新報 黃仁勳回歸帶動韓股反彈，業者：AI 投資信心回升 TechNews 科技新報",
-      "capturedAt": "2026-11-24T19:23:31.302167+00:00"
-    },
-    {
-      "id": "e6de6bd98769",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Asia rescues markets, Trump rescues Jensen Huang - Asia Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcmNYRkMyVDhjWFZRcDAwdVY2aHdGbnMzaWFkYmNlOGt4LVp5QlFpUllBZjZEV2t0Wl9YTDUwMlhPcXhBY3ZBcjdOR2N5LTNLVDFjYTlaUklZMzVTU1hfZVR5TnMtbzdKZHU2SmUwaFlGVmt0ei1JRkwwMVZTUzN0SHpaem4?oc=5",
-      "publishedAt": "2026-11-24T09:10:37+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Asia rescues markets, Trump rescues Jensen Huang - Asia Times Asia rescues markets, Trump rescues Jensen Huang Asia Times",
-      "capturedAt": "2026-11-24T19:23:31.302167+00:00"
-    },
-    {
-      "id": "77adfc6ddc73",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "輝達董事會逆轉內幕曝！ 黃仁勳認了「不只2段婚外情」 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQRTMxdGtMd3pqOHhpMGNoS1J0aWlKUnlQazVGdTB2THJTQ3FqcGpXMVVscF9QYTBETjlxeS1vblVaLVQ4NFlJSzNfdUlIOFNPZE5iQ2ZkUlhPYkExVVJoMzdQYjAwYTdhc2RnRVNKQVhGYUZGNWxMWTA5ZWFVMzc2YWdQcEZXWU5vN19nMWJBYnAtcVFvMGZENWI1THV4NVc3YVk0XzQwdm54d1hmZ3YwWndVdTFTclV3aFB2aVU2M1Z2d1d1RWU1VkxIRlBHUnIzaDBPZ09OX2ZtbWI4djA4aC0zVFNMVkVnVGdVWDRZWVRuUy15R3pLTnVOdDBYQ1pXOTdvcVZoLUtyd2ZDSlhRS09oaktCYTQ1WnpMZk5KcGZ2VjZmaFNNdWlaT0FZQWtwcGRhYzBvZ2VCZHRzZGJsamdFOU5mVlpkdjFGVGZMSTJjREVSMEZwQl9rSQ?oc=5",
-      "publishedAt": "2026-11-24T08:28:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "輝達董事會逆轉內幕曝！ 黃仁勳認了「不只2段婚外情」 - Yahoo股市 輝達董事會逆轉內幕曝！ 黃仁勳認了「不只2段婚外情」 Yahoo股市",
-      "capturedAt": "2026-11-24T19:23:31.302167+00:00"
-    },
-    {
-      "id": "aeb184b9fc6e",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Asian stocks roar back as Jensen Huang's Nvidia return reignites the AI trade - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN2IxYUd4RUpyMlphZEc2NEs2akF4N01LV195aWNBd0F5TEtTWlFHeW9Tb3Raa1UtYUFMeWVlWjRaZXBzUWVUTFo1b0ZWemRNWEZRY2VUTUlTMUpxb3E1YWhINkJFV2pIU2UyN3RPRm90LWVsT19GRHNWZUlqWWJOeHFRcExyRTlFMjFyYTF2WmRkSGFSMnlrYmd3YnJYVjg?oc=5",
-      "publishedAt": "2026-11-24T08:25:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Asian stocks roar back as Jensen Huang's Nvidia return reignites the AI trade - Business Insider Asian stocks roar back as Jensen Huang's Nvidia return reignites the AI trade Business Insider",
-      "capturedAt": "2026-11-24T19:23:31.302167+00:00"
-    },
-    {
-      "id": "31941b3d3311",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳回鍋引爆亞股慶祝行情！台股飆9%韓股漲近7% 台灣被點名最大贏家 - 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HZ01HT3F4dWdMMl9weVRhXzBtdTZrS1hIaHdCQk1sTFJmdWFSS2lkY280RFducWZRdUZGbXJoa1pQeEVvMDZsdW5zVkpKdmM?oc=5",
-      "publishedAt": "2026-11-24T07:30:07+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳回鍋引爆亞股慶祝行情！台股飆9%韓股漲近7% 台灣被點名最大贏家 - 鉅亨網 黃仁勳回鍋引爆亞股慶祝行情！台股飆9%韓股漲近7% 台灣被點名最大贏家 鉅亨網",
-      "capturedAt": "2026-11-24T19:23:31.302167+00:00"
-    },
-    {
-      "id": "f428f3273491",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳 韓國",
-      "sourceType": "新聞彙整",
-      "title": "韓國金融市場：韓股收漲逾6%，黃仁勳回歸Nvidia提振AI概念股 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mUHczSzYzczhPa1F3a1RHT1EwZ0Ruc1dMR2tSbGNkLWtKRnZWM3FMT05FanZIS3JLbFpBTElFUWlnWHV2Z1FKdjZCbW5fWFMyMlJDenJSdGNXUy1GTXRlT004ZWQzeUhfNHhKYmI4NTVlVHlqU3k4?oc=5",
-      "publishedAt": "2026-11-24T07:25:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "韓國金融市場：韓股收漲逾6%，黃仁勳回歸Nvidia提振AI概念股 - TradingView 韓國金融市場：韓股收漲逾6%，黃仁勳回歸Nvidia提振AI概念股 TradingView",
-      "capturedAt": "2026-11-24T19:23:31.302167+00:00"
-    },
-    {
-      "id": "ff7a0f89c7f1",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "黃仁勳「第1天上班」突被女員工抱住！真實反應曝光 網嚇喊：真的小心一點 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQSjRQalVzeVhJUEp3QklWa1RQTzl1RG5zSDVjWDdVTndBYWg1SVYzdjg5QVI5WmwxQjVLSmkzRndlQllLaDlOQnRabF9LRmdON0tpN185enh6NnlhZ281R2szclJiZXI0SmF2S2duN1FUVnl3UkxKaHREa3ByQ0E3WEhucFMyaWFZNFZTRGdBVG9RbmJJYXVQOEpBZ3UtWU1aMVVUV3NXblFnVmtfQkx1aElUOWx6ZEpPbWNJNVJqd0k3MDA5WVB6elhPTDZfSDdvYUQzODUySk9CcUxaU3M1ZTlGdWJ1XzdMMW9iUmZITG1pOHhXS0s3TGlaVmZHUGt4RjdfaXR3bGV2Zk5td3hyV1FZOW9ZaEdxSHRxNGtkMVdvSHFlVl9nWkROYVpwMldua2w1WFdyYXN0c0RvNVJtcld3QWVXbXlEWEhiQWpISWpMczBURFpxZTNSMl9Ea0IwSE1uYkNHQmRULVVtVnMxRGVfS2Z3UQ?oc=5",
-      "publishedAt": "2026-11-24T07:18:45+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "黃仁勳「第1天上班」突被女員工抱住！真實反應曝光 網嚇喊：真的小心一點 - Yahoo股市 黃仁勳「第1天上班」突被女員工抱住！真實反應曝光 網嚇喊：真的小心一點 Yahoo股市",
-      "capturedAt": "2026-11-24T19:23:31.302167+00:00"
-    },
-    {
-      "id": "6e6c73c8c2bd",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "TSMC gains $158 billion in value in one day as Jensen Huang returns as Nvidia CEO - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRDJKT0N0SGk5NTdyMW1wSWRScEtaRHlSenZuZUl2UTV1bklXMlkyUkhXRi1PbExqV0R1RDNWT21zZkk5WVk4OWk5ZW1MTXVRTTduMkFFOXd5WGhMY2lLNGctTlJUNlRFVGctc3laREtOQi05X05Lb3VCTlRINnkzc081RFRIUGRQSDhnNkVzbk9vMGVLNzQtakJxVUc2MjFYMEtQMzFoZVd5UTFNUWFkMFVR?oc=5",
-      "publishedAt": "2026-11-24T07:05:00+00:00",
+      "category": "官方公開提及",
+      "confidence": 72,
+      "sourceName": "NVIDIA Newsroom",
+      "sourceType": "官方",
+      "title": "An Interview with NVIDIA CEO Jensen Huang About Accelerated Computing",
+      "url": "https://stratechery.com/2026/an-interview-with-nvidia-ceo-jensen-huang-about-accelerated-computing/",
+      "publishedAt": null,
       "detectedDates": [],
       "matchedKeywords": [
         "Jensen Huang",
@@ -455,22 +90,21 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "TSMC gains $158 billion in value in one day as Jensen Huang returns as Nvidia CEO - Fortune TSMC gains $158 billion in value in one day as Jensen Huang returns as Nvidia CEO Fortune",
-      "capturedAt": "2026-11-24T19:23:31.302167+00:00"
+      "summary": "An Interview with NVIDIA CEO Jensen Huang About Accelerated Computing An Interview with NVIDIA CEO Jensen Huang About Accelerated Computing https://stratechery.com/2026/an-interview-with-nvidia-ceo-jensen-huang-about-acce",
+      "capturedAt": "2026-11-25T02:56:46.102856+00:00"
     },
     {
-      "id": "f3d415a536ed",
+      "id": "16341400b63f",
       "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "TSMC, Samsung, SK Hynix Rally As Jensen Huang Returns As Nvidia CEO — Top Analyst Flags Risks To AI Recovery - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWEhDdVZ3YlNOcXBQRnBpTmp2SG43ZW9qZU1faEN2NHpBSzYzT1JxWVJJN3pUMXd3U1VQQ0kzeG0tRTh4SlpLa0w5eTU2bW1HdU5vX09GWngtX2FCMzJzT2pJTU1QSmN0enB4bWFFOVZYa3EybV82REg3UkJsLTdlN0pIRFVBdWgzSnFueDVTSVRqQlViUkdZUWlDLUJ6SFFpSmRhVC1pdGtFWTFYd1NWYWIwYmJrSDFkM0ItNllJU1VBX3FjYU1mMFNpb1J1bjl3QlJUdTF6LUI2aWtVbTdHb2EzUkJLWlM5ZU44bDJ0QnJuNEVQRW5jYQ?oc=5",
-      "publishedAt": "2026-11-24T07:00:00+00:00",
+      "category": "官方公開提及",
+      "confidence": 72,
+      "sourceName": "NVIDIA Blog",
+      "sourceType": "官方",
+      "title": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs",
+      "url": "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/",
+      "publishedAt": null,
       "detectedDates": [],
       "matchedKeywords": [
-        "Jensen Huang",
         "NVIDIA CEO",
         "Nvidia CEO"
       ],
@@ -478,53 +112,35 @@
       "privacyReviewFlags": [],
       "blockedPrivacyFlags": [],
       "publicContextFlags": [],
-      "summary": "TSMC, Samsung, SK Hynix Rally As Jensen Huang Returns As Nvidia CEO — Top Analyst Flags Risks To AI Recovery - TradingView TSMC, Samsung, SK Hynix Rally As Jensen Huang Returns As Nvidia CEO — Top Analyst Flags Risks To AI Re",
-      "capturedAt": "2026-11-24T19:23:31.302167+00:00"
-    },
-    {
-      "id": "2bc26b4c6413",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: 黃仁勳",
-      "sourceType": "新聞彙整",
-      "title": "利空出盡能抄底了？黃仁勳重返輝達下一頁 郭明錤點破「3大未爆彈」 - Yahoo股市",
-      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNNkVXOUE2MlVGS19FdkNpdVVBclFnejUwemxEVkFpTkhaUWJkWWN4N25YMjI4cFgtWXpId3V4NkNpazFzTjBUalh2MU5XRFlUZjJ5RUhoWFhYNW9SblVfRTRDdnhNU1B2alhoNHJCUm9fV3dKYzNaR2lyemgyOVdUTUNjeWZsYlJ1SFh0aWxjTE53eE41bnNmay1EV3lNaUxSZ3Fabi1TQkNXWHBwOW9jWGR1UXY2MTRrc1BSRHk5VUtlX2VpV3F3ZmhZdnBGM2JFTWM2YmFGUkgxcXlvTl82RklJa3hPTFJzU0ttR285enQwSjRmbU1PMlNDZUI0X3lkU1hNUUNZQWRkTGljekpDRlF5MGl2ejZ4bHFWd3IxOHhvWEcxeDFpMnlSQWl1VkdzMjNvUXZfVUtoZkdFMVhBcmNsZS1hSG9EYUtDSWhmcmVnTHRubXhHZ3lSUW9ZVjBNTmdQSzVnMm1pNUR2MlJqTUtCLXdnZXpTeWpzbW04ZVhOd29NSzZabWNuM2l2RDNJYS1QTUdiSUJ4QQ?oc=5",
-      "publishedAt": "2026-11-24T06:53:00+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "黃仁勳"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "利空出盡能抄底了？黃仁勳重返輝達下一頁 郭明錤點破「3大未爆彈」 - Yahoo股市 利空出盡能抄底了？黃仁勳重返輝達下一頁 郭明錤點破「3大未爆彈」 Yahoo股市",
-      "capturedAt": "2026-11-24T19:23:31.302167+00:00"
-    },
-    {
-      "id": "4ed8812ef0f8",
-      "status": "source-only",
-      "category": "公開提及",
-      "confidence": 48,
-      "sourceName": "Google News: Jensen Huang Korea",
-      "sourceType": "新聞彙整",
-      "title": "Jensen Huang’s return eases HBM uncertainty for Samsung, SK hynix - The Korea Herald",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50ZFg3eUxkVXdSMDZVMmJib0xfZlFTdFdaa0x6YjhxMmxfV3doUnYtTEM4QkJETXN3QUNUQmswbjYzbkhTeWNSNV9LbldVSlpQWTdjNnNtbw?oc=5",
-      "publishedAt": "2026-11-24T06:24:17+00:00",
-      "detectedDates": [],
-      "matchedKeywords": [
-        "Jensen Huang"
-      ],
-      "matchedEventKeywords": [],
-      "privacyReviewFlags": [],
-      "blockedPrivacyFlags": [],
-      "publicContextFlags": [],
-      "summary": "Jensen Huang’s return eases HBM uncertainty for Samsung, SK hynix - The Korea Herald Jensen Huang’s return eases HBM uncertainty for Samsung, SK hynix The Korea Herald",
-      "capturedAt": "2026-11-24T19:23:31.302167+00:00"
+      "summary": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/",
+      "capturedAt": "2026-11-25T02:56:46.102856+00:00"
     }
   ],
   "errors": [
+    {
+      "sourceName": "Google News: 黃仁勳",
+      "sourceType": "新聞彙整",
+      "url": "https://news.google.com/rss/search?q=%E9%BB%83%E4%BB%81%E5%8B%B3%20when%3A30d&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "sourceName": "Google News: Jensen Huang",
+      "sourceType": "新聞彙整",
+      "url": "https://news.google.com/rss/search?q=%22Jensen%20Huang%22%20NVIDIA%20when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "sourceName": "Google News: Jensen Huang Korea",
+      "sourceType": "新聞彙整",
+      "url": "https://news.google.com/rss/search?q=%22Jensen%20Huang%22%20%28Korea%20OR%20Seoul%20OR%20Samsung%20OR%20Hyundai%20OR%20LG%20OR%20%22SK%20Hynix%22%29%20when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "sourceName": "Google News: 黃仁勳 韓國",
+      "sourceType": "新聞彙整",
+      "url": "https://news.google.com/rss/search?q=%E9%BB%83%E4%BB%81%E5%8B%B3%20%28%E9%9F%93%E5%9C%8B%20OR%20%E5%8D%97%E9%9F%93%20OR%20%E9%A6%96%E7%88%BE%20OR%20%E4%B8%89%E6%98%9F%20OR%20%E7%8F%BE%E4%BB%A3%20OR%20LG%20OR%20%E6%B5%B7%E5%8A%9B%E5%A3%AB%29%20when%3A30d&hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
     {
       "sourceName": "COMPUTEX",
       "sourceType": "主辦方",
